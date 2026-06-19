@@ -1,6 +1,188 @@
 {
-  "lastRefreshed": "2026-06-19T19:20:03.299Z",
+  "lastRefreshed": "2026-06-19T21:53:57.320Z",
   "articles": [
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.com/news/articles/cn8kz80n157o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump unveils Qatari luxury jet for Air Force One fleet",
+      "date": "2026-06-19T21:36:03.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/double-endorsement-drama-trump-backs-second-candidate-red-states-gop-gubernatorial-runoff",
+      "title": "Double endorsement drama: Trump backs second candidate in red state’s GOP gubernatorial runoff",
+      "date": "2026-06-19T21:35:40.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/justice/4616766/appeals-court-bars-california-hiding-student-gender-transitions-parents/",
+      "title": "Appeals court bars California from hiding student gender transitions from parents",
+      "date": "2026-06-19T21:32:15.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/2026/jun/19/usa-australia-world-cup-2026-group-d-match-report",
+      "title": "USA surge into World Cup knockout stage after dominant victory over Socceroos",
+      "date": "2026-06-19T21:25:50.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5932337-lincoln-memorial-reflecting-pool-algae/",
+      "title": "Trump's Lincoln Memorial Reflecting Pool work comes under scrutiny: 4 things to know",
+      "date": "2026-06-19T21:23:18.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/schiff-silent-biden-era-newsom-probe-report-california-ag-claims-doj-weaponization",
+      "title": "Schiff silent on Biden-era Newsom probe report as California AG claims DOJ 'weaponization'",
+      "date": "2026-06-19T21:21:02.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/19/g-s1-129137/james-burrows-death-obit-cheers-friends",
+      "title": "James Burrows, director of classic shows 'Cheers' and 'Friends,' dies at 85",
+      "date": "2026-06-19T21:16:15.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4617090/trump-new-air-force-one-dc-flyover-july-4/",
+      "title": "Trump reveals new Air Force One will fly over DC on July 4",
+      "date": "2026-06-19T21:15:06.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/transgender-former-new-hampshire-state-representative-sentenced-33-years-child-sex-abuse",
+      "title": "Transgender former New Hampshire state representative sentenced to 33 years for child sex abuse: report",
+      "date": "2026-06-19T21:09:50.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-unveils-new-air-force-one-plane-gifted-by-qatar-at-joint-base-andrews",
+      "title": "WATCH: Trump unveils new Air Force One plane gifted by Qatar at Joint Base Andrews",
+      "date": "2026-06-19T21:09:03.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/international/5932306-strait-hormuz-iran-oil-trade/",
+      "title": "Strait of Hormuz feels tense and uncertain as peace deal takes hold",
+      "date": "2026-06-19T21:07:36.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5864503/air-force-one-trump-qatar",
+      "title": "Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews",
+      "date": "2026-06-19T21:01:21.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/5932296-doj-snubs-judge-weaponization-fund/",
+      "title": "DOJ snubs judge's demand on anti-weaponization fund, cites 'serious separation of powers concerns'",
+      "date": "2026-06-19T21:00:34.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/justice/4616938/doj-not-sign-declaration-anti-weaponization-fund/",
+      "title": "DOJ won’t sign declaration over canceled anti-weaponization fund: ‘Demands are unnecessary’",
+      "date": "2026-06-19T20:59:20.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/new-air-force-one-takes-flight-trump-unveils-revamped-presidential-aircraft",
+      "title": "New Air Force One takes flight as Trump unveils revamped presidential aircraft",
+      "date": "2026-06-19T20:55:23.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/justice/4617021/judge-allow-doj-release-biden-audio-heritage-foundation/",
+      "title": "Judge allows DOJ to release Biden interview audio to Heritage Foundation",
+      "date": "2026-06-19T20:47:55.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/newsletters/health-care/5932293-air-force-base-hit-with-flu-outbreak-sickening-over-160/",
+      "title": "Air Force base hit with flu outbreak sickening over 160",
+      "date": "2026-06-19T20:44:43.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/judge-rejects-bidens-attempt-to-halt-release-of-special-counsel-inquiry-transcripts",
+      "title": "Judge rejects Biden's attempt to halt release of special counsel inquiry transcripts",
+      "date": "2026-06-19T20:38:41.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/biden-recordings-release-bid-fails",
+      "title": "Biden’s bid to block release of recordings made with ghostwriter fails",
+      "date": "2026-06-19T20:32:39.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg",
+      "title": "Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her",
+      "date": "2026-06-19T20:32:35.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5932262-trump-air-force-one-qatar-boeing-jet/",
+      "title": "Trump unveils new plane for Air Force One, a gift from Qatar",
+      "date": "2026-06-19T20:26:32.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/political-stunt-prosecution-ice-agent-road-rage-provokes-heated-dhs-response",
+      "title": "'Political stunt' prosecution of ICE agent for 'road rage' provokes heated DHS response",
+      "date": "2026-06-19T20:09:16.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/trump-musk-carlson-iran-war",
+      "title": "Trump assured Musk and Carlson he wouldn’t go to war with Iran, new book claims",
+      "date": "2026-06-19T20:09:10.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/justice/4616858/florida-subpoena-mlb-selectively-enforce-rule-christian/",
+      "title": "Florida subpoenas MLB for ‘selectively enforcing’ uniform rules to reprimand Christian pitchers",
+      "date": "2026-06-19T20:00:34.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4616802/democrats-fear-maine-swing-district-off-board-matt-dunlap-victory/",
+      "title": "Democrats fear Maine swing district ‘off the board’ after Matt Dunlap victory",
+      "date": "2026-06-19T19:29:29.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4616759/minneapolis-residents-businesses-paying-price-black-lives-matter-riots/",
+      "title": "Minneapolis residents are still paying the price for the Black Lives Matter riots",
+      "date": "2026-06-19T19:27:42.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
@@ -19,7 +201,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/football/live/2026/jun/19/usa-v-australia-world-cup-2026-live",
-      "title": "USA v Australia: World Cup 2026 – live",
+      "title": "USA 2-0 Australia: World Cup 2026 – as it happened",
       "date": "2026-06-19T19:10:16.000Z"
     },
     {
@@ -44,10 +226,17 @@
       "date": "2026-06-19T19:00:56.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.com/news/articles/ce8j1j3rkv8o?at_medium=RSS&at_campaign=rss",
+      "title": "Thumping win cements Canada's place as a 'soccer nation'",
+      "date": "2026-06-19T18:58:08.000Z"
+    },
+    {
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/homenews/administration/5930964-live-updates-donald-trump-iran-juneteenth/",
-      "title": "Live updates: Trump leaves for Camp David weekend, defending Iran deal as 'very popular'",
+      "title": "Live updates: Trump reveals Qatar plane now refurbished to serve as Air Force One",
       "date": "2026-06-19T18:53:10.000Z"
     },
     {
@@ -583,6 +772,13 @@
       "date": "2026-06-19T09:00:00.000Z"
     },
     {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5862645/how-the-1874-freedmans-bank-collapse-connects-to-economic-disparities-we-see-today",
+      "title": "How the 1874 Freedman's Bank collapse connects to economic disparities we see today",
+      "date": "2026-06-19T09:00:00.000Z"
+    },
+    {
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
@@ -700,90 +896,6 @@
       "url": "https://www.foxnews.com/politics/new-poll-reveals-americans-see-two-paths-iran-and-support-both-almost-equally",
       "title": "New poll reveals Americans see two paths on Iran — and support both almost equally",
       "date": "2026-06-18T22:00:01.000Z"
-    },
-    {
-      "outlet": "The Christian Science Monitor",
-      "lean": "center",
-      "url": "https://www.csmonitor.com/USA/Justice/2026/0618/supreme-court-guns-marijuana-history-test?icid=rss",
-      "title": "Supreme Court’s ‘history’ test finds a marijuana user can own a gun",
-      "date": "2026-06-18T21:39:28.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/videos/cn94jyw77z3o?at_medium=RSS&at_campaign=rss",
-      "title": "'There will be no kings' - Obama speaks at presidential centre opening",
-      "date": "2026-06-18T21:25:07.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/mamdani-tests-his-political-clout-in-new-yorks-primary-as-he-looks-to-reshape-the-democratic-party",
-      "title": "Mamdani tests his political clout in New York's primary as he looks to reshape the Democratic Party",
-      "date": "2026-06-18T21:17:10.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/obama-knocks-founders-presidential-center-debut-before-americas-250th-fell-terribly-short",
-      "title": "Obama knocks Founders at presidential center debut before America’s 250th: ‘Fell terribly short’",
-      "date": "2026-06-18T20:49:26.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/articles/cx24j89rgnxo?at_medium=RSS&at_campaign=rss",
-      "title": "'City united after so long': New Yorkers rejoice in Knicks' championship parade",
-      "date": "2026-06-18T20:32:33.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/janeese-lewis-george-wins-the-democratic-primary-for-mayor-of-washington-d-c",
-      "title": "Janeese Lewis George wins the Democratic primary for mayor of Washington, D.C.",
-      "date": "2026-06-18T20:11:05.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "title": "What Iran and US get from deal and why both could struggle to keep it",
-      "date": "2026-06-18T20:04:40.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/planned-parenthood-offered-hormones-had-no-answers-when-detransitioner-sought-help-undercover-probe-finds",
-      "title": "Planned Parenthood offered hormones but had no answers when detransitioner sought help, undercover probe finds",
-      "date": "2026-06-18T20:00:03.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/articles/c39yn3r32yko?at_medium=RSS&at_campaign=rss",
-      "title": "An ultra-rare Star Wars Lego collection went missing - it's sparked viral conspiracies",
-      "date": "2026-06-18T19:53:41.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/videos/cz9lyy93engo?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: 'New York is alive again' - Knicks parade through Manhattan after NBA win",
-      "date": "2026-06-18T19:47:49.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/arizona-prosecutors-dismissing-fake-elector-case-but-vow-to-seek-new-indictment",
-      "title": "Arizona prosecutors dismissing fake elector case but vow to seek new indictment",
-      "date": "2026-06-18T19:38:11.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/world/u-s-lifts-blockade-of-iran-and-iranian-supreme-leader-endorses-direct-talks-with-american-officials",
-      "title": "U.S. lifts blockade of Iran and Iranian supreme leader endorses direct talks with American officials",
-      "date": "2026-06-18T19:20:57.000Z"
     }
   ]
 }
