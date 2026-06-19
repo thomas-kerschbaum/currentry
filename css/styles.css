@@ -526,14 +526,15 @@ a.hint {
   gap: 24px;
   align-items: start;
 }
-/* Left half: sticky, split into two equal stacked quarters. */
+/* Left half: a single sticky box holding the chronological story feed. */
 .news-left {
   position: sticky;
   top: 84px;
   height: calc(100vh - 120px);
-  display: grid;
-  grid-template-rows: 1fr 1fr;
-  gap: 18px;
+  display: flex;
+}
+.news-left .news-pane {
+  flex: 1;
 }
 .news-pane {
   display: flex;
@@ -630,6 +631,12 @@ a.hint {
 .newslink-outlet {
   font-size: 12px;
   color: var(--ink-faint);
+}
+.newslink-time {
+  margin-left: auto;
+  font-size: 11px;
+  color: var(--ink-faint);
+  white-space: nowrap;
 }
 .newslink-title {
   font-size: 14px;

@@ -94,19 +94,15 @@ if (existsSync(newsPath)) {
 }
 
 function validateFeed(feed, label) {
-  if (!feed || !Array.isArray(feed.trending)) {
-    err(`${label}: missing trending array`);
+  if (!feed || !Array.isArray(feed.articles)) {
+    err(`${label}: missing articles array`);
     return;
   }
-  feed.trending.forEach((st, i) => {
-    if (!st.headline) err(`${label}: story #${i + 1} missing headline`);
-    for (const a of st.areas || [])
-      if (!areaIds.has(a)) err(`${label}: story "${st.id || i}" unknown area "${a}"`);
-    for (const l of st.links || []) {
-      if (!l.url) err(`${label}: a link in "${st.id || i}" is missing a url`);
-      if (l.lean && !leanIds.has(l.lean))
-        err(`${label}: a link in "${st.id || i}" has unknown lean "${l.lean}"`);
-    }
+  feed.articles.forEach((a, i) => {
+    if (!a.title) err(`${label}: article #${i + 1} missing title`);
+    if (!a.url) err(`${label}: article #${i + 1} missing url`);
+    if (a.lean && !leanIds.has(a.lean))
+      err(`${label}: article #${i + 1} has unknown lean "${a.lean}"`);
   });
 }
 

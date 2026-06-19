@@ -971,88 +971,22 @@ const GUIDES = [
  *    when the page is opened directly from disk (file://), where browsers
  *    block fetch of local JSON. Keep it as a sane mirror of news.json.
  *
- *    Each trending story carries `links` to specific articles spanning the
- *    viewpoint spectrum; the News page shows the stories in the top-left
- *    pane and flattens all `links` into the scrollable bottom-left pane.
+ *    Shape: a flat `articles` list (newest first), each with outlet, lean,
+ *    url, title, and date. The News page renders them as a single scrolling
+ *    column of headlines linking straight to the stories.
  * -------------------------------------------------------------------- */
 const NEWS_FEED = {
-  lastRefreshed: "2026-06-19",
-  trending: [
-    {
-      id: "t1",
-      headline: "Congress weighs a federal framework for AI oversight",
-      areas: ["sci-tech", "justice"],
-      summary:
-        "Lawmakers floated competing bills to regulate high-risk AI, splitting over how much authority a new federal office should hold.",
-      links: [
-        { outlet: "Reuters", lean: "center", url: "https://www.reuters.com",
-          title: "Senate panel advances bipartisan AI safety measure" },
-        { outlet: "The New York Times", lean: "lean-left", url: "https://www.nytimes.com",
-          title: "What the proposed AI rules would — and wouldn't — do" },
-        { outlet: "Fox News", lean: "lean-right", url: "https://www.foxnews.com",
-          title: "Critics warn AI mandates could hamstring U.S. firms" },
-      ],
-    },
-    {
-      id: "t2",
-      headline: "Clean-energy permitting deal advances in the Senate",
-      areas: ["environmental", "economic"],
-      summary:
-        "A bipartisan compromise to speed approvals for energy projects cleared committee, drawing both praise and objections from advocates.",
-      links: [
-        { outlet: "Associated Press", lean: "center", url: "https://apnews.com",
-          title: "Permitting overhaul clears key Senate committee" },
-        { outlet: "Politico", lean: "lean-left", url: "https://www.politico.com",
-          title: "Inside the horse-trading behind the permitting deal" },
-        { outlet: "The Wall Street Journal", lean: "center", url: "https://www.wsj.com/news",
-          title: "Energy developers cheer faster project timelines" },
-      ],
-    },
-    {
-      id: "t3",
-      headline: "New data shows inflation cooling as the Fed holds rates",
-      areas: ["economic"],
-      summary:
-        "The latest CPI release came in below forecasts, easing pressure on the central bank as it left interest rates unchanged.",
-      links: [
-        { outlet: "Bloomberg", lean: "center", url: "https://www.bloomberg.com",
-          title: "CPI undershoots estimates; Fed stands pat" },
-        { outlet: "The Washington Post", lean: "lean-left", url: "https://www.washingtonpost.com",
-          title: "What cooling inflation means for household budgets" },
-        { outlet: "RealClearPolitics", lean: "lean-right", url: "https://www.realclearpolitics.com",
-          title: "Analysts debate whether relief will last" },
-      ],
-    },
-    {
-      id: "t4",
-      headline: "Supreme Court term opens with a major immigration case",
-      areas: ["justice", "social"],
-      summary:
-        "The justices agreed to hear a dispute over executive authority at the border that could reshape federal immigration enforcement.",
-      links: [
-        { outlet: "NPR", lean: "lean-left", url: "https://www.npr.org",
-          title: "The stakes in this term's biggest immigration case" },
-        { outlet: "Associated Press", lean: "center", url: "https://apnews.com",
-          title: "Court to weigh limits on border enforcement powers" },
-        { outlet: "The Washington Times", lean: "right", url: "https://www.washingtontimes.com",
-          title: "Conservatives see a chance to expand executive authority" },
-      ],
-    },
-    {
-      id: "t5",
-      headline: "Pentagon budget request sparks debate over priorities",
-      areas: ["security", "economic"],
-      summary:
-        "The proposed defense budget shifts money toward shipbuilding and cyber, prompting disagreement over readiness and cost.",
-      links: [
-        { outlet: "Reuters", lean: "center", url: "https://www.reuters.com",
-          title: "Defense request tilts toward navy and cyber" },
-        { outlet: "The Hill", lean: "center", url: "https://thehill.com",
-          title: "Appropriators signal a tough markup ahead" },
-        { outlet: "Washington Examiner", lean: "lean-right", url: "https://www.washingtonexaminer.com",
-          title: "Hawks say the request still falls short" },
-      ],
-    },
+  lastRefreshed: "2026-06-19T13:00:00Z",
+  articles: [
+    { outlet: "NPR", lean: "lean-left", url: "https://www.npr.org",
+      title: "Sample headline — live stories load from data/news.json",
+      date: "2026-06-19T12:30:00Z" },
+    { outlet: "BBC News", lean: "center", url: "https://www.bbc.com/news",
+      title: "Sample headline — open the site over http(s) for the live feed",
+      date: "2026-06-19T11:50:00Z" },
+    { outlet: "Fox News", lean: "lean-right", url: "https://www.foxnews.com",
+      title: "Sample headline — this offline list is only a fallback",
+      date: "2026-06-19T10:05:00Z" },
   ],
 };
 

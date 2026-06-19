@@ -65,6 +65,18 @@
     });
   }
 
+  // Short relative time for article rows, e.g. "just now", "3h ago", "1d ago".
+  function fmtAgo(iso) {
+    const t = Date.parse(iso);
+    if (isNaN(t)) return "";
+    const mins = Math.max(0, Math.round((Date.now() - t) / 60000));
+    if (mins < 1) return "just now";
+    if (mins < 60) return mins + "m ago";
+    const hrs = Math.round(mins / 60);
+    if (hrs < 24) return hrs + "h ago";
+    return Math.round(hrs / 24) + "d ago";
+  }
+
   // Collapse the 7 leans into 4 filter buckets for the chips.
   function leanGroup(leanId) {
     if (leanId === "left" || leanId === "lean-left") return "left";
@@ -515,7 +527,7 @@
    * newsData starts as the offline fallback baked into data.js, then the
    * app fetches the live file and re-renders. While the News page is open a
    * poll timer refetches and updates the view when the feed has changed. */
-  let newsData = NEWS_FEED || { trending: [] };
+  let newsData = NEWS_FEED || { articles: [] };
   let newsPollTimer = null;
   const NEWS_POLL_MS = 5 * 60 * 1000; // 5 minutes
 
@@ -567,44 +579,32 @@
   function renderNews() {
     const t = byId(CONTENT_TYPES, "news");
     const sources = SOURCES.filter((s) => s.type === "news");
-    const feed = newsData || { trending: [] };
-    const trending = feed.trending || [];
+    const feed = newsData || { articles: [] };
 
-    const trendingHtml = trending.length
-      ? trending
-          .map(
-            (st) => `
-        <article class="trend">
-          <div class="trend-areas">${(st.areas || [])
-            .map((a) => `<span class="tag">${esc(areaLabel(a))}</span>`)
-            .join(" ")}</div>
-          <h3>${esc(st.headline)}</h3>
-          <p>${esc(st.summary)}</p>
-        </article>`
-          )
-          .join("")
-      : `<div class="empty">No trending stories yet — they'll appear after the next refresh.</div>`;
+    // Every article pulled from the feeds, newest first.
+    const articles = (feed.articles || [])
+      .slice()
+      .sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
 
-    const links = trending.reduce(
-      (acc, st) => acc.concat(st.links || []),
-      []
-    );
-    const linksHtml = links.length
-      ? links
+    const articlesHtml = articles.length
+      ? articles
           .map(
-            (l) => `
-        <a class="newslink" href="${esc(l.url)}" target="_blank" rel="noopener">
-          <span class="newslink-top">${leanBadge(l.lean)}<span class="newslink-outlet">${esc(
-              l.outlet
-            )}</span></span>
-          <span class="newslink-title">${esc(l.title)}</span>
+            (a) => `
+        <a class="newslink" href="${esc(a.url)}" target="_blank" rel="noopener">
+          <span class="newslink-top">${leanBadge(a.lean)}<span class="newslink-outlet">${esc(
+              a.outlet
+            )}</span><span class="newslink-time">${esc(fmtAgo(a.date))}</span></span>
+          <span class="newslink-title">${esc(a.title)}</span>
         </a>`
           )
           .join("")
-      : `<div class="empty">No links yet.</div>`;
+      : `<div class="empty">No stories yet — they'll appear after the next refresh.</div>`;
 
     const refreshed = feed.lastRefreshed
       ? `Updated ${fmtWhen(feed.lastRefreshed)}`
+      : "";
+    const count = articles.length
+      ? `${articles.length} stor${articles.length === 1 ? "y" : "ies"} · `
       : "";
 
     app.innerHTML = `
@@ -616,20 +616,11 @@
         <div class="news-left">
           <section class="news-pane">
             <div class="pane-head">
-              <h2>Trending now</h2>
-              <span class="pane-sub">${esc(refreshed)}</span>
-            </div>
-            <div class="pane-body">${trendingHtml}</div>
-          </section>
-          <section class="news-pane">
-            <div class="pane-head">
-              <h2>Story links</h2>
-              <span class="pane-sub">${links.length} article${
-      links.length === 1 ? "" : "s"
-    }</span>
+              <h2>Latest stories</h2>
+              <span class="pane-sub">${count}${esc(refreshed)}</span>
             </div>
             <div class="pane-body">
-              <div class="newslink-list">${linksHtml}</div>
+              <div class="newslink-list">${articlesHtml}</div>
             </div>
           </section>
         </div>

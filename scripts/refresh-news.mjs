@@ -6,13 +6,15 @@
  * RSS/Atom parser, so CI needs no `npm install`.
  *
  * What it does:
- *   1. Fetches each feed in FEEDS (failures are skipped, never fatal).
- *   2. Clusters recent headlines that appear across 2+ outlets — a rough but
- *      honest "trending" signal (a story multiple outlets cover at once).
- *   3. Writes the top clusters to data/news.json in the shape the app reads,
- *      with one link per outlet, spanning the viewpoint spectrum.
+ *   1. Fetches every feed in FEEDS (failures are skipped, never fatal).
+ *   2. Merges the results with the articles already in data/news.json, deduped
+ *      by URL — so stories persist across runs (a rolling MEMORY_HOURS window).
+ *   3. Drops anything older than MEMORY_HOURS and writes a flat list, newest
+ *      first, in the shape the News page reads.
  *
- * Tune the knobs below. NOTE: feed URLs drift — review FEEDS periodically.
+ * No clustering or summaries: the News page lists each article's own headline
+ * linking straight to the story. Tune the knobs below. NOTE: feed URLs drift —
+ * the feed list is derived from js/data.js (sources with an `rss` field).
  */
 
 import { writeFileSync, mkdirSync, readFileSync, existsSync } from "node:fs";
@@ -24,11 +26,9 @@ const OUT = join(__dirname, "..", "data", "news.json");
 const DATA_JS = join(__dirname, "..", "js", "data.js");
 
 /* ---- knobs ---- */
-const MAX_STORIES = 6; // trending clusters to publish
-const MAX_PER_FEED = 25; // recent items to read per feed
-const RECENT_DAYS = 4; // ignore items older than this
-const MIN_OUTLETS = 2; // a cluster is "trending" if this many outlets cover it
-const MIN_STORIES_TO_WRITE = 3; // refuse to overwrite a good file with junk
+const MEMORY_HOURS = 24; // how long a story stays before it ages off
+const MAX_PER_FEED = 40; // items to read per feed each run
+const MAX_ARTICLES = 400; // hard cap on the stored list
 const FETCH_TIMEOUT_MS = 15000;
 
 /* ---- feeds: derived from js/data.js (single source of truth) ----
@@ -48,26 +48,6 @@ function loadFeeds() {
 }
 const FEEDS = loadFeeds();
 
-/* ---- light keyword -> policy area mapping (for the area tags) ---- */
-const AREA_KEYWORDS = {
-  social: ["immigration", "immigrant", "housing", "welfare", "labor", "union", "poverty", "wages"],
-  environmental: ["climate", "energy", "emissions", "oil", "gas", "environmental", "epa", "renewable"],
-  international: ["ukraine", "russia", "china", "israel", "gaza", "nato", "foreign", "trade", "tariff", "diplomatic"],
-  "sci-tech": ["ai", "artificial", "tech", "technology", "data", "cyber", "chip", "semiconductor", "space"],
-  economic: ["inflation", "economy", "fed", "rates", "budget", "deficit", "jobs", "market", "tax", "tariff"],
-  health: ["health", "medicare", "medicaid", "fda", "cdc", "drug", "hospital", "abortion", "covid"],
-  education: ["school", "student", "education", "college", "university", "teachers"],
-  justice: ["court", "supreme", "justice", "lawsuit", "ruling", "police", "prison", "voting", "trial"],
-  security: ["defense", "military", "pentagon", "war", "troops", "nuclear", "border", "homeland", "intelligence"],
-};
-
-const STOPWORDS = new Set(
-  ("the a an and or but of to in on for with as at by from up about into over after "
-    + "is are was were be been being has have had do does did will would can could should "
-    + "new says say said report reports amid over under his her its their they them this that "
-    + "what when where who why how than then more most us u.s america american").split(/\s+/)
-);
-
 /* ---- helpers ---- */
 
 function decode(s) {
@@ -85,20 +65,6 @@ function decode(s) {
     .trim();
 }
 
-// Strips the boilerplate outlets bury in RSS <description> fields.
-function cleanSummary(s) {
-  let out = decode(s)
-    .replace(/The post .*? appeared first on .*/i, "")
-    .replace(/Continue reading\.*\s*$/i, "")
-    .replace(/\s*Read (more|full story).*$/i, "")
-    .replace(/\s*\[(?:&#8230;|…|\.\.\.)\]\s*$/i, "")
-    .replace(/&#8230;|…/g, "…")
-    .replace(/\s+/g, " ")
-    .trim();
-  if (out.length > 220) out = out.slice(0, 217).replace(/\s+\S*$/, "") + "…";
-  return out;
-}
-
 function tag(block, name) {
   const m = block.match(new RegExp(`<${name}[^>]*>([\\s\\S]*?)</${name}>`, "i"));
   return m ? m[1] : "";
@@ -113,37 +79,17 @@ function parseFeed(xml) {
   const blocks = xml.match(/<(item|entry)[\s\S]*?<\/\1>/gi) || [];
   return blocks.map((b) => {
     const title = decode(tag(b, "title"));
-    let link = decode(tag(b, "link")) || atomLink(b);
-    const desc = decode(tag(b, "description") || tag(b, "summary") || tag(b, "content"));
+    const link = (decode(tag(b, "link")) || atomLink(b) || "").trim();
     const dateStr = tag(b, "pubDate") || tag(b, "updated") || tag(b, "published");
     const date = dateStr ? new Date(decode(dateStr)) : null;
-    return { title, link: (link || "").trim(), desc, date: date && !isNaN(date) ? date : null };
+    return { title, link, date: date && !isNaN(date) ? date : null };
   });
 }
 
-function keywords(title) {
-  return new Set(
-    title
-      .toLowerCase()
-      .replace(/[^a-z0-9\s]/g, " ")
-      .split(/\s+/)
-      .filter((w) => w.length >= 4 && !STOPWORDS.has(w))
-  );
-}
-
-function overlap(a, b) {
-  let shared = 0;
-  for (const w of a) if (b.has(w)) shared++;
-  return shared;
-}
-
-function guessAreas(text) {
-  const t = " " + text.toLowerCase() + " ";
-  const hits = [];
-  for (const [area, words] of Object.entries(AREA_KEYWORDS)) {
-    if (words.some((w) => t.includes(" " + w))) hits.push(area);
-  }
-  return hits.slice(0, 3);
+// Dedup key: ignore query string / fragment / trailing slash so the same
+// article from a feed (often tagged ?at_medium=RSS) collapses to one entry.
+function urlKey(u) {
+  return (u || "").split("#")[0].split("?")[0].replace(/\/+$/, "");
 }
 
 const fetchTimeout = async (url) => {
@@ -164,102 +110,83 @@ const fetchTimeout = async (url) => {
 /* ---- main ---- */
 
 async function main() {
-  const cutoff = Date.now() - RECENT_DAYS * 86400000;
-  const items = [];
+  const now = Date.now();
+  const cutoff = now - MEMORY_HOURS * 3600 * 1000;
 
+  // 1. Seed the map with the previous run's articles (the memory). Each keeps
+  //    its original `date`, so an item ages off MEMORY_HOURS after it first
+  //    appeared (or after its publish time, when the feed provides one).
+  const map = new Map();
+  if (existsSync(OUT)) {
+    try {
+      const prev = JSON.parse(readFileSync(OUT, "utf8")).articles || [];
+      for (const a of prev) {
+        const ts = Date.parse(a.date);
+        map.set(urlKey(a.url), {
+          outlet: a.outlet,
+          lean: a.lean,
+          url: a.url,
+          title: a.title,
+          date: a.date,
+          ts: isNaN(ts) ? now : ts,
+        });
+      }
+    } catch (e) {
+      console.log("warn  could not read existing feed:", e.message);
+    }
+  }
+
+  // 2. Pull every feed and add anything new.
+  let added = 0;
   for (const feed of FEEDS) {
     try {
       const xml = await fetchTimeout(feed.url);
       const parsed = parseFeed(xml).slice(0, MAX_PER_FEED);
+      let n = 0;
       for (const it of parsed) {
         if (!it.title || !it.link) continue;
-        if (it.date && it.date.getTime() < cutoff) continue;
-        items.push({ ...it, outlet: feed.outlet, lean: feed.lean, kw: keywords(it.title) });
+        const key = urlKey(it.link);
+        if (map.has(key)) {
+          map.get(key).title = it.title; // keep original date; refresh title
+          continue;
+        }
+        const ts = it.date ? it.date.getTime() : now; // no pubDate -> first seen now
+        if (ts < cutoff) continue;
+        map.set(key, {
+          outlet: feed.outlet,
+          lean: feed.lean,
+          url: it.link,
+          title: it.title,
+          date: new Date(ts).toISOString(),
+          ts,
+        });
+        n++;
+        added++;
       }
-      console.log(`ok    ${feed.outlet}: ${parsed.length} items`);
+      console.log(`ok    ${feed.outlet}: ${parsed.length} read, ${n} new`);
     } catch (e) {
       console.log(`skip  ${feed.outlet}: ${e.message}`);
     }
   }
 
-  // Greedy clustering by shared significant keywords.
-  const clusters = [];
-  for (const it of items) {
-    let best = null;
-    let bestShared = 0;
-    for (const c of clusters) {
-      const shared = overlap(it.kw, c.kw);
-      if (shared >= 2 && shared > bestShared) {
-        best = c;
-        bestShared = shared;
-      }
-    }
-    if (best) {
-      best.items.push(it);
-      for (const w of it.kw) best.kw.add(w);
-    } else {
-      clusters.push({ kw: new Set(it.kw), items: [it] });
-    }
-  }
+  // 3. Keep the last MEMORY_HOURS, newest first, capped.
+  const articles = [...map.values()]
+    .filter((a) => a.ts >= cutoff)
+    .sort((a, b) => b.ts - a.ts)
+    .slice(0, MAX_ARTICLES)
+    .map(({ outlet, lean, url, title, date }) => ({ outlet, lean, url, title, date }));
 
-  const leanOrder = { left: 0, "lean-left": 1, center: 2, "lean-right": 3, right: 4 };
-  const distinctOutlets = (c) => new Set(c.items.map((i) => i.outlet)).size;
-
-  let trending = clusters
-    .filter((c) => distinctOutlets(c) >= MIN_OUTLETS)
-    .sort((a, b) => distinctOutlets(b) - distinctOutlets(a) || b.items.length - a.items.length);
-
-  // Fallback: if outlets disagree on everything (few clusters), show the most
-  // recent items as singleton stories so the page is never empty.
-  if (trending.length < 3) {
-    const recent = items
-      .filter((i) => i.date)
-      .sort((a, b) => b.date - a.date)
-      .slice(0, MAX_STORIES)
-      .map((i) => ({ kw: i.kw, items: [i] }));
-    trending = trending.concat(recent).slice(0, MAX_STORIES);
-  }
-
-  const stories = trending.slice(0, MAX_STORIES).map((c, idx) => {
-    const sorted = c.items
-      .slice()
-      .sort((a, b) => (b.date && a.date ? b.date - a.date : 0));
-    const lead = sorted[0];
-
-    // One link per outlet, ordered across the spectrum.
-    const seen = new Set();
-    const links = sorted
-      .filter((i) => (seen.has(i.outlet) ? false : (seen.add(i.outlet), true)))
-      .sort((a, b) => (leanOrder[a.lean] ?? 9) - (leanOrder[b.lean] ?? 9))
-      .slice(0, 5)
-      .map((i) => ({ outlet: i.outlet, lean: i.lean, url: i.link, title: i.title }));
-
-    const summary = cleanSummary(
-      (sorted.find((i) => cleanSummary(i.desc).length > 40) || lead).desc
-    );
-
-    return {
-      id: "t" + (idx + 1),
-      headline: lead.title,
-      areas: guessAreas(c.items.map((i) => i.title + " " + i.desc).join(" ")),
-      summary,
-      links,
-    };
-  });
-
-  // Safety guard: don't clobber a good feed file with a near-empty result
-  // (e.g. if most feeds were down this run). Keep the last good file instead.
-  if (stories.length < MIN_STORIES_TO_WRITE && existsSync(OUT)) {
-    console.log(
-      `\nOnly ${stories.length} stories (< ${MIN_STORIES_TO_WRITE}); keeping existing ${OUT} unchanged.`
-    );
+  // Safety guard: never clobber a good file with an empty list (e.g. if every
+  // feed was down this run). Keep what's there.
+  if (articles.length === 0 && existsSync(OUT)) {
+    console.log("\nNo articles this run; keeping existing file unchanged.");
     return;
   }
 
-  const out = { lastRefreshed: new Date().toISOString(), trending: stories };
+  const out = { lastRefreshed: new Date(now).toISOString(), articles };
   mkdirSync(dirname(OUT), { recursive: true });
   writeFileSync(OUT, JSON.stringify(out, null, 2) + "\n");
-  console.log(`\nWrote ${stories.length} stories -> ${OUT}`);
+  console.log(`\nWrote ${articles.length} articles (${added} new this run) -> ${OUT}`);
 }
 
 main().catch((e) => {
