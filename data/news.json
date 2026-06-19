@@ -1,59 +1,216 @@
 {
-  "lastRefreshed": "2026-06-19T13:00:00Z",
+  "lastRefreshed": "2026-06-19T18:16:09.994Z",
   "trending": [
     {
       "id": "t1",
-      "headline": "Congress weighs a federal framework for AI oversight",
-      "areas": ["sci-tech", "justice"],
-      "summary": "Lawmakers floated competing bills to regulate high-risk AI, splitting over how much authority a new federal office should hold.",
+      "headline": "The Iran deal breaks virtually every one of Trump’s promises",
+      "areas": [
+        "social",
+        "international",
+        "sci-tech"
+      ],
+      "summary": "In Focus delivers deeper coverage of the political, cultural, and ideological issues shaping America. Published daily by senior writers and experts, these in-depth pieces go beyond the headlines to give readers the…",
       "links": [
-        { "outlet": "Reuters", "lean": "center", "url": "https://www.reuters.com", "title": "Senate panel advances bipartisan AI safety measure" },
-        { "outlet": "The New York Times", "lean": "lean-left", "url": "https://www.nytimes.com", "title": "What the proposed AI rules would — and wouldn't — do" },
-        { "outlet": "Fox News", "lean": "lean-right", "url": "https://www.foxnews.com", "title": "Critics warn AI mandates could hamstring U.S. firms" }
+        {
+          "outlet": "NPR",
+          "lean": "lean-left",
+          "url": "https://www.npr.org/2026/06/19/nx-s1-5863544/trump-us-iran-agreement",
+          "title": "What you need to know about the preliminary U.S.-Iran agreement signed by Trump"
+        },
+        {
+          "outlet": "The Guardian (US)",
+          "lean": "lean-left",
+          "url": "https://www.theguardian.com/commentisfree/2026/jun/18/the-guardian-view-on-trump-and-iran-a-presidents-wishful-thinking-gives-way-to-uncomfortable-realities",
+          "title": "The Guardian view on Trump and Iran: a president’s wishful thinking gives way to uncomfortable realities | Editorial"
+        },
+        {
+          "outlet": "The Hill",
+          "lean": "center",
+          "url": "https://thehill.com/policy/defense/5931982-air-force-one-boeing-747-trump-vc-25a/",
+          "title": "White House officials bid farewell to Air Force One plane used since 1990"
+        },
+        {
+          "outlet": "BBC News",
+          "lean": "center",
+          "url": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
+          "title": "In Trump's shadow, Vance becomes face of Iran deal"
+        },
+        {
+          "outlet": "PBS NewsHour",
+          "lean": "center",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-vance-holds-white-house-briefing-after-trump-signs-iran-war-agreement",
+          "title": "WATCH: Vance holds White House briefing after Trump signs Iran war agreement"
+        }
       ]
     },
     {
       "id": "t2",
-      "headline": "Clean-energy permitting deal advances in the Senate",
-      "areas": ["environmental", "economic"],
-      "summary": "A bipartisan compromise to speed approvals for energy projects cleared committee, drawing both praise and objections from advocates.",
+      "headline": "Israel–Hezbollah ceasefire becomes first test of Trump Iran framework after talks delay",
+      "areas": [
+        "social",
+        "environmental",
+        "international"
+      ],
+      "summary": "A U.S.-backed ceasefire between Israel and Hezbollah was set to take effect Friday as talks with Iran scheduled for Switzerland were abruptly postponed.",
       "links": [
-        { "outlet": "Associated Press", "lean": "center", "url": "https://apnews.com", "title": "Permitting overhaul clears key Senate committee" },
-        { "outlet": "Politico", "lean": "lean-left", "url": "https://www.politico.com", "title": "Inside the horse-trading behind the permitting deal" },
-        { "outlet": "The Wall Street Journal", "lean": "center", "url": "https://www.wsj.com/news", "title": "Energy developers cheer faster project timelines" }
+        {
+          "outlet": "The Guardian (US)",
+          "lean": "lean-left",
+          "url": "https://www.theguardian.com/us-news/2026/jun/19/first-thing-us-iran-peace-talks-cancelled-israeli-strikes-lebanon",
+          "title": "US-Iran peace talks abruptly cancelled amid renewed Israeli strikes in Lebanon | First Thing"
+        },
+        {
+          "outlet": "NPR",
+          "lean": "lean-left",
+          "url": "https://www.npr.org/2026/06/19/g-s1-129076/up-first-newsletter-vice-president-vance-iran-agreement-obama-presidential-center-judicial-system-dhs-facial-recognition",
+          "title": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app"
+        },
+        {
+          "outlet": "BBC News",
+          "lean": "center",
+          "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
+          "title": "US-Iran talks postponed as Israel launches deadly strikes in Lebanon"
+        },
+        {
+          "outlet": "The Hill",
+          "lean": "center",
+          "url": "https://thehill.com/policy/international/5931949-israel-lebanon-ceasefire-hezbollah-ben-gvir/",
+          "title": "Israeli official spurns call for truce: 'All of Lebanon must burn'"
+        },
+        {
+          "outlet": "PBS NewsHour",
+          "lean": "center",
+          "url": "https://www.pbs.org/newshour/world/u-s-lifts-blockade-of-iran-and-iranian-supreme-leader-endorses-direct-talks-with-american-officials",
+          "title": "U.S. lifts blockade of Iran and Iranian supreme leader endorses direct talks with American officials"
+        }
       ]
     },
     {
       "id": "t3",
-      "headline": "New data shows inflation cooling as the Fed holds rates",
-      "areas": ["economic"],
-      "summary": "The latest CPI release came in below forecasts, easing pressure on the central bank as it left interest rates unchanged.",
+      "headline": "WATCH: Would-be second-term President Biden left searching for family on stage after Obama Center opening",
+      "areas": [
+        "security"
+      ],
+      "summary": "Biden sparked an awkward moment at Obama's presidential library dedication, drifting back toward the stage and shouting for his granddaughter.",
       "links": [
-        { "outlet": "Bloomberg", "lean": "center", "url": "https://www.bloomberg.com", "title": "CPI undershoots estimates; Fed stands pat" },
-        { "outlet": "The Washington Post", "lean": "lean-left", "url": "https://www.washingtonpost.com", "title": "What cooling inflation means for household budgets" },
-        { "outlet": "RealClearPolitics", "lean": "lean-right", "url": "https://www.realclearpolitics.com", "title": "Analysts debate whether relief will last" }
+        {
+          "outlet": "The Guardian (US)",
+          "lean": "lean-left",
+          "url": "https://www.theguardian.com/us-news/2026/jun/18/obama-library-chicago-trump",
+          "title": "Star-studded opening for Obama library in Chicago delivers implied rebuke to Trump"
+        },
+        {
+          "outlet": "BBC News",
+          "lean": "center",
+          "url": "https://www.bbc.com/news/articles/cly91eqyd0ko?at_medium=RSS&at_campaign=rss",
+          "title": "Obama moved to tears by wife Michelle's speech at presidential centre"
+        },
+        {
+          "outlet": "PBS NewsHour",
+          "lean": "center",
+          "url": "https://www.pbs.org/newshour/politics/watch-live-barack-and-michelle-obama-open-obama-presidential-center-with-springsteen-stevie-wonder",
+          "title": "WATCH: Barack and Michelle Obama open Obama Presidential Center with Springsteen, Stevie Wonder"
+        },
+        {
+          "outlet": "The Christian Science Monitor",
+          "lean": "center",
+          "url": "https://www.csmonitor.com/USA/Politics/2026/0617/obama-presidential-center-south-side?icid=rss",
+          "title": "A presidential library that’s not a library. Obama Center pilots a community model."
+        },
+        {
+          "outlet": "Fox News",
+          "lean": "lean-right",
+          "url": "https://www.foxnews.com/politics/watch-would-second-term-president-biden-left-searching-family-stage-obama-center-opening",
+          "title": "WATCH: Would-be second-term President Biden left searching for family on stage after Obama Center opening"
+        }
       ]
     },
     {
       "id": "t4",
-      "headline": "Supreme Court term opens with a major immigration case",
-      "areas": ["justice", "social"],
-      "summary": "The justices agreed to hear a dispute over executive authority at the border that could reshape federal immigration enforcement.",
+      "headline": "Algae clouded Trump's vision for the Reflecting Pool. But scientists aren't surprised",
+      "areas": [
+        "international",
+        "sci-tech",
+        "economic"
+      ],
+      "summary": "The shallow, sunny waters of the reflecting pool are an ideal incubator for algae growth in the summertime. Experts say the recent renovation may have helped accelerate it.",
       "links": [
-        { "outlet": "NPR", "lean": "lean-left", "url": "https://www.npr.org", "title": "The stakes in this term's biggest immigration case" },
-        { "outlet": "Associated Press", "lean": "center", "url": "https://apnews.com", "title": "Court to weigh limits on border enforcement powers" },
-        { "outlet": "The Washington Times", "lean": "right", "url": "https://www.washingtontimes.com", "title": "Conservatives see a chance to expand executive authority" }
+        {
+          "outlet": "NPR",
+          "lean": "lean-left",
+          "url": "https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump",
+          "title": "Algae clouded Trump's vision for the Reflecting Pool. But scientists aren't surprised"
+        },
+        {
+          "outlet": "The Guardian (US)",
+          "lean": "lean-left",
+          "url": "https://www.theguardian.com/us-news/2026/jun/19/trump-scientific-research-cuts",
+          "title": "‘The purpose of the rule is fascism’: scientists fight back against planned Trump research cuts"
+        },
+        {
+          "outlet": "PBS NewsHour",
+          "lean": "center",
+          "url": "https://www.pbs.org/newshour/politics/italys-meloni-pushes-back-on-trumps-fabricated-claim-as-top-diplomat-cancels-u-s-trip",
+          "title": "Italy's Meloni pushes back on Trump's 'fabricated' claim as top diplomat cancels U.S. trip"
+        },
+        {
+          "outlet": "The Hill",
+          "lean": "center",
+          "url": "https://thehill.com/homenews/administration/5931927-giorgia-meloni-trump-g7-greene/",
+          "title": "Greene says she 'believes' Italian PM Meloni: 'Trump lies'"
+        },
+        {
+          "outlet": "Fox News",
+          "lean": "lean-right",
+          "url": "https://www.foxnews.com/politics/trump-meloni-spat-grows-over-claim-italian-pm-begged-photo-astonished",
+          "title": "Trump-Meloni spat grows over claim Italian PM 'begged' for photo: 'astonished'"
+        }
       ]
     },
     {
       "id": "t5",
-      "headline": "Pentagon budget request sparks debate over priorities",
-      "areas": ["security", "economic"],
-      "summary": "The proposed defense budget shifts money toward shipbuilding and cyber, prompting disagreement over readiness and cost.",
+      "headline": "Maine Democrats reject Platner-backed candidate in blow to scandal-plagued Senate hopeful",
+      "areas": [
+        "economic",
+        "health",
+        "justice"
+      ],
+      "summary": "Hannah Pingree, the former speaker of the Maine House of Representatives, wins Maine's 2026 Democratic gubernatorial primary, defeating Troy Jackson and a crowded field of challengers.",
       "links": [
-        { "outlet": "Reuters", "lean": "center", "url": "https://www.reuters.com", "title": "Defense request tilts toward navy and cyber" },
-        { "outlet": "The Hill", "lean": "center", "url": "https://thehill.com", "title": "Appropriators signal a tough markup ahead" },
-        { "outlet": "Washington Examiner", "lean": "lean-right", "url": "https://www.washingtonexaminer.com", "title": "Hawks say the request still falls short" }
+        {
+          "outlet": "PBS NewsHour",
+          "lean": "center",
+          "url": "https://www.pbs.org/newshour/politics/georgia-republican-legislative-leaders-reject-governors-call-for-2028-redistricting",
+          "title": "Georgia Republican legislative leaders reject governor's call for 2028 redistricting"
+        },
+        {
+          "outlet": "Fox News",
+          "lean": "lean-right",
+          "url": "https://www.foxnews.com/politics/maine-democrats-reject-platner-backed-candidate-blow-scandal-plagued-senate-hopeful",
+          "title": "Maine Democrats reject Platner-backed candidate in blow to scandal-plagued Senate hopeful"
+        }
+      ]
+    },
+    {
+      "id": "t6",
+      "headline": "Far left is ‘expanding’ in the Democratic Party: Guy Benson",
+      "areas": [
+        "security"
+      ],
+      "summary": "Washington Examiner senior columnist Guy Benson warned about far-left candidates taking over Democratic cities. Benson said he believes it’s the cities and Democratic Party shifting further left, not the country, but…",
+      "links": [
+        {
+          "outlet": "PBS NewsHour",
+          "lean": "center",
+          "url": "https://www.pbs.org/newshour/politics/mamdani-tests-his-political-clout-in-new-yorks-primary-as-he-looks-to-reshape-the-democratic-party",
+          "title": "Mamdani tests his political clout in New York's primary as he looks to reshape the Democratic Party"
+        },
+        {
+          "outlet": "Washington Examiner",
+          "lean": "lean-right",
+          "url": "https://www.washingtonexaminer.com/news/entertainment/4616657/far-left-expanding-in-the-democratic-party-guy-benson/",
+          "title": "Far left is ‘expanding’ in the Democratic Party: Guy Benson"
+        }
       ]
     }
   ]
