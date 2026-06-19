@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Currentry — answers for public policy, all in one place</title>
+    <meta
+      name="description"
+      content="A viewpoint-balanced information hub for public policy: news, op-eds, policy briefs, U.S. government releases, academic research, and research tools — made accessible for everyone."
+    />
+    <meta name="theme-color" content="#1f4e79" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Currentry" />
+    <meta property="og:title" content="Currentry — answers for public policy" />
+    <meta
+      property="og:description"
+      content="A viewpoint-balanced information hub for public policy, made accessible for everyone."
+    />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Currentry — answers for public policy" />
+    <meta
+      name="twitter:description"
+      content="A viewpoint-balanced information hub for public policy, made accessible for everyone."
+    />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231f4e79'/%3E%3Cpath d='M16 6l10 10-10 10L6 16z' fill='%23ffffff'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#app">Skip to main content</a>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="brand" href="#/">
+          <span class="brand-mark">◆</span>
+          <span class="brand-text">
+            <strong>Currentry</strong>
+            <small>research guide &amp; policy newsstand</small>
+          </span>
+        </a>
+        <div class="search-box">
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Search titles, sources, summaries…"
+            autocomplete="off"
+            aria-label="Search the hub"
+          />
+        </div>
+      </div>
+    </header>
+
+    <!-- Everything below is rendered by app.js into #app.
+         tabindex=-1 lets the router move focus here on navigation. -->
+    <main id="app" class="wrap" tabindex="-1"></main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <nav class="footer-nav" aria-label="Site information">
+          <a href="#/about">About &amp; methodology</a>
+          <a href="#/guides">Research guides</a>
+        </nav>
+        <div class="disclosure">
+          <p>
+            <strong>Accuracy:</strong> Currentry's viewpoint labels
+            (left / center / right) are editorial approximations informed by
+            independent media-bias research — aids for balance, not definitive
+            judgments. The live news feed is gathered automatically from public
+            sources, so headlines and groupings can occasionally be off. Read
+            across viewpoints and give anything important a human check
+            (<a href="#/about">how the labels work</a>).
+          </p>
+          <p>
+            <strong>Your privacy — nothing is stored on a server:</strong>
+            Currentry runs entirely in your browser. There are no accounts, and
+            what you do here is never tracked, collected, or stored — on a server
+            or on your device. The News page only loads a small data file from
+            this site itself and makes no third-party requests. Links you follow
+            lead to outside publishers and government sites, which keep their own
+            privacy practices.
+          </p>
+          <p>
+            <strong>Built with AI:</strong> This tool was created with the
+            assistance of AI (Anthropic's Claude). It uses no AI engine to run —
+            everything you see is plain, static code and data.
+          </p>
+        </div>
+        <p class="footer-tagline">
+          Currentry — a self-contained, viewpoint-balanced guide for public
+          policy professionals, students, and the curious.
+        </p>
+      </div>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

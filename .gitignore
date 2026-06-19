@@ -1,0 +1,11 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Local editor / tooling
+.claude/
+.vscode/
+*.log
+
+# Dependencies (none today, but in case a build step is added later)
+node_modules/

@@ -1,0 +1,19 @@
+# Validates the data layer on every push and pull request, so a typo in
+# js/data.js (a bad area id, duplicate source, malformed feed) can never
+# reach a deploy — it fails here first.
+name: Validate data
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/validate-data.mjs
