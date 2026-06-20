@@ -1,6 +1,265 @@
 {
-  "lastRefreshed": "2026-06-19T21:53:57.320Z",
+  "lastRefreshed": "2026-06-20T10:21:00.654Z",
   "articles": [
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/premium/4614510/uk-crime-rape-gang-inquiry-report-rupert-lowe/",
+      "title": "Things in Britain are bad, but not that bad",
+      "date": "2026-06-20T10:15:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan",
+      "title": "World Cup 2026: Scotland fall flat; USA into knockouts; Turkey’s tears and Almíron’s red for covering mouth – live",
+      "date": "2026-06-20T10:05:44.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
+      "title": "Fighting persists in Lebanon despite a ceasefire as U.S.-Iran deal is under threat",
+      "date": "2026-06-20T10:02:05.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/jd-vance-reveals-what-drew-him-back-god-after-seeing-christians-had-life-figured-out",
+      "title": "JD Vance reveals what drew him back to God after seeing Christians had life ‘figured out’",
+      "date": "2026-06-20T10:00:37.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/democrats-new-york-congressional-race",
+      "title": "What Democrats want: New York congressional race showcases fight over party’s future",
+      "date": "2026-06-20T10:00:02.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5854466/palestinian-american-kids-find-inspiration-and-escape-on-the-soccer-pitch",
+      "title": "Palestinian-American kids find inspiration, and escape, on the soccer pitch",
+      "date": "2026-06-20T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5931261-gas-prices-midterms-republican-boost/",
+      "title": "GOP bullish on political impact for Republicans of Trump MOU with Iran",
+      "date": "2026-06-20T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/sports-gaming/5929954-us-immigration-world-cup/",
+      "title": "World Cup brings political issues to the surface: 5 takeaways",
+      "date": "2026-06-20T10:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/premium/4606241/brendan-carr-attack-tv-stations-echoes-fcc-chairman-under-jfk/",
+      "title": "How Brendan Carr’s attack on TV stations echoes FCC chairman under JFK",
+      "date": "2026-06-20T10:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4608153/third-round-june-social-security-four-days/",
+      "title": "Third round of June Social Security payments goes out in four days",
+      "date": "2026-06-20T10:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/in_focus/4612901/declaration-of-independence-sacred-trust-michael-auslin/",
+      "title": "‘A sacred trust’: The Declaration of Independence at 250",
+      "date": "2026-06-20T10:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/restoring-america/equality-not-elitism/4614973/collins-has-flaws-platner-has-a-totenkopf/",
+      "title": "Collins has flaws. Platner has a Totenkopf",
+      "date": "2026-06-20T10:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/4616398/harry-dunn-comeback-house-bid-steny-hoyer-seat/",
+      "title": "Harry Dunn takes on Democratic favorite in comeback House bid",
+      "date": "2026-06-20T10:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/economy/4616659/virginia-lawmaker-fight-data-center/",
+      "title": "Why Virginia lawmakers are fighting over data centers",
+      "date": "2026-06-20T10:00:00.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-says-vandals-used-chemicals-damage-newly-renovated-reflecting-pool-lincoln-memorial",
+      "title": "Trump says vandals used chemicals to damage newly renovated reflecting pool near Lincoln Memorial",
+      "date": "2026-06-20T09:59:08.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/premium/4613859/crimea-russia-ukraine-war-moscow-drone-attack/",
+      "title": "Russia is learning Crimea doesn’t pay",
+      "date": "2026-06-20T09:45:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/premium/4600111/syria-sectarian-reckoning-after-assad/",
+      "title": "After Assad: Syria’s sectarian reckoning",
+      "date": "2026-06-20T09:30:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/premium/4609876/wolfgang-mozart-tv-show-amadeus/",
+      "title": "The wish to be like Wolfgang: Review of ‘Amadeus’",
+      "date": "2026-06-20T09:15:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/20/trump-dc-makeover-frenzy",
+      "title": "Trump’s DC makeover frenzy bewilders locals and visitors: ‘It’s like we’re under occupation’",
+      "date": "2026-06-20T09:00:05.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5855064/richard-la-parias-ice-detention",
+      "title": "Shot by ICE and still in pain. LA detainee highlights gaps in DHS oversight",
+      "date": "2026-06-20T09:00:00.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/minnesota-ag-ellison-lashes-out-grilled-fraud-scandal-done-talking",
+      "title": "Minnesota AG Ellison lashes out when grilled on fraud scandal: 'I’m done talking to you'",
+      "date": "2026-06-20T08:00:18.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/watch-tuberville-backs-trumps-iran-deal-democrat-blasts-surrender",
+      "title": "WATCH: Tuberville backs Trump’s Iran deal as Democrat blasts ‘surrender’",
+      "date": "2026-06-20T08:00:02.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/2026/jun/20/spaceship-stadiums-and-ronaldo-mania-guardian-writers-first-impressions-of-the-world-cup",
+      "title": "Spaceship stadiums and Ronaldo-mania: Guardian writers’ first impressions of the World Cup",
+      "date": "2026-06-20T07:00:02.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest",
+      "title": "Turkey 0-1 Paraguay: World Cup 2026 – as it happened",
+      "date": "2026-06-20T05:28:05.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/20/global-rupture-international-law-ukraine-middle-east-military-superpowers",
+      "title": "Even in this age of what Mark Carney calls global rupture, do not despair: there is still hope for international law | Nathalie Tocci",
+      "date": "2026-06-20T04:00:52.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest",
+      "title": "Brazil 3-0 Haiti: World Cup 2026 – as it happened",
+      "date": "2026-06-20T03:05:55.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/media/5932485-paramount-warner-merger-democrats/",
+      "title": "Dem senators call on FCC to pause Paramount-Warner Bros deal on national security grounds",
+      "date": "2026-06-20T03:03:01.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/5932463-mlb-pride-night-controversy/",
+      "title": "DOJ opens probe into MLB after Pride Night controversy",
+      "date": "2026-06-20T02:02:49.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/trump-administration-latest-updates-today",
+      "title": "Trump news at a glance: Israel-Hezbollah clashes ground Vance trip; Qatar jet is new Air Force One",
+      "date": "2026-06-20T01:30:19.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
+      "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
+      "date": "2026-06-20T00:23:46.000Z"
+    },
+    {
+      "outlet": "The Christian Science Monitor",
+      "lean": "center",
+      "url": "https://www.csmonitor.com/USA/Society/2026/0619/usa-world-cup-us-soccer-vs-australia?icid=rss",
+      "title": "US tops Australia 2-0, advances to World Cup knockout round as fan euphoria builds",
+      "date": "2026-06-20T00:00:16.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.com/sport/football/articles/ckg4qvedjkwo?at_medium=RSS&at_campaign=rss",
+      "title": "The Super Bowl winner's son stepping into spotlight with USA",
+      "date": "2026-06-19T23:31:23.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5932424-trump-backs-evette-wilson/",
+      "title": "Trump endorses both GOP runoff candidates in South Carolina",
+      "date": "2026-06-19T23:24:22.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/trump-air-force-one-qatar",
+      "title": "Trump unveils new Air Force One, a converted Qatari 747",
+      "date": "2026-06-19T23:05:52.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-record-low-economic-approval-rating",
+      "title": "Brooks and Capehart on Trump's record-low economic approval rating",
+      "date": "2026-06-19T22:30:05.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5932387-public-trust-federal-government-low/",
+      "title": "Trust in federal government at all-time low: Poll",
+      "date": "2026-06-19T22:16:55.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/comparing-the-mood-of-americas-250th-anniversary-with-its-200th-in-1976",
+      "title": "Comparing the mood of America's 250th anniversary with its 200th in 1976",
+      "date": "2026-06-19T22:04:56.000Z"
+    },
     {
       "outlet": "BBC News",
       "lean": "center",
@@ -686,216 +945,6 @@
       "url": "https://www.npr.org/2026/06/19/nx-s1-5863544/trump-us-iran-agreement",
       "title": "What you need to know about the preliminary U.S.-Iran agreement signed by Trump",
       "date": "2026-06-19T10:30:52.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com",
-      "title": "Sample headline — stories age off after 24 hours",
-      "date": "2026-06-19T10:05:00Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/19/solar-geoengineering-risk-to-planet-earth",
-      "title": "‘Termination shock’: trust our expert warnings on geoengineering’s planetary risks | Raymond Pierrehumbert, Julia Slingo, Michael Mann and Valerie Masson-Delmotte",
-      "date": "2026-06-19T10:00:30.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/obama-center-opens-after-years-long-saga-locals-warn-monstrosity-could-price-them-out",
-      "title": "Obama center opens after yearslong saga as locals warn ‘monstrosity’ could price them out",
-      "date": "2026-06-19T10:00:27.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/gov-sanders-reveals-major-breakthrough-education-red-state-positions-blueprint-nation",
-      "title": "Gov Sanders reveals 'major breakthrough' on education as red state positions itself as 'blueprint' for nation",
-      "date": "2026-06-19T10:00:02.000Z"
-    },
-    {
-      "outlet": "The Christian Science Monitor",
-      "lean": "center",
-      "url": "https://www.csmonitor.com/USA/Society/2026/0619/route-66-Missouri-Green-Book-Black-history?icid=rss",
-      "title": "How one woman’s Route 66 story of segregation and hospitality is kept alive today",
-      "date": "2026-06-19T09:00:10.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5861779/juneteenth-emancipation-proclamation-lincoln-slavery-civil-war",
-      "title": "Juneteenth: How news of the Emancipation Proclamation spread through the South",
-      "date": "2026-06-19T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5863058/homeland-security-local-police-facial-recognition-identify-immigrants",
-      "title": "Some local police have access to an ICE facial recognition app",
-      "date": "2026-06-19T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5845874/toy-story-5-tech-social-media-screentime-summer-movie",
-      "title": "It's toys vs. tech in 'Toy Story 5.' Here are 4 ways to keep tech in check this summer",
-      "date": "2026-06-19T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/19/g-s1-128757/world-cup-trump-messi-ai-el-nino-newsom-news-quiz",
-      "title": "Why did the newly refurbished Reflecting Pool turn green? The quiz knows",
-      "date": "2026-06-19T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5853589/luddite-meaning-history-ai",
-      "title": "Get with the times — here's what a 'Luddite' means today",
-      "date": "2026-06-19T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5860711/world-cup-america-tourists",
-      "title": "Big dogs, Buc-ee's and the great BBQ debate: World Cup fans discover everyday America",
-      "date": "2026-06-19T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5861751/wisconsin-focus-groups-iran-trump",
-      "title": "These Wisconsin swing voters say Trump's war in Iran wasn't worth it",
-      "date": "2026-06-19T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5862645/how-the-1874-freedmans-bank-collapse-connects-to-economic-disparities-we-see-today",
-      "title": "How the 1874 Freedman's Bank collapse connects to economic disparities we see today",
-      "date": "2026-06-19T09:00:00.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
-      "title": "Iran to lodge complaint over travel restrictions",
-      "date": "2026-06-19T07:50:32.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/videos/c17yrzpge4no?at_medium=RSS&at_campaign=rss",
-      "title": "Meet Merlin the Duck: Mexico's World Cup 'ambassador'",
-      "date": "2026-06-19T05:41:27.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
-      "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
-      "date": "2026-06-19T05:33:59.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
-      "title": "In Trump's shadow, Vance becomes face of Iran deal",
-      "date": "2026-06-19T04:12:07.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/sport/football/articles/cly7r1zjmmlo?at_medium=RSS&at_campaign=rss",
-      "title": "A day of tears, scuffles and history as injury mars Canada's moment in World Cup",
-      "date": "2026-06-19T03:34:23.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/articles/cvgj731r38xo?at_medium=RSS&at_campaign=rss",
-      "title": "'This could only exist in America': What are foreign football fans finding in the US?",
-      "date": "2026-06-19T01:16:55.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/18/us-military-boat-strike-pacific-ocean",
-      "title": "US military kills three people in boat strike in Pacific Ocean",
-      "date": "2026-06-19T00:52:48.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/articles/c20y162gpm6o?at_medium=RSS&at_campaign=rss",
-      "title": "Mangione's lawyers reverse course on psychiatric defence in state murder trial",
-      "date": "2026-06-19T00:13:45.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/top-gop-lawmaker-rallies-around-conservative-school-board-member-facing-calls-resign",
-      "title": "Top GOP lawmaker rallies around conservative school board member facing calls to resign",
-      "date": "2026-06-19T00:13:11.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/18/california-billionaire-tax-ballot-tech-opposition",
-      "title": "California ‘billionaire tax’ makes ballot despite opposition from tech moguls",
-      "date": "2026-06-19T00:08:17.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/18/obama-library-chicago-trump",
-      "title": "Star-studded opening for Obama library in Chicago delivers implied rebuke to Trump",
-      "date": "2026-06-18T23:29:15.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/obama-centers-opening-ceremony-ridiculed-land-acknowledgment-star-studded-show",
-      "title": "Obama Center's opening ceremony ridiculed for far-left ritual before star-studded show",
-      "date": "2026-06-18T23:14:24.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/watch-dem-candidate-grilled-stock-trading-duped-selfie-request",
-      "title": "WATCH: Dem candidate grilled on stock trading after being duped with selfie request",
-      "date": "2026-06-18T22:22:43.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/18/wisconsin-mosque-president-released-ice",
-      "title": "President of Wisconsin’s largest mosque released from ICE custody",
-      "date": "2026-06-18T22:20:23.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/dems-raked-millions-from-employees-firms-newly-identified-chinese-military-companies",
-      "title": "Dems raked in millions from employees at firms newly identified as 'Chinese military companies'",
-      "date": "2026-06-18T22:00:38.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/fox-news-poll-move-over-big-brother-voters-see-big-tech-greater-threat-us",
-      "title": "Fox News Poll: Move over Big Brother, voters see Big Tech as greater threat to US",
-      "date": "2026-06-18T22:00:15.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/new-poll-reveals-americans-see-two-paths-iran-and-support-both-almost-equally",
-      "title": "New poll reveals Americans see two paths on Iran — and support both almost equally",
-      "date": "2026-06-18T22:00:01.000Z"
     }
   ]
 }
