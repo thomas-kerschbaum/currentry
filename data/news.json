@@ -1,12 +1,194 @@
 {
-  "lastRefreshed": "2026-06-21T17:12:10.930Z",
+  "lastRefreshed": "2026-06-21T22:38:23.270Z",
   "articles": [
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/live/2026/jun/21/us-open-golf-2026-final-round-updates-wyndham-clark-live",
+      "title": "US Open golf 2026: final round updates as leader Wyndham Clark pegged back – live",
+      "date": "2026-06-21T22:22:59.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5933451-pence-criticizes-trump-iran-deal/",
+      "title": "Pence rips Trump’s Iran deal: ‘A plan to make a plan’",
+      "date": "2026-06-21T22:11:56.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4618051/bipartisan-housing-win-heads-trump-desk-zach-halaschak/",
+      "title": "Rare bipartisan housing win heads to Trump’s desk: Zach Halaschak",
+      "date": "2026-06-21T22:10:32.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/world/2026/jun/21/trump-iran-deal-bipartisan-criticism",
+      "title": "Trump faces fresh bipartisan criticism on Iran deal as Vance hails peace talks",
+      "date": "2026-06-21T22:07:57.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5933461-lincoln-memorial-pool-vandalism-prosecution/",
+      "title": "Pirro vows to prosecute Reflection Pool vandals",
+      "date": "2026-06-21T21:52:01.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/21/trump-lincoln-memorial-reflecting-pool",
+      "title": "Trump says repair work to begin ‘immediately’ on beleaguered reflecting pool",
+      "date": "2026-06-21T21:47:12.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike",
+      "title": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
+      "date": "2026-06-21T21:37:22.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5933394-trump-economy-fathers-day/",
+      "title": "Trump touts ‘BEST ECONOMY EVER’ in Father’s Day message",
+      "date": "2026-06-21T21:19:43.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4618078/americans-say-us-should-end-iran-conflict-poll/",
+      "title": "Almost eight in ten Americans say US should end Iran conflict now: Poll",
+      "date": "2026-06-21T21:10:41.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5932183-democratic-socialists-dsa-political-change/",
+      "title": "Democratic socialists roar back into spotlight with LA, DC races",
+      "date": "2026-06-21T21:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/in_focus/4616623/blue-cities-embrace-socialism-not-swing-states/",
+      "title": "Blue cities embrace socialism. Swing states won’t",
+      "date": "2026-06-21T21:00:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/21/utah-wildfire-extreme-heat",
+      "title": "Utah wildfire forces evacuation of small town as extreme heat roasts US west",
+      "date": "2026-06-21T20:52:34.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/5933379-mace-laughs-trump-endorsement/",
+      "title": "Mace on Trump endorsing both GOP runoff candidates in South Carolina: ‘LMAO’",
+      "date": "2026-06-21T20:15:48.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5933329-esper-questions-trump-advice/",
+      "title": "Former Trump Defense secretary: 'I don't see that the president is always getting good advice'",
+      "date": "2026-06-21T19:13:27.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/jun/21/serena-williams-wimbledon-singles-comeback-handed-wildcard-tennis",
+      "title": "Serena Williams to make Wimbledon singles comeback after being handed wildcard",
+      "date": "2026-06-21T19:11:58.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/international/5933313-iran-deal-concessions-carter/",
+      "title": "House Republican acknowledges Iran deal concessions: ‘A work in progress’",
+      "date": "2026-06-21T19:04:32.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/5933291-senate-republicans-save-america/",
+      "title": "Mike Lee: Senate GOP must do 'hard work' to pass SAVE America Act",
+      "date": "2026-06-21T18:57:59.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4618033/uk-police-investigation-bedford-train-collision/",
+      "title": "UK police probe cause of train collision that killed driver and left 9 in critical condition",
+      "date": "2026-06-21T18:32:31.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/justice/4618006/pirro-serious-charges-vandalism-reflecting-pool-algae/",
+      "title": "Pirro floats ‘serious charges’ for vandals fostering algal blooms in Reflecting Pool",
+      "date": "2026-06-21T18:24:22.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/5933260-lindsey-graham-jay-clayton-odni/",
+      "title": "Graham asks Trump to move forward with Clayton's DNI nomination",
+      "date": "2026-06-21T18:21:03.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/entertainment/4617997/mark-levin-trump-israel-stop-trashing-ally/",
+      "title": "Mark Levin blasts Trump administration over Israel: ‘Stop trashing, smearing, bullying’ ally",
+      "date": "2026-06-21T18:08:13.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/5933252-cory-booker-iran-deal-criticism/",
+      "title": "Booker says 'Iran gets all of the benefits' in Trump deal",
+      "date": "2026-06-21T17:43:32.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/jun/21/francisco-cerundolo-tommy-paul-queens-club-longest-final-tennis",
+      "title": "Cerúndolo fights back in marathon three-hour Queen’s final to defeat Paul",
+      "date": "2026-06-21T17:39:59.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance",
+      "title": "Trump threatens to 'hit Iran very hard again' while Vance in Switzerland for talks",
+      "date": "2026-06-21T17:29:57.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/house/5933194-crow-pushes-iran-school-bombing-answers/",
+      "title": "House Democrat on Iran school bombing: 'We're going to push hard to get answers'",
+      "date": "2026-06-21T17:13:07.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
       "url": "https://www.washingtonexaminer.com/news/entertainment/4617974/rosie-odonnell-guest-host-jimmy-kimmel/",
       "title": "Rosie O’Donnell to guest-host for Kimmel as ‘special treat’ for Trump",
       "date": "2026-06-21T17:07:45.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/international/5932633-beijing-supports-north-korean-nukes/",
+      "title": "Xi meets Kim: China reaffirms support for North Korea's nukes",
+      "date": "2026-06-21T17:00:00.000Z"
     },
     {
       "outlet": "The Guardian (US)",
@@ -90,6 +272,13 @@
       "lean": "center",
       "url": "https://www.pbs.org/newshour/world/vance-meets-top-iranian-officials-as-us-looks-to-prod-iran-to-turn-over-a-new-leaf",
       "title": "Vance meets top Iranian officials as U.S. looks to prod Iran to 'turn over a new leaf'",
+      "date": "2026-06-21T15:28:55.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/world/as-vance-meets-top-iranian-officials-in-switzerland-trump-threatens-tehran-from-afar",
+      "title": "As Vance meets top Iranian officials in Switzerland, Trump threatens Tehran from afar",
       "date": "2026-06-21T15:28:55.000Z"
     },
     {
@@ -266,6 +455,13 @@
       "url": "https://www.theguardian.com/us-news/2026/jun/21/florida-new-college-de-santis",
       "title": "Florida college seized by DeSantis in ‘anti-woke’ push to triple in size",
       "date": "2026-06-21T12:30:30.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/21/nx-s1-5864237/week-in-politics-continued-negotiations-with-iran-g7-summit-reflecting-pool-issues",
+      "title": "Week in politics: continued negotiations with Iran; G7 summit; Reflecting Pool issues",
+      "date": "2026-06-21T12:06:14.000Z"
     },
     {
       "outlet": "NPR",
@@ -532,216 +728,6 @@
       "url": "https://www.foxnews.com/politics/former-olympian-among-charged-vandalizing-reflecting-pool-trump-vows-immediate-repairs-report",
       "title": "Former Olympian among those charged with vandalizing Reflecting Pool; Trump says basin must be drained: report",
       "date": "2026-06-20T23:24:50.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/obama-presidential-center-follows-widely-mocked-stolen-land-acknowledgment-native-american-dance-show",
-      "title": "Obama Presidential Center follows widely mocked 'stolen land' acknowledgment with Native American dance show",
-      "date": "2026-06-20T22:20:22.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5932867-vance-leads-us-iran-delegation/",
-      "title": "Vance leaves for Switzerland with Strait of Hormuz status unclear",
-      "date": "2026-06-20T21:41:28.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/live/2026/jun/20/us-open-2026-moving-day-golf-updates-from-third-round-live",
-      "title": "US Open 2026: Wyndham Clark builds six-shot lead after third round – as it happened",
-      "date": "2026-06-20T21:36:08.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/sunday-talk-shows/5932841-vance-switzerland-nuclear-deal/",
-      "title": "Sunday shows preview: Iran’s Strait of Hormuz closure threatens Trump MOU ahead of planned Switzerland peace talks",
-      "date": "2026-06-20T21:27:04.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/world/4617650/zelensky-stripped-poland-highest-honor/",
-      "title": "Zelensky stripped of Poland’s highest honor after honoring controversial nationalist group",
-      "date": "2026-06-20T21:10:22.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/entertainment/4617683/democratic-socialism-spreading-further-byron-york/",
-      "title": "Democratic socialism keeps ‘spreading around further’: Byron York",
-      "date": "2026-06-20T21:05:05.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/5931183-black-democrats-wasserman-schultz-florida/",
-      "title": "Black Democrats push back on Wasserman Schultz's bid in Florida's 20th District",
-      "date": "2026-06-20T21:00:00.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/20/lapd-releases-footage-officers-dog",
-      "title": "LAPD releases footage of moment officers shot and killed woman’s dog",
-      "date": "2026-06-20T20:52:08.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5932836-trump-threatens-strait-of-hormuz-tolls/",
-      "title": "Trump says US will begin charging tolls in Strait of Hormuz if final Iran deal not reached in 60 days",
-      "date": "2026-06-20T20:48:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization",
-      "title": "DOJ memo stokes fear among disability advocates of a return to institutionalization",
-      "date": "2026-06-20T20:33:14.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4617678/los-angeles-warehouse-fire/",
-      "title": "Los Angeles officials battle warehouse fire as smoke spreads across city",
-      "date": "2026-06-20T20:24:30.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/entertainment/4617648/establishment-democrats-are-dead-joe-concha/",
-      "title": "‘At this point, establishment Democrats are dead’: Joe Concha",
-      "date": "2026-06-20T20:17:52.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/immigration/4617643/pope-leo-xiv-saint-cabrini-model-christian-care-migrant/",
-      "title": "Pope Leo XIV exalts first American saint Cabrini as a model for Christians for her care of migrants",
-      "date": "2026-06-20T19:55:36.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/international/5932809-spanish-prime-minister-wife-corruption/",
-      "title": "Spanish prime minister’s wife to face corruption trial, judge orders her to surrender passport",
-      "date": "2026-06-20T19:52:14.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/20/grand-canyon-extreme-heat-watch",
-      "title": "Grand Canyon on ‘extreme heat’ watch, with temperatures set to soar",
-      "date": "2026-06-20T19:36:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4617652/trump-no-toll-strait-of-hormuz/",
-      "title": "Trump says there ‘will be NO TOLLS’ in Strait of Hormuz during or after 60-day ceasefire",
-      "date": "2026-06-20T19:31:55.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4617632/us-park-police-arrest-olympian-vandal-reflecting-pool/",
-      "title": "US Park Police arrest former Olympian for vandalism of Reflecting Pool",
-      "date": "2026-06-20T19:29:24.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/state-watch/5932778-tatarico-texas-senate-insults/",
-      "title": "Talarico dismisses ‘corny nicknames,’ attacks from Trump, Paxton",
-      "date": "2026-06-20T18:56:25.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/football/2026/jun/20/take-me-home-country-roads-world-cup-usmnt",
-      "title": "Take me home: why Country Roads has struck a chord at the World Cup",
-      "date": "2026-06-20T18:45:16.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/obama-center-embeds-indigenous-land-message-controversial-site",
-      "title": "Obama Center embeds 'Indigenous' land message on controversial site",
-      "date": "2026-06-20T18:35:38.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/entertainment/4617599/bidens-decline-stain-on-democrats-honesty-guy-benson/",
-      "title": "Biden’s decline ‘is a stain’ on Democrats’ honesty: Guy Benson",
-      "date": "2026-06-20T18:24:17.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/dem-sued-remove-trumps-name-kennedy-center-says-venue-becoming-lifeless-husk-fresh-fight",
-      "title": "Dem who sued to remove Trump's name from Kennedy Center now says venue becoming 'lifeless husk' in fresh fight",
-      "date": "2026-06-20T18:15:59.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4617529/ai-deepfake-ad-midterm-election-campaign/",
-      "title": "AI deepfake ads invade midterm election campaigns",
-      "date": "2026-06-20T18:05:56.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/blogs/in-the-know/5932751-bill-maher-slams-trump-iran-deal/",
-      "title": "Maher swipes at Trump over Iran MOU: ‘What happened to the art of the deal?’",
-      "date": "2026-06-20T18:00:26.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/congress-blog/economy-budget/5931613-inflation-trump-war-iran-prices/",
-      "title": "Trump 'loves the inflation?' Good News — there's plenty more coming",
-      "date": "2026-06-20T18:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/in_focus/4616813/new-york-city-ice-operation-opportunity-gop/",
-      "title": "New York City ICE operation presents Mamdani-shaped opportunity for GOP",
-      "date": "2026-06-20T18:00:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/biden-scores-temporary-court-victory-trump-appointed-judge-delays-release-hur-investigation-materials",
-      "title": "Biden scores temporary court victory as Trump-appointed judge delays release of Hur investigation materials",
-      "date": "2026-06-20T17:47:20.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/explosive-report-unearths-prominent-union-money-trail-labeled-stunning-betrayal-maga-members",
-      "title": "Explosive report unearths prominent union money trail labeled a 'stunning betrayal' of MAGA members",
-      "date": "2026-06-20T17:41:43.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/trump-tries-to-blame-reflecting-poll-woes-on-vandalism-without-offering-substantiation",
-      "title": "Trump tries to blame Reflecting Poll woes on vandalism, without offering substantiation",
-      "date": "2026-06-20T17:29:31.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/blogs/in-the-know/5932719-bill-maher-urges-patriotism-250th/",
-      "title": "Maher urges viewers to celebrate US 250th anniversary despite Trump: ‘He isn't America’",
-      "date": "2026-06-20T17:13:29.000Z"
     }
   ]
 }
