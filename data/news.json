@@ -1,6 +1,510 @@
 {
-  "lastRefreshed": "2026-06-23T11:43:26.558Z",
+  "lastRefreshed": "2026-06-23T19:25:30.066Z",
   "articles": [
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/daily-on-energy/4621423/daily-on-energy-boost-nuclear-cuba-lifeline-permitting-deadline/",
+      "title": "Daily on Energy: A boost for nuclear, Cuba may get lifeline, and a permitting deadline",
+      "date": "2026-06-23T19:22:49.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/technology/2026/jun/23/tesla-crash-texas-investigation",
+      "title": "Top auto regulator investigates deadly Tesla crash into Texas home",
+      "date": "2026-06-23T19:07:02.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/crime/4621296/fbi-defends-decision-green-light-trump-ufc-fight-attackers-at-large/",
+      "title": "FBI defends decision to green light Trump’s UFC fight despite alleged attackers at large: ‘We had the leaders’",
+      "date": "2026-06-23T19:02:43.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4619717/congress-21st-century-road-to-housing-act-affordability-reform/",
+      "title": "Congress has taken a step to fix housing affordability — it can’t afford to go backward",
+      "date": "2026-06-23T19:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5867692/2026-world-cup-fifa-cristiano-ronaldo-goal",
+      "title": "Portugal's Ronaldo shakes off World Cup doubters, scores 2 after sluggish start",
+      "date": "2026-06-23T18:59:56.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/alaska-senate-race-thrown-chaos-same-name-challenger-fights-disqualification",
+      "title": "Alaska Senate race thrown into chaos as same-name challenger fights disqualification",
+      "date": "2026-06-23T18:59:54.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4621336/tucker-carlson-leaves-gop-farewell-good-riddance/",
+      "title": "Tucker Carlson leaves the GOP. Farewell and good riddance",
+      "date": "2026-06-23T18:55:05.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5934527-live-updates-trump-iran-supreme-court-new-york-maryland-utah-primary-elections/",
+      "title": "Live updates: Trump talks economy in remarks at Pennyslvania factory",
+      "date": "2026-06-23T18:54:56.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/5936609-senate-defense-bill-retiree-speech/",
+      "title": "Senate NDAA adds protections for 'political speech' by military retirees amid Hegseth-Kelly battle",
+      "date": "2026-06-23T18:52:45.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/healthcare/5936511-healthcare-fraud-justice-department-operation/",
+      "title": "DOJ unveils charges for $6.5 billion in health fraud schemes",
+      "date": "2026-06-23T18:50:26.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/prairieland-ice-protesters-texas-sentenced",
+      "title": "Texas anti-ICE protesters convicted of terrorism charges sentenced to at least 50 years in prison",
+      "date": "2026-06-23T18:35:18.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/obama-appointed-judge-torpedoes-trumps-bid-fight-obesity-white-house-warns-wont-final-say",
+      "title": "Obama-appointed judge torpedoes Trump’s bid to fight obesity as White House warns it won’t be ‘final say’",
+      "date": "2026-06-23T18:33:11.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4621160/trump-executive-order-quantum-ai-threat/",
+      "title": "Trump’s quantum plan is a needed response to the foreign AI threat",
+      "date": "2026-06-23T18:29:55.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-signs-landmark-executive-order-investing-quantum-computing-cryptography-security",
+      "title": "Trump signs landmark executive order investing in quantum computing and cryptography security",
+      "date": "2026-06-23T18:27:29.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/healthcare/5935728-glp-1-weight-loss-drugs-criticism-professional-athletes/",
+      "title": "Critics concerned GLP-1 drugs may give athletes a performance edge",
+      "date": "2026-06-23T18:23:47.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4621237/obama-liberal-president-chuck-todd/",
+      "title": "Yes, Obama governed as a liberal",
+      "date": "2026-06-23T18:18:07.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/5936481-cassidy-social-security-plan/",
+      "title": "GOP senator forced out by Trump pushes $1.5T investment for Social Security",
+      "date": "2026-06-23T18:15:28.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/senate-again-set-to-vote-on-war-powers-resolution-to-halt-iran-conflict",
+      "title": "Senate again set to vote on war powers resolution to halt Iran conflict",
+      "date": "2026-06-23T18:13:56.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4621185/trump-no-rush-to-deploy-nuclear-weapons-inspectors-iran-ted-cruz-defends/",
+      "title": "Trump says ‘no rush’ to station nuclear weapons inspectors in Iran",
+      "date": "2026-06-23T18:08:37.000Z"
+    },
+    {
+      "outlet": "The Christian Science Monitor",
+      "lean": "center",
+      "url": "https://www.csmonitor.com/USA/Society/2026/0623/typewriters-digital-era-analog?icid=rss",
+      "title": "Back to the clack: In the digital age, these typewriter superfans hold the keys",
+      "date": "2026-06-23T18:05:28.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/in_focus/4620988/trump-iran-deal-shaping-up-worse-than-obama/",
+      "title": "Trump’s Iran deal is shaping up to be worse than Obama’s",
+      "date": "2026-06-23T18:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/5936446-tillis-pirro-reflecting-pool-prosecution/",
+      "title": "Tillis: Pirro can’t be taken ‘seriously’ for prosecuting alleged reflecting pool vandalism",
+      "date": "2026-06-23T17:58:54.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/senate-republicans-brace-tough-lunch-trump-amid-legislative-clashes",
+      "title": "Reporter's Notebook: Senate Republicans brace for tough lunch with Trump amid legislative clashes",
+      "date": "2026-06-23T17:56:36.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4621102/marjorie-taylor-greene-follows-tucker-carlson-ditching-republican-party/",
+      "title": "Marjorie Taylor Greene follows Tucker Carlson in ditching the ‘America Last’ Republican Party",
+      "date": "2026-06-23T17:56:16.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4621055/iranian-leaders-new-confidence-international-travel/",
+      "title": "Iranian leaders project newfound confidence with international travel spree",
+      "date": "2026-06-23T17:47:29.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/media/5936380-wall-street-journal-editorial-board-us-world-cup-immigration/",
+      "title": "WSJ editorial board says US World Cup team shows how immigration 'can be a win",
+      "date": "2026-06-23T17:46:43.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/mitch-mcconnell-vote-senate-week-recovery-hospitalization-continues",
+      "title": "Mitch McConnell will not vote in the Senate this week as recovery continues",
+      "date": "2026-06-23T17:45:46.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/trump-deportation-fast-track-ruling",
+      "title": "Appeals court allows Trump to fast-track deportation process nationwide",
+      "date": "2026-06-23T17:37:59.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/technology/5936339-ai-cybersecurity-risks-warning/",
+      "title": "Intelligence agencies warn AI models could launch crippling cyberattacks in months",
+      "date": "2026-06-23T17:37:49.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss",
+      "title": "Tech stocks tumble on concerns over AI spending",
+      "date": "2026-06-23T17:34:02.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/blogs/in-the-know/5936283-guinness-world-records-loudest-person-australian-joseph-mcgrail-bateup/",
+      "title": "Guinness crowns the world's loudest person at 122.4 decibels",
+      "date": "2026-06-23T17:31:45.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/media/5936259-ny-times-situation-room-regime-change/",
+      "title": "NY Times reporter on access to Situation Room tapes: 'We're not going to comment'",
+      "date": "2026-06-23T17:27:08.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/top-republican-pitches-trump-plan-stop-shutdowns-expose-bad-guys-blocking-voter-id-law",
+      "title": "Top Republican pitches Trump plan to stop shutdowns, expose 'bad guys' blocking voter ID law",
+      "date": "2026-06-23T17:22:14.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/jun/23/tiger-woods-introduces-golf-two-tier-pga-tour-shake-up-from-2028",
+      "title": "Tiger Woods returns to introduce golf’s two-tier PGA Tour shake-up from 2028",
+      "date": "2026-06-23T17:21:50.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/2026/jun/23/donald-trump-to-present-world-cup-trophy-infantino",
+      "title": "Donald Trump to present World Cup trophy to winners, says Gianni Infantino",
+      "date": "2026-06-23T17:13:14.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/cruz-says-mamdani-aoc-platner-show-democrats-leftward-shift-thats-where-energy-is",
+      "title": "Cruz says Mamdani, AOC, Platner show Democrats' leftward shift: 'That's where the energy is'",
+      "date": "2026-06-23T17:12:52.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/listen-again-the-stories-we-tell-ourselves-about-america",
+      "title": "Listen Again: The stories we tell ourselves about America",
+      "date": "2026-06-23T17:12:33.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/5936246-bill-warner-dni-bill-pulte/",
+      "title": "Warner introduces bill to require Senate-confirmed acting DNIs in wake of Pulte controversy",
+      "date": "2026-06-23T17:09:32.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/trump-dc-reflecting-pool-repair-july-fourth",
+      "title": "Trump says DC reflecting pool repairs may not be done in time for 4 July",
+      "date": "2026-06-23T17:07:07.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/technology/5936248-sacramento-sheriff-drone-disarmed-suspect/",
+      "title": "Sheriff on using drone to disarm felon: 'Definitely the future'",
+      "date": "2026-06-23T17:00:16.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/national-security/5935309-defense-bill-foreign-funding/",
+      "title": "Congress should bring campus transparency into the defense bill",
+      "date": "2026-06-23T17:00:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/2026/jun/23/department-of-homeland-security-will-allow-iran-to-travel-to-us-early-for-world-cup-match",
+      "title": "Department of Homeland Security will allow Iran to travel to US early for World Cup match",
+      "date": "2026-06-23T16:57:15.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/george-pino-not-guilty-florida-boat-crash",
+      "title": "Boat crash victim’s family dismayed after driver George Pino found not guilty",
+      "date": "2026-06-23T16:55:58.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/5936260-trump-defense-firms-munitions/",
+      "title": "Trump meeting major defense contractors amid munitions stockpiles concerns",
+      "date": "2026-06-23T16:49:58.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/new-york-lawmaker-cafe-banned-pro-israel-view",
+      "title": "New York lawmaker says it’s ‘sad’ that a cafe banned him over his pro-Israel views",
+      "date": "2026-06-23T16:44:53.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/sports-gaming/5936221-patriots-owner-pitches-nfl-on-scotland-game-after-tartan-army-visits-boston-report/",
+      "title": "Patriots owner pitches NFL on Scotland game after 'Tartan Army' visits Boston: Report",
+      "date": "2026-06-23T16:44:20.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/nation/8-convicted-of-terrorism-charges-in-texas-immigration-center-shooting-sentenced-to-decades-in-prison",
+      "title": "8 convicted of terrorism charges in Texas immigration center shooting sentenced to decades in prison",
+      "date": "2026-06-23T16:33:53.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/iran-wars-price-tag-hits-80b-more-than-double-what-congress-told",
+      "title": "Iran war's price tag hits $80B — more than double what Congress was told",
+      "date": "2026-06-23T16:10:36.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/23/scientist-us-legal-system-violence-brain",
+      "title": "A scientist says he can scan prisoners’ brains for signs of evil. Did his disputed science put a man on death row?",
+      "date": "2026-06-23T16:00:19.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5866455/revolutionary-war-continental-army-camden-south-carolina-maryland",
+      "title": "A Revolutionary War soldier's DNA links him to living relatives",
+      "date": "2026-06-23T15:59:35.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
+      "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
+      "date": "2026-06-23T15:57:29.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/supreme-court-ruling-rastafarian-man-religious-rights",
+      "title": "US supreme court blocks Rastafarian man’s lawsuit over forced head-shaving in prison",
+      "date": "2026-06-23T15:45:38.000Z"
+    },
+    {
+      "outlet": "The Christian Science Monitor",
+      "lean": "center",
+      "url": "https://www.csmonitor.com/USA/Education/2026/0623/inflation-teacher-salaries-schools?icid=rss",
+      "title": "Teachers look for extra work during summer and the school year as inflation surges",
+      "date": "2026-06-23T15:45:10.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/chico-library-shooting-northern-california",
+      "title": "Two people killed and child injured in northern California library shooting",
+      "date": "2026-06-23T15:41:49.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/23/g-s1-129648/afghan-taliban-hold-first-closed-door-talks-with-eu-on-deportations",
+      "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
+      "date": "2026-06-23T15:34:44.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/fbi-reveals-why-trump-white-house-ufc-event-went-ahead-despite-alleged-terror-plot",
+      "title": "FBI reveals why Trump White House UFC event went ahead despite alleged terror plot",
+      "date": "2026-06-23T15:15:29.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-touts-the-economy-in-pennsylvania-following-interim-agreement-with-iran",
+      "title": "WATCH LIVE: Trump touts the economy in Pennsylvania, following interim agreement with Iran",
+      "date": "2026-06-23T15:10:23.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/supreme-court-oks-exxonmobil-lawsuit-over-cuban-property-seized-by-fidel-castros-government",
+      "title": "Supreme Court OKs ExxonMobil lawsuit over Cuban property seized by Fidel Castro's government",
+      "date": "2026-06-23T15:04:51.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/us-sanctions-five-cuban-entities-castro-family-member-latest-pressure-campaign-rubio-says",
+      "title": "US sanctions five Cuban entities, Castro family member in latest pressure campaign, Rubio says",
+      "date": "2026-06-23T15:00:32.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/supreme-court-rules-rastafari-man-cant-sue-louisiana-prison-officials-who-cut-his-dreadlocks",
+      "title": "Supreme Court rules Rastafari man can't sue Louisiana prison officials who cut his dreadlocks",
+      "date": "2026-06-23T14:52:42.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/jd-vance-memoir-communion-finding-my-way-back-to-faith-concentrate-on-day-job",
+      "title": "JD Vance has written another book? Couldn’t he just concentrate on his day job? | Arwa Mahdawi",
+      "date": "2026-06-23T14:44:22.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/social-media-erupts-over-mamdanis-silence-after-brooklyn-coffee-shop-bans-jewish-congressman",
+      "title": "Social media erupts over Mamdani's silence after Brooklyn coffee shop bans Jewish congressman",
+      "date": "2026-06-23T14:28:40.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/supreme-court-ruling-cisco-china-falun-gong",
+      "title": "US supreme court ends lawsuit alleging Cisco helped China pursue Falun Gong",
+      "date": "2026-06-23T14:22:55.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/pentagon-asks-congress-for-roughly-80-billion-to-cover-cost-of-iran-war",
+      "title": "Pentagon asks Congress for roughly $80 billion to cover cost of Iran war",
+      "date": "2026-06-23T14:14:54.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/swalwell-pal-accused-using-campaign-cash-bankroll-luxury-lifestyle-including-super-bowl-tickets",
+      "title": "Swalwell pal accused of using campaign cash to bankroll ‘luxury lifestyle’ — including Super Bowl tickets",
+      "date": "2026-06-23T13:56:30.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-backs-both-south-carolina-gop-rivals-runoff-tests-his-endorsement-grip",
+      "title": "Trump backs both South Carolina GOP rivals as runoff tests his endorsement grip",
+      "date": "2026-06-23T13:55:13.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/world/how-brexit-broke-british-politics",
+      "title": "How Brexit broke British politics",
+      "date": "2026-06-23T13:52:41.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/mamdani-ai-industry-flex-political-power-in-new-york-and-what-else-to-watch-in-tuesdays-primaries",
+      "title": "Mamdani, AI industry flex political power in New York and what else to watch in Tuesday's primaries",
+      "date": "2026-06-23T13:34:35.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska",
+      "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska",
+      "date": "2026-06-23T13:34:29.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/world/niger-becomes-the-third-country-to-leave-the-international-criminal-court",
+      "title": "Niger becomes the third country to leave the International Criminal Court",
+      "date": "2026-06-23T13:07:02.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/jun/23/manfred-defends-mlbs-response-to-bible-verses-on-players-pride-caps",
+      "title": "Manfred defends MLB’s response to Bible verses on players’ Pride caps",
+      "date": "2026-06-23T12:14:12.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/23/super-el-nino-extreme-weather-trump",
+      "title": "A super El Niño threatens disaster. Trump is handling it recklessly | Terry Garcia",
+      "date": "2026-06-23T12:00:27.000Z"
+    },
     {
       "outlet": "BBC News",
       "lean": "center",
@@ -19,7 +523,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo",
-      "title": "World Cup 2026: Martínez says criticism of Ronaldo and Portugal ‘unfair’; England face Ghana – live",
+      "title": "World Cup 2026: Jordan fan dies in crowd crush; criticism of Ronaldo and Portugal ‘unfair’; England face Ghana – as it happened",
       "date": "2026-06-23T11:21:29.000Z"
     },
     {
@@ -93,6 +597,13 @@
       "date": "2026-06-23T11:00:00.000Z"
     },
     {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5866577/iran-trump-deal-300-billion-obama",
+      "title": "Who would pay for Trump's proposed $300 billion Iran reconstruction fund?",
+      "date": "2026-06-23T10:51:02.000Z"
+    },
+    {
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/commentisfree/2026/jun/23/air-pollution-clean-up-london-new-york-sadiq-khan-michael-bloomberg",
@@ -126,6 +637,13 @@
       "url": "https://www.npr.org/sections/planet-money/2026/06/23/g-s1-129339/when-falling-housing-prices-are-good-news-and-when-theyre-not",
       "title": "When falling housing prices are good news — and when they're not",
       "date": "2026-06-23T10:30:00.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
+      "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
+      "date": "2026-06-23T10:18:11.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -243,7 +761,7 @@
       "outlet": "NPR",
       "lean": "lean-left",
       "url": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
-      "title": "Iran's president heads to Pakistan as U.S.-Iran teams work on war-ending deal",
+      "title": "A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal",
       "date": "2026-06-23T09:29:01.000Z"
     },
     {
@@ -313,7 +831,7 @@
       "outlet": "NPR",
       "lean": "lean-left",
       "url": "https://www.npr.org/2026/06/23/nx-s1-5856300/charlie-kirk-assassination-jobs-social-media-payouts-fired-first-amendment-settlements",
-      "title": "After losing jobs for posting about Charlie Kirk, some are getting 6-figure payouts",
+      "title": "People fired over Charlie Kirk posts get big payouts for First Amendment retaliation",
       "date": "2026-06-23T09:00:00.000Z"
     },
     {
@@ -350,6 +868,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
       "title": "Ransom note claims Nancy Guthrie died after abduction",
       "date": "2026-06-23T08:10:56.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c9329ekydvdo?at_medium=RSS&at_campaign=rss",
+      "title": "From Boston to Miami: Tartan Army adjusts to World Cup culture shock",
+      "date": "2026-06-23T06:54:48.000Z"
     },
     {
       "outlet": "BBC News",
@@ -775,7 +1300,7 @@
       "outlet": "Fox News",
       "lean": "lean-right",
       "url": "https://www.foxnews.com/politics/olympian-charged-reflecting-pool-vandalism-tied-dem-fundraising-giant",
-      "title": "Olympian charged in Reflecting Pool vandalism tied to Dem fundraising giant",
+      "title": "Olympian charged in Reflecting Pool vandalism donated through Dem fundraising giant",
       "date": "2026-06-22T20:18:09.000Z"
     },
     {
@@ -812,482 +1337,6 @@
       "url": "https://www.foxnews.com/politics/two-new-defendants-charged-alleged-white-house-ufc-mass-casualty-attack-plot",
       "title": "Two new defendants charged in alleged White House UFC mass-casualty attack plot",
       "date": "2026-06-22T19:26:19.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/22/nx-s1-5866649/2026-world-cup-fifa-lionel-messi-argentina-scoring-record",
-      "title": "Magnificent Messi makes history, breaks all-time World Cup scoring record",
-      "date": "2026-06-22T19:22:45.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/far-from-millionaire-ilhan-omar-now-claims-potentially-negative-net-worth",
-      "title": "Far from a millionaire, Ilhan Omar now claims a potentially negative net worth",
-      "date": "2026-06-22T19:21:49.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/new-york-city-house-primary-race",
-      "title": "New York City House primary emerges as key battleground in ‘AI civil war’",
-      "date": "2026-06-22T19:03:45.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/watch-dems-unite-anti-terror-spying-authority-amid-standoff-trumps-dni-pick",
-      "title": "WATCH: Dems unite on anti-terror spying authority amid standoff over Trump's DNI pick",
-      "date": "2026-06-22T18:59:46.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/federal-subpoenas-minnesota-officials-order",
-      "title": "Judge blocks subpoenas for Walz and others over Minnesota immigration crackdown",
-      "date": "2026-06-22T18:46:14.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/chicago-mayor-ridiculed-touting-trans-violence-state-emergency-amid-murder-plagued-juneteenth-weekend",
-      "title": "Chicago mayor ridiculed for touting trans violence 'state of emergency' amid murder-plagued Juneteenth weekend",
-      "date": "2026-06-22T18:31:37.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/blue-state-hot-seat-taking-2-years-remove-criminal-illegal-alien-voter-roll",
-      "title": "Blue state in hot seat for taking more than 2 years to remove criminal illegal alien from voter roll",
-      "date": "2026-06-22T18:11:05.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/investigations/4619148/ilhan-omar-husband-financial-disclosure-discrepancy-income/",
-      "title": "Ilhan Omar claims husband only earned $200 last year after multimillion-dollar ‘accounting error’",
-      "date": "2026-06-22T17:56:43.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/justice/4619168/judge-quashes-subpoena-tim-walz-doj/",
-      "title": "Judge quashes subpoena of Tim Walz and accuses DOJ of trying to force immigration assistance",
-      "date": "2026-06-22T17:54:16.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/business/4619123/no-more-blue-brown-mms-unveils-dye-free-candy-rfk-jr-push/",
-      "title": "No more blue or brown: M&M’s unveils dye-free candy after RFK Jr. push",
-      "date": "2026-06-22T17:51:53.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/money/2026/jun/22/job-scams-employment-ai",
-      "title": "Job scams are growing and getting tougher to spot: ‘That’s the reality of this hell job market’",
-      "date": "2026-06-22T17:36:28.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/22/trump-reflecting-pool-vandalized-lincoln-memorial-iran-us-politics-latest-news-updates",
-      "title": "Trump says five people arrested as he again blames ‘vandals’ for reflecting pool damage without giving evidence – as it happened",
-      "date": "2026-06-22T17:34:51.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4618805/ukraine-poland-feud-threatens-relationship-upa/",
-      "title": "Historical feud threatens to derail crucial relationship for Ukraine",
-      "date": "2026-06-22T17:32:58.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/international/5933672-ukraine-is-framing-reality-for-russia-so-should-we/",
-      "title": "Ukraine is finally setting the terms for Russia — so should the US",
-      "date": "2026-06-22T17:30:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/5934530-judge-tosses-trump-subpoenas/",
-      "title": "Federal judge quashes Trump DOJ subpoenas aimed at Minnesota's Walz, Frey",
-      "date": "2026-06-22T17:28:55.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/federal-judge-halts-trump-administration-effort-to-subpoena-walz-in-immigration-enforcement-probe",
-      "title": "Federal judge halts Trump administration effort to subpoena Walz in immigration enforcement probe",
-      "date": "2026-06-22T17:26:18.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5934462-dead-duckling-reflecting-pool/",
-      "title": "Dead duckling found in Reflecting Pool",
-      "date": "2026-06-22T17:19:40.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4619113/trump-administration-public-input-oil-gas-leasing-interior/",
-      "title": "Trump administration proposes slashing public input to accelerate oil and gas leasing",
-      "date": "2026-06-22T17:17:05.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
-      "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
-      "date": "2026-06-22T17:06:12.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/house/4618824/house-gop-threatens-actblue-contempt-over-withheld-records/",
-      "title": "House GOP threatens ActBlue with contempt over withheld records",
-      "date": "2026-06-22T17:05:37.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/supreme-court/4618633/supreme-court-review-prisoners-sue-over-lack-medical-help-prison-riot/",
-      "title": "Supreme Court to review if inmate can sue over lack of medical help after prison riot",
-      "date": "2026-06-22T17:05:13.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/22/nx-s1-5866558/alan-greenspan-dead-ayn-rand",
-      "title": "Did you know? Alan Greenspan and Ayn Rand were close friends",
-      "date": "2026-06-22T17:05:12.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/business/5934465-nec-hasset-warsh-fed/",
-      "title": "Hassett: Warsh 'not asking the White House for advice' on interest rates",
-      "date": "2026-06-22T17:03:13.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/congress-blog/labor/5933641-union-dues-takers-interests/",
-      "title": "New federal rule exposes rift between unions and their members",
-      "date": "2026-06-22T17:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5933152-live-updates-donald-trump-vance-iran/",
-      "title": "Live updates: Vance optimistic as Iran talks make solid progress",
-      "date": "2026-06-22T16:56:38.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/immigration/4619023/uscis-boosts-citizenship-application-fee/",
-      "title": "USCIS boosts citizenship application fee to $1,300",
-      "date": "2026-06-22T16:43:56.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/international/5934205-andy-burnham-next-british-prime-minister/",
-      "title": "Who is Andy Burnham, likely Starmer successor as British prime minister?",
-      "date": "2026-06-22T16:42:43.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel",
-      "title": "Iran agrees to UN nuclear inspectors’ return as part of agreement with US",
-      "date": "2026-06-22T16:42:35.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/etan-patz-pedro-hernandez-conviction-reinstated",
-      "title": "US supreme court reinstates murder conviction in case of Etan Patz",
-      "date": "2026-06-22T16:41:31.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/technology/4618953/house-deal-pornography-user-age-verification-social-media-protections-minors/",
-      "title": "House reaches deal on pornography age verification and social media protections for minors",
-      "date": "2026-06-22T16:36:07.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/entertainment/4618670/abc-anti-fcc-ad-campaign-the-view-investigation/",
-      "title": "ABC airs anti-FCC ad campaign on The View as agency investigates talk show",
-      "date": "2026-06-22T16:35:03.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/healthcare/5934325-ebola-outbreak-congo/",
-      "title": "Confirmed Ebola cases in outbreak zone top 1,000",
-      "date": "2026-06-22T16:33:01.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/5934404-cole-allen-jeanine-pirro-todd-blanche-no-conflict/",
-      "title": "Judge denies correspondents' dinner shooting suspect's bid to disqualify Blanche, Pirro",
-      "date": "2026-06-22T16:32:05.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/energy-environment/5932710-ai-accelerating-cleanup-missions/",
-      "title": "How AI is accelerating America’s environmental cleanup mission",
-      "date": "2026-06-22T16:31:07.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/white-house/5933433-trump-iran-deal-criticism/",
-      "title": "From algae to Iran, Trump should do things right instead of just doing things",
-      "date": "2026-06-22T16:30:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/1230-report/5934356-the-hills-1230-report-iran-peace-talks-move-to-phase-2/",
-      "title": "The Hill's 12:30 Report — Iran peace talks move to phase 2",
-      "date": "2026-06-22T16:22:50.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary",
-      "title": "Alan Greenspan obituary",
-      "date": "2026-06-22T16:13:47.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live",
-      "title": "World Cup 2026: Cape Verde celebrations; Norway v Senegal weather warning – as it happened",
-      "date": "2026-06-22T16:03:00.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/what-happened-dc-reflecting-pool-vandalism-arrest-algae",
-      "title": "Trump claims ‘vandals’ foiled his $14m bid to revamp DC’s reflecting pool. What actually happened?",
-      "date": "2026-06-22T16:02:34.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-      "date": "2026-06-22T15:57:46.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-      "date": "2026-06-22T15:57:46.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/mississippi-boy-shooting",
-      "title": "Fatal shooting of one-year-old boy ignites tensions in Mississippi town",
-      "date": "2026-06-22T15:50:57.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/nation/los-angeles-schools-superintendent-resigns-after-fbi-search-and-months-on-paid-leave",
-      "title": "Los Angeles schools superintendent resigns after FBI search and months on paid leave",
-      "date": "2026-06-22T15:34:06.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/technology/5934266-bipartisan-deal-kids-online-protection/",
-      "title": "House unveils bipartisan kids online safety deal",
-      "date": "2026-06-22T15:31:36.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/cops-could-forced-race-based-guessing-game-after-supreme-court-move-thomas-joins-dissent",
-      "title": "Cops could be forced into race-based guessing game after Supreme Court move, Thomas joins dissent",
-      "date": "2026-06-22T15:27:51.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/man-rescued-vault-toilet-california-campsite",
-      "title": "Unhappy camper: man rescued after falling into toilet at California campsite",
-      "date": "2026-06-22T15:20:47.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/videos/c5yz2dmjdxyo?at_medium=RSS&at_campaign=rss",
-      "title": "Massive Los Angeles warehouse fire burns for fifth day",
-      "date": "2026-06-22T15:19:38.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/c5yz2dmjdxyo?at_medium=RSS&at_campaign=rss",
-      "title": "Massive Los Angeles warehouse fire burns for fifth day",
-      "date": "2026-06-22T15:19:38.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/business/5934236-prediction-markets-poll-results/",
-      "title": "Plurality in new polling says prediction market betting on elections should be illegal",
-      "date": "2026-06-22T15:17:08.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/chicagos-deadly-juneteenth-weekend-leaves-7-dead-trump-shames-dem-gov-inaction",
-      "title": "Chicago's deadly Juneteenth weekend leaves 7 dead as Trump shames Dem gov for inaction",
-      "date": "2026-06-22T15:15:57.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/international/5934180-hezbollah-israel-lebanon-netanyahu/",
-      "title": "Netanyahu: 'No restrictions' on Israel military acting to thwart Hezbollah threat",
-      "date": "2026-06-22T15:13:55.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/c6210wrp18no?at_medium=RSS&at_campaign=rss",
-      "title": "New York City's 'Little Senegal' comes together for World Cup",
-      "date": "2026-06-22T15:04:16.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/world/trump-endorsed-de-la-espriella-holds-a-slim-lead-in-colombias-election-as-his-rival-challenges-vote",
-      "title": "Trump-endorsed de la Espriella holds a slim lead in Colombia's election as his rival challenges vote",
-      "date": "2026-06-22T14:55:07.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
-      "title": "Vance says Iran will allow nuclear inspectors back into the country",
-      "date": "2026-06-22T14:18:19.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/22/g-s1-129323/2-students-in-custody-after-shooting-at-high-school-in-philippines-kills-3",
-      "title": "2 students in custody after shooting at high school in Philippines kills 3",
-      "date": "2026-06-22T14:10:55.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/vance-says-talks-with-iranian-officials-set-good-foundation-for-a-deal-to-end-the-war",
-      "title": "WATCH: Vance says talks with Iranian officials set 'good foundation' for a deal to end the war",
-      "date": "2026-06-22T14:07:34.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/los-angeles-superintendent-resigns-fbi-investigation",
-      "title": "Los Angeles schools superintendent resigns after FBI search warrants",
-      "date": "2026-06-22T14:06:00.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/us-hiv-aids-funding-cuts-activism",
-      "title": "‘A matter of life or death’: the activists confronting Congress about slashing HIV funding",
-      "date": "2026-06-22T14:00:25.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/jun/22/inside-wyndham-clark-lonely-us-open-coronation-golf",
-      "title": "The champion they didn’t want: inside Wyndham Clark’s lonely US Open coronation",
-      "date": "2026-06-22T13:45:59.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/bees-escape-truck-carrying-hives-overturns-texas",
-      "title": "Two million bees escape after truck carrying hives overturns in Texas",
-      "date": "2026-06-22T13:45:30.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/22/nx-s1-5863532/supreme-court-voting-rights-act-private-right-arkansas",
-      "title": "Supreme Court allows a ruling that ends a tool to protect minority voters in 7 states",
-      "date": "2026-06-22T13:32:09.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/22/tesla-drivers-crash-swimming-pool-home",
-      "title": "Tesla drivers crash into swimming pool and home in separate US incidents",
-      "date": "2026-06-22T13:31:07.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-dies-aged-100",
-      "title": "Alan Greenspan, longtime head of the US federal reserve, dies aged 100",
-      "date": "2026-06-22T12:46:23.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/chicago-resident-living-shadows-obama-presidential-center-reveal-chaos-caused-years-long-construction",
-      "title": "Chicago resident living in shadows of Obama Presidential Center reveal chaos caused by years-long construction",
-      "date": "2026-06-22T12:00:07.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/22/nx-s1-5863119/gut-microbiome-gut-health",
-      "title": "8 things to know about the gut microbiome and keeping yours healthy",
-      "date": "2026-06-22T12:00:00.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
-      "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
-      "date": "2026-06-22T11:55:36.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
-      "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
-      "date": "2026-06-22T11:55:36.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies",
-      "title": "Alan Greenspan, the legendary former Federal Reserve chair, dies",
-      "date": "2026-06-22T11:53:51.000Z"
     }
   ]
 }
