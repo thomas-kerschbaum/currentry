@@ -1,6 +1,734 @@
 {
-  "lastRefreshed": "2026-06-30T18:23:42.262Z",
+  "lastRefreshed": "2026-07-01T11:41:17.991Z",
   "articles": [
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4632083/trump-village-people-ymca-victor-willis-death/",
+      "title": "Trump honors Village People and ‘Y.M.C.A.’ singer Victor Willis after death announcement",
+      "date": "2026-07-01T11:33:47.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/campaign/5947512-nyc-socialism-latin-america-right-turn/",
+      "title": "The money runs out: Socialism, on the rise in NYC, is being routed elsewhere",
+      "date": "2026-07-01T11:30:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/01/g-s1-131327/up-first-newsletter-supreme-court-birthright-citizenship-colorado-primaries-world-cup-heat-american-pride",
+      "title": "SCOTUS upholds birthright citizenship. And, key results from Colorado's primaries",
+      "date": "2026-07-01T11:29:24.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/01/donald-trump-cryptocurrencies-supreme-court-birthright-citizenship-save-america-act-latest-news-updates",
+      "title": "White House rejects conflict-of-interest concerns as Trump’s crypto earnings soar – US politics live",
+      "date": "2026-07-01T11:24:21.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/newsletters/morning-report/5948966-gop-split-trump-birthright-citizenship-supreme-court-ruling/",
+      "title": "GOP split on path forward after birthright citizenship blow",
+      "date": "2026-07-01T11:06:05.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/30/trump-1bn-crypto-businesses-2025",
+      "title": "Alarm bells over conflict of interest as filing shows Trump raked in $2bn in 2025",
+      "date": "2026-07-01T11:04:57.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/firing-squad-execution-idaho",
+      "title": "Death by firing squad: archaic method on the rise in US as Idaho opens new execution chamber",
+      "date": "2026-07-01T11:00:36.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/thomas-jefferson-great-grandson-family-legacy",
+      "title": "‘I wish he had done more to free enslaved people’: Thomas Jefferson’s descendant on his family’s complex legacy",
+      "date": "2026-07-01T11:00:35.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/business/2026/jul/01/trump-voters-housing-affordability-bill",
+      "title": "Trump’s affordability crisis hits his supporters hardest as he calls housing bill of ‘minor importance’",
+      "date": "2026-07-01T11:00:34.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-labor-board-dismissals",
+      "title": "US labor board more likely to dismiss worker and union charges under Trump, analysis finds",
+      "date": "2026-07-01T11:00:33.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/technology/5947388-ai-governance-shift-federal-level/",
+      "title": "AI's usefulness depends on whether we can trust it to act alone",
+      "date": "2026-07-01T11:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/judiciary/5948306-title-ix-protects-women-girls-athletes/",
+      "title": "At the Supreme Court, female athletes won — and so did the truth",
+      "date": "2026-07-01T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4630946/kristi-noem-new-role-novared-mining-copper/",
+      "title": "Kristi Noem lands a new gig. Here’s why this role matters",
+      "date": "2026-07-01T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4631139/supreme-court-protected-child-rapists-from-execution-florida-tennessee-said-no/",
+      "title": "The Supreme Court protected child rapists from execution. Two states said no",
+      "date": "2026-07-01T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/senate/4631583/manchin-urges-democrat-fetterman-becoming-an-independent/",
+      "title": "Former Sen. Manchin urges Fetterman to ‘set yourself free’ by becoming an independent",
+      "date": "2026-07-01T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4631589/kennedy-hhs-sacrificing-cancer-cures-for-trial-bar-profits/",
+      "title": "Kennedy’s HHS is sacrificing cancer cures for trial bar profits",
+      "date": "2026-07-01T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/supreme-court/4631686/supreme-court-birthright-citizenship-conservative-justices/",
+      "title": "Supreme Court birthright citizenship decision renews conservative feud with GOP-appointed justices",
+      "date": "2026-07-01T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/4631748/trump-worst-case-scenario-birthright-citizenship/",
+      "title": "Trump faces ‘worst-case scenario’ on birthright citizenship after Supreme Court shuts door on executive, legislative fixes",
+      "date": "2026-07-01T11:00:00.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o?at_medium=RSS&at_campaign=rss",
+      "title": "Dangerous heatwave to hit US ahead of holiday weekend",
+      "date": "2026-07-01T10:45:49.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/watch-angel-mom-turns-tables-sanctuary-politicians-simple-question-priorities",
+      "title": "WATCH: Angel mom turns tables on sanctuary politicians with basic question about their priorities",
+      "date": "2026-07-01T10:30:37.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4632070/zelensky-calls-for-peace-after-ukraine-strikes-russian-oil-refinery-and-military-complex/",
+      "title": "Zelensky calls for peace after Ukraine strikes Russian oil refinery and military complex",
+      "date": "2026-07-01T10:29:57.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/new-yorkers-lose-health-insurance-trump-cuts",
+      "title": "‘Tip of the iceberg’: nearly 500,000 New Yorkers lose health insurance due to Trump cuts",
+      "date": "2026-07-01T10:00:33.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/01/stephen-spielberg-disclosure-day-aliens-extraterrestrial",
+      "title": "Spielberg’s Disclosure Day is making some wonder: will we have real disclosure soon? | Seth Shostak",
+      "date": "2026-07-01T10:00:33.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/01/what-is-the-united-states-of-america-now",
+      "title": "What is the United States of America now? | Rebecca Solnit",
+      "date": "2026-07-01T10:00:33.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/jul/01/lebron-james-nba-next-team",
+      "title": "What’s next for LeBron James: a Curry alliance, return to Cleveland or a Wembanyama mentor?",
+      "date": "2026-07-01T10:00:33.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/supreme-court-appeal-richard-trahant",
+      "title": "US supreme court rejects appeal from lawyer punished over effort to remove abusive priest",
+      "date": "2026-07-01T10:00:32.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/harris-backed-democrat-scrubs-blm-era-posts-house-campaign-heats-up",
+      "title": "Harris-backed Democrat scrubs BLM-era posts as House campaign heats up",
+      "date": "2026-07-01T10:00:22.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/americas-favorite-beers-jobs-tied-center-brewing-trade-fight",
+      "title": "America's favorite beers — and the jobs tied to them — are at the center of a brewing trade fight",
+      "date": "2026-07-01T10:00:08.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5867594/banksy-flag-man-statue-london",
+      "title": "Greetings from London, where Banksy's flag man is a warning cry",
+      "date": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/5948365-warren-schumer-senate-influence/",
+      "title": "Schumer, Warren locked in battle over future of Democratic Party",
+      "date": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/technology/5948098-trump-openai-ai-policy-confusion/",
+      "title": "FOR INSIDERS: Trump White House holds back new AI models, spurring confusion",
+      "date": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/5948517-iran-leveraging-strait-hormuz-trump/",
+      "title": "FOR INSIDERS: Iran's flex in Strait of Hormuz puts Trump on back foot",
+      "date": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/5946437-ocasio-cortez-schumer-senate-new-york/",
+      "title": "New York primaries spur progressive calls for Ocasio-Cortez to challenge Schumer",
+      "date": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/blogs/in-the-know/5948089-mcbride-transgender-rights-state-of-firsts/",
+      "title": "Rep. Sarah McBride rejects being seen as 'walking trans flag' in 'State of Firsts' doc",
+      "date": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/5948254-senate-battle-seats-flip/",
+      "title": "FOR INSIDERS: The 5 Senate seats most likely to flip in November",
+      "date": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5947938-democrats-election-safeguard-efforts/",
+      "title": "Democrats ramp up efforts to fight Trump, GOP over election integrity",
+      "date": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4613055/first-round-july-social-security-payments-out-7-days/",
+      "title": "First round of July Social Security payments goes out in 7 days",
+      "date": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/in_focus/4620268/turkey-is-the-real-winner-in-the-middle-easts-latest-war/",
+      "title": "Turkey is the real winner in the Middle East’s latest war",
+      "date": "2026-07-01T10:00:00.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/poll-most-americans-think-the-u-s-has-strayed-from-its-founding-principles",
+      "title": "Poll: Most Americans think the U.S. has strayed from its founding principles",
+      "date": "2026-07-01T09:00:09.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5812852/autism-drowning-florida-swim-lessons-voucher",
+      "title": "Kids with autism are prone to drowning. Florida is trying to prevent that",
+      "date": "2026-07-01T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5859333/voter-roll-purge-supreme-court",
+      "title": "A federal law bans late voter roll purges. Republicans are pushing to reinterpret it",
+      "date": "2026-07-01T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5872791/kiros-colorado-democratic-socialist-weiser-bennet-primaries",
+      "title": "In Colorado primaries, a democratic socialist wins; Bennet's governor bid ends",
+      "date": "2026-07-01T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5871208/5-safety-tips-to-keep-you-out-of-the-emergency-room-this-summer",
+      "title": "5 safety tips to keep you out of the emergency room this summer",
+      "date": "2026-07-01T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5867587/america-250th-past-anniversaries",
+      "title": "How America has celebrated milestone birthdays, from world fairs to the World Cup",
+      "date": "2026-07-01T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5869367/crowded-skies-strain-aviation",
+      "title": "Crowded planes and airports set records, straining the U.S. aviation system",
+      "date": "2026-07-01T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5875173/world-cup-heat-wave-dome-philadelphia-new-york-new-jersey",
+      "title": "World Cup's knockout rounds collide with a massive heat wave",
+      "date": "2026-07-01T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5874124/dhs-tracks-ice-critic",
+      "title": "Months after he sent a harsh email to ICE, agents tracked him to his home and a hotel",
+      "date": "2026-07-01T09:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5948419-uphill-battle-trump-save-act/",
+      "title": "Anything but SAVE America Act is a ‘big yawn’ to Trump",
+      "date": "2026-07-01T09:00:00.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/dsas-third-major-primary-win-deepens-democrats-fight-over-partys-future",
+      "title": "DSA’s third major primary win deepens Democrats’ fight over the party’s future",
+      "date": "2026-07-01T08:00:08.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump made more than $1bn from crypto in first year back in office",
+      "date": "2026-07-01T07:30:53.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-administration-threatens-kansas-school-district-funding-over-transgender-student-policy",
+      "title": "Trump administration threatens Kansas school district funding over transgender student policy",
+      "date": "2026-07-01T07:18:09.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/cq5177z8velo?at_medium=RSS&at_campaign=rss",
+      "title": "World Cup fans sweat through US 'heat dome'",
+      "date": "2026-07-01T06:41:26.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c70yj1749j0o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about Taylor Swift's rumoured NYC wedding celebrations",
+      "date": "2026-07-01T06:18:17.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/c05yv6d9yq4o?at_medium=RSS&at_campaign=rss",
+      "title": "'We're still standing': Americans on the state of the nation in its 250th year",
+      "date": "2026-07-01T05:07:31.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cwykxwd43pwo?at_medium=RSS&at_campaign=rss",
+      "title": "Canada celebrates its birthday as Mark Carney battles to keep it intact",
+      "date": "2026-07-01T05:00:13.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/melat-kiros-democrat-defeats-diana-degette-blue-state-colarado-house-primary-denver",
+      "title": "Democratic socialist Melat Kiros defeats 15-term incumbent in Colorado House primary",
+      "date": "2026-07-01T04:32:35.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/live/2026/jul/01/fifa-world-cup-2026-live-mexico-v-ecuador-updates-mex-vs-ecu-last-round-32-match-score-latest",
+      "title": "Mexico 2-0 Ecuador: World Cup 2026 last 32 – as it happened",
+      "date": "2026-07-01T04:18:51.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/socialism-goes-west-dsa-backed-challenger-ousts-longtime-democrat",
+      "title": "Socialism goes west as DSA-backed challenger ousts longtime Democrat",
+      "date": "2026-07-01T04:05:03.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/01/why-meloni-has-hit-back-hard-against-trump-and-his-made-up-photo-claim",
+      "title": "Why Meloni has hit back hard against Trump and his ‘made up’ photo claim | Riccardo Alcaro",
+      "date": "2026-07-01T04:00:25.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5948845-takeaways-colorado-primaries/",
+      "title": "Far-left extends victory streak into Denver: Key takeaways from Colorado’s primaries",
+      "date": "2026-07-01T03:43:12.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic says US lifts export ban on its advanced AI tools",
+      "date": "2026-07-01T03:39:44.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5948374-hickenlooper-wins-democratic-primary/",
+      "title": "Hickenlooper wins Democratic primary, Baisley wins GOP nod",
+      "date": "2026-07-01T03:04:19.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/regulation/court-battles/5948804-birthright-citizenship-ruling-criticized/",
+      "title": "Vance calls Supreme Court birthright ruling a 'major mistake'",
+      "date": "2026-07-01T02:47:43.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/anti-trump-senator-defeated-far-left-rival-after-heated-dem-primary",
+      "title": "Anti-Trump senator defeated by far-left rival after heated gubernatorial primary",
+      "date": "2026-07-01T02:22:18.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/ex-talk-show-host-take-former-chief-advisor-kamala-harris-husband",
+      "title": "Ex-talk show host will take on former chief advisor to Kamala Harris’ husband",
+      "date": "2026-07-01T02:06:23.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/mamdani-comparisons-follow-colorado-democrat-pivotal-house-race-primary-win",
+      "title": "Mamdani comparisons follow Colorado Democrat into pivotal House race after primary win",
+      "date": "2026-07-01T01:56:55.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/state-department-announces-total-compliance-venezuelan-government-relief-efforts-maduro-arrest",
+      "title": "State Department announces 'total compliance' from Venezuelan government in relief efforts after Maduro arrest",
+      "date": "2026-07-01T01:48:48.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/progressive-momentum-hits-speed-bump-veteran-democrat-fends-off-challenger-colorado",
+      "title": "Progressive momentum hits speed bump as veteran Democrat fends off challenger in Colorado",
+      "date": "2026-07-01T01:44:40.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-backed-incumbent-survives-right-wing-primary-challenge-after-endorsement-drama-colorado",
+      "title": "Trump-backed incumbent survives right-wing primary challenge after endorsement drama in Colorado",
+      "date": "2026-07-01T01:36:44.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c9v20gn7r21o?at_medium=RSS&at_campaign=rss",
+      "title": "Basketball superstar LeBron James to leave LA Lakers",
+      "date": "2026-07-01T01:34:50.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/30/trump-republican-convention-midterms-dallas",
+      "title": "‘Historic Event’: Trump announces Republican midterm convention",
+      "date": "2026-07-01T01:30:58.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/conservative-firebrand-cruises-primary-win-clash-trump",
+      "title": "Conservative firebrand cruises to primary win despite clash with Trump",
+      "date": "2026-07-01T01:10:12.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/2026/jun/30/usmnt-penalty-kicks-mauricio-pochettino-world-cup",
+      "title": "How USMNT prepare for World Cup penalty drama: confidence, composure and consultants",
+      "date": "2026-07-01T00:48:54.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/federal-judge-blocks-blue-states-law-prohibiting-ice-agents-wearing-masks-job",
+      "title": "Federal judge blocks blue state's law prohibiting ICE agents from wearing masks on the job",
+      "date": "2026-07-01T00:19:57.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/trump-took-in-about-1-2-billion-from-crypto-businesses-last-year-financial-disclosure-shows",
+      "title": "Trump took in about $1.2 billion from crypto businesses last year, financial disclosure shows",
+      "date": "2026-07-01T00:15:21.000Z"
+    },
+    {
+      "outlet": "The Christian Science Monitor",
+      "lean": "center",
+      "url": "https://www.csmonitor.com/USA/Justice/2026/0630/supreme-court-transgender-athletes?icid=rss",
+      "title": "Supreme Court upholds bans on transgender athletes in girls’ and women’s school sports",
+      "date": "2026-06-30T23:48:29.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/white-house-picks-harvard-professor-with-polarizing-alien-theories-to-lead-new-ufo-council",
+      "title": "White House picks Harvard professor with polarizing alien theories to lead new UFO council",
+      "date": "2026-06-30T23:31:52.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/republican-party-host-historic-midterm-convention-dallas-trump-announces-truth-social",
+      "title": "Republican Party to host historic midterm convention in Dallas, Trump announces on Truth Social",
+      "date": "2026-06-30T23:23:26.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/show/examining-the-supreme-courts-birthright-citizenship-campaign-finance-rulings",
+      "title": "Examining the Supreme Court's birthright citizenship, campaign finance rulings",
+      "date": "2026-06-30T22:55:40.000Z"
+    },
+    {
+      "outlet": "The Christian Science Monitor",
+      "lean": "center",
+      "url": "https://www.csmonitor.com/USA/Justice/2026/0630/supreme-court-birthright-citizenship?icid=rss",
+      "title": "Supreme Court rejects Trump bid to end birthright citizenship",
+      "date": "2026-06-30T22:54:01.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/show/how-the-birthright-citizenship-decision-impacts-trumps-immigration-agenda",
+      "title": "How the birthright citizenship decision impacts Trump's immigration agenda",
+      "date": "2026-06-30T22:50:54.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/trump-announces-republican-midterm-convention-in-dallas-in-september",
+      "title": "Trump announces Republican midterm convention in Dallas in September",
+      "date": "2026-06-30T22:46:42.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/show/who-is-affected-by-the-supreme-courts-ruling-on-trans-athletes-in-womens-sports",
+      "title": "Who is affected by the Supreme Court's ruling on trans athletes in women's sports",
+      "date": "2026-06-30T22:45:00.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/show/supreme-court-transforms-campaign-finance-rules-lifting-limits-on-party-spending",
+      "title": "Supreme Court transforms campaign finance rules, lifting limits on party spending",
+      "date": "2026-06-30T22:40:04.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/show/trumps-response-to-the-landmark-supreme-court-rulings-and-whats-next",
+      "title": "Trump's response to the landmark Supreme Court rulings and what's next",
+      "date": "2026-06-30T22:35:01.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+      "date": "2026-06-30T22:29:47.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/show/new-jersey-rep-tom-kean-returns-to-congress-after-mysterious-absence",
+      "title": "New Jersey Rep. Tom Kean returns to Congress after mysterious absence",
+      "date": "2026-06-30T22:20:17.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/jun/30/alyssa-thomas-wnba-caitlin-clark-death-threats-cathy-engelbert",
+      "title": "Alyssa Thomas calls out WNBA after receiving death threats, racial abuse from Caitlin Clark foul incident",
+      "date": "2026-06-30T22:15:14.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/30/trump-public-service-workers-student-loan-forgiveness",
+      "title": "Judge blocks rule to strip public service workers of student loan forgiveness",
+      "date": "2026-06-30T22:12:38.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/first-lady-cites-memoir-supreme-court-upholds-state-laws-reserving-girls-sports-biological-females",
+      "title": "First lady cites memoir after Supreme Court upholds state laws reserving girls' sports for biological females",
+      "date": "2026-06-30T22:12:03.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/fox-news-poll-maine-senate-race-tight-concerns-about-both-candidates",
+      "title": "Fox News Poll: Maine Senate race is tight, with concerns about both candidates",
+      "date": "2026-06-30T22:00:01.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/house-backs-massies-push-release-taxpayer-funded-sexual-harassment-settlement-records",
+      "title": "House backs Massie's push to release taxpayer-funded sexual harassment settlement records",
+      "date": "2026-06-30T21:52:33.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/jim-banks-gop-lawmakers-rally-behind-doj-probe-alleged-ccp-linked-funding-network",
+      "title": "Jim Banks, GOP lawmakers rally behind DOJ probe into alleged CCP-linked funding network",
+      "date": "2026-06-30T21:18:40.000Z"
+    },
+    {
+      "outlet": "The Christian Science Monitor",
+      "lean": "center",
+      "url": "https://www.csmonitor.com/USA/Society/2026/0630/usa-vs-bosnia-and-herzegovina-world-cup?icid=rss",
+      "title": "USA vs. Bosnia: How far can America’s ‘golden generation’ go?",
+      "date": "2026-06-30T21:14:07.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/raskin-tells-lawler-get-hell-out-during-contentious-hearing",
+      "title": "Raskin tells Lawler to 'get the hell out' during contentious hearing",
+      "date": "2026-06-30T21:03:33.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/video/2026/jun/30/trump-us-250th-anniversary",
+      "title": "How Trump is making the US's 250th anniversary about himself – video",
+      "date": "2026-06-30T20:55:45.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-suspends-funding-for-new-yorks-medicaid-fraud-unit-over-low-performance",
+      "title": "Trump administration suspends funding for New York's Medicaid fraud unit over low performance",
+      "date": "2026-06-30T20:52:02.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jun/30/supreme-court-birthright-citizenship-key-takeaways",
+      "title": "Key quotes from the supreme court birthright ruling: ‘Citizenship is the right to have rights’",
+      "date": "2026-06-30T20:03:21.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/watch-maryland-dems-defend-big-tent-party-new-york-socialist-surge-fuels-dem-divide",
+      "title": "WATCH: Maryland Dems defend ‘big tent’ party as New York socialist surge fuels Dem divide",
+      "date": "2026-06-30T19:52:26.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/c621d53wqw0o?at_medium=RSS&at_campaign=rss",
+      "title": "Americans react to Supreme Court upholding birthright citizenship",
+      "date": "2026-06-30T19:36:51.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/congress-eyes-rare-bipartisan-housing-win-without-trumps-help",
+      "title": "Congress eyes rare bipartisan housing win with or without Trump's help",
+      "date": "2026-06-30T19:10:16.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/exclusive-hawley-launches-investigation-postal-service-dumped-mail-millions-executive-bonuses",
+      "title": "EXCLUSIVE: Hawley launches investigation into Postal Service over dumped mail, millions in executive bonuses",
+      "date": "2026-06-30T19:03:23.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/lawmakers-press-eli-lilly-china-drug-trials-tied-military-linked-hospitals",
+      "title": "Lawmakers press Eli Lilly for China drug trials tied to military-linked hospitals",
+      "date": "2026-06-30T18:51:25.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/dems-join-republicans-crush-tlaibs-war-powers-resolution-lopsided-house-vote",
+      "title": "Dems join Republicans to crush Tlaib's war powers resolution in lopsided House vote",
+      "date": "2026-06-30T18:31:04.000Z"
+    },
     {
       "outlet": "Fox News",
       "lean": "lean-right",
@@ -222,7 +950,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-      "title": "US Supreme Court upholds bans on transgender women in female school and college sports",
+      "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
       "date": "2026-06-30T17:02:39.000Z"
     },
     {
@@ -581,860 +1309,6 @@
       "url": "https://www.foxnews.com/politics/house-gops-save-act-rescue-plan-hits-resistance-from-conservative-holdouts",
       "title": "House GOP's SAVE Act rescue plan hits resistance from conservative holdouts",
       "date": "2026-06-30T11:46:12.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cp8l7pyj8vko?at_medium=RSS&at_campaign=rss",
-      "title": "US Supreme Court to rule on birthright citizenship and trans athletes",
-      "date": "2026-06-30T11:14:49.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/live/2026/jun/30/wimbledon-2026-serena-williams-returns-swiatek-zverev-and-boulter-in-action-live",
-      "title": "Wimbledon 2026: Swiatek and Zverev battle through before Serena Williams return – live",
-      "date": "2026-06-30T11:14:17.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/30/first-thing-supreme-court-trump-fire-agency-chiefs-rules-against-him-mail-in-ballots",
-      "title": "First Thing: Supreme court backs Trump’s ability to fire agency chiefs but rules against him on mail-in ballots",
-      "date": "2026-06-30T11:13:10.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news",
-      "title": "Trump threatens to abolish birthright citizenship through Congress after supreme court rules against him – live",
-      "date": "2026-06-30T11:11:45.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/30/us-drug-agents-new-mexico-fentanyl",
-      "title": "Did US drug agents allow lethal fentanyl to hit New Mexico’s streets?",
-      "date": "2026-06-30T11:00:04.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/house/4628187/how-much-voters-know-lawmakers-health/",
-      "title": "How much should voters know about lawmakers’ health?",
-      "date": "2026-06-30T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4629173/trumpworld-buyers-remorse-amy-coney-barrett-supreme-court/",
-      "title": "Trumpworld ‘obviously’ feeling buyer’s remorse over Amy Coney Barrett",
-      "date": "2026-06-30T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/state/4629669/michael-bennet-uncertainty-colorado-governor-primary/",
-      "title": "Michael Bennet faces uncertainty in surprise ‘toss-up’ primary for Colorado governor",
-      "date": "2026-06-30T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4629752/moreno-social-security-tax-cap-lift-ohio/",
-      "title": "Moreno bets that lifting cap on Social Security taxes will play in Ohio",
-      "date": "2026-06-30T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4629764/bernie-sanders-government-ai-companies-bad-idea/",
-      "title": "Bernie Sanders wants the government to own AI companies. That’s a bad idea",
-      "date": "2026-06-30T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4629823/socialist-democrats-working-class/",
-      "title": "Socialists failing to deliver the working class to Democrats",
-      "date": "2026-06-30T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/4630094/ukrainian-drones-strike-russian-space-communications-center-in-moscow-region/",
-      "title": "Ukrainian drones strike Russian space communications center in Moscow region",
-      "date": "2026-06-30T10:11:05.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trumps-massive-gop-faith-bloc-raises-red-flag-iran-deal-trust-him-not-his-team",
-      "title": "Trump’s massive GOP faith bloc raises red flag on Iran deal: Trust him, not his team",
-      "date": "2026-06-30T10:00:48.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/seattle-pride-parade-pandemonium-nude-marchers-prance-streets-front-children",
-      "title": "Seattle Pride parade pandemonium as nude marchers prance through streets in front of children",
-      "date": "2026-06-30T10:00:42.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/iran-fights-keep-grip-hormuz-us-gulf-allies-carve-new-shipping-route",
-      "title": "Iran fights to keep grip on Hormuz as US, Gulf allies carve new shipping route",
-      "date": "2026-06-30T10:00:33.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/clinton-confidant-who-called-maxwell-his-lover-grilled-congress-over-epstein-ties",
-      "title": "Clinton confidant who called Maxwell his 'lover' grilled by Congress over Epstein ties",
-      "date": "2026-06-30T10:00:15.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/football/2026/jun/30/esmir-bajraktarevic-bosnia-and-herzegovina-usmnt",
-      "title": "Meet Wisconsin-born Esmir Bajraktarević, Bosnia and Herzegovina’s World Cup hero",
-      "date": "2026-06-30T10:00:06.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/probe-subversive-anti-ai-singham-network-enormous-former-treasury-advisor-says",
-      "title": "Probe into 'subversive' anti-AI Singham network is 'enormous,' former Treasury advisor says",
-      "date": "2026-06-30T10:00:06.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/democratic-socialists-rural-voters",
-      "title": "Progressives are winning in American cities. Can they win rural voters too? | Bhaskar Sunkara",
-      "date": "2026-06-30T10:00:04.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/30/kash-patel-post-fbi-case-social-media",
-      "title": "Kash Patel draws flak for posting FBI case details on social media ‘to make himself look good’",
-      "date": "2026-06-30T10:00:03.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5875206/trumps-cuts-science-researchers-move-abroad",
-      "title": "After Trump's reelection, these U.S. scientists found jobs in the U.K.",
-      "date": "2026-06-30T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5945924-democratic-house-incumbents-defeated/",
-      "title": "Colorado primary tests reach, staying power of Democrats' socialist surge",
-      "date": "2026-06-30T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5946515-colorado-democratic-socialists-primaries/",
-      "title": "Far left looks for latest win in Colorado: Five things to watch in the primaries",
-      "date": "2026-06-30T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5946435-trump-democrats-communists-midterms/",
-      "title": "Trump launches midterm offensive against Democrats over 'communism'",
-      "date": "2026-06-30T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/5946478-iran-conflict-2028-presidential-primary/",
-      "title": "GOP senators see Iran deal as potential pitfall for Vance in 2028",
-      "date": "2026-06-30T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/5946439-haitian-syrian-tps-end/",
-      "title": "Supreme Court ruling on deportation protections is ‘bad news’ for every TPS recipient",
-      "date": "2026-06-30T10:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4627271/bird-rutinel-meet-in-primary/",
-      "title": "Ethnicity and electability at center of nasty Democratic primary in Colorado",
-      "date": "2026-06-30T10:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4628087/why-cant-media-call-antifa-terrorists-what-they-are/",
-      "title": "Why can’t the media call antifa terrorists what they are?",
-      "date": "2026-06-30T10:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/immigration/4628563/haitians-syrians-self-deport-or-face-ice/",
-      "title": "Haitians and Syrians must self-deport in a matter of hours or face ICE, officials say",
-      "date": "2026-06-30T10:00:00.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cp9l7gmlkppo?at_medium=RSS&at_campaign=rss",
-      "title": "A new test for Democrats - where they stand on Israel",
-      "date": "2026-06-30T09:30:04.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/30/alleged-epstein-victim-trump-accuser",
-      "title": "Alleged Epstein victim and Trump accuser living in fear of retaliation, relative says",
-      "date": "2026-06-30T09:00:38.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/30/supreme-court-trump-v-slaughter",
-      "title": "The supreme court has again undermined the power of Congress | Moira Donegan",
-      "date": "2026-06-30T09:00:37.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/socialists-take-fight-west-target-colorado-latest-bid-oust-democratic-party-establishment",
-      "title": "Socialists take fight west, target Colorado in latest bid to oust Democratic Party establishment",
-      "date": "2026-06-30T09:00:28.000Z"
-    },
-    {
-      "outlet": "The Christian Science Monitor",
-      "lean": "center",
-      "url": "https://www.csmonitor.com/USA/Politics/2026/0630/ai-congress-digital-safety?icid=rss",
-      "title": "Congress weighs kids’ digital safety – and Big Tech accountability",
-      "date": "2026-06-30T09:00:17.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/fetterman-unleashes-dirtbag-wing-dems-far-left-victories-orgy-socialism",
-      "title": "Fetterman unleashes on 'dirtbag' wing of Dems after far-left victories: 'Orgy of socialism'",
-      "date": "2026-06-30T09:00:14.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/30/g-s1-129953/remaking-immigration-explainer-video",
-      "title": "Inside the coordinated strategy to radically reshape U.S. immigration",
-      "date": "2026-06-30T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/30/g-s1-129870/colorado-primary-election-results-2026",
-      "title": "Here are Colorado's 2026 primary election results",
-      "date": "2026-06-30T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5866810/us-murder-rate-record-low-crime-homicide",
-      "title": "U.S. murder rate approaches a record low",
-      "date": "2026-06-30T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5869642/workforce-pell-grants-programs-dont-quality",
-      "title": "Federal money for workforce training begins, but few programs qualify",
-      "date": "2026-06-30T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5875287/venezuela-deportees-us-quakes",
-      "title": "Venezuelans deported from the U.S. were killed hours later in powerful quakes",
-      "date": "2026-06-30T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5873958/morning-news-brief",
-      "title": "Morning news brief",
-      "date": "2026-06-30T08:47:41.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/jun/30/aqueduct-racetrack-closing-last-day-horse-racing-photos",
-      "title": "‘I’m going to miss this place’: Aqueduct bids farewell after 132 years as New York City’s racetrack",
-      "date": "2026-06-30T08:30:42.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/football/2026/jun/30/bill-nuttall-world-cup-pele-gerd-muller-gordon-banks-chattanooga",
-      "title": "Bill Nuttall on saving Pelé’s penalty and building a US team from scratch",
-      "date": "2026-06-30T07:00:42.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/cp3x257qkx9o?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: Young bald eagle takes first flight in California",
-      "date": "2026-06-30T05:59:50.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/30/g-s1-130990/explosion-monaco-ukrainian-tycoon",
-      "title": "Explosion in Monaco injures 3, including Ukrainian tycoon",
-      "date": "2026-06-30T05:35:07.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/healthcare/5946717-kennedy-denies-cassidy-criticism/",
-      "title": "RFK Jr. says Cassidy accusing him of breaking promises 'not true'",
-      "date": "2026-06-30T03:06:09.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/5946718-save-america-act-ndaa-merger/",
-      "title": "Key panel advances Johnson’s plan to merge SAVE America Act with NDAA",
-      "date": "2026-06-30T02:43:04.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5946710-ohio-voters-ramaswamy-husted/",
-      "title": "Ramaswamy, Husted trail Democrats in Ohio poll by AARP",
-      "date": "2026-06-30T02:27:25.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
-      "title": "Chinese tycoon sentenced to 30 years in US jail",
-      "date": "2026-06-30T02:08:21.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/international/5946657-venezuela-earthquakes-three-americans-die/",
-      "title": "Three Americans dead in Venezuela earthquakes, says State Department",
-      "date": "2026-06-30T01:47:49.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
-      "title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
-      "date": "2026-06-30T01:43:29.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/carl-rinsch-47-ronin-netflix-fraud",
-      "title": "Director sentenced to more than two years for defrauding Netflix out of $11m",
-      "date": "2026-06-30T01:25:16.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/trump-news-at-a-glance-e-jean-carroll",
-      "title": "Trump news at a glance: Trump tried to appeal E Jean Carroll verdict all the way to the supreme court. They passed",
-      "date": "2026-06-30T01:03:17.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/dan-sullivan-alaska-primary",
-      "title": "Both Republican Dan Sullivans can compete in Alaska primary, court rules",
-      "date": "2026-06-30T00:54:22.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-taps-acting-labor-secretary-keith-sonderling-permanent-role-pending-senate-confirmation",
-      "title": "Trump taps acting Labor Secretary Keith Sonderling for permanent role pending Senate confirmation",
-      "date": "2026-06-30T00:50:52.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/5946645-speaker-johnson-save-america-ndaa/",
-      "title": "Johnson announces gambit to attach SAVE America Act to must-pass defense bill",
-      "date": "2026-06-30T00:36:18.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/transportation/5946546-rep-miller-slams-american-airlines/",
-      "title": "GOP House member calls out American Airlines for delays, missed votes",
-      "date": "2026-06-30T00:35:02.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/29/nx-s1-5875427/michigan-governor-national-guard-dc",
-      "title": "Michigan governor threatens to pull troops from D.C. if used for Trump task force",
-      "date": "2026-06-29T23:34:58.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
-      "title": "What to know about the looming deadline on North American free trade",
-      "date": "2026-06-29T23:32:52.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/health/fda-panel-on-peptides-will-include-experts-who-promote-the-unproven-chemicals-favored-by-rfk-jr",
-      "title": "FDA panel on peptides will include experts who promote the unproven chemicals favored by RFK Jr.",
-      "date": "2026-06-29T23:31:47.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5946587-trump-nominates-keith-sonderling-labor-secretary/",
-      "title": "Trump nominates acting head Keith Sonderling as Labor secretary",
-      "date": "2026-06-29T23:19:10.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/professor-known-for-torture-memos-will-advise-conspiracy-probe-focused-on-perceived-trump-foes",
-      "title": "Professor known for 'torture memos' will advise conspiracy probe focused on perceived Trump foes",
-      "date": "2026-06-29T23:16:32.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/5946180-house-passes-kids-online-safety-package/",
-      "title": "House passes kids online safety package despite watchdog pushback",
-      "date": "2026-06-29T23:12:55.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/defense-national-security/5946576-trump-administration-officials-head-to-qatar-for-iran-talks/",
-      "title": "Trump administration officials head to Qatar for Iran talks",
-      "date": "2026-06-29T23:04:02.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/show/what-the-supreme-court-rulings-mean-for-presidential-power",
-      "title": "What the Supreme Court rulings mean for presidential power",
-      "date": "2026-06-29T22:55:00.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/show/supreme-court-ruling-proves-federal-reserve-is-unique-agency-lisa-cooks-lawyer-says",
-      "title": "Supreme Court ruling proves Federal Reserve is unique agency, Lisa Cook's lawyer says",
-      "date": "2026-06-29T22:50:02.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-rules-constitutional-protections-apply-to-location-data",
-      "title": "News Wrap: Supreme Court rules constitutional protections apply to location data",
-      "date": "2026-06-29T22:40:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/healthcare/5946502-aca-enrollment-drop-premiums-spike/",
-      "title": "Millions dropped ObamaCare plans after subsidies ended",
-      "date": "2026-06-29T22:39:15.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/emotion-feelings-democratic-socialists-congressional-insurgency-come-back-bite-them",
-      "title": "Emotion and feelings: How Democratic Socialists' congressional insurgency could come back to bite them",
-      "date": "2026-06-29T22:34:41.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/show/american-dream-slipping-out-of-reach-for-many-daca-recipients-new-report-finds",
-      "title": "American dream slipping out of reach for many DACA recipients, new report finds",
-      "date": "2026-06-29T22:30:29.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cn4r0r0rylzo?at_medium=RSS&at_campaign=rss",
-      "title": "Canada hero's historic World Cup goal was forged by years of family sacrifice",
-      "date": "2026-06-29T22:28:24.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-focus-on-the-save-act",
-      "title": "Tamara Keith and Amy Walter on Trump's focus on the SAVE Act",
-      "date": "2026-06-29T22:25:24.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/live-results-colorado-midterm-primaries",
-      "title": "Live Results: Colorado midterm primaries",
-      "date": "2026-06-29T22:05:25.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/5946181-trump-supreme-court-john-roberts-ballots-fed-carroll/",
-      "title": "5 takeaways on divided day for Trump at Supreme Court",
-      "date": "2026-06-29T22:01:23.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4629580/trump-housing-bill-big-yawn-save-america-act/",
-      "title": "Trump says bipartisan housing bill is ‘a big yawn’ compared to SAVE America Act",
-      "date": "2026-06-29T21:53:52.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/entertainment/4629640/tim-walz-trump-great-american-state-fair-minnesota/",
-      "title": "Walz swipes at Freedom 250 by calling Minnesota event ‘America’s real state fair’",
-      "date": "2026-06-29T21:50:40.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4629598/no-shot-whatsoever-socialist-president-2028-elections-joe-concha/",
-      "title": "‘No shot whatsoever’ can a socialist become president in 2028: Joe Concha",
-      "date": "2026-06-29T21:46:59.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/technology/5946446-supreme-court-punts-geofence-case/",
-      "title": "Supreme Court punts geofence case",
-      "date": "2026-06-29T21:43:33.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/state-watch/5946377-arizona-sheriff-addresses-latest-nancy-guthrie-email/",
-      "title": "Arizona sheriff addresses latest Nancy Guthrie email",
-      "date": "2026-06-29T21:40:45.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c621r127dqwo?at_medium=RSS&at_campaign=rss",
-      "title": "Six presumed drowned after charter boat sinks near Vancouver",
-      "date": "2026-06-29T21:33:35.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/healthcare/4629563/blue-states-sue-trump-administration-medicaid-work-requirements/",
-      "title": "Blue states sue Trump administration over Medicaid work requirements",
-      "date": "2026-06-29T21:28:03.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/healthcare/5946392-lawsuit-trump-medicaid-exemptions/",
-      "title": "Dozens of states sue Trump administration over 'frail' Medicaid work requirement exemption",
-      "date": "2026-06-29T21:25:44.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/5946344-cook-denies-wrongdoing-mortgage-fraud/",
-      "title": "Pulte renews mortgage fraud allegations against Lisa Cook after Supreme Court ruling",
-      "date": "2026-06-29T21:25:13.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4629125/dnc-omit-graham-platner-photo-democratic-senate-nominees/",
-      "title": "DNC leaves Graham Platner off photo of Democratic nominees in Senate races",
-      "date": "2026-06-29T21:24:50.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/jun/29/ja-morant-trade-portland-trail-blazers-memphis-grizzlies",
-      "title": "Grizzlies reportedly trade Ja Morant to Trail Blazers in blockbuster deal",
-      "date": "2026-06-29T21:24:21.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-unloads-supreme-court-upholds-late-mail-in-ballots-mississippi",
-      "title": "Trump unloads after Supreme Court upholds late mail-in ballots in Mississippi",
-      "date": "2026-06-29T21:22:13.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
-      "title": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
-      "date": "2026-06-29T21:21:15.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4629544/big-beautiful-bill-gamble-tax-reconciliation-3-fair-bet-act-reimburse-gamblers/",
-      "title": "Sneaky new gambling tax punishes you for losing. Reconciliation 3.0 must end it",
-      "date": "2026-06-29T21:19:24.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/nation/d-c-will-pay-50000-to-man-detained-while-protesting-guard-patrol-with-star-wars-song-record-says",
-      "title": "D.C. will pay $50,000 to man detained while protesting guard patrol with 'Star Wars' song, record says",
-      "date": "2026-06-29T21:05:46.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/supreme-court/4628504/alito-warns-supreme-courts-late-arrival-ballot-ruling-risks-undermine-confidence-elections/",
-      "title": "Alito warns Supreme Court’s late-arriving ballot ruling risks undermining confidence in elections",
-      "date": "2026-06-29T21:04:46.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/crime/4629438/army-captain-pregnant-soldier-abortion-drugs/",
-      "title": "Army captain sentenced to 12 years for slipping pregnant soldier abortion drugs",
-      "date": "2026-06-29T21:03:20.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/5946334-supreme-court-justice-clarence-thomas-capitol-hill/",
-      "title": "Justice Thomas makes appearance on Capitol Hill amid major rulings",
-      "date": "2026-06-29T20:59:36.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/5946316-murphy-calls-trump-biggest-threat-democracy/",
-      "title": "Murphy: Trump, not leftist candidates, is 'biggest threat' to US",
-      "date": "2026-06-29T20:58:24.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4629142/uncirculated-coins-america-250-independence-day-us-mint/",
-      "title": "Uncirculated set of coins to be released days before America’s 250th birthday",
-      "date": "2026-06-29T20:56:49.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/29/g-s1-130942/temporary-protected-status-program-explainer-supreme-court",
-      "title": "The Temporary Protected Status program may effectively be over. Here's what we know.",
-      "date": "2026-06-29T20:54:23.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/jun/29/lions-release-terrion-arnold-after-allegations-player-orchestrated-kidnappings-and-beatings",
-      "title": "Lions release Terrion Arnold after allegations player orchestrated kidnappings and beatings",
-      "date": "2026-06-29T20:53:38.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/senate/4629264/ruben-gallego-campaign-finance-violations-doj-investigation/",
-      "title": "Ruben Gallego hit with DOJ investigation for campaign finance violations",
-      "date": "2026-06-29T20:52:13.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/football/2026/jun/29/robert-lewandowski-mls-chicago-fire-2028",
-      "title": "Robert Lewandowski makes MLS move to Chicago Fire on deal till 2028",
-      "date": "2026-06-29T20:52:07.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5946331-trump-slams-democratic-socialists-threat/",
-      "title": "Trump calls democratic socialists ‘biggest threat to our nation there is’",
-      "date": "2026-06-29T20:48:03.000Z"
-    },
-    {
-      "outlet": "The Christian Science Monitor",
-      "lean": "center",
-      "url": "https://www.csmonitor.com/USA/Justice/2026/0629/supreme-court-slaughter-cook-unitary-executive?icid=rss",
-      "title": "Supreme Court expands presidential power – but keeps the Fed off-limits",
-      "date": "2026-06-29T20:42:24.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5946313-trump-housing-bill-save-america-act/",
-      "title": "Trump calls housing bill 'a yawn,' concedes SAVE America Act unlikely to pass",
-      "date": "2026-06-29T20:42:00.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0rrnq317o?at_medium=RSS&at_campaign=rss",
-      "title": "Hollywood director gets two and a half years in prison for defrauding Netflix",
-      "date": "2026-06-29T20:41:10.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/watch-bill-maher-says-vance-interview-critics-wouldnt-happy-unless-he-punched-him-nose",
-      "title": "WATCH: Bill Maher says Vance interview critics wouldn’t be happy unless he ‘punched him in the nose’",
-      "date": "2026-06-29T20:39:23.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-      "date": "2026-06-29T20:34:52.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/firefighters-killed-colorado-wildfires",
-      "title": "Officials release names of three firefighters killed in Colorado wildfire",
-      "date": "2026-06-29T20:33:56.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/alito-blasts-latest-scotus-ballot-ruling-invitation-voter-fraud-risks",
-      "title": "Alito blasts latest SCOTUS ballot ruling as invitation to ‘voter fraud’ risks",
-      "date": "2026-06-29T20:29:41.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/state-watch/5946166-democrats-redistricting-measures-rejected/",
-      "title": "Colorado high court tosses redistricting ballot measures",
-      "date": "2026-06-29T20:29:06.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-says-he-continue-fight-after-supreme-court-declines-review-carroll-abuse-verdict",
-      "title": "Trump says he will 'continue the fight' after Supreme Court declines to review Carroll abuse verdict",
-      "date": "2026-06-29T20:27:08.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/healthcare/5946249-pharmacy-benefit-managers-lobbying-offensive/",
-      "title": "PBM lobby goes on the offensive",
-      "date": "2026-06-29T20:22:14.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/29/nx-s1-5873975/venezuelan-quake-tests-government",
-      "title": "Venezuela's deadly quakes put its U.S.-backed government to the test",
-      "date": "2026-06-29T20:19:02.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c93629rzpgxo?at_medium=RSS&at_campaign=rss",
-      "title": "Supreme Court allows late-arriving mail-in ballots in defeat for Trump",
-      "date": "2026-06-29T20:15:08.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/5946184-save-america-act-johnson-republicans/",
-      "title": "Johnson: Blocking House agenda over SAVE America Act is 'self-defeating'",
-      "date": "2026-06-29T19:56:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5946056-trump-supreme-court-lisa-cook/",
-      "title": "Trump renews call to force Lisa Cook from Federal Reserve board after Supreme Court decision",
-      "date": "2026-06-29T19:52:06.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/iowa-dem-touted-strong-work-ethic-misses-more-half-house-votes",
-      "title": "Iowa Dem who touted 'strong work ethic' misses more than half of her House votes",
-      "date": "2026-06-29T19:41:01.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/5946033-marine-armando-ortiz-lost-at-sea/",
-      "title": "Pentagon identifies Marine lost at sea off Southern California coast",
-      "date": "2026-06-29T19:30:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/06/29/nx-s1-5788049/ruben-gallego-ethics-investigation-dismissed",
-      "title": "Senate Ethics Committee dismisses complaint against Sen. Ruben Gallego",
-      "date": "2026-06-29T19:28:47.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/man-dies-heart-attack-discarding-girlfriend-body",
-      "title": "US man dies while discarding body of girlfriend he fatally strangled, officials say",
-      "date": "2026-06-29T19:11:47.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/embattled-maine-democrat-deadlocked-collins-despite-controversies-key-senate-race-new-poll-shows",
-      "title": "Embattled Maine Democrat deadlocked with Collins despite controversies in key Senate race, new poll shows",
-      "date": "2026-06-29T19:10:38.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/california-professor-gaza-protest-reinstated",
-      "title": "Tenured California professor fired over Gaza protest wins job back",
-      "date": "2026-06-29T19:09:14.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/jun/29/usmnt-bosnia-herzegovina-world-cup-round-of-32-preview",
-      "title": "USA say they are ready for surprises from Bosnia and Herzegovina",
-      "date": "2026-06-29T19:09:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/obama-takes-new-swipe-founding-fathers-ahead-americas-250th-birthday-deep-flaw",
-      "title": "Obama takes new swipe at Founding Fathers ahead of America’s 250th birthday: 'Deep flaw'",
-      "date": "2026-06-29T19:04:30.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c7vy098qjyvo?at_medium=RSS&at_campaign=rss",
-      "title": "JetBlue pilot reports striking a drone while landing at JFK airport",
-      "date": "2026-06-29T18:36:18.000Z"
     }
   ]
 }
