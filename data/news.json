@@ -1,11 +1,312 @@
 {
-  "lastRefreshed": "2026-07-05T09:47:16.342Z",
+  "lastRefreshed": "2026-07-05T15:55:44.057Z",
   "articles": [
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-delivers-keynote-address-at-salute-to-america-250-event-on-the-national-mall",
+      "title": "WATCH: Trump delivers keynote address at 'Salute to America 250' event on the National Mall",
+      "date": "2026-07-05T15:48:42.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/live/2026/jul/05/wimbledon-2026-djokovic-sabalenka-sinner-and-gauff-in-action-on-day-seven-live",
+      "title": "Wimbledon 2026: Djokovic, Sabalenka, Sinner and Gauff in action on day seven – live",
+      "date": "2026-07-05T15:48:13.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4636506/josh-shapiro-socialist-democrats/",
+      "title": "Josh Shapiro disowns leftward Democratic shift: ‘I’m a proud, patriotic American’",
+      "date": "2026-07-05T15:41:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5953858-live-updates-trump-fourth-of-july-speech-aftermath/",
+      "title": "Live updates: Trump, nation celebrate America 250",
+      "date": "2026-07-05T15:40:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/2026/jul/05/usa-belgium-world-cup-folarin-balogun-replacement",
+      "title": "USA v Belgium tactical analysis: how does Pochettino replace Folarin Balogun’s goal threat?",
+      "date": "2026-07-05T15:13:30.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4636515/reflecting-pool-algae-pipes-burgum/",
+      "title": "Reflecting Pool algae was ‘in the pipes’ Burgum says despite Trump blaming vandals",
+      "date": "2026-07-05T15:13:30.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/newsom-blames-trump-doj-probe-reports-say-investigation-predates-administration",
+      "title": "Newsom blames Trump for DOJ probe, but reports say investigation predates his administration",
+      "date": "2026-07-05T15:06:23.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/technology/5950143-ai-reliability-national-security/",
+      "title": "To unlock agentic AI's promise for government, America must build reliability",
+      "date": "2026-07-05T15:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5953958-burgum-reflecting-pool-algae-gone/",
+      "title": "Burgum on algae in Reflecting Pool: ‘All gone’",
+      "date": "2026-07-05T14:55:26.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/05/trumps-2bn-bonanza-heralds-the-rise-of-political-grifters-across-the-west",
+      "title": "Trump’s $2bn bonanza heralds the rise of political grifters across the west",
+      "date": "2026-07-05T14:24:28.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5953937-interior-secretary-defends-free-speech/",
+      "title": "Burgum defends white nationalist group’s right to march on Independence Day, citing First Amendment",
+      "date": "2026-07-05T14:24:28.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/05/g-s1-129643/construction-business-women-kenya",
+      "title": "Construction is a man's game. These women are demolishing the barriers",
+      "date": "2026-07-05T14:10:38.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/05/shooting-children-new-york-coney-island",
+      "title": "At least eight shot, including four children, in New York’s Coney Island",
+      "date": "2026-07-05T14:06:40.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/05/california-lake-tahoe-suicide-rate",
+      "title": "An outdoor paradise in California has a high suicide rate. Locals are determined to turn it around",
+      "date": "2026-07-05T14:00:29.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/technology/5951837-antimatter-rockets-future-space-travel/",
+      "title": "Space travel’s heavyweights ponder a future with antimatter rockets",
+      "date": "2026-07-05T14:00:00.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/top-highlights-trumps-late-night-july-4-address-no-dream-history-bigger",
+      "title": "Top highlights from Trump's late night July 4 address: 'No dream in history is bigger'",
+      "date": "2026-07-05T13:54:44.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/2026/jul/05/canada-co-hosted-the-world-cup-but-whose-party-was-it",
+      "title": "Canada co-hosted the World Cup – but whose party was it?",
+      "date": "2026-07-05T13:48:26.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/entertainment/4636478/photos-record-fireworks-show-july-4-dc/",
+      "title": "PHOTOS: Record fireworks show lights up DC for America’s 250th birthday",
+      "date": "2026-07-05T13:17:02.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/05/paul-pelosi-car-crash-california",
+      "title": "Nancy Pelosi’s husband could face charge after hitting parked car in California",
+      "date": "2026-07-05T13:11:01.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5953902-trump-fireworks-show-best-ever/",
+      "title": "Trump touts ‘best fireworks show, EVER’ after 250th speech, weather delays",
+      "date": "2026-07-05T13:11:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/entertainment/4636461/brooklyn-bridge-fire-july-4-fireworks-new-york/",
+      "title": "Brooklyn Bridge catches fire during July Fourth fireworks show in New York",
+      "date": "2026-07-05T13:09:41.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/05/gaza-protests-democrats-debate-on-tactics",
+      "title": "Gaza protests against two Democrats spark outcry and debate on tactics",
+      "date": "2026-07-05T13:00:29.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4613405/august-social-security-direct-payment-worth-994-out-26-days/",
+      "title": "August Social Security direct payment worth $994 goes out in 26 days",
+      "date": "2026-07-05T13:00:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/05/on-americas-250th-mamdani-called-for-unity-while-trump-rewrote-the-past",
+      "title": "On America’s 250th, Mamdani called for unity – while Trump rewrote the past | Moustafa Bayoumi",
+      "date": "2026-07-05T12:35:21.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/05/nx-s1-5879284/a-new-law-in-california-will-clarify-sell-by-dates-to-reduce-food-waste",
+      "title": "A new law in California will clarify 'sell by' dates to reduce food waste",
+      "date": "2026-07-05T12:26:17.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/05/nx-s1-5804732/proposed-data-centers-in-pennsylvania-are-leading-strangers-to-mobilize-in-protest",
+      "title": "Pennsylvania's proposed data centers are bringing strangers together in protest",
+      "date": "2026-07-05T12:26:06.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/state-watch/5953870-coney-island-july-4th-shooting/",
+      "title": "At least 8 people shot, including 4 children, in New York's Coney Island on July 4: Reports",
+      "date": "2026-07-05T12:24:07.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/05/republicans-democrats-party-colors",
+      "title": "Why are Republicans red and Democrats blue?",
+      "date": "2026-07-05T12:00:27.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/05/ratepayer-protection-act-datacenters",
+      "title": "Bipartisan bill fails to protect US consumers from datacenters’ true costs, critics warn",
+      "date": "2026-07-05T12:00:26.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/white-house/5949865-trump-watergate-institutional-safeguards/",
+      "title": "Watergate led to new ethical guardrails. Trump is tearing them down.",
+      "date": "2026-07-05T12:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/politics/4635617/socialism-communism-marxism-blue-scare/",
+      "title": "Socialism, communism, and Marxism: A guide to the ideologies behind the ‘blue scare’",
+      "date": "2026-07-05T12:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5953860-trump-fourth-july-speech-equal-justice/",
+      "title": "Trump, in July 4 speech, says he 'wasn't treated that well' despite American right to equal justice",
+      "date": "2026-07-05T11:51:34.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/05/micropenis-man-to-get-surgery",
+      "title": "Man claiming world’s smallest penis says he’s booked enhancement surgery after public’s help",
+      "date": "2026-07-05T11:00:27.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5953621-manchin-blames-democratic-splits/",
+      "title": "Manchin blames Democratic divisions on 'void of leadership'",
+      "date": "2026-07-05T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4634545/air-ambulance-life-support-medicare-reform-is-cure/",
+      "title": "Flying ICUs are on life support — this Medicare reform is the cure",
+      "date": "2026-07-05T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/investigations/4635302/trump-stock-dividends-crypto-trades-sec/",
+      "title": "Trump made money, bought up stock from crypto companies after his SEC dropped cases against them",
+      "date": "2026-07-05T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4635367/socialists-kamala-harris-2028/",
+      "title": "Will the socialist revolution come for Kamala Harris?",
+      "date": "2026-07-05T11:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/05/g-s1-132046/paul-pelosi-hit-and-run-california-car-damage",
+      "title": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
+      "date": "2026-07-05T10:28:42.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/expert-fled-cuba-warns-vicious-cycle-lead-communists-double-digits-congress",
+      "title": "Expert who fled Cuba warns of ‘vicious cycle’ that will lead to ‘communists in double digits’ in Congress",
+      "date": "2026-07-05T10:00:36.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/05/declaration-of-independence-trump",
+      "title": "Americans declared independence from a tyrant once. And we must do that again | Claire Finkelstein",
+      "date": "2026-07-05T10:00:24.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/house/5952236-democratic-socialists-challenge-jeffries/",
+      "title": "Wins by the far-left set up challenge for Hakeem Jeffries",
+      "date": "2026-07-05T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/regulation/court-battles/5952070-supreme-court-cases-conservative-liberal-split/",
+      "title": "FOR INSIDERS | Supreme Court's 6-3 cases: When did justices split along ideological lines?",
+      "date": "2026-07-05T10:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4613427/first-round-july-social-security-payments-out-3-days/",
+      "title": "First round of July Social Security payments goes out in 3 days",
+      "date": "2026-07-05T10:00:00.000Z"
+    },
     {
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay",
-      "title": "World Cup 2026: Mexico v England buildup, France battle past Paraguay, Morocco march on – live",
+      "title": "World Cup 2026: Mexico fans try to disturb England’s sleep, France and Morocco march on – live",
       "date": "2026-07-05T09:31:13.000Z"
     },
     {
@@ -243,7 +544,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/jul/04/neo-fascist-patriot-front-washington-dc",
-      "title": "Neo-fascist group Patriot Front parades Confederate flag in Washington DC on Fourth of July",
+      "title": "Hundreds of masked white nationalists march in Washington on Fourth of July",
       "date": "2026-07-04T19:47:24.000Z"
     },
     {
@@ -385,391 +686,6 @@
       "url": "https://thehill.com/policy/defense/5948623-trump-munitions-stockpiles-hurdles-time-congress/",
       "title": "Trump battles time in bid to boost weapons stockpiles",
       "date": "2026-07-04T16:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/04/g-s1-129679/chutes-ladders-schistosomiasis-worms-parasites",
-      "title": "Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms",
-      "date": "2026-07-04T15:51:49.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-pardons-9-people-convicted-tampering-emission-controls-diesel-engines",
-      "title": "Trump pardons 9 people convicted of tampering with emission controls on diesel engines",
-      "date": "2026-07-04T15:48:46.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/pope-leo-urges-us-welcome-immigrants-america-250-speech-before-visiting-global-migrant-hotspot",
-      "title": "Pope Leo urges US to welcome immigrants in America 250 speech before visiting global migrant hot spot",
-      "date": "2026-07-04T15:47:21.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5953440-great-american-state-fair-washington-dc-national-mall-security-july-4/",
-      "title": "What to know about July 4th security on National Mall",
-      "date": "2026-07-04T15:42:28.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/openais-sam-altman-wants-negotiate-5-stake-company-us-competitors-agree-key-provision",
-      "title": "OpenAI's Sam Altman wants to negotiate a 5% stake in company for US if competitors agree to key provision",
-      "date": "2026-07-04T15:41:09.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/nation/trump-hails-u-s-exceptionalism-before-veering-into-darkly-political-speech-to-usher-in-america-250",
-      "title": "Trump hails U.S. exceptionalism before veering into darkly political speech to usher in America 250",
-      "date": "2026-07-04T15:35:25.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/nation/watch-trump-hails-u-s-exceptionalism-warns-of-communist-threat-in-speech-at-mount-rushmore",
-      "title": "WATCH: Trump hails U.S. exceptionalism, warns of communist 'threat' in speech at Mount Rushmore",
-      "date": "2026-07-04T15:35:25.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5953424-donald-trump-newborn-investment-accounts-live/",
-      "title": "Trump’s $1K investment accounts roll out for eligible newborns",
-      "date": "2026-07-04T15:31:06.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/football/live/2026/jul/04/canada-v-morocco-world-cup-2026-last-16-live",
-      "title": "World Cup 2026: Canada 0-3 Morocco – as it happened",
-      "date": "2026-07-04T15:30:32.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/senate/4636123/joe-concha-slams-james-talarico/",
-      "title": "Joe Concha slams James Talarico: ‘There’s too much for this guy to play defense on’",
-      "date": "2026-07-04T15:24:00.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cp36l4e6v9po?at_medium=RSS&at_campaign=rss",
-      "title": "Fireworks, flyovers and a 'really long' Trump speech ahead as US celebrates 250th",
-      "date": "2026-07-04T15:20:47.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/jul/04/serena-williams-injury-ends-doubles-hopes-wimbledon-venus-tennis",
-      "title": "‘Heartbroken’: Serena injury ends Williams sisters’ hopes of Wimbledon doubles reunion",
-      "date": "2026-07-04T15:20:34.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-      "title": "Injury ends Williams' Wimbledon comeback",
-      "date": "2026-07-04T15:06:26.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/congress-blog/politics/5952390-america-250-years-crisis/",
-      "title": "The Great American Betrayal",
-      "date": "2026-07-04T15:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/international/5953385-world-leaders-america-250-messages/",
-      "title": "World leaders toast America on its 250th birthday",
-      "date": "2026-07-04T14:46:37.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5953320-live-updates-washington-dc-july-4-heat-trump-speech/",
-      "title": "Live updates: Trump delivers speech marking America's 250th anniversary after weather delay",
-      "date": "2026-07-04T14:38:58.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5953375-josh-shapiro-donald-trump-supreme-court-presidential-immunity-profits/",
-      "title": "Shapiro: Trump ‘corruption has been enabled’ by Supreme Court",
-      "date": "2026-07-04T14:36:02.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/world/4636077/iran-begin-khamenei-funeral/",
-      "title": "Iran begins Khamenei’s funeral 126 days after assassination",
-      "date": "2026-07-04T14:20:20.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-pardons-11-people-fourth-of-july",
-      "title": "Trump issues 11 pardons on eve of country’s Fourth of July celebrations",
-      "date": "2026-07-04T14:13:50.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
-      "title": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
-      "date": "2026-07-04T14:07:57.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/nc-governor-faces-criticism-skipping-trump-backed-america-250-event",
-      "title": "North Carolina governor faces criticism for skipping Trump-backed America 250 event",
-      "date": "2026-07-04T14:00:05.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/civil-rights/5953262-america-celebrates-its-anniversary-with-fanfare-and-fury/",
-      "title": "America celebrates its anniversary with fanfare and fury",
-      "date": "2026-07-04T14:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/international/5953355-motjaba-khamenei-iran-funeral-ayatollah-us-strikes/",
-      "title": "Iran's new leader remains unseen as nation mourns Khamenei",
-      "date": "2026-07-04T13:44:42.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/washington-dc-fourth-of-july-parade-canceled-extreme-heat",
-      "title": "Washington DC’s Fourth of July parade canceled due to soaring temperature",
-      "date": "2026-07-04T13:31:41.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/state-watch/5939095-getting-a-dui-can-be-especially-costly-in-these-states-study-shows/",
-      "title": "Getting a DUI can be especially costly in these states, study shows",
-      "date": "2026-07-04T13:30:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/senate/4636067/thune-trump-friendly-greeting/",
-      "title": "Thune and Trump share friendly greeting after critical clashes",
-      "date": "2026-07-04T13:19:45.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/football/2026/jul/04/aramco-world-cup-fifa-port-arthur-texas-houston",
-      "title": "‘This is a hellhole’: Aramco makes its presence hurt in the shadow of the World Cup",
-      "date": "2026-07-04T13:00:13.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/business/personal-finance/5941553-trump-accounts-are-launching-5-things-to-know/",
-      "title": "Trump accounts are launching: 5 things to know",
-      "date": "2026-07-04T13:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/congress-blog/politics/5951550-america-250th-anniversary-gender-divide/",
-      "title": "America 250 celebrations expose a significant Republican gender gap",
-      "date": "2026-07-04T13:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/4613178/august-social-security-direct-payment-worth-994-27-days/",
-      "title": "August Social Security direct payment worth $994 goes out in 27 days",
-      "date": "2026-07-04T13:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/transportation/5953325-dca-flights-grounded-july-4-what-to-know/",
-      "title": "What to know about DCA flights and July 4th ground stops",
-      "date": "2026-07-04T12:46:53.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/burgum-says-trumps-washington-makeover-proof-america-rejecting-decline-by-choice",
-      "title": "Top Trump official touts how DC makeover is proof America is rejecting 'decline by choice'",
-      "date": "2026-07-04T12:00:19.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/04/tom-kean-jr-sick-leave-mental-health-depression",
-      "title": "Tom Kean got months of paid sick leave – after voting against it for others | Arwa Mahdawi",
-      "date": "2026-07-04T12:00:13.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/04/250-years-declaration-of-independence",
-      "title": "‘All men are created equal’: America has lost its values. It’s time to go back to the founding text | Ted Widmer",
-      "date": "2026-07-04T12:00:12.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/04/nx-s1-5871128/opinion-america-is-still-a-work-in-progress",
-      "title": "Opinion: America is still a work in progress",
-      "date": "2026-07-04T12:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/civil-rights/5948376-muslim-americans-patriotic-identity/",
-      "title": "At 250, America's Muslims are proud of our country but in a debate with ourselves",
-      "date": "2026-07-04T12:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4595352/remember-radical-ideas-founders-embraced/",
-      "title": "We should remember the radical ideas our Founders embraced — and return to them",
-      "date": "2026-07-04T12:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4629747/welcome-to-america-crash-course-in-sporting-life/",
-      "title": "Welcome to America: A crash course in the sporting life",
-      "date": "2026-07-04T12:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4631642/america-250-independence-day-stewards-not-owners-freedom/",
-      "title": "America at 250: Stewards, not owners, of freedom",
-      "date": "2026-07-04T12:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/restoring-america/patriotism-unity/4633848/american-leadership-at-250-and-beyond/",
-      "title": "American leadership at 250 and beyond",
-      "date": "2026-07-04T12:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/blogs/in-the-know/5953304-washington-dc-july-4-parade-canceled-execessive-heat/",
-      "title": "DC parade canceled as excessive heat further upends America 250 festivities",
-      "date": "2026-07-04T11:47:32.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump",
-      "title": "Pope praises US history of welcoming migrants in implicit rebuke to Trump",
-      "date": "2026-07-04T11:09:52.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/pro-trump-artist-unleashes-powerful-message-american-flag-massive-old-glory-painting",
-      "title": "Pro-Trump artist unleashes powerful message about American flag, touts massive Old Glory painting",
-      "date": "2026-07-04T11:00:20.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/electric-cars-vehicles-united-states",
-      "title": "As auto costs rise, will the US miss the golden age of electric vehicles?",
-      "date": "2026-07-04T11:00:12.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/04/us-birthday-ufc-event-state-fair",
-      "title": "America’s 250th birthday celebrations are a mess. Here’s how we should mark the day | Dave Schilling",
-      "date": "2026-07-04T11:00:12.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/newsom-walz-urge-congress-block-anti-climate-bill-woke-crusade",
-      "title": "Newsom, Walz urge Congress to block anti-climate bill in their ‘woke’ crusade",
-      "date": "2026-07-04T11:00:12.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/fourth-of-july-birthdays-250th-anniversary",
-      "title": "Born on the Fourth of July: mixed feelings for people who share a birthday with the US’s 250th anniversary",
-      "date": "2026-07-04T11:00:11.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/international/5951225-happy-independence-day-america-your-revolution-inspired-ours/",
-      "title": "Happy Independence Day, America: Your revolution inspired ours",
-      "date": "2026-07-04T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4629867/declaration-of-independence-public-affairs-american-history/",
-      "title": "Declaration of Independence: The greatest public affairs campaign in American history",
-      "date": "2026-07-04T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/4630657/trump-america-250-midterm-countdown/",
-      "title": "Midterm countdown: Will Trump and Republicans get a polling bump from America 250?",
-      "date": "2026-07-04T11:00:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/immigrant-business-owner-built-american-dream-says-birth-tourism-slap-face",
-      "title": "Immigrant business owner who built the American dream says birth tourism is a 'slap in the face'",
-      "date": "2026-07-04T10:00:32.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/04/us-history-destruction",
-      "title": "America is destroying itself. It’s no surprise | Stephen Marche",
-      "date": "2026-07-04T10:00:11.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/trump-accounts-savings",
-      "title": "‘Trump accounts’: Wall Street-backed investment funds for children to go live",
-      "date": "2026-07-04T10:00:10.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/international/5953000-putin-russia-ukraine-war-pressure/",
-      "title": "‘It is a crisis’: Putin under increasing pressure from Ukraine war",
-      "date": "2026-07-04T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/healthcare/5950576-rep-tom-kean-jr-depression-disclosure/",
-      "title": "Kean's depression disclosure prompts questions about mental health stigma",
-      "date": "2026-07-04T10:00:00.000Z"
     }
   ]
 }
