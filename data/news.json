@@ -1,12 +1,537 @@
 {
-  "lastRefreshed": "2026-07-14T16:43:02.407Z",
+  "lastRefreshed": "2026-07-14T21:32:23.711Z",
   "articles": [
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/house/5968255-house-sunshine-protection-act-daylight-saving-time/",
+      "title": "House passes bill to make daylight saving time permanent",
+      "date": "2026-07-14T21:25:58.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/4648467/man-killed-florida-ice-tractor-trailer/",
+      "title": "Man fleeing immigration agents in Florida killed by tractor-trailer, police say",
+      "date": "2026-07-14T21:25:23.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/healthcare/4648381/chesley-sullenberger-alzheimers-disease-diagnosis/",
+      "title": "‘Miracle on the Hudson’ pilot Chesley ‘Sully’ Sullenberger reveals Alzheimer’s diagnosis",
+      "date": "2026-07-14T21:20:46.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c2dydzk2k9wo?at_medium=RSS&at_campaign=rss",
+      "title": "'Miracle on the Hudson' pilot diagnosed with Alzheimer's disease",
+      "date": "2026-07-14T21:20:38.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/house/4648220/house-approves-permanent-daylight-saving-time/",
+      "title": "House approves permanent daylight saving time",
+      "date": "2026-07-14T21:20:02.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/live/2026/jul/14/france-v-spain-world-cup-2026-semi-final-live",
+      "title": "France 0-2 Spain: World Cup 2026 semi-final – live",
+      "date": "2026-07-14T21:19:56.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-senate-democrats-block-1-trillion-annual-defense-bill-in-protest-over-iran-war",
+      "title": "WATCH LIVE: Senate Democrats block $1 trillion annual defense bill in protest over Iran war",
+      "date": "2026-07-14T21:19:36.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/house-passes-major-daylight-saving-time-reform-trump-signals-support-ending-clock-change",
+      "title": "House passes Daylight Saving Time reform as Trump signals support for ending clock change",
+      "date": "2026-07-14T21:19:31.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5968386-former-acting-ice-director-on-vehicle-stops-time-we-take-a-hard-look/",
+      "title": "Former acting ICE director on vehicle stops: 'Time we take a hard look'",
+      "date": "2026-07-14T21:18:57.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/sports/4648425/ioc-fifa-investigate-gianni-infantino-trump-red-card-world-cup/",
+      "title": "IOC asked to investigate FIFA president’s role in Balogun’s red card reversal at World Cup",
+      "date": "2026-07-14T21:17:53.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/world/watch-trump-says-hes-reversing-course-on-strait-of-hormuz-fees-because-gulf-states-will-invest-in-u-s",
+      "title": "WATCH: Trump says he's reversing course on Strait of Hormuz fees because Gulf states will invest in U.S.",
+      "date": "2026-07-14T21:16:17.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/world/2026/jul/14/us-military-aid-israel-house-democrats",
+      "title": "Top House Democrats vow to oppose bid to cut US military aid to Israel",
+      "date": "2026-07-14T21:07:48.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4648442/scott-bessent-no-chance-run-for-lindsey-graham-seat/",
+      "title": "Scott Bessent says there is ‘no chance’ he will run for Lindsey Graham’s Senate seat",
+      "date": "2026-07-14T21:02:50.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/ice-shooting-death-florida",
+      "title": "Man killed by semi after fleeing from immigration officials in Florida",
+      "date": "2026-07-14T21:01:29.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4648174/how-long-can-iran-play-energy-card/",
+      "title": "How long can Iran play its energy card?",
+      "date": "2026-07-14T21:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893692/2026-world-cup-fifa-spain-france-semifinal",
+      "title": "Spain sparkles to shock France 2-0 and advance to the World Cup final",
+      "date": "2026-07-14T20:59:10.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4648131/maine-democrat-candidates-senate-debate-what-to-know/",
+      "title": "Maine Democrats to debate on Thursday: What to know",
+      "date": "2026-07-14T20:54:23.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/infrastructure/4648257/newsom-trump-housing-bill-similar-to-california-red-tape-residential-housing/",
+      "title": "Newsom says Trump refused to sign housing bill because it mirrored California",
+      "date": "2026-07-14T20:52:01.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5968275-trump-defends-ag-blanche/",
+      "title": "Trump urges Republicans to confirm Blanche as attorney general",
+      "date": "2026-07-14T20:49:58.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/elissa-slotkin-says-save-america-act-would-make-hard-democrat-win-elections",
+      "title": "WATCH: Elissa Slotkin says SAVE America Act would make it 'hard for any Democrat' to win an election",
+      "date": "2026-07-14T20:47:51.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/crkvkjddjd7o?at_medium=RSS&at_campaign=rss",
+      "title": "Supreme Court justice describes wearing bulletproof vest and 'swatting' hoax at home",
+      "date": "2026-07-14T20:36:23.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/darline-graham-nordone-south-carolina-senator",
+      "title": "Darline Graham, sister of Lindsey Graham, sworn in to fulfill his Senate term",
+      "date": "2026-07-14T20:35:20.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/mahmoud-khalil-lawsuit",
+      "title": "Mahmoud Khalil sues Trump officials and pro-Israel groups over ‘conspiracy’ to target him",
+      "date": "2026-07-14T20:32:02.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-orders-ice-to-suspend-most-vehicle-stops-after-deadly-shootings",
+      "title": "Trump administration orders ICE to suspend most vehicle stops after deadly shootings",
+      "date": "2026-07-14T20:23:02.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4648177/mass-surveillance-reality-flock-safety-fighting-back/",
+      "title": "As mass surveillance becomes a reality, some are fighting back",
+      "date": "2026-07-14T20:14:04.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-revives-his-decades-old-iran-warning-us-ramps-up-military-pressure-remarkably-consistent",
+      "title": "Trump revives his decades-old Iran warning as US ramps up military pressure: 'remarkably consistent'",
+      "date": "2026-07-14T20:13:03.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+      "date": "2026-07-14T20:10:37.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/ice-vehicle-stops-texas-maine-shootings",
+      "title": "ICE pauses vehicle stops after deadly shootings in Texas and Maine",
+      "date": "2026-07-14T20:10:27.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/5968117-indiana-republican-banks-birthright-bill/",
+      "title": "Indiana senator’s bill would codify Trump’s birthright citizenship order",
+      "date": "2026-07-14T20:09:11.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/trump-defense-bill-vote-iran-war",
+      "title": "Senate Democrats block advancement of defense bill to protest Trump’s hostilities with Iran",
+      "date": "2026-07-14T20:06:27.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/this-not-normal-aoc-unloads-mcconnells-prolonged-absence",
+      "title": "'This is not normal': AOC unloads on McConnell's prolonged absence",
+      "date": "2026-07-14T20:02:34.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/defense/4648219/us-iran-strikes-hormuz-navy-blockade/",
+      "title": "US launches new round of Iran strikes as blockade takes effect",
+      "date": "2026-07-14T20:01:08.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5863025/teens-artificial-intelligence-ai-school",
+      "title": "How do young people feel about AI? 7 teens weigh in",
+      "date": "2026-07-14T20:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/technology/5968111-grassley-senators-texts-trump-probe/",
+      "title": "Grassley says he has records showing Jack Smith team reviewed 44 lawmakers' text messages",
+      "date": "2026-07-14T19:58:50.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893456/ice-vehicle-biddeford-houston",
+      "title": "In the aftermath of deadly shootings, ICE pauses most traffic stops",
+      "date": "2026-07-14T19:54:53.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/5967878-senate-democrats-block-ndaa/",
+      "title": "Senate Democrats block $1.15 trillion defense authorization bill",
+      "date": "2026-07-14T19:43:41.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/amy-coney-barrett-recalls-heartbreaking-question-12-year-old-son-bulletproof-vest",
+      "title": "Amy Coney Barrett recalls heartbreaking question from 12-year-old son over bulletproof vest",
+      "date": "2026-07-14T19:41:06.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/senate-dems-draw-rare-line-against-must-pass-pentagon-bill",
+      "title": "Senate Dems draw rare line against must-pass Pentagon bill",
+      "date": "2026-07-14T19:38:45.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/sports-gaming/5967999-england-argentina-world-cup-game-ignites-old-tensions-over-falkland-islands/",
+      "title": "England, Argentina World Cup game ignites old tensions over Falkland Islands",
+      "date": "2026-07-14T19:38:26.000Z"
+    },
+    {
+      "outlet": "The Christian Science Monitor",
+      "lean": "center",
+      "url": "https://www.csmonitor.com/USA/Politics/2026/0714/mitch-mcconnell-fall-senate?icid=rss",
+      "title": "Missing McConnell: What to do when a lawmaker’s out, but doesn’t leave?",
+      "date": "2026-07-14T19:37:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/technology/5968115-openai-apple-trade-secrets/",
+      "title": "Apple, OpenAI suit spotlights battle over physical AI",
+      "date": "2026-07-14T19:32:13.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-fbi-is-wasting-their-time-if-agency-is-investigating-sen-grahams-death",
+      "title": "WATCH: Trump says FBI is 'wasting their time' if agency is investigating Sen. Graham's death",
+      "date": "2026-07-14T19:27:28.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/house/5968072-markwayne-mullin-dhs-seth-magaziner-ice-shootings/",
+      "title": "House Democrat shouts at Mullin over shootings: 'You're back on the godd--- front page now'",
+      "date": "2026-07-14T19:25:38.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/energy-environment/5968063-trump-esa-changes-endangered-species/",
+      "title": "Green groups sue over Trump rollback of habitat protections for endangered species",
+      "date": "2026-07-14T19:19:51.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/5967967-over-500k-subarus-recalled-is-your-car-affected/",
+      "title": "Over 500K Subarus recalled. Is your car affected?",
+      "date": "2026-07-14T19:14:32.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/state-watch/5967911-california-housing-bill-trump/",
+      "title": "Newsom: Trump didn't sign housing bill because 'it looks ... like California'",
+      "date": "2026-07-14T19:12:01.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+      "title": "Colombian national killed by ICE agent during operation in Maine",
+      "date": "2026-07-14T19:11:37.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/watch-darline-graham-sworn-in-as-senator-after-her-brothers-death",
+      "title": "WATCH: Darline Graham sworn in as senator after her brother's death",
+      "date": "2026-07-14T19:10:45.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/5968047-us-navy-reimposes-blockade/",
+      "title": "US military strikes Iran for fourth straight day, targeting 'emerging threats’",
+      "date": "2026-07-14T19:09:32.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/teens-charged-fatal-shootings-five-family-members",
+      "title": "Two teens charged in fatal shootings of five family members in Illinois",
+      "date": "2026-07-14T19:00:51.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/5967990-darline-nordone-lindsey-graham-senator-oath/",
+      "title": "Darline Graham, sister of late Sen. Lindsey Graham, sworn in as senator",
+      "date": "2026-07-14T18:55:50.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cly8yrw597eo?at_medium=RSS&at_campaign=rss",
+      "title": "ICE told to halt most vehicle stops after pair of fatal shootings",
+      "date": "2026-07-14T18:54:17.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/doj-charges-3-russians-alleged-63m-cybercrime-scheme-targeting-americans",
+      "title": "DOJ charges 3 Russians in alleged $63M cybercrime scheme targeting Americans",
+      "date": "2026-07-14T18:47:22.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/johnson-scores-win-conservative-rebels-end-house-floor-blockade-over-voter-id-bill",
+      "title": "Johnson scores win as conservative rebels end House floor blockade over voter ID bill",
+      "date": "2026-07-14T18:43:07.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/med-school-deans-come-up-empty-tense-hearing-asked-point-blank-men-can-have-babies-ridiculous",
+      "title": "Med school deans come up empty in tense hearing when asked point blank if men can have babies: 'Ridiculous'",
+      "date": "2026-07-14T18:41:10.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/video/2026/jul/14/bison-tosses-grandfather-into-the-air-in-yellowstone-national-park-video",
+      "title": "Bison tosses man into the air in Yellowstone national park – video",
+      "date": "2026-07-14T18:39:35.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/lindsey-grahams-sister-carries-late-senators-work-becoming-south-carolinas-first-female-senator",
+      "title": "Lindsey Graham's sister carries on late senator's work, becoming South Carolina's first female senator",
+      "date": "2026-07-14T18:36:19.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-lindsey-graham-heart-condition-almost-undetectable-questions-fbi-role-probe",
+      "title": "Trump says Lindsey Graham's heart condition was 'almost undetectable,' questions FBI's role in probe",
+      "date": "2026-07-14T18:30:51.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trumps-ag-nominee-racks-up-massive-support-ahead-confirmation-hearing",
+      "title": "Trump's AG nominee racks up massive support ahead of confirmation hearing: 'Real results'",
+      "date": "2026-07-14T18:26:06.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/illegal-alien-pirate-who-hijacked-plane-us-freed-clinton-appointed-judge",
+      "title": "Illegal alien ‘pirate’ who hijacked plane to US freed by Clinton-appointed judge",
+      "date": "2026-07-14T18:17:33.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/lindsey-graham-death-sister-joins-relatives-replaced-family-members-congress",
+      "title": "After Lindsey Graham's death, sister joins long list of relatives who replaced late family members in Congress",
+      "date": "2026-07-14T18:12:03.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/c9d2dx059n1o?at_medium=RSS&at_campaign=rss",
+      "title": "There's no evidence this Mitch McConnell rehab photo is AI",
+      "date": "2026-07-14T18:08:35.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
+      "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
+      "date": "2026-07-14T18:05:11.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/e-jean-carroll-has-been-paid-5-8-million-three-years-after-trump-sex-abuse-and-defamation-verdict",
+      "title": "E. Jean Carroll has been paid $5.8 million, three years after Trump sex abuse and defamation verdict",
+      "date": "2026-07-14T18:01:46.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893598/e-jean-carroll-trump-sexual-abuse-defamation",
+      "title": "E. Jean Carroll receives $5.6 million from Trump in sexual abuse and defamation case",
+      "date": "2026-07-14T18:00:35.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/aging-politicians-face-questions-over-health-transparency-after-grahams-death",
+      "title": "Aging politicians face questions over health transparency after Graham's death",
+      "date": "2026-07-14T17:57:22.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/meet-democrats-gunning-replace-graham-platner-crucial-senate-showdown",
+      "title": "Meet the Democrats gunning to replace Graham Platner in a crucial Senate showdown",
+      "date": "2026-07-14T17:56:20.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-reveals-when-us-military-leave-iraq-after-23-year-mission",
+      "title": "Trump reveals when US military will leave Iraq after 23-year mission",
+      "date": "2026-07-14T17:46:52.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/14/the-guardian-view-on-brazils-sovereignty-trump-turns-autonomy-into-a-trade-offence",
+      "title": "The Guardian view on Brazil’s sovereignty: Trump turns autonomy into a trade offence | Editorial",
+      "date": "2026-07-14T17:38:42.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/pritzker-skewered-victim-his-own-policy-after-repeat-offender-arrested-governors-backyard",
+      "title": "Pritzker skewered as ‘victim of his own’ policy after repeat offender arrested in governor’s backyard",
+      "date": "2026-07-14T17:14:56.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/gop-senators-rally-behind-lindsey-grahams-sister-successor-remember-late-senators-legacy",
+      "title": "WATCH: GOP senators rally behind Lindsey Graham's sister as successor, remember late senator's legacy",
+      "date": "2026-07-14T17:14:03.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/economy/inflation-cools-more-than-expected-in-june-as-gas-costs-fall-and-underlying-prices-ease",
+      "title": "Inflation cools more than expected in June as gas costs fall and underlying prices ease",
+      "date": "2026-07-14T16:56:16.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5891858/trump-esa-harm-endangered-species-act-threatened-lawsuit",
+      "title": "Environmental groups sue government to stop a big change to the Endangered Species Act",
+      "date": "2026-07-14T16:46:18.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/news/video/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest",
+      "title": "Trump forced to refund billions in tariffs - The Latest",
+      "date": "2026-07-14T16:44:10.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
       "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4647659/four-banned-books-dua-lipa-should-carry-in-her-new-library-margaret-atwood/",
       "title": "Four banned books Dua Lipa should carry in her new library",
       "date": "2026-07-14T16:35:33.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/supreme-court-justices-security-budget",
+      "title": "Supreme court justices testify to House on security budget increase amid rise in threats",
+      "date": "2026-07-14T16:33:39.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -19,14 +544,14 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/14/ice-shooting-maine-texas-trump-immigration-politics",
-      "title": "Supreme court justice Amy Coney Barrett describes threats to her life in House testimony – US politics live",
+      "title": "Donald Trump suggests there was no foul play in Lindsey Graham’s death amid conspiracies – live",
       "date": "2026-07-14T16:29:14.000Z"
     },
     {
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/homenews/administration/5966162-live-updates-trump-iran-strait-hormuz-blockade-kagan-barrett/",
-      "title": "Live updates: Trump drops Strait of Hormuz toll in favor of investment; Kagan, Barrett spell out justices' security issues",
+      "title": "Live updates: US Navy reimposes Strait of Hormuz blockade; Kagan, Barrett share justices' security issues",
       "date": "2026-07-14T16:23:30.000Z"
     },
     {
@@ -89,7 +614,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/jul/14/ice-shooting-maine-joan-sebastian-guerrero",
-      "title": "ICE identifies man agents fatally shot in Maine as Joan Sebastian Guerrero",
+      "title": "ICE identifies Johan Sebastián Durán Guerrero as man agents fatally shot in Maine",
       "date": "2026-07-14T16:14:25.000Z"
     },
     {
@@ -103,7 +628,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/business/2026/jul/14/bill-gates-warren-buffet-donation",
-      "title": "Buffett omits gift to Bill Gates' foundation after Microsoft cofounder's Epstein ties disclosed",
+      "title": "Buffett omits gift to Bill Gates’ foundation after his Epstein ties disclosed",
       "date": "2026-07-14T16:10:41.000Z"
     },
     {
@@ -306,7 +831,7 @@
       "outlet": "PBS NewsHour",
       "lean": "center",
       "url": "https://www.pbs.org/newshour/world/watch-live-trump-hosts-iraqi-prime-minister-for-bilateral-meeting-at-the-white-house",
-      "title": "WATCH LIVE: Trump hosts Iraqi prime minister for bilateral meeting at the White House",
+      "title": "WATCH: Trump hosts Iraqi prime minister for bilateral meeting at the White House",
       "date": "2026-07-14T15:09:27.000Z"
     },
     {
@@ -334,7 +859,7 @@
       "outlet": "NPR",
       "lean": "lean-left",
       "url": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us",
-      "title": "Why your favorite international artist might be reconsidering their next U.S. tour",
+      "title": "Some international artists are skipping U.S. tours. Others may follow suit",
       "date": "2026-07-14T14:46:11.000Z"
     },
     {
@@ -600,7 +1125,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live",
-      "title": "World Cup 2026: France v Spain semi-final buildup; Atlanta police step up security for England v Argentina – live",
+      "title": "World Cup 2026: France v Spain semi-final buildup; Atlanta police step up security for England v Argentina – as it happened",
       "date": "2026-07-14T07:02:49.000Z"
     },
     {
@@ -698,7 +1223,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/jul/13/who-is-darline-graham-nordone-lindsey-graham",
-      "title": "Darline Graham Nordone: Lindsey Graham’s sister and interim US senator",
+      "title": "Darline Graham: Lindsey Graham’s sister and interim US senator",
       "date": "2026-07-14T01:08:09.000Z"
     },
     {
@@ -880,7 +1405,7 @@
       "outlet": "PBS NewsHour",
       "lean": "center",
       "url": "https://www.pbs.org/newshour/politics/watch-live-fed-chair-kevin-warsh-testifies-on-monetary-policy-in-house-hearing",
-      "title": "WATCH LIVE: Fed chair Kevin Warsh testifies on monetary policy in House hearing",
+      "title": "WATCH: Fed chair Kevin Warsh testifies on inflation and monetary policy in House hearing",
       "date": "2026-07-13T22:26:56.000Z"
     },
     {
@@ -933,375 +1458,11 @@
       "date": "2026-07-13T21:57:32.000Z"
     },
     {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-justices-kagan-and-coney-barrett-testify-on-supreme-court-budget-in-house-hearing",
-      "title": "WATCH LIVE: Justices Kagan and Barrett testify on Supreme Court budget, security",
-      "date": "2026-07-13T21:26:03.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/nation/12-states-challenge-paramounts-takeover-of-warner-say-merger-would-extinguish-competition",
-      "title": "12 states challenge Paramount's takeover of Warner, say merger would 'extinguish competition'",
-      "date": "2026-07-13T20:45:57.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/video/2026/jul/13/water-bankruptcy-us-west",
-      "title": "The western US is running out of water. What happens next? – Stateside with Kai and Carter",
-      "date": "2026-07-13T20:45:10.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/halls-senate-feel-empty-tearful-thune-honors-lindsey-graham-sister-takes-seat",
-      "title": "'The halls of the Senate already feel empty': Tearful Thune honors Lindsey Graham as sister takes his seat",
-      "date": "2026-07-13T20:34:14.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs",
-      "title": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
-      "date": "2026-07-13T20:22:49.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/nation/minnesota-prosecutors-obtain-long-withheld-evidence-in-probe-into-fatal-shootings-of-good-pretti",
-      "title": "Minnesota prosecutors obtain long withheld evidence in probe into fatal shootings of Good, Pretti",
-      "date": "2026-07-13T20:22:10.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/mamdani-breaks-silence-perverted-ally-who-helped-sell-platner-before-scandal-plagued-collapse",
-      "title": "Mamdani breaks silence on 'perverted' ally who helped sell Platner before scandal-plagued collapse",
-      "date": "2026-07-13T20:20:11.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham",
-      "title": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
-      "date": "2026-07-13T20:17:53.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/lindsey-grahams-sister-appointed-senate-gop-rushes-protect-fragile-majority",
-      "title": "Lindsey Graham’s sister appointed to Senate as GOP rushes to protect fragile majority",
-      "date": "2026-07-13T20:07:55.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/sen-lindsey-grahams-sudden-death-spurs-false-claims",
-      "title": "Sen. Lindsey Graham's sudden death spurs false claims",
-      "date": "2026-07-13T20:06:38.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/democratic-socialist-party-infighting-erupts-pick-president-aoc-rumors-loom-dangerous-path",
-      "title": "Democratic socialists erupt over 2028 endorsement as AOC speculation grows: 'Dangerous path'",
-      "date": "2026-07-13T20:06:33.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5890936/on-foreign-policy-grahams-influence-may-have-been-felt-the-most",
-      "title": "On foreign policy, Graham's influence may have been felt the most",
-      "date": "2026-07-13T20:05:24.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/nation/ice-shot-and-killed-a-colombian-man-in-maine-this-is-the-2nd-time-in-a-week-the-agency-used-deadly-force",
-      "title": "ICE shot and killed a Colombian man in Maine. This is the 2nd time in a week the agency used deadly force",
-      "date": "2026-07-13T19:52:22.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/obama-appointed-judge-torches-trump-admin-latest-courtroom-showdown-refers-attorney-bar-review",
-      "title": "Obama-appointed judge torches Trump admin in latest courtroom showdown, refers attorney for Bar review",
-      "date": "2026-07-13T19:25:43.000Z"
-    },
-    {
       "outlet": "BBC News",
       "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/cgjx33y16ljo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump watches IndyCar pit stop outside White House",
-      "date": "2026-07-13T19:25:17.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/world/ukraine-fears-it-will-have-a-weaker-link-to-trump-after-sen-lindsey-grahams-sudden-death",
-      "title": "Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham's sudden death",
-      "date": "2026-07-13T19:17:26.000Z"
-    },
-    {
-      "outlet": "The Christian Science Monitor",
-      "lean": "center",
-      "url": "https://www.csmonitor.com/USA/Politics/2026/0713/lindsey-graham-trump-congress-ally?icid=rss",
-      "title": "With Graham’s death, Trump loses a key ally in Congress",
-      "date": "2026-07-13T18:54:12.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
-      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-      "date": "2026-07-13T18:52:46.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/family-shattered-after-3-time-deported-illegal-immigrant-allegedly-blew-through-stop-sign-roiling-house-race",
-      "title": "Family shattered after 3-time deported illegal immigrant allegedly blew through stop sign, roiling House race",
-      "date": "2026-07-13T18:39:38.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/europe-bankrolls-putins-war-machine-even-nato-races-bolster-defenses",
-      "title": "Europe bankrolls Putin's war machine even as NATO races to bolster defenses",
-      "date": "2026-07-13T18:21:29.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/trump-irs-ruling-judge-kathleen-williams",
-      "title": "US judge nullifies Trump deal to resolve IRS lawsuit in scathing ruling",
-      "date": "2026-07-13T18:18:55.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/midwest-becomes-next-theater-in-democrats-progressive-vs-moderate-fight",
-      "title": "Midwest becomes next theater in Democrats' progressive vs. moderate fight",
-      "date": "2026-07-13T18:17:42.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/justice/4646244/judge-bars-trump-irs-immunity-deal-evade-investigation-past-tax-filings/",
-      "title": "Judge bars Trump from using IRS immunity deal to evade investigation over past tax filings",
-      "date": "2026-07-13T18:15:59.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/michigan-sen-gary-peters-backs-haley-stevens-in-contentious-race-to-succeed-him",
-      "title": "Michigan Sen. Gary Peters backs Haley Stevens in contentious race to succeed him",
-      "date": "2026-07-13T18:02:19.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/in_focus/4646120/lindsey-graham-finest-hour/",
-      "title": "Lindsey Graham’s finest hour",
-      "date": "2026-07-13T18:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/justice/4646233/epstein-survivors-letters-senate-judiciary-oppose-blanche-nomination/",
-      "title": "Epstein survivors send letters to Senate Judiciary opposing Todd Blanche nomination",
-      "date": "2026-07-13T17:55:57.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/technology/5966111-paramount-warner-merger/",
-      "title": "States sue to block Paramount-Warner Brothers Discovery merger",
-      "date": "2026-07-13T17:46:54.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/4645824/ossoff-polling-bottoms-rick-jackson-georgia/",
-      "title": "Ossoff polling lead contrasts with Bottoms’s race against Rick Jackson",
-      "date": "2026-07-13T17:46:14.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/darline-graham-nordone-lindsey-grahams-sister-emerges-trumps-senate-pick",
-      "title": "Who is Darline Graham Nordone? Lindsey Graham's sister emerges as Trump's Senate pick",
-      "date": "2026-07-13T17:41:33.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5964919-senate-graham-death-succession/",
-      "title": "Live updates: Judge nullifies Trump's IRS settlement; US will resume Strait of Hormuz blockade",
-      "date": "2026-07-13T17:36:35.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/pete-hegseth-doj-taskforce-press-leaks",
-      "title": "Hegseth announces joint taskforce with DoJ to target and prosecute press leaks",
-      "date": "2026-07-13T17:35:33.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/judge-blasts-trumps-irs-lawsuit-as-filed-for-improper-purpose-recommends-attorney-discipline",
-      "title": "Judge blasts Trump's IRS lawsuit as filed for 'improper purpose,' recommends attorney discipline",
-      "date": "2026-07-13T17:31:05.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5965994-lindsey-graham-replacement-race/",
-      "title": "Here's who could replace Graham in Senate",
-      "date": "2026-07-13T17:30:05.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/international/5965207-global-trade-trump-impact/",
-      "title": "Why isn’t the world retaliating against US tariffs?",
-      "date": "2026-07-13T17:30:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4645860/watch-live-trump-freedom-250-grand-prix-showcase/",
-      "title": "WATCH LIVE: Trump hosts Freedom 250 Grand Prix showcase",
-      "date": "2026-07-13T17:30:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/armed-man-arrested-us-capitol-barricade-police-probe-drove-restricted-grounds",
-      "title": "Armed man arrested at US Capitol barricade as police probe why he drove onto restricted grounds",
-      "date": "2026-07-13T17:24:12.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
-      "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
-      "date": "2026-07-13T17:21:21.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/13/justice-department-uaw-president-investigation",
-      "title": "US justice department investigating UAW president over corruption allegations",
-      "date": "2026-07-13T17:18:47.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/5966060-trump-irs-settlement-voided-federal-judge/",
-      "title": "Judge halts Trump's settlement with IRS",
-      "date": "2026-07-13T17:17:29.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4646135/six-democratic-socialists-america-most-prominent-caucuses/",
-      "title": "Marxists, socialists, and the ‘Red Star’: Here are the DSA’s most prominent caucuses",
-      "date": "2026-07-13T17:17:13.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/trump-urges-s-c-governor-to-appoint-sen-grahams-sister-as-temporary-replacement",
-      "title": "Darline Graham Nordone, sister of Lindsey Graham, picked to fulfill remainder of his Senate term",
-      "date": "2026-07-13T17:15:57.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/videos/4644564/veteran-brian-stewart-tennessee-gop-primary-incongruent-marine-corps-standards/",
-      "title": "USMC flags candidate in Hegseth’s district as ‘incongruent with Marine Corps standards’",
-      "date": "2026-07-13T17:14:59.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/mamdani-ripped-over-record-high-nyc-rents-critics-pointing-policy-say-fueling-crisis",
-      "title": "Mamdani ripped over record-high NYC rents with critics pointing to policy they say is fueling crisis",
-      "date": "2026-07-13T17:14:58.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/1230-report/5965972-lindsey-graham-final-hours-death-mcconnell-hospital-photo-trump-reimposes-strait-of-hormuz-blockade/",
-      "title": "Trump revamps Iran clash; Graham’s final hours",
-      "date": "2026-07-13T17:09:15.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/technology/5965840-meta-louisiana-datacenter-expansion/",
-      "title": "Meta expanding plans for its largest data center",
-      "date": "2026-07-13T17:07:30.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cy5vxd9ve16o?at_medium=RSS&at_campaign=rss",
-      "title": "Peter Nygard found guilty in Montreal sexual assault case",
-      "date": "2026-07-13T17:04:24.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/energy-environment/5965438-if-permanent-daylight-saving-time-bill-passes-would-your-state-be-impacted/",
-      "title": "If permanent daylight saving time bill passes, would your state be impacted?",
-      "date": "2026-07-13T17:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/healthcare/5965168-health-insurance-lobby-congress/",
-      "title": "Health insurers' $1.7 trillion revenue sparks concern",
-      "date": "2026-07-13T17:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4645956/marco-rubio-isolate-international-criminal-court/",
-      "title": "Rubio launches effort to isolate ‘radical and extreme’ ICC",
-      "date": "2026-07-13T16:59:12.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/jul/13/lagerald-vick-kansas-basketball-arrest-murder-charge",
-      "title": "Former Kansas basketball star Lagerald Vick charged with attempted murder",
-      "date": "2026-07-13T16:53:55.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891746/us-iran-strait-of-hormuz-updates",
-      "title": "The U.S. strikes Iran after Trump announces a renewed blockade and tolls in Hormuz",
-      "date": "2026-07-13T16:53:40.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/immigration/4642600/foreign-truck-drivers-top-target-trump-administration/",
-      "title": "Foreign truck drivers in US remain a top target of the Trump administration",
-      "date": "2026-07-13T16:51:55.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/4645945/mamdani-continue-work-strategist-morris-katz-after-platner-scandal/",
-      "title": "Mamdani to continue to work with Morris Katz after Platner scandal",
-      "date": "2026-07-13T16:50:04.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
+      "title": "Lindsey Graham's sister chosen as replacement after senator's death",
+      "date": "2026-07-13T21:37:02.000Z"
     }
   ]
 }
