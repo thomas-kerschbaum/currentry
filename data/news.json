@@ -1,12 +1,446 @@
 {
-  "lastRefreshed": "2026-07-16T20:39:23.799Z",
+  "lastRefreshed": "2026-07-17T07:34:32.387Z",
   "articles": [
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump Media to sell instant access to 'market-moving' social posts",
+      "date": "2026-07-17T07:25:31.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/live/2026/jul/17/world-cup-2026-spain-v-argentina-countdown-trump-to-attend-final-england-news-live",
+      "title": "World Cup 2026: Spain v Argentina countdown, Trump to attend final, England news – live",
+      "date": "2026-07-17T07:20:01.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
+      "title": "China's Xi calls for step up of global effort in AI, as US curbs squeeze China's tech access",
+      "date": "2026-07-17T07:17:04.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/live/2026/jul/17/the-open-2026-day-two-updates-from-birkdale-live",
+      "title": "The Open 2026: day two golf updates from Royal Birkdale – live",
+      "date": "2026-07-17T07:14:21.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/jul/17/usa-v-uzbekistan-match-foreshadows-chess-battle-for-olympiad-top-prize",
+      "title": "USA v Uzbekistan match foreshadows chess battle for Olympiad top prize",
+      "date": "2026-07-17T07:00:01.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134148/rubio-convene-countries-on-left-wing-political-violence",
+      "title": "Rubio convenes countries on left-wing political violence",
+      "date": "2026-07-17T06:15:11.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/17/g-s1-133536/japan-revises-law-to-ensure-supply-of-male-heirs-to-the-imperial-throne",
+      "title": "Japan revises law to ensure supply of (male) heirs to the imperial throne",
+      "date": "2026-07-17T05:29:46.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/2026/jul/17/fox-world-cup-coverage-us-2026",
+      "title": "Fox’s US World Cup summer: wild mispronunciations, Corden’s sad beers and Lowe’s excellence",
+      "date": "2026-07-17T05:00:58.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+      "date": "2026-07-17T04:08:27.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/senate/4652776/trump-deep-state-warner-ratcliffe-china/",
+      "title": "Trump’s ‘deep state’ speech triggers pushback from Warner over Ratcliffe’s DNI role",
+      "date": "2026-07-17T04:06:46.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5973514-save-america-act-push/",
+      "title": "Five takeaways from Trump’s big elections speech",
+      "date": "2026-07-17T03:38:58.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-address-us-elections",
+      "title": "How Trump’s address was bluntly aimed at destabilizing the US electoral system",
+      "date": "2026-07-17T03:18:40.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5973430-democrats-alarm-trump-election-fraud-claims/",
+      "title": "Democrats call 'bull----' on Trump's election interference claims",
+      "date": "2026-07-17T02:58:53.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/healthcare/4652642/taco-bell-lettuce-taylor-farms-cyclospora/",
+      "title": "Taco Bell’s lettuce supplier linked to nationwide cyclosporiasis outbreak",
+      "date": "2026-07-17T02:52:52.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-tv-address-thursday",
+      "title": "Trump makes unverified claims of China ‘election meddling’ as critics fear ploy to challenge midterm results",
+      "date": "2026-07-17T02:45:12.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/16/trump-speech-address-iran-election-latest-updates",
+      "title": "Trump rehashes wide-ranging US election claims and releases heavily redacted documents in primetime address – as it happened",
+      "date": "2026-07-17T02:42:12.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/shadow-government-trump-claims-intel-community-bragged-hiding-chinese-meddling",
+      "title": "'Shadow government': Trump claims intel community bragged about hiding Chinese meddling",
+      "date": "2026-07-17T02:32:36.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4652721/read-in-full-trump-address-china-2020-election/",
+      "title": "READ IN FULL: Trump’s address to the nation on alleged Chinese interference in 2020 election",
+      "date": "2026-07-17T02:23:16.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/us-tv-networks-trump-speech",
+      "title": "US TV networks split on broadcasting Trump’s election-focused speech",
+      "date": "2026-07-17T02:14:37.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5973400-trump-election-claims-china/",
+      "title": "Trump rails against China in new 2020 election claims disputed by critics",
+      "date": "2026-07-17T02:14:08.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/los-angeles-sinkhole-flooding",
+      "title": "Sinkhole on Sunset Boulevard: broken water pipe floods LA-area hotspot",
+      "date": "2026-07-17T01:53:31.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5973195-maine-democrats-senate-debate/",
+      "title": "Crowded field to replace Platner in Maine struggle to standout in first Senate debate: 4 takeaways",
+      "date": "2026-07-17T01:39:14.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896487/an-analysis-of-president-trumps-address",
+      "title": "An analysis of President Trump's address",
+      "date": "2026-07-17T01:38:04.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-releases-declassified-election-intelligence-says-reveals-shocking-vulnerabilities",
+      "title": "Trump releases declassified election intelligence, says it reveals 'shocking vulnerabilities'",
+      "date": "2026-07-17T01:27:22.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4652706/trump-deep-state-china-2020-election/",
+      "title": "Trump alleges ‘deep state’ suppressed Chinese interference in 2020 election",
+      "date": "2026-07-17T01:21:46.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/media/5973325-networks-not-carrying-trump-speech/",
+      "title": "NBC, ABC, CNN don't carry Trump speech on networks",
+      "date": "2026-07-17T01:09:04.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/healthcare/5973299-taco-bell-removes-lettuce-cyclosporiasis/",
+      "title": "Taco Bell removing lettuce from some stores amid cyclosporiasis scare",
+      "date": "2026-07-17T00:58:27.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/justice/4652429/doj-marine-william-upham-trump-threat/",
+      "title": "DOJ charges Florida House candidate who called for ‘Antichrist’ Trump’s death",
+      "date": "2026-07-17T00:32:11.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4652562/watch-live-trump-speech-election-security/",
+      "title": "WATCH LIVE: Trump delivers primetime speech on election integrity",
+      "date": "2026-07-17T00:30:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/taco-bell-lettuce-cyclosporiasis-outbreak",
+      "title": "Cyclosporiasis: officials looking at Taco Bell lettuce supplier as potential source of outbreak",
+      "date": "2026-07-17T00:23:45.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/arts/ava-duvernay-announces-14th-new-documentary-on-birthright-amendment-contested-by-trump",
+      "title": "Ava DuVernay announces '14th,' new documentary on birthright amendment contested by Trump",
+      "date": "2026-07-17T00:13:22.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-media-truth-social-posts",
+      "title": "‘Brazen corruption’: critics denounce Trump Media plan to sell priority access to Truth Social posts",
+      "date": "2026-07-17T00:13:18.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/daily-memo/4652623/what-dsa-wants/",
+      "title": "What DSA wants",
+      "date": "2026-07-16T23:36:04.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4652539/pat-ryan-pledges-refund-aipac-money-could-cost-him-790k/",
+      "title": "New York Democrat Pat Ryan pledges to refund AIPAC money. It could cost him $790,000",
+      "date": "2026-07-16T23:16:31.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c39ek38le2lo?at_medium=RSS&at_campaign=rss",
+      "title": "Rubio calls for global crackdown on far-left extremism",
+      "date": "2026-07-16T23:08:38.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/media/5973141-shapiro-criticizes-vance-rogan-interview/",
+      "title": "Ben Shapiro says Vance sounded like a Democrat on Rogan's podcast",
+      "date": "2026-07-16T22:56:16.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/show/what-to-expect-from-trumps-address-as-he-revisits-2020-election-loss",
+      "title": "What to expect from Trump's address as he revisits 2020 election loss",
+      "date": "2026-07-16T22:55:22.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/election-officials-in-arizonas-largest-county-agree-on-how-to-oversee-vote-ending-legal-battle",
+      "title": "Election officials in Arizona's largest county agree on how to oversee vote, ending legal battle",
+      "date": "2026-07-16T22:54:48.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/show/trump-setting-stage-to-declare-emergency-around-midterms-former-white-house-attorney-says",
+      "title": "Trump setting stage to declare emergency around midterms, former White House attorney says",
+      "date": "2026-07-16T22:52:35.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/white-house-addresses-growing-parasite-outbreak-400-americans-sickened",
+      "title": "White House addresses growing parasite outbreak after more than 400 Americans sickened",
+      "date": "2026-07-16T22:51:13.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/quarter-million-noncitizens-registered-vote-4-key-states-dhs-alleges",
+      "title": "More than a quarter-million noncitizens may be registered to vote in 4 key states, DHS alleges",
+      "date": "2026-07-16T22:50:50.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/marine-arrested-charged-allegedly-threatening-to-kill-trump",
+      "title": "Florida House write-in candidate arrested for allegedly threatening to kill Trump",
+      "date": "2026-07-16T22:47:09.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/newsletters/business-economy/5973153-truth-social-to-launch-wall-street-api/",
+      "title": "Truth Social to launch Wall Street API",
+      "date": "2026-07-16T22:41:52.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/show/vote-on-u-s-aid-to-israel-exposes-sharp-divide-in-congress",
+      "title": "Vote on U.S. aid to Israel exposes sharp divide in Congress",
+      "date": "2026-07-16T22:35:52.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/newsletters/healthcare/5973126-trump-brings-back-rule-allowing-green-card-denials-over-public-benefits-use/",
+      "title": "Trump brings back rule allowing green card denials over public benefits use",
+      "date": "2026-07-16T22:35:40.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/newsletters/defense-national-security/5973065-us-military-boards-oil-tanker-in-gulf-of-oman/",
+      "title": "US military boards oil tanker in Gulf of Oman",
+      "date": "2026-07-16T22:29:20.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/healthcare/5973044-trump-revives-public-charge-rule/",
+      "title": "White House revives rule to deny green cards to migrants who use safety net programs",
+      "date": "2026-07-16T22:28:49.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/technology/5972998-trump-media-technology-group-launch-truth-api/",
+      "title": "Wall Street traders can soon pay for early looks at Truth Social posts",
+      "date": "2026-07-16T22:25:26.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/newsletters/technology/5973080-trump-teleprompter-operator-suspended/",
+      "title": "White House teleprompter operator on unpaid leave after alleged bets on Trump speeches",
+      "date": "2026-07-16T22:19:10.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4652501/tv-networks-trump-election-speech-broadcast/",
+      "title": "Major TV networks relegate Trump’s primetime election speech to digital feeds",
+      "date": "2026-07-16T22:15:27.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/opinion/columnists/4652360/trump-dave-mccormick-jamie-dimon-manufacturing-push-pennsylvania/",
+      "title": "Reigniting the American dream: Donald Trump, Dave McCormick, and Jamie Dimon unveil a massive manufacturing push in Pennsylvania",
+      "date": "2026-07-16T22:02:49.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/czdmp87rpv1o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump administration tightens visa rules for foreign students",
+      "date": "2026-07-16T21:31:51.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896396/ice-traffic-stops-shootings",
+      "title": "White House says ICE traffic stops will continue after deadly shootings",
+      "date": "2026-07-16T21:31:23.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896458/flood-sirens-texas-rivers-reach-dangerous-heights",
+      "title": "Flood sirens blare in South Central Texas as rivers reach perilous heights",
+      "date": "2026-07-16T21:30:03.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/details-todd-blanches-behind-scenes-meeting-angel-mom-revealed-after-capitol-hill-testimony",
+      "title": "Details of Todd Blanche's behind-the-scenes meeting with Angel Mom revealed after Capitol Hill testimony",
+      "date": "2026-07-16T21:20:04.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/fbi-investigating-ice-headquarters-phoenix-riddled-gunfire",
+      "title": "FBI investigating after ICE headquarters in Phoenix riddled with gunfire",
+      "date": "2026-07-16T21:14:06.000Z"
+    },
+    {
+      "outlet": "The Christian Science Monitor",
+      "lean": "center",
+      "url": "https://www.csmonitor.com/USA/Foreign-Policy/2026/0716/trump-iran-war-ceasefire-diplomacy-transactional-strategic?icid=rss",
+      "title": "Why US-Iran diplomacy is so out of sync: It’s style as well as substance",
+      "date": "2026-07-16T21:08:07.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-teleprompter-operator-kalshi-bets",
+      "title": "White House teleprompter operator put on leave over alleged bets on Trump speeches",
+      "date": "2026-07-16T21:04:17.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/exclusive-hawley-expands-usps-probe-blistering-letter-accusing-chief-dodging-congress",
+      "title": "EXCLUSIVE: Hawley expands USPS probe with blistering letter accusing chief of dodging Congress",
+      "date": "2026-07-16T20:59:50.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
+      "title": "In primetime speech, Trump doesn't provide evidence for illegal voting",
+      "date": "2026-07-16T20:50:26.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5894857/wildfire-smoke-fires-ontario-minnesota",
+      "title": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
+      "date": "2026-07-16T20:32:27.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
       "url": "https://www.washingtonexaminer.com/news/world/4652067/zelensky-backlash-firing-defense-minister-fedorov/",
       "title": "Zelensky faces backlash after firing popular defense minister",
       "date": "2026-07-16T20:31:54.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/key-trump-agency-top-universities-crosshairs-alleged-race-based-dorm-program",
+      "title": "Key Trump agency puts top universities in crosshairs over alleged race-based dorm programs",
+      "date": "2026-07-16T20:30:11.000Z"
     },
     {
       "outlet": "PBS NewsHour",
@@ -68,7 +502,7 @@
       "outlet": "PBS NewsHour",
       "lean": "center",
       "url": "https://www.pbs.org/newshour/politics/watch-live-trump-to-address-nation-from-white-house",
-      "title": "WATCH LIVE: Trump to address nation from White House",
+      "title": "WATCH: Trump delivers primetime address on election system",
       "date": "2026-07-16T20:07:22.000Z"
     },
     {
@@ -124,7 +558,7 @@
       "outlet": "Fox News",
       "lean": "lean-right",
       "url": "https://www.foxnews.com/politics/sherrill-ripped-after-nj-skips-flag-directive-honoring-graham-most-political-governor",
-      "title": "Sherrill ripped after NJ skips flag directive honoring Graham: ‘Most political governor’",
+      "title": "Sherrill ripped after New Jersey skips flag directive honoring Graham: ‘Most political governor’",
       "date": "2026-07-16T19:52:12.000Z"
     },
     {
@@ -152,7 +586,7 @@
       "outlet": "Fox News",
       "lean": "lean-right",
       "url": "https://www.foxnews.com/politics/mamdani-ripped-freak-show-press-conference-eviction-declared-form-violence",
-      "title": "Mamdani ripped over 'freak show' press conference where eviction was declared a form of 'violence'",
+      "title": "Mamdani ripped over 'freak show' news conference where eviction was declared a form of 'violence'",
       "date": "2026-07-16T19:39:07.000Z"
     },
     {
@@ -509,7 +943,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/16/donald-trump-darline-graham-bukele-blanche-iran-ice-2020-election-speech-latest-news-updates",
-      "title": "Leavitt defends Trump’s fixation on lost 2020 election ahead of president’s primetime address – live",
+      "title": "Democratic senator says Trump speech likely to be more ‘election denialism’ from ‘world’s most famous sore loser’ – as it happened",
       "date": "2026-07-16T16:15:32.000Z"
     },
     {
@@ -530,7 +964,7 @@
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/homenews/administration/5970909-live-updates-trump-address-iran-house-budget-maine-senate/",
-      "title": "Live updates: Leavitt returns to briefing room ahead of Trump address",
+      "title": "Live updates: Trump alleges 'stunning' Chinese election interference, 'deep state' coverup",
       "date": "2026-07-16T16:10:56.000Z"
     },
     {
@@ -565,7 +999,7 @@
       "outlet": "Fox News",
       "lean": "lean-right",
       "url": "https://www.foxnews.com/politics/kennedy-center-disputes-dem-whistleblower-allegations-trump-renovations-defends-flooring-contract",
-      "title": "Kennedy Center disputes Dem whistleblower allegations over Trump renovations, defends $8M flooring contract",
+      "title": "Kennedy Center disputes allegations on contractor bids despite Democrat senator's claims",
       "date": "2026-07-16T16:00:34.000Z"
     },
     {
@@ -677,7 +1111,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "title": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
+      "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
       "date": "2026-07-16T15:30:43.000Z"
     },
     {
@@ -1008,587 +1442,6 @@
       "url": "https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead",
       "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
       "date": "2026-07-16T09:00:00.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/football/live/2026/jul/16/world-cup-2026-argentina-break-england-hearts-and-head-for-final-with-spain-live",
-      "title": "World Cup 2026: UK government backs calls for Fifa to investigate Argentina over Falklands banner; Tuchel takes blame amid criticism of tactics – as it happened",
-      "date": "2026-07-16T07:17:06.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/live/2026/jul/16/the-open-2026-golf-updates-from-day-one-at-royal-birkdale-live",
-      "title": "The Open 2026: Rory McIlroy makes slow start, Suber takes early lead at Birkdale – live",
-      "date": "2026-07-16T07:15:01.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire",
-      "title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
-      "date": "2026-07-16T06:03:21.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
-      "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
-      "date": "2026-07-16T05:01:23.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/lindsey-grahams-final-act-reverberates-senate-sister-urged-keep-pedaling",
-      "title": "Lindsey Graham’s final act reverberates in Senate as sister is urged to 'keep pedaling'",
-      "date": "2026-07-16T04:00:46.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/5970983-trump-removes-george-washington-slavery-exhibit/",
-      "title": "Trump administration replaces slavery exhibition at Washington’s Philadelphia home",
-      "date": "2026-07-16T03:10:41.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4650868/karoline-leavitt-briefing-return-maternity-leave/",
-      "title": "Karoline Leavitt to hold first press briefing since return from maternity leave",
-      "date": "2026-07-16T02:53:43.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-      "title": "US military to start screening for testosterone deficiency, Hegseth says",
-      "date": "2026-07-16T02:33:40.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/media/5970958-nyt-challenges-trump-admin-subpoenas/",
-      "title": "New York Times files motion to quash subpoenas following Air Force One coverage",
-      "date": "2026-07-16T02:29:12.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/r-kelly-donald-trump-appeal-commute-prison-sentence-ntwnfb",
-      "title": "R Kelly formally appeals to Donald Trump to commute his 31-year prison sentence",
-      "date": "2026-07-16T02:20:41.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/senate/4650827/fetterman-leave-democratic-party-anti-israel/",
-      "title": "Fetterman says he’ll leave Democratic Party if it becomes ‘anti-Israel party’",
-      "date": "2026-07-16T02:19:32.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-says-iran-released-american-woman-held-2024-gesture-goodwill",
-      "title": "Trump says Iran released American woman held since 2024 in 'gesture of goodwill'",
-      "date": "2026-07-16T02:00:08.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/defense/4650799/us-disables-oil-tanker-kharg-island-blockade/",
-      "title": "US disables oil tanker sailing to Kharg Island in first since blockade renewed",
-      "date": "2026-07-16T01:57:55.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/house/4650695/house-democrats-investigation-ice-shootings/",
-      "title": "House Democrats demand ‘interference’-free investigation into deadly ICE shootings",
-      "date": "2026-07-16T01:09:39.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/tim-walz-offers-strange-defense-pardoning-convicted-child-rapist-trump-admin-deported",
-      "title": "Tim Walz offers strange defense for pardoning convicted child rapist Trump administration deported",
-      "date": "2026-07-16T01:03:14.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4650669/trump-iran-wrongfully-detained-american/",
-      "title": "Trump says Iran allowed ‘wrongfully detained’ American to leave country",
-      "date": "2026-07-16T00:36:34.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
-      "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
-      "date": "2026-07-16T00:33:23.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/new-york-times-subpoenas-air-force-one",
-      "title": "New York Times files motion to quash justice department’s subpoenas",
-      "date": "2026-07-16T00:32:16.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-iran-detained-citizen-released",
-      "title": "Trump says Iran has released US citizen detained since 2024",
-      "date": "2026-07-16T00:20:51.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/nevada-lt-gov-elon-musk-could-make-space-tourism-states-next-big-industry",
-      "title": "Nevada Lt Gov: Elon Musk could make space tourism state's next big industry",
-      "date": "2026-07-16T00:18:03.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/5970729-hill-nation-summit-takeaways/",
-      "title": "5 standout moments from the Hill Nation Summit",
-      "date": "2026-07-16T00:12:00.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/china-more-positive-view-us-pew-poll-survey",
-      "title": "China and Xi Jinping seen more favourably than the US and Trump in poll of major countries",
-      "date": "2026-07-15T23:46:30.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5970850-iran-frees-us-citizen-trump/",
-      "title": "Trump says Iran has freed a U.S. citizen as gesture of goodwill",
-      "date": "2026-07-15T23:44:01.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss",
-      "title": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
-      "date": "2026-07-15T23:35:39.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/what-blanche-said-about-trump-epstein-files-during-confirmation-hearing",
-      "title": "What Blanche said about Trump, Epstein files during confirmation hearing for attorney general",
-      "date": "2026-07-15T23:34:19.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/exclusive-pence-pushes-rename-bill-lindsey-graham-recalls-final-talk-bring-putin-table",
-      "title": "EXCLUSIVE: Pence pushes to rename bill for Lindsey Graham, recalls final talk: 'Bring Putin to the table'",
-      "date": "2026-07-15T23:31:42.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/dc-reflecting-pool-gray",
-      "title": "Drained reflecting pool reveals Trump’s ‘American flag blue’ liner is now closer to gray",
-      "date": "2026-07-15T23:28:40.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4650629/trump-veterans-replace-illegal-immigrant-truck-drivers/",
-      "title": "Trump says ‘proud American veterans’ will replace illegal immigrant truck drivers",
-      "date": "2026-07-15T23:20:05.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/5970829-van-hollen-critiques-democratic-strategy/",
-      "title": "Van Hollen, mulling White House bid, says Democrats doing a bad job telling voters what they’re for",
-      "date": "2026-07-15T23:17:42.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/defense-national-security/5970819-trump-risks-iran-war/",
-      "title": "Trump's big risks in returning to all-out war",
-      "date": "2026-07-15T23:14:14.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/defense/4650426/pennsylvania-defense-summit-trump-contracts-jobs/",
-      "title": "Pennsylvania defense summit leads to nearly $10 billion in defense contracts that will create thousands of jobs",
-      "date": "2026-07-15T23:11:03.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/healthcare/5970808-senators-question-trump-cdc-pick/",
-      "title": "Trump’s CDC pick dodges questions on independence",
-      "date": "2026-07-15T23:08:02.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/jd-vance-joe-rogan-epstein-files",
-      "title": "‘We screwed up the comms’: JD Vance admits errors over Epstein files release",
-      "date": "2026-07-15T23:06:14.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/show/senators-question-blanche-on-trump-loyalty-jan-6-cases-and-epstein-files",
-      "title": "Senators question Blanche on Trump loyalty, Jan. 6 cases and Epstein files",
-      "date": "2026-07-15T22:55:04.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/former-marine-running-congress-says-trump-antichrist-must-killed-shocking-video",
-      "title": "Former Marine running for Congress says Trump is the Antichrist and 'must be killed' in shocking video",
-      "date": "2026-07-15T22:53:48.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/show/trumps-intelligence-nominee-refuses-to-say-who-won-2020-election",
-      "title": "Trump's intelligence nominee refuses to say who won 2020 election",
-      "date": "2026-07-15T22:50:24.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/senate/4650562/schumer-trump-save-act-aint-passing/",
-      "title": "Schumer tells Trump SAVE America Act ‘ain’t passing’",
-      "date": "2026-07-15T22:46:10.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/healthcare/5970727-schwartz-kaufman-cdc-aspr-testimony/",
-      "title": "Cassidy, Senate Democrats grill Trump health nominees over vaccine pressures",
-      "date": "2026-07-15T22:44:37.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/she-saw-dollar-signs-former-obama-counsel-pressed-over-years-long-epstein-ties",
-      "title": "'She saw dollar signs': Former Obama counsel pressed over years-long Epstein ties",
-      "date": "2026-07-15T22:41:09.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/show/subpoenas-over-new-york-times-report-on-air-force-one-raise-press-freedom-concerns",
-      "title": "Subpoenas over New York Times report on Air Force One raise press freedom concerns",
-      "date": "2026-07-15T22:40:19.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/restoring-america/patriotism-unity/4650480/inside-smithsonian-marxist-history-lesson/",
-      "title": "Inside the Smithsonian’s $1.1 billion Marxist history lesson",
-      "date": "2026-07-15T22:38:03.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/clyenznvj8go?at_medium=RSS&at_campaign=rss",
-      "title": "Blanche grilled over handling of Epstein files and relationship with Trump",
-      "date": "2026-07-15T22:35:13.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/5970741-trump-iran-hormuz-conflict-cycle/",
-      "title": "Trump restarts 'vicious cycle' on Iran",
-      "date": "2026-07-15T22:28:34.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/5970730-john-fetterman-democratic-party-israel/",
-      "title": "Fetterman warns he would leave Democratic Party if it turns its back on Israel",
-      "date": "2026-07-15T22:26:31.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss",
-      "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
-      "date": "2026-07-15T22:25:35.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c621m66qm76o?at_medium=RSS&at_campaign=rss",
-      "title": "What to know about 'explosive diarrhoea' parasite outbreak in US",
-      "date": "2026-07-15T22:24:48.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/5970696-judge-rules-internet-grant-unconstitutional/",
-      "title": "Judge rules Biden-era internet grant program unconstitutionally prioritized racial minorities",
-      "date": "2026-07-15T22:23:41.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cly8yrw597eo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says ICE should not give up traffic stops in wake of fatal shootings",
-      "date": "2026-07-15T22:21:40.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4650481/tim-scott-lindsey-graham-sister-permanent-successor/",
-      "title": "Tim Scott floats Lindsey Graham’s sister as permanent successor",
-      "date": "2026-07-15T22:10:38.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/5970694-dod-studies-military-vaccine-policy/",
-      "title": "Pentagon panel to study 2021 COVID vaccine mandate",
-      "date": "2026-07-15T22:04:58.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&at_campaign=rss",
-      "title": "'I must get out into the free world', dissident who fled China on boat tells BBC",
-      "date": "2026-07-15T22:04:12.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/5970611-poll-iran-war-duration/",
-      "title": "Nearly half of Americans think Iran war will go on for a year or beyond from now: Poll",
-      "date": "2026-07-15T21:59:35.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire",
-      "title": "Fear and hope in Utah in the shadow of America's largest wildfire",
-      "date": "2026-07-15T21:55:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/ex-dem-fundraiser-torches-biden-memoir-announcement-implodes-no-one-wants-read",
-      "title": "Ex-Dem fundraiser torches Biden as book launch implodes: 'No one wants to read'",
-      "date": "2026-07-15T21:54:11.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/5970582-house-state-department-funding-bill/",
-      "title": "House passes State Department funding bill for fiscal year 2027",
-      "date": "2026-07-15T21:44:52.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/technology/5970635-lieu-bashes-gop-ai-strategy/",
-      "title": "Lieu bashes GOP colleagues for strategy on AI",
-      "date": "2026-07-15T21:39:58.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/u-s-mint-produces-a-1-coin-bearing-trumps-face-to-help-celebrate-americas-250th-birthday",
-      "title": "U.S. Mint produces a $1 coin bearing Trump's face to help celebrate America's 250th birthday",
-      "date": "2026-07-15T21:38:46.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/ckg922wyxvlo?at_medium=RSS&at_campaign=rss",
-      "title": "US mum who blamed vaccines for twins' deaths is denied bail on murder charges",
-      "date": "2026-07-15T21:36:50.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/c8dnpq64yygo?at_medium=RSS&at_campaign=rss",
-      "title": "Is Trump facing a popular backlash on immigration?",
-      "date": "2026-07-15T21:29:28.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/justice/4650306/dominic-pezzola-doj-charges-dropped-jan-6-capitol-riot/",
-      "title": "DOJ drops charges against Jan. 6 rioter who used riot shield to breach Capitol",
-      "date": "2026-07-15T21:26:33.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/erica-schwartz-cdc-senate-hearing",
-      "title": "CDC nominee Erica Schwartz pressed on whether she will resist RFK Jr’s vaccine agenda",
-      "date": "2026-07-15T21:24:28.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/c0m7nv093gvo?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: TikTok legend Gangster Granny on her love for Messi",
-      "date": "2026-07-15T21:23:44.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/trump-administration-screwed-up-epstein-files-communication-vance-says",
-      "title": "Trump administration 'screwed up' Epstein files communication, Vance says",
-      "date": "2026-07-15T21:21:45.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/biden-will-publish-promise-me-america-memoir-after-the-november-midterm-elections",
-      "title": "Biden will publish 'Promise Me, America' memoir after the November midterm elections",
-      "date": "2026-07-15T21:19:38.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5970534-iran-us-conflict-trump-risks/",
-      "title": "4 risks facing Trump if he returns to all-out war with Iran",
-      "date": "2026-07-15T21:18:11.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/house-republicans-save-america-act-spending-bill",
-      "title": "House Republicans resurrect Save America Act by adding it to spending bill",
-      "date": "2026-07-15T21:17:25.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/international/5970552-pew-survey-china-us-favorability/",
-      "title": "Many countries favor China and Xi over Trump and the US: Polling",
-      "date": "2026-07-15T21:13:50.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/house-democrats-israel-aid",
-      "title": "House defeats bid to end military aid to Israel as over 100 Democrats vote for it",
-      "date": "2026-07-15T21:11:37.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5893895/2026-world-cup-fifa-argentina-england-semifinal",
-      "title": "Argentina is back in the World Cup final after a thrilling semifinal win over England",
-      "date": "2026-07-15T21:10:43.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5895105/todd-blanche-senate-confirmation-attorney-general-takeaways",
-      "title": "Takeaways from Todd Blanche's confirmation hearing for attorney general",
-      "date": "2026-07-15T21:09:09.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/trump-endorses-pillow-man-mike-lindell-for-minnesota-governor",
-      "title": "Trump endorses 'Pillow Man' Mike Lindell for Minnesota governor",
-      "date": "2026-07-15T21:03:47.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/world/hegseth-announces-new-policy-to-test-troops-for-low-testosterone-and-offer-them-hormone-replacement-therapy",
-      "title": "Hegseth announces new policy to test troops for low testosterone and offer them hormone replacement therapy",
-      "date": "2026-07-15T21:03:33.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4650313/vance-trump-administration-botched-epstein-files-release-communications/",
-      "title": "Vance admits Trump administration ‘absolutely screwed up the comms of the Epstein files’",
-      "date": "2026-07-15T20:59:32.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
-      "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
-      "date": "2026-07-15T20:58:43.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/house/4649910/103-house-democrats-vote-cut-aid-israel/",
-      "title": "Over 100 House Democrats buck Jeffries and vote to cut all aid to Israel",
-      "date": "2026-07-15T20:58:22.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/dems-unite-boycott-hearing-emerging-threat-facing-america-dont-want-know-truth",
-      "title": "Dems unite to boycott hearing on emerging threat facing America: 'Don’t want to know the truth'",
-      "date": "2026-07-15T20:57:07.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/defense/4650079/pete-hegseth-testosterone-initiative-what-to-know/",
-      "title": "Hegseth’s ‘High-T’ testosterone initiative: What to know",
-      "date": "2026-07-15T20:53:26.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/technology/5970522-data-center-power-costs-pjm/",
-      "title": "Data center electricity demand is expected to drive up costs after recent power auction",
-      "date": "2026-07-15T20:52:50.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/5970422-cammack-warns-china-ai-threat/",
-      "title": "Cammack says China has deployed 'digital twins' of every lawmaker",
-      "date": "2026-07-15T20:50:29.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/us-military-testosterone-screening-hegseth",
-      "title": "Pete Hegseth says soldiers over age 30 to be screened for testosterone deficiency",
-      "date": "2026-07-15T20:48:54.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/house-democrats-fracture-massie-amendment-cut-3-3b-us-aid-israel",
-      "title": "House Democrats fracture badly over Massie amendment to cut $3.3B in U.S. aid to Israel",
-      "date": "2026-07-15T20:46:44.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5968257-live-updates-trump-iran-todd-blanche-jay-clayton-hearings/",
-      "title": "Live updates: Blanche says Trump isn't eligible for third term in tough confirmation hearing",
-      "date": "2026-07-15T20:44:41.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4650211/smoke-canada-wildfires-reach-washington-dc/",
-      "title": "Smoke from Canadian wildfires could reach DC by Thursday",
-      "date": "2026-07-15T20:43:39.000Z"
     }
   ]
 }
