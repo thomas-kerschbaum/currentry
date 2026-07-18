@@ -1,12 +1,320 @@
 {
-  "lastRefreshed": "2026-07-18T15:32:20.470Z",
+  "lastRefreshed": "2026-07-18T20:32:10.328Z",
   "articles": [
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/jul/18/bryson-dechambeau-open-championship-royal-birkdale-two-shot-penalty",
+      "title": "Bryson DeChambeau plays to the gallery whether or not they think he is villain or victim | Andy Bull",
+      "date": "2026-07-18T20:08:10.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
+      "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
+      "date": "2026-07-18T20:06:35.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "date": "2026-07-18T19:38:07.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/healthcare/4654564/taylor-farms-recall-iceberg-lettuce-cyclosporiasis/",
+      "title": "Taylor Farms issues 27-state recall for iceberg lettuce due to cyclosporiasis outbreak",
+      "date": "2026-07-18T19:38:07.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/18/us-house-ralph-norman-south-carolina-lindsey-graham",
+      "title": "Republican lawmaker Ralph Norman to join race to succeed Lindsey Graham in South Carolina",
+      "date": "2026-07-18T19:14:03.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+      "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
+      "date": "2026-07-18T19:11:13.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/media/5976314-cnns-smerconish-blasts-own-network-others-for-not-airing-trumps-election-speech/",
+      "title": "CNN’s Smerconish blasts own network, others for not airing Trump's election speech",
+      "date": "2026-07-18T19:10:50.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4654554/joe-concha-rips-don-lemon-ambitions-who-asking-him/",
+      "title": "Joe Concha questions potential 2028 run for Don Lemon: ‘Who’s asking him? Peter Griffin? Homer Simpson?’",
+      "date": "2026-07-18T19:10:38.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/liberal-circuit-judge-blasts-scotus-conservatives-hawaii-defy-high-court",
+      "title": "Liberal circuit judge blasts SCOTUS conservatives, says Hawaii will defy high court",
+      "date": "2026-07-18T19:08:17.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/state-watch/5976307-mamdani-floats-arresting-netanyahu-if-he-visits-nyc-for-un-general-assembly/",
+      "title": "Mamdani floats arresting Netanyahu if he visits NYC for UN General Assembly",
+      "date": "2026-07-18T19:06:34.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/international/5972952-us-patriot-missile-deal/",
+      "title": "From Saratoga to Saratov: Every war of independence needs an ally",
+      "date": "2026-07-18T19:00:00.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/nation/u-s-cancels-automatic-protections-for-imperiled-animals-as-critics-warn-of-extinctions",
+      "title": "U.S. cancels automatic protections for imperiled animals as critics warn of extinctions",
+      "date": "2026-07-18T18:43:58.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/finance/4654481/insider-trading-politics-war-speech-writing/",
+      "title": "Betting on politics: Insider trading infiltrates war planning to speech writing",
+      "date": "2026-07-18T18:25:16.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/stephen-miller-trump-administration-pursuing-policy-debank-illegal-immigrants",
+      "title": "Stephen Miller says Trump administration is pursuing policy to debank illegal immigrants",
+      "date": "2026-07-18T18:23:50.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/new-yorkers-collected-2-6-billion-welfare-cash-payments-last-year-city-data-shows",
+      "title": "New Yorkers collected $2.6 billion in welfare cash payments last year, city data shows",
+      "date": "2026-07-18T18:19:52.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/david-crowley-reenters-battleground-wisconsins-democratic-governor-primary-with-gov-evers-backing",
+      "title": "David Crowley reenters battleground Wisconsin's Democratic governor primary with Gov. Evers' backing",
+      "date": "2026-07-18T18:17:43.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
+      "title": "Air quality improving in northeast, while wildfire smoke hangs over midwest",
+      "date": "2026-07-18T18:15:42.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
+      "title": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan",
+      "date": "2026-07-18T18:14:11.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/entertainment/4654518/fetterman-switching-parties-likely-before-midterms-joe-concha/",
+      "title": "Fetterman switching to Independent or Republican ‘likely before the midterms’: Joe Concha",
+      "date": "2026-07-18T18:12:25.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/international/5976264-khamenei-slams-trump-ceasefire/",
+      "title": "Iranian leader calls Trump's signature 'worthless and invalid' as war rages",
+      "date": "2026-07-18T18:07:24.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/5976260-us-military-2-killed-jordan-iran-war/",
+      "title": "CENTCOM confirms 2 US service members killed in Jordan, another missing",
+      "date": "2026-07-18T18:00:44.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/congress-blog/labor/5972127-crisis-american-men-employment/",
+      "title": "What's really behind America's male recession?",
+      "date": "2026-07-18T18:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/in_focus/4650622/democrats-searching-identity-two-years-after-joe-biden-exit/",
+      "title": "Democrats still searching for identity two years after Biden’s exit",
+      "date": "2026-07-18T18:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/defense/4654534/two-us-service-member-kill-jordan-iran/",
+      "title": "Two US service members killed in Jordan after breakdown of Iran ceasefire",
+      "date": "2026-07-18T17:38:14.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/two-us-service-members-killed-iranian-strikes-jordan-centcom-says",
+      "title": "Two US service members killed in Iranian strikes on Jordan, CENTCOM says",
+      "date": "2026-07-18T17:36:40.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5976200-evers-endorses-crowley-wisconsin-governor/",
+      "title": "Evers backs Crowley's comeback bid in Wisconsin governor's race",
+      "date": "2026-07-18T17:27:50.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/kentucky-governor-says-he-received-2-calls-from-agencies-indicating-mcconnell-had-passed",
+      "title": "Kentucky governor says he received 2 calls from agencies indicating McConnell had 'passed'",
+      "date": "2026-07-18T17:19:08.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/international/5974958-protect-usmca-free-trade/",
+      "title": "Congress, Mexico and Canada hold a USMCA trump card",
+      "date": "2026-07-18T17:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4654515/ralph-norman-announce-run-senate/",
+      "title": "Ralph Norman announces run for Lindsey Graham’s Senate seat",
+      "date": "2026-07-18T16:59:02.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4654432/venezuela-earthquake-death-toll-5000/",
+      "title": "Venezuela earthquakes death toll surpasses 5,000",
+      "date": "2026-07-18T16:54:57.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5976205-norman-sc-senate-bid/",
+      "title": "Norman throws hat in ring for Graham’s Senate seat",
+      "date": "2026-07-18T16:52:30.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/rep-ralph-norman-enters-south-carolina-senate-race-despite-trumps-endorsement-tim-scott",
+      "title": "Rep Ralph Norman enters South Carolina Senate race despite Trump's endorsement of Darline Graham",
+      "date": "2026-07-18T16:33:33.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/senate/4654492/south-carolina-gets-election-maine-gets-party-pick-byron-york/",
+      "title": "South Carolina gets an election, Maine gets a party pick: Byron York",
+      "date": "2026-07-18T16:32:13.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/ousted-squad-dem-stumps-maoist-who-defended-terrorists-promoted-violence-wants-unmake-america",
+      "title": "Ousted Squad Dem stumps with radical activist who defended Hamas, promoted political violence",
+      "date": "2026-07-18T16:30:05.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/jul/18/mcilroy-lashes-out-dechambeau-holding-open-hostage-penalty-row",
+      "title": "McIlroy lashes out at DeChambeau for ‘holding the Open hostage’ over penalty row",
+      "date": "2026-07-18T16:29:39.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/18/north-dakota-newborns-switched",
+      "title": "North Dakota men who discover they were switched as newborns sue hospital",
+      "date": "2026-07-18T16:23:09.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/regulation/court-battles/5976171-appeals-court-trump-administration-usps-mail-in-ballots/",
+      "title": "Appeals court narrows setback for Trump USPS mail-in ballot policy",
+      "date": "2026-07-18T16:18:17.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/fraud-expert-warns-ai-helping-criminals-outpace-government-dont-have-right-tools",
+      "title": "Fraud expert warns AI is helping criminals outpace the government: 'Don't have the right tools'",
+      "date": "2026-07-18T16:00:39.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/4654489/doj-alien-terrorist-deportation-court/",
+      "title": "DOJ uses ‘alien terrorist’ deportation court for first time in history",
+      "date": "2026-07-18T16:00:21.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/campaign/5974835-media-bias-trump-gop/",
+      "title": "For many in the media and judiciary, Trump and the GOP are guilty until proven innocent",
+      "date": "2026-07-18T16:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/house/5975417-anti-abortion-activists-planned-parenthood-funding-reconciliation/",
+      "title": "Push to defund Planned Parenthood turns up as policy left out of reconciliation 3.0",
+      "date": "2026-07-18T16:00:00.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/read-documents-white-house-releases-election-integrity-files-after-trump-speech",
+      "title": "READ THE DOCUMENTS: White House releases election integrity files after Trump speech",
+      "date": "2026-07-18T15:56:46.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5976160-democrats-house-advantage-poll/",
+      "title": "Democrats cling to slim House advantage in new poll",
+      "date": "2026-07-18T15:55:40.000Z"
+    },
     {
       "outlet": "NPR",
       "lean": "lean-left",
       "url": "https://www.npr.org/2026/07/18/nx-s1-5897607/2026-world-cup-fifa-argentina-spain-women-fans",
       "title": "Reporter's Notebook: Finding World Cup joy in speaking to women who love soccer",
       "date": "2026-07-18T15:30:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/regulation/court-battles/5976130-supreme-court-confidence-drops/",
+      "title": "Growing number of Americans lack confidence in Supreme Court: Survey",
+      "date": "2026-07-18T15:23:22.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -19,7 +327,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/sport/live/2026/jul/18/the-open-2026-day-three-golf-updates-from-royal-birkdale-live",
-      "title": "The Open 2026: Fox equals major record, DeChambeau in action and day three updates – live",
+      "title": "The Open 2026: day three - as it happened",
       "date": "2026-07-18T15:17:52.000Z"
     },
     {
@@ -33,7 +341,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/football/live/2026/jul/18/world-cup-latest-buildup-france-england-third-place-spain-argentina",
-      "title": "World Cup 2026 latest: Trump criticises Tuchel, buildup to France v England and Spain v Argentina final",
+      "title": "World Cup 2026 latest: Trump criticises Tuchel, buildup to France v England and Spain v Argentina final – as it happened",
       "date": "2026-07-18T15:12:12.000Z"
     },
     {
@@ -180,7 +488,7 @@
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/homenews/administration/5975853-live-updates-us-iran-war-trump-election-claims-midterms/",
-      "title": "Live updates: US hits Iran energy targets, bridges; Fallout persists after Trump election speech",
+      "title": "Live updates: 2 US soldiers killed by Iran strikes in Jordan; Norman launches bid for Graham seat",
       "date": "2026-07-18T12:45:00.000Z"
     },
     {
@@ -861,489 +1169,6 @@
       "url": "https://thehill.com/policy/defense/5975356-us-military-iran-strikes/",
       "title": "US military conducts strikes against Iran for seventh consecutive day",
       "date": "2026-07-17T20:38:01.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/technology/4653863/data-centers-hochul-ban-new-york-joe-concha/",
-      "title": "‘Literally almost no downside’ to data centers after Hochul bans them in New York: Joe Concha",
-      "date": "2026-07-17T20:31:37.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/trump-urges-darline-graham-to-run-for-full-senate-term-as-funeral-planned-for-her-brother",
-      "title": "Trump urges Darline Graham to run for full Senate term as funeral planned for her brother",
-      "date": "2026-07-17T20:30:54.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/world/4653758/china-threat-dhs-cuts-foreign-journalists-visa-duration/",
-      "title": "China threatens ‘countermeasures’ after DHS cuts foreign journalists’ visa duration",
-      "date": "2026-07-17T20:30:24.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/state/4653853/josh-shapiro-rise-up-pennsylvania-campaign-democrats/",
-      "title": "Josh Shapiro launches $3.3 million midterm effort to boost Pennsylvania Democrats as 2028 profile grows",
-      "date": "2026-07-17T20:26:12.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-address-on-china-the-2020-election-and-what-documents-show",
-      "title": "Fact-checking Trump's address on China, the 2020 election and what documents show",
-      "date": "2026-07-17T20:20:23.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/video-clips/5974971-trump-fifa-world-cup-reception/",
-      "title": "Watch live: Trump attends FIFA World Cup reception in New York City",
-      "date": "2026-07-17T20:20:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5975272-el-sayed-urges-supporters-stop-stevens-attacks/",
-      "title": "Abdul El-Sayed asks supporters to stop attacking Stevens",
-      "date": "2026-07-17T20:18:39.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men",
-      "title": "Spain could make World Cup history: The first to win men's and women's trophies back-to-back",
-      "date": "2026-07-17T20:17:27.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-dhs-threatens-federal-funding-cutoff-states-refuse-voter-roll-security-push",
-      "title": "Trump DHS threatens federal funding cutoff for states that refuse voter-roll security push",
-      "date": "2026-07-17T20:16:57.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/trump-claims-primetime-address",
-      "title": "Five claims Trump made in primetime address not backed up by evidence",
-      "date": "2026-07-17T20:04:07.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4653720/republicans-blame-wildfire-smoke-canada-mismanaging-forests/",
-      "title": "Trump and Republicans blame wildfire smoke on Canada for mismanaging forests",
-      "date": "2026-07-17T20:03:41.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/4653666/house-republicans-spending-stopgap-avert-shutdown-through-december/",
-      "title": "House Republicans release spending stopgap to avert shutdown through December",
-      "date": "2026-07-17T20:03:41.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5975233-trump-canada-wildfire-smoke-tariffs/",
-      "title": "Trump says Canada will face tariffs over wildfire smoke, claiming 'willful negligence'",
-      "date": "2026-07-17T20:00:30.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/in_focus/4650222/america-stopped-speaking-its-creed/",
-      "title": "Recite the creed. Save the country",
-      "date": "2026-07-17T20:00:25.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/media/5975232-nbc-news-intruder-arraigned/",
-      "title": "Man arraigned on hate crime charges after confrontation with 'Today' show host",
-      "date": "2026-07-17T19:59:07.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5975198-trump-endorses-nordone-sc-senate/",
-      "title": "Trump asks Lindsey Graham's sister to run for Senate",
-      "date": "2026-07-17T19:58:36.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/energy-environment/5975187-trump-admin-rolls-back-esa-protections/",
-      "title": "Trump rolls back protections for threatened species and habitat for endangered species",
-      "date": "2026-07-17T19:52:25.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/state/4653306/katie-porter-quits-politics-book-instagram/",
-      "title": "Katie Porter says she’s ‘done’ with politics as she focuses on Instagram book content",
-      "date": "2026-07-17T19:51:36.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4653763/jack-smith-arctic-frost-scandal-what-comes-next/",
-      "title": "Arctic Frost isn’t the scandal. What comes next is",
-      "date": "2026-07-17T19:48:39.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4653799/trump-endorses-darline-graham-nordone-full-term/",
-      "title": "Trump endorses Darline Graham Nordone for full term",
-      "date": "2026-07-17T19:47:10.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5975154-wisconsin-governor-primary/",
-      "title": "Wisconsin lieutenant governor suspends gubernatorial bid amid financial woes",
-      "date": "2026-07-17T19:43:56.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/pelosi-staffer-pumps-brakes-pressed-husbands-hit-and-run-thats-enough",
-      "title": "Pelosi staffer pumps the brakes when pressed on husband's hit-and-run: 'That's enough'",
-      "date": "2026-07-17T19:38:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/state/4653520/abigail-spanberger-six-month-approval-rating/",
-      "title": "Abigail Spanberger defends record at six-month mark with approval rating underwater",
-      "date": "2026-07-17T19:37:05.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/energy-environment/5974987-how-long-until-smoke-clears-updated-forecast-timeline-air-quality/",
-      "title": "How long until the smoke clears? Updated forecast shows timeline for better air quality",
-      "date": "2026-07-17T19:34:57.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5897510/bts-bieber-madonna-shakira-world-cup-halftime-show",
-      "title": "Move over, Super Bowl? There's an even bigger – and splashier – World Cup halftime show coming",
-      "date": "2026-07-17T19:24:52.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
-      "title": "China signals possible return of U.S. trade privileges for Hong Kong",
-      "date": "2026-07-17T19:16:16.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/media/5975040-carville-trump-speech-network-coverage/",
-      "title": "Carville criticizes CNN, ABC, NBC for not airing Trump speech",
-      "date": "2026-07-17T19:15:56.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/5975022-3rd-circuit-new-jersey-assault-weapons-magazine-ban/",
-      "title": "Appeals court says NJ's AR-15, high-capacity magazine bans violate Second Amendment",
-      "date": "2026-07-17T19:11:21.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/markwayne-mullin-trump-baseless-election-claims",
-      "title": "DHS secretary doubles down on Trump’s baseless 2020 election claims",
-      "date": "2026-07-17T19:10:38.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/state-watch/5974885-arizona-sheriff-chris-nanos-lawsuit-dismissed-nancy-guthrie-search/",
-      "title": "Sheriff leading Nancy Guthrie case wins dismissal of $1.35M lawsuit",
-      "date": "2026-07-17T19:05:21.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
-      "title": "The new $1 Trump coin doesn't just buck norms. Experts say it also breaks laws",
-      "date": "2026-07-17T18:59:36.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/energy-environment/5973046-better-weather-housing-moving-study/",
-      "title": "Better weather is Americans' top reason for moving out of state",
-      "date": "2026-07-17T18:53:14.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/5975033-house-gop-stopgap-funding-cr/",
-      "title": "House GOP leaders unveil stopgap funding bill ahead of expected vote next week",
-      "date": "2026-07-17T18:52:19.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/state-watch/5973165-phoenix-arizona-immigration-office-shooting-fbi/",
-      "title": "Shots fired at ICE building in Phoenix, FBI says; no injuries reported",
-      "date": "2026-07-17T18:48:37.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/17/trump-speech-election-denialism",
-      "title": "Trump has declared war on elections in the name of protecting them | Austin Sarat",
-      "date": "2026-07-17T18:33:08.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5974924-trump-mullin-foreign-journalist-visa-updates/",
-      "title": "US dramatically shortening visas for foreign journalists",
-      "date": "2026-07-17T18:25:43.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/rubios-call-combat-far-left-terrorism-could-implicate-singham-faces-grand-jury-probe",
-      "title": "Rubio's call to combat global funders of far-left terrorism could put Singham in crosshairs",
-      "date": "2026-07-17T18:07:35.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/jul/17/mcilroy-lets-driver-fly-but-putts-go-awry-with-open-hopes-in-the-balance",
-      "title": "Rory McIlroy lets driver fly but putts go awry with Open hopes in balance",
-      "date": "2026-07-17T17:58:20.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/darline-graham-considering-running-full-senate-term-memorial-services-lindsey-graham-report",
-      "title": "Darline Graham considering running for full a Senate term as memorial services set for Lindsey Graham: report",
-      "date": "2026-07-17T17:52:00.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/trump-cites-national-security-to-stop-offshore-wind-development-heres-what-to-know",
-      "title": "Trump cites national security to stop offshore wind development. Here's what to know",
-      "date": "2026-07-17T17:49:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/white-house-dishes-new-election-security-jab-olive-garden-pasta-pass-id-policy",
-      "title": "White House dishes out new election security jab over Olive Garden's pasta pass ID policy",
-      "date": "2026-07-17T17:34:40.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/jul/17/the-week-around-the-world-in-20-pictures",
-      "title": "The week around the world in 20 pictures",
-      "date": "2026-07-17T17:34:30.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/minnesota-fraud-scandal-takes-absurd-new-twist-veteran-blows-whistle",
-      "title": "WATCH: Minnesota fraud scandal takes absurd new twist as veteran blows whistle",
-      "date": "2026-07-17T17:29:13.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/china-warns-of-reciprocal-countermeasures-after-u-s-shortens-foreign-journalist-visas",
-      "title": "China warns of reciprocal countermeasures after U.S. shortens foreign journalist visas",
-      "date": "2026-07-17T17:25:32.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/olive-garden-becomes-unlikely-face-voter-id-fight-after-restaurants-policy-goes-viral",
-      "title": "Olive Garden becomes unlikely face of voter ID fight after restaurant's policy goes viral",
-      "date": "2026-07-17T17:22:16.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/battleground-democrat-said-traditionally-white-outdoor-spaces-will-no-longer-white",
-      "title": "Battleground Democrat said traditionally White outdoor spaces 'will no longer be White'",
-      "date": "2026-07-17T17:17:45.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trumps-60-day-iran-deal-reaches-halfway-mark-ceasefire-collapses-escalating-war",
-      "title": "Trump's 60-day Iran deal reaches halfway mark as ceasefire collapses into escalating war",
-      "date": "2026-07-17T17:11:32.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/jul/17/herbert-proud-but-disappointed-after-missing-putt-for-record-breaking-61",
-      "title": "Herbert ‘disappointed but proud’ after missing putt for record-breaking 61",
-      "date": "2026-07-17T17:04:56.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5897509/lettuce-taco-bell-mexico-cyclospora-outbreak",
-      "title": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
-      "date": "2026-07-17T17:04:33.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/dsa-member-says-she-has-no-problem-supporting-secret-nazis-under-one-condition",
-      "title": "DSA member says she has no problem supporting ‘secret Nazis’ under one condition",
-      "date": "2026-07-17T16:58:54.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
-      "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-      "date": "2026-07-17T16:50:10.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/world/4653176/china-slams-trump-accusation-election-meddling/",
-      "title": "China slams Trump’s accusation of election meddling: ‘Entirely fabricated’",
-      "date": "2026-07-17T16:35:17.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/rhode-island-fugitive-sexual-assault-arrest",
-      "title": "‘Master yachtsman’ who fled 2005 trial for sexual assault arrested off US coast",
-      "date": "2026-07-17T16:30:39.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4653192/trump-searches-vandal-proof-material-reflecting-pool/",
-      "title": "Trump searches for ‘Vandal Proof’ material for Reflecting Pool",
-      "date": "2026-07-17T16:25:52.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/in_focus/4653124/activist-judge-voting-aliens/",
-      "title": "Another activist federal judge ignores federal law to ensure aliens can vote",
-      "date": "2026-07-17T16:23:43.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/democrat-scrambles-meet-angel-mom-blasts-lawmakers-faces-ignoring-families-pleas",
-      "title": "Democrat scrambles to meet Angel Mom after she blasts lawmakers to their faces for ignoring families’ pleas",
-      "date": "2026-07-17T16:21:01.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/justice/4653246/gop-feel-secure-todd-blanche-confirmation-kaelan-deese/",
-      "title": "Republicans feel more secure about getting Todd Blanche confirmed: Kaelan Deese",
-      "date": "2026-07-17T16:16:01.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/football/2026/jul/17/world-cup-conspiracy-theories-var-ai-argentina",
-      "title": "VAR ‘fixes’, AI slop and perpetual outrage: the World Cup in the age of conspiracy | Karim Zidan",
-      "date": "2026-07-17T16:15:36.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/live/2026/jul/17/donald-trump-speech-china-midterm-elections-latest-news-updates",
-      "title": "Experts cast doubt on Trump and DHS chief’s claim 250,000 noncitizens are registered to vote in four US states – as it happened",
-      "date": "2026-07-17T16:13:11.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/investigations/4653045/trump-resurrects-fbi-2020-election-fraud-investigation-michigan-what-we-know/",
-      "title": "Trump resurrects ‘slow-walked’ FBI 2020 election fraud investigation in Michigan: What we know",
-      "date": "2026-07-17T16:02:40.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/washington-secrets/4653076/white-house-report-card-trump-speech-elections-affordability/",
-      "title": "White House report card: What’s this got to do with the price of eggs?",
-      "date": "2026-07-17T15:56:23.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/national-security/5974655-mullin-threatens-states-election-security/",
-      "title": "Mullin threatens states as DHS launches widespread review of elections",
-      "date": "2026-07-17T15:53:27.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5973243-live-updates-trump-speech-elections-iran/",
-      "title": "Live updates: Mullin puts states on notice as Trump alleges compromised US elections",
-      "date": "2026-07-17T15:52:24.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/world/4652929/house-bill-gottheimer-lawler-dismantle-unrwa/",
-      "title": "Bipartisan House members introduce bill to dismantle UN agency that supports Palestinian refugee relief",
-      "date": "2026-07-17T15:46:43.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/socialist-backed-dem-who-ripped-wealthy-cracks-states-top-1-tax-returns-show",
-      "title": "Socialist-backed Dem who ripped the wealthy cracks state’s top 1%, tax returns show",
-      "date": "2026-07-17T15:45:46.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/5974630-dc-circuit-overturns-nyt-suit/",
-      "title": "Appeals court sides with Pentagon on escort policy for journalists",
-      "date": "2026-07-17T15:45:10.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/trump-administration-to-grant-12m-to-groups-founded-by-uk-conservatives-jacob-rees-mogg-and-toby-young",
-      "title": "Trump administration to grant $12m to groups founded by UK conservatives Jacob Rees-Mogg and Toby Young",
-      "date": "2026-07-17T15:43:31.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/opinion/columnists/4653110/how-david-fink-guides-local-rails-mega-merger-era/",
-      "title": "From short-line roots to the Federal Railroad Administration: How David Fink is guiding local rails in the mega-merger era",
-      "date": "2026-07-17T15:39:04.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-white-house-searching-vandal-proof-material-reflecting-pool-attack",
-      "title": "Trump says White House searching for 'vandal proof' material after alleged Reflecting Pool attack",
-      "date": "2026-07-17T15:33:28.000Z"
     }
   ]
 }
