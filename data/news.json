@@ -1,6 +1,27 @@
 {
-  "lastRefreshed": "2026-07-20T02:32:35.195Z",
+  "lastRefreshed": "2026-07-20T08:49:58.375Z",
   "articles": [
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5977446-giant-eagle-lowers-grocery-prices/",
+      "title": "President Trump: grocer Giant Eagle will lower prices on 'more than' 300 products",
+      "date": "2026-07-20T03:16:22.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4654900/trump-threatens-canada-wildfires-pay-damages/",
+      "title": "Trump threatens Canada over wildfire smoke: ‘Maybe they should pay us some damages’",
+      "date": "2026-07-20T02:59:40.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5977419-nirav-shah-drops-maine-senate/",
+      "title": "Second Democrat drops out of Maine primary",
+      "date": "2026-07-20T02:53:30.000Z"
+    },
     {
       "outlet": "The Hill",
       "lean": "center",
@@ -467,7 +488,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-      "title": "Health officials identify source of US explosive diarrhoea outbreak",
+      "title": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
       "date": "2026-07-19T15:17:23.000Z"
     },
     {
@@ -588,6 +609,13 @@
       "url": "https://www.washingtonexaminer.com/policy/defense/4654681/us-strikes-irgc-us-troops-killed-jordan/",
       "title": "US strikes IRGC forces behind attack that killed US troops in Jordan",
       "date": "2026-07-19T12:58:47.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "date": "2026-07-19T12:53:20.000Z"
     },
     {
       "outlet": "BBC News",
@@ -763,69 +791,6 @@
       "url": "https://www.npr.org/2026/07/19/nx-s1-5891817/5-clever-design-tricks-to-make-a-small-home-look-bigger",
       "title": "5 clever design tricks to make a small home look bigger",
       "date": "2026-07-19T09:01:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/josh-hawley-issues-blistering-rebuke-mitch-mcconnell-obligation-country",
-      "title": "WATCH: Josh Hawley issues blistering rebuke of McConnell over ‘obligation’ to country",
-      "date": "2026-07-19T08:00:29.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live",
-      "title": "World Cup 2026: Spain v Argentina final buildup, security stepped up with Trump attendance – as it happened",
-      "date": "2026-07-19T07:38:27.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
-      "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
-      "date": "2026-07-19T07:27:59.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5899020/2026-world-cup-fifa-mls-major-league-soccer",
-      "title": "MLS works to bring in a new generation of fans as the World Cup comes to an end",
-      "date": "2026-07-19T07:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4654634/voters-favor-democratic-candidates-just-three-points-poll/",
-      "title": "Registered voters favor Democratic House candidates by just three percentage points: Poll",
-      "date": "2026-07-19T06:05:25.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/18/australian-man-detained-ice-los-angeles-arrest-attempt-las-vegas-airport",
-      "title": "Australian man detained by ICE in Los Angeles after earlier arrest attempt in Las Vegas",
-      "date": "2026-07-19T05:34:01.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/19/virginia-giuffre-abuse-jeffrey-epstein-andrew-mountbatten-windsor-sky-roberts-brother-year-death",
-      "title": "‘We couldn’t let her story end there’: Virginia Roberts Giuffre’s brother on the year since her shocking death – and why he’s still fighting in her name",
-      "date": "2026-07-19T05:00:18.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship",
-      "title": "Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title",
-      "date": "2026-07-19T04:00:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/tulsi-gabbards-brother-charged-allegedly-trying-lure-children-waikiki-hotel-room-police",
-      "title": "Tulsi Gabbard's brother charged after allegedly trying to lure children to Waikīkī hotel room: police",
-      "date": "2026-07-19T03:21:00.000Z"
     }
   ]
 }
