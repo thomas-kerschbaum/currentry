@@ -1,6 +1,62 @@
 {
-  "lastRefreshed": "2026-07-21T02:11:05.957Z",
+  "lastRefreshed": "2026-07-21T08:19:32.337Z",
   "articles": [
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest",
+      "title": "Defence stocks rally as John Healey appointed chancellor; UK borrows less than expected in June – business live",
+      "date": "2026-07-21T07:55:38.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901832/spain-world-cup-champions-return-home",
+      "title": "Spain's World Cup champions return home for parade in front of almost 2 million",
+      "date": "2026-07-21T07:09:22.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/harvard-china-financial-aid-probe",
+      "title": "DOJ opens probe into Harvard's financial aid for alleged discrimination against American students",
+      "date": "2026-07-21T06:16:10.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901828/powerball-begin-united-kingdom",
+      "title": "Powerball ticket sales begin Tuesday in the United Kingdom",
+      "date": "2026-07-21T05:28:53.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/regulation/court-battles/5979646-judge-rejects-trump-sanctuary-laws/",
+      "title": "Judge, nominated by Trump, rules against him in key Minnesota case",
+      "date": "2026-07-21T03:01:05.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/senate/4656444/darline-graham-lindsey-war-hawk-senate-legacy/",
+      "title": "Darline Graham Nordone signals break with late brother’s defense-focused Senate legacy",
+      "date": "2026-07-21T02:44:31.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss",
+      "title": "Tropical Storm Bertha threatens US Gulf coast",
+      "date": "2026-07-21T02:42:44.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
+      "title": "'Anti-ICE' Army veteran set fire outside Manhattan federal building, say officials",
+      "date": "2026-07-21T02:16:05.000Z"
+    },
     {
       "outlet": "BBC News",
       "lean": "center",
@@ -105,6 +161,13 @@
       "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4656316/trump-meeting-uk-prime-minister-andy-burnham/",
       "title": "Trump says he’ll soon meet new British PM Andy Burnham after ‘interesting’ call",
       "date": "2026-07-20T23:42:30.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/c4g3p74rr6lo?at_medium=RSS&at_campaign=rss",
+      "title": "US shoppers react to mysterious ‘explosive diarrhoea’ parasite",
+      "date": "2026-07-20T23:29:54.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -231,6 +294,13 @@
       "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
       "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
       "date": "2026-07-20T22:27:04.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/cy4k7nlyl4ko?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: BBC reports from inside Tate brothers court appearance",
+      "date": "2026-07-20T22:25:13.000Z"
     },
     {
       "outlet": "The Hill",
@@ -389,6 +459,13 @@
     {
       "outlet": "BBC News",
       "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/cqx78j77ej2o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump and Burnham: Can the two leaders work together?",
+      "date": "2026-07-20T20:14:48.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
       "url": "https://www.bbc.co.uk/news/videos/cn5n4rxyz3wo?at_medium=RSS&at_campaign=rss",
       "title": "Misleading posts about Trump at World Cup final viewed by millions",
       "date": "2026-07-20T20:07:15.000Z"
@@ -420,6 +497,13 @@
       "url": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament",
       "title": "10 things that wowed us at the 2026 World Cup",
       "date": "2026-07-20T19:56:44.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
+      "title": "Merger deal between Paramount and Warner Bros paused by judge",
+      "date": "2026-07-20T19:48:13.000Z"
     },
     {
       "outlet": "The Christian Science Monitor",
@@ -691,7 +775,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/jul/20/bertha-tropical-depression-us-gulf-coast",
-      "title": "Weather warnings as tropical depression develops along US Gulf coast",
+      "title": "Tropical Storm Bertha heads for land as Hurricane Fausto forms in eastern Pacific",
       "date": "2026-07-20T16:55:04.000Z"
     },
     {
@@ -880,7 +964,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/20/maine-democrats-troy-jackson-senate-graham-platner-donald-trump-immigration-world-cup-us-politics-latest-news-updates",
-      "title": "Trump exploring additional tariffs on Canada for wildfire smoke impacts in US, White House official says – US politics live",
+      "title": "Trump exploring additional tariffs on Canada for wildfire smoke impacts in US, White House official says –as it happened",
       "date": "2026-07-20T13:24:37.000Z"
     },
     {
@@ -1122,6 +1206,13 @@
       "date": "2026-07-20T11:30:00.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
+      "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
+      "date": "2026-07-20T11:28:30.000Z"
+    },
+    {
       "outlet": "Fox News",
       "lean": "lean-right",
       "url": "https://www.foxnews.com/politics/socialist-backed-michigan-senate-hopeful-calls-american-politics-disease-after-professing-love-us",
@@ -1239,34 +1330,6 @@
       "url": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
       "title": "Andy Burnham becomes U.K. prime minister",
       "date": "2026-07-20T08:41:42.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5977446-giant-eagle-lowers-grocery-prices/",
-      "title": "President Trump: grocer Giant Eagle will lower prices on 'more than' 300 products",
-      "date": "2026-07-20T03:16:22.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4654900/trump-threatens-canada-wildfires-pay-damages/",
-      "title": "Trump threatens Canada over wildfire smoke: ‘Maybe they should pay us some damages’",
-      "date": "2026-07-20T02:59:40.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5977419-nirav-shah-drops-maine-senate/",
-      "title": "Second Democrat drops out of Maine primary",
-      "date": "2026-07-20T02:53:30.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-      "title": "Test that found source of US explosive diarrhoea outbreak was false positive",
-      "date": "2026-07-20T02:35:04.000Z"
     }
   ]
 }
