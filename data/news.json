@@ -1,6 +1,76 @@
 {
-  "lastRefreshed": "2026-07-23T02:20:49.670Z",
+  "lastRefreshed": "2026-07-23T08:22:44.588Z",
   "articles": [
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "title": "Google burning through cash with spiralling AI costs",
+      "date": "2026-07-23T07:15:59.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+      "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+      "date": "2026-07-23T06:18:37.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
+      "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
+      "date": "2026-07-23T05:23:42.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/business/2026/jul/23/us-senator-barclays-jes-staley-jeffrey-epstein-failure-links-elizabeth-warren",
+      "title": "US senator wants urgent answers from Barclays over Jes Staley’s ties to Jeffrey Epstein",
+      "date": "2026-07-23T04:00:35.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/house/4660180/jim-jordan-recommends-criminal-charges-jack-smith-perjury/",
+      "title": "Jim Jordan urges criminal charges against Jack Smith over alleged perjury",
+      "date": "2026-07-23T03:13:15.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5984904-secret-service-threats-up-40-percent/",
+      "title": "Secret Service has investigated 10,000 threats in 2026",
+      "date": "2026-07-23T03:01:02.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4655643/candidates-arizona-competitive-house-seats-midterm-elections/",
+      "title": "Meet the candidates vying for Arizona’s competitive House seats",
+      "date": "2026-07-23T02:55:43.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/education/4660158/connecticut-democrats-yale-president-tax-exempt-status-doj-deal/",
+      "title": "Democrats threaten Yale’s tax-exempt status if school strikes deal with DOJ",
+      "date": "2026-07-23T02:35:19.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5984842-former-cia-director-woolsey-dies/",
+      "title": "Former CIA Director James Woolsey dies",
+      "date": "2026-07-23T02:27:46.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5980141-shah-feely-arizona-house/",
+      "title": "Shah defeats House Democrats' pick for battleground Arizona House seat",
+      "date": "2026-07-23T02:00:54.000Z"
+    },
     {
       "outlet": "BBC News",
       "lean": "center",
@@ -455,6 +525,13 @@
       "url": "https://www.foxnews.com/politics/dem-gov-lashes-out-trump-hud-scrutinizes-nearly-2b-disaster-funds-fraud-concerns",
       "title": "Dem gov lashes out as Trump HUD scrutinizes nearly $2B in disaster funds over fraud concerns",
       "date": "2026-07-22T20:11:58.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5894983/african-countries-are-facing-rising-rates-of-cancer-whats-being-done-about-it",
+      "title": "African countries are facing rising rates of cancer. What's being done about it?",
+      "date": "2026-07-22T19:58:49.000Z"
     },
     {
       "outlet": "Fox News",
@@ -1470,237 +1547,6 @@
       "url": "https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs",
       "title": "Trump-backed candidates, 2020 election deniers, win Arizona primaries",
       "date": "2026-07-22T08:33:21.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-flexes-gop-muscle-arizona-primaries-dems-dodge-left-wing-upset",
-      "title": "Trump flexes GOP muscle in Arizona primaries as Dems dodge far-left upset",
-      "date": "2026-07-22T08:00:10.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/rubio-says-us-remains-open-iran-talks-warns-will-be-consequences",
-      "title": "Rubio says US remains open to Iran talks but warns there 'will be consequences'",
-      "date": "2026-07-22T07:11:15.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/dhs-issues-84-billion-fines-illegal-immigrants-under-trump-administration",
-      "title": "DHS issues $84B in fines to illegal immigrants under Trump administration",
-      "date": "2026-07-22T06:29:43.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
-      "title": "Mamdani says New York City can't arrest Netanyahu but the federal government should",
-      "date": "2026-07-22T06:04:29.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/state-play-democrats-battle-shot-crucial-arizona-house-seat-gops-razor-thin-majority",
-      "title": "State of play: Dems battle for shot at crucial Arizona House seat amid GOP's razor-thin majority",
-      "date": "2026-07-22T06:03:26.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5982345-arizona-primary-hobbs-biggs-takeaways/",
-      "title": "Republicans eye Arizona comeback with Hobbs-Biggs governor matchup: Primary takeaways",
-      "date": "2026-07-22T05:47:47.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban",
-      "title": "French lawmakers approve a sweeping social media ban for children under 15",
-      "date": "2026-07-22T05:46:50.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/world/2026/jul/22/wednesday-briefing-how-trumps-iran-gamble-has-produced-a-crisis-reshaping-the-global-order",
-      "title": "Wednesday briefing: How Trump’s Iran gamble has produced a crisis reshaping the global order",
-      "date": "2026-07-22T05:45:49.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/saudi-arabia-would-enrich-uranium-under-reported-deal-with-us",
-      "title": "Saudi Arabia and US strike deal for kingdom to enrich uranium",
-      "date": "2026-07-22T05:43:37.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5981385-petersen-mayes-arizona-attorney-general/",
-      "title": "Arizona Senate president who gave 2020 election records to FBI wins attorney general GOP primary",
-      "date": "2026-07-22T05:27:48.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5980811-lamb-biggs-arizona-house/",
-      "title": "Lamb, dogged by reported sex scandal, on track to replace Biggs after Arizona House GOP primary win",
-      "date": "2026-07-22T05:26:39.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c6293zk14njo?at_medium=RSS&at_campaign=rss",
-      "title": "'It makes me different': Meet the women breaking world records in lumberjack sports",
-      "date": "2026-07-22T05:06:35.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss",
-      "title": "Watch: Beluga whales travel by plane and lorry to US from closed Canadian marine park",
-      "date": "2026-07-22T05:03:42.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902333/health-insurance-jobs-gallup",
-      "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says",
-      "date": "2026-07-22T04:01:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/house-narrowly-backs-allowing-troops-pentagon-workers-carry-personal-guns-military-bases",
-      "title": "House narrowly backs allowing troops, Pentagon workers to carry personal guns on military bases",
-      "date": "2026-07-22T03:40:08.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/progressive-wave-crashes-sun-belt-battleground-moderate-holds-his-seat",
-      "title": "Progressive wave crashes in Sun Belt battleground as moderate holds his seat",
-      "date": "2026-07-22T03:25:28.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5981593-kolodin-fontes-arizona-secretary-of-state/",
-      "title": "2020 election denier wins GOP primary for secretary of state in Arizona",
-      "date": "2026-07-22T03:24:22.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/ex-nfl-star-backed-trump-wins-battleground-state-primary-true-america-first-conservative",
-      "title": "Ex-NFL star backed by Trump wins battleground state primary: 'True America First Conservative'",
-      "date": "2026-07-22T03:20:58.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/arizona-republican-primary-andy-biggs-katie-hobbs",
-      "title": "Election deniers win Republican primaries in Arizona",
-      "date": "2026-07-22T03:17:10.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/ex-sheriff-backed-trump-storms-victory-race-replace-longtime-gop-firebrand",
-      "title": "Ex-sheriff backed by Trump storms to victory in race to replace longtime GOP firebrand",
-      "date": "2026-07-22T03:14:44.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-backed-firebrand-wins-arizona-gop-governor-primary-setting-up-high-stakes-showdown",
-      "title": "Trump-backed firebrand wins Arizona GOP governor primary, setting up high-stakes showdown",
-      "date": "2026-07-22T03:10:57.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/state/4656807/biggs-hobbs-republican-primary-arizona-governor-race/",
-      "title": "Biggs wins Republican primary, will face Hobbs in Arizona governor race",
-      "date": "2026-07-22T03:07:56.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5972326-arizona-governor-biggs-hobbs-election/",
-      "title": "Trump-backed Biggs to take on Hobbs in key gubernatorial race in Arizona",
-      "date": "2026-07-22T03:06:57.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/5981751-stanton-newkirk-arizona-house/",
-      "title": "Stanton fends off progressive House challenger in Arizona Democratic primary",
-      "date": "2026-07-22T03:06:03.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/5982451-rep-crane-ukraine-amendment-defeated/",
-      "title": "House rejects Crane’s measure to block Ukraine security aid",
-      "date": "2026-07-22T02:50:55.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/vulnerable-republican-wins-gop-primary-arizona-toss-up-district-dems-aim-flip-blue",
-      "title": "Vulnerable Republican wins GOP primary in Arizona toss-up district Dems aim to flip blue",
-      "date": "2026-07-22T02:46:43.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/international/5982418-mamdani-netanyahu-arrest-promise-withdrawn/",
-      "title": "Mamdani says he doesn’t have legal authority to arrest Netanyahu",
-      "date": "2026-07-22T02:41:40.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/justice/4658214/mamdani-arrest-netanyahu-authority-icc-warrant/",
-      "title": "Mamdani says he lacks authority to arrest Netanyahu but urges Trump to do so",
-      "date": "2026-07-22T02:38:15.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
-      "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-      "date": "2026-07-22T02:33:11.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/22/house-passes-spending-bill",
-      "title": "House passes spending bill to head off government shutdown before midterms",
-      "date": "2026-07-22T02:31:39.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/5982425-house-passes-stopgap-measure-to-fund-federal-government/",
-      "title": "House passes stopgap measure to fund federal government",
-      "date": "2026-07-22T02:27:25.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/democrats-re-nominate-arizona-governor-setting-stage-high-stakes-november-battle",
-      "title": "Democrats re-nominate Arizona governor, setting stage for high-stakes November battle",
-      "date": "2026-07-22T02:26:38.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/5982424-house-rejects-ndaa-transgender-ban-amendment/",
-      "title": "House rejects amendment banning transgender individuals from serving in military",
-      "date": "2026-07-22T02:24:23.000Z"
     }
   ]
 }
