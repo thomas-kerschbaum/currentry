@@ -1,11 +1,81 @@
 {
-  "lastRefreshed": "2026-07-24T02:11:48.384Z",
+  "lastRefreshed": "2026-07-24T08:18:07.358Z",
   "articles": [
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/24/icc-international-criminal-court-trump-putin-netanyahu",
+      "title": "The ICC is far from perfect – but it can hold the likes of Trump, Putin and Netanyahu to account | Steve Bloomfield",
+      "date": "2026-07-24T07:00:07.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
+      "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
+      "date": "2026-07-24T05:56:15.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
+      "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
+      "date": "2026-07-24T05:45:47.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-tariffs-forced-labor-us-trading-partners-react",
+      "title": "‘Forced labour’ rationale for Trump tariffs met with bewilderment",
+      "date": "2026-07-24T05:35:54.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
+      "title": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge",
+      "date": "2026-07-24T03:31:19.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/regulation/court-battles/5987673-justice-kagan-defends-supreme-court-rubber-stamp/",
+      "title": "Kagan says Supreme Court is not a ‘rubber stamp’ for Trump",
+      "date": "2026-07-24T03:18:55.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/4661884/idemia-mikie-sherrill-new-jersey-voter-registration/",
+      "title": "Vendor rejects Mikie Sherrill’s claim ‘software error’ behind NJ voter registration",
+      "date": "2026-07-24T02:49:43.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/california-mayors-hot-mic-catches-candid-exchange-after-audience-sends-meeting-off-rails",
+      "title": "California mayor's hot mic catches candid exchange after audience sends meeting off rails",
+      "date": "2026-07-24T02:44:55.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5987641-memphis-district-split-federal-judges/",
+      "title": "Federal judges allow Tennessee congressional map dividing majority-Black Memphis district",
+      "date": "2026-07-24T02:27:13.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/4661864/alaska-voters-verify-citizenship-midterm-elections/",
+      "title": "Over 3,000 Alaska voters asked to verify citizenship before midterm elections",
+      "date": "2026-07-24T02:14:21.000Z"
+    },
     {
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+      "title": "US hits dozens of trading partners with new wave of tariffs",
       "date": "2026-07-24T02:10:00.000Z"
     },
     {
@@ -446,7 +516,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-      "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+      "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
       "date": "2026-07-23T20:58:35.000Z"
     },
     {
@@ -838,7 +908,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
-      "title": "Trump to impose fresh wave of tariffs on more than 80 countries",
+      "title": "Trump imposes fresh tariffs on UK, EU and dozens of other trading partners",
       "date": "2026-07-23T16:53:42.000Z"
     },
     {
@@ -1069,7 +1139,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/23/us-house-defense-spending-bill-donald-trump-iran-rubio-latest-news-updates",
-      "title": "Democrats criticize Trump’s new tariffs as ‘end-run around the supreme court and Congress’ – US politics live",
+      "title": "Democrats criticize Trump’s new tariffs as ‘end-run around the supreme court and Congress’ – as it happened",
       "date": "2026-07-23T13:35:35.000Z"
     },
     {
@@ -1470,69 +1540,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cz64pn37138o?at_medium=RSS&at_campaign=rss",
       "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
       "date": "2026-07-23T08:37:14.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "title": "Google and Tesla shares plunge as AI spending rattles markets",
-      "date": "2026-07-23T07:15:59.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
-      "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
-      "date": "2026-07-23T06:18:37.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
-      "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
-      "date": "2026-07-23T05:23:42.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/business/2026/jul/23/us-senator-barclays-jes-staley-jeffrey-epstein-failure-links-elizabeth-warren",
-      "title": "US senator accuses Barclays of ‘failure’ to investigate ex-CEO’s ties to Epstein",
-      "date": "2026-07-23T04:00:35.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/house/4660180/jim-jordan-recommends-criminal-charges-jack-smith-perjury/",
-      "title": "Jim Jordan urges criminal charges against Jack Smith over alleged perjury",
-      "date": "2026-07-23T03:13:15.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5984904-secret-service-threats-up-40-percent/",
-      "title": "Secret Service has investigated 10,000 threats in 2026",
-      "date": "2026-07-23T03:01:02.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4655643/candidates-arizona-competitive-house-seats-midterm-elections/",
-      "title": "Meet the candidates vying for Arizona’s competitive House seats",
-      "date": "2026-07-23T02:55:43.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/education/4660158/connecticut-democrats-yale-president-tax-exempt-status-doj-deal/",
-      "title": "Democrats threaten Yale’s tax-exempt status if school strikes deal with DOJ",
-      "date": "2026-07-23T02:35:19.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5984842-former-cia-director-woolsey-dies/",
-      "title": "Former CIA Director James Woolsey dies",
-      "date": "2026-07-23T02:27:46.000Z"
     }
   ]
 }
