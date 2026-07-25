@@ -1,6 +1,41 @@
 {
-  "lastRefreshed": "2026-07-25T02:11:32.151Z",
+  "lastRefreshed": "2026-07-25T07:59:35.711Z",
   "articles": [
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
+      "title": "Trump returns to correspondents' dinner 3 months after shooting",
+      "date": "2026-07-25T05:04:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4663301/everything-trump-covered-marathon-speech-whca-dinner/",
+      "title": "2028, term limits, media tension: Everything Trump covered in wild marathon speech at the White House Press Correspondents’ Association dinner",
+      "date": "2026-07-25T04:25:26.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/media/5989858-trump-whca-speech-biden-kennedy-collins/",
+      "title": "Trump takes shots at RFK Jr, Biden, CNN's Collins in WHCA dinner speech",
+      "date": "2026-07-25T03:34:49.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-spares-no-one-whca-dinner-taking-aim-dems-press-own-cabinet",
+      "title": "Trump spares no one at WHCA dinner, taking aim at Dems, press and his own Cabinet",
+      "date": "2026-07-25T03:33:17.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "date": "2026-07-25T02:23:09.000Z"
+    },
     {
       "outlet": "Fox News",
       "lean": "lean-right",
@@ -96,7 +131,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/jul/24/white-house-correspondents-dinner-trump-washington",
-      "title": "White House says Trump to give ‘unifying yet vicious’ speech at rescheduled press gala",
+      "title": "Trump’s rambling gala address included insults, potshots and quip about a third presidential term",
       "date": "2026-07-24T23:28:45.000Z"
     },
     {
@@ -929,7 +964,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates",
-      "title": "‘Let’s try this again’: rescheduled White House Correspondents’ Association dinner is under way – US politics live",
+      "title": "Trump’s speech devolves into list of gripes and nasty attacks on opponents – as it happened",
       "date": "2026-07-24T12:57:44.000Z"
     },
     {
@@ -943,7 +978,7 @@
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/homenews/administration/5986971-live-updates-trump-iran-tariffs-white-house-correspondents-dinner/",
-      "title": "Live updates: Trump returns to White House correspondents' dinner",
+      "title": "Live updates: Trump roasts Democrats, reporters at White House correspondents' dinner",
       "date": "2026-07-24T12:56:17.000Z"
     },
     {
@@ -952,6 +987,13 @@
       "url": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/5987880-jd-vance-marco-rubio-gop-2028-poll-live-discussion/",
       "title": "Vance's lead over Rubio narrows in new Republican 2028 poll: Join Friday's Whole Hog",
       "date": "2026-07-24T12:46:55.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "title": "US hits dozens of countries with new wave of tariffs",
+      "date": "2026-07-24T12:40:44.000Z"
     },
     {
       "outlet": "Fox News",
@@ -1281,90 +1323,6 @@
       "url": "https://www.npr.org/2026/07/24/nx-s1-5900837/he-was-falsely-accused-in-the-1996-atlanta-olympics-bombing-how-it-changed-his-life",
       "title": "He was falsely accused in the 1996 Atlanta Olympics bombing. How it changed his life",
       "date": "2026-07-24T08:42:45.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/24/icc-international-criminal-court-trump-putin-netanyahu",
-      "title": "Trump says he will dismantle the ICC ‘brick by brick’. It could be his most chilling move of all | Steve Bloomfield",
-      "date": "2026-07-24T07:00:07.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cewr57kd21vo?at_medium=RSS&at_campaign=rss",
-      "title": "This new bridge aimed to show US-Canada unity but instead stoked divisions",
-      "date": "2026-07-24T05:56:55.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
-      "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
-      "date": "2026-07-24T05:56:15.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
-      "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
-      "date": "2026-07-24T05:45:47.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/trump-tariffs-forced-labor-us-trading-partners-react",
-      "title": "‘Forced labour’ rationale for Trump tariffs met with bewilderment",
-      "date": "2026-07-24T05:35:54.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
-      "title": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge",
-      "date": "2026-07-24T03:31:19.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/5987673-justice-kagan-defends-supreme-court-rubber-stamp/",
-      "title": "Kagan says Supreme Court is not a ‘rubber stamp’ for Trump",
-      "date": "2026-07-24T03:18:55.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/immigration/4661884/idemia-mikie-sherrill-new-jersey-voter-registration/",
-      "title": "Vendor rejects Mikie Sherrill’s claim ‘software error’ behind NJ voter registration",
-      "date": "2026-07-24T02:49:43.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/california-mayors-hot-mic-catches-candid-exchange-after-audience-sends-meeting-off-rails",
-      "title": "California mayor's hot mic catches candid exchange after audience sends meeting off rails",
-      "date": "2026-07-24T02:44:55.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5987641-memphis-district-split-federal-judges/",
-      "title": "Federal judges allow Tennessee congressional map dividing majority-Black Memphis district",
-      "date": "2026-07-24T02:27:13.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
-      "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-      "date": "2026-07-24T02:25:07.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/immigration/4661864/alaska-voters-verify-citizenship-midterm-elections/",
-      "title": "Over 3,000 Alaska voters asked to verify citizenship before midterm elections",
-      "date": "2026-07-24T02:14:21.000Z"
     }
   ]
 }
