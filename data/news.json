@@ -1,6 +1,244 @@
 {
-  "lastRefreshed": "2026-07-26T08:19:29.298Z",
+  "lastRefreshed": "2026-07-26T13:09:32.643Z",
   "articles": [
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/health/as-hegseth-pursues-a-high-t-military-heres-what-to-know-about-testosterone-replacement",
+      "title": "As Hegseth pursues a 'High-T' military, here's what to know about testosterone replacement",
+      "date": "2026-07-26T13:00:43.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4649500/august-social-security-direct-payment-goes-out-in-5-days/",
+      "title": "August Social Security direct payment worth $994 goes out in 5 days",
+      "date": "2026-07-26T13:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/in_focus/4663160/why-china-wanted-biden-to-win/",
+      "title": "Here’s why China wanted Biden to win",
+      "date": "2026-07-26T12:48:03.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5990856-trump-urges-gop-terminate-filibuster/",
+      "title": "Trump intensifies push for GOP senators to end filibuster 'before it is too late'",
+      "date": "2026-07-26T12:02:06.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/zohran-mamdani-suit-new-york-mayor",
+      "title": "Loyal to the look: why Zohran Mamdani wears a suit in all seasons",
+      "date": "2026-07-26T12:00:11.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trumps-save-america-act-stalls-mcconnells-absence-complicates-senate-path",
+      "title": "Trump's SAVE America Act stalls as McConnell's absence complicates Senate path",
+      "date": "2026-07-26T12:00:10.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/exclusive-legal-group-tells-nypd-cops-contact-ice-despite-blue-citys-sanctuary-rules",
+      "title": "EXCLUSIVE: Legal group tells NYPD cops they can contact ICE directly despite blue city's sanctuary rules",
+      "date": "2026-07-26T12:00:06.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/white-house/5986958-trump-threats-civilian-attacks-iran/",
+      "title": "Trump's threats to bomb Iran 'back to the Stone Ages' will backfire",
+      "date": "2026-07-26T12:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4659953/time-for-presidents-quarterly-earnings-call/",
+      "title": "It’s time for the president’s quarterly earnings call",
+      "date": "2026-07-26T12:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4661910/gop-bismarck-strategy-gen-z-socialism/",
+      "title": "To save capitalism from Gen Z, Republicans must steal socialism",
+      "date": "2026-07-26T12:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4662531/ai-data-centers-manufacturing-cloud/",
+      "title": "Stop calling it the cloud. It’s a factory",
+      "date": "2026-07-26T12:00:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/26/strait-of-hormuz-north-sea-global-maritime-war-oil-price",
+      "title": "From the strait of Hormuz to the North Sea, a global maritime war rages around us – and more than the price of oil is at stake | Simon Tisdall",
+      "date": "2026-07-26T11:09:27.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/state-watch/5990678-texas-politicians-call-for-guardrails-on-ai-data-centers/",
+      "title": "Texas politicians call for guardrails on AI, data centers",
+      "date": "2026-07-26T11:00:55.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/100-day-sprint-midterms-kicks-off-republicans-democrats-clash-control-across-country",
+      "title": "100 day sprint to the midterms kicks off as Republicans and Democrats clash for control across the country",
+      "date": "2026-07-26T11:00:14.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/26/how-to-defeat-authoritarianism-building-community",
+      "title": "How do we defeat authoritarianism? By building a sense of belonging | Julie Fernandes and Katrina Gamble",
+      "date": "2026-07-26T11:00:12.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/abdul-el-sayed-michigan-senate",
+      "title": "He’s a doctor and a progressive. Will he win a key US Senate race in Michigan?",
+      "date": "2026-07-26T11:00:11.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/rfk-jr-alzheimers-us-preventive-services-task-force",
+      "title": "RFK Jr urges Alzheimer’s screening but blunts key panel that could drive research",
+      "date": "2026-07-26T11:00:10.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/premium/4660147/fight-for-female-sports/",
+      "title": "The fight for female sports: Progress at the Supreme Court and in culture, a long way to go in blue states",
+      "date": "2026-07-26T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4662740/laura-loomer-ukraine-reversal-trump-war-shift/",
+      "title": "Laura Loomer’s Ukraine reversal could deepen Trump’s shift on the war",
+      "date": "2026-07-26T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4663064/gop-leans-anti-communist-messaging-dsa-surge/",
+      "title": "GOP leans into anti-communist messaging amid DSA surge",
+      "date": "2026-07-26T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4663534/house-republicans-strongest-position-ever-100-days-midterms/",
+      "title": "House Republicans ‘in the strongest position’ ever 100 days from midterms: Memo",
+      "date": "2026-07-26T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/premium/4657193/dsa-dumbed-down-definition-working-class-designed-to-deceive/",
+      "title": "The DSA’s dumbed-down definition of working class is designed to deceive",
+      "date": "2026-07-26T10:30:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/house-republicans-democrats-recess-midterms",
+      "title": "Republicans head home for the summer after a string of losses in Congress",
+      "date": "2026-07-26T10:00:09.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/haitians-temporary-protected-status",
+      "title": "‘We’re human beings’: Haitians in the US fear family separation and deportation to violence",
+      "date": "2026-07-26T10:00:08.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/trump-communism-democrats-red-scare",
+      "title": "Trump revives old tropes as he pushes warnings of ‘communist menace’",
+      "date": "2026-07-26T10:00:08.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
+      "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
+      "date": "2026-07-26T10:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
+      "title": "Lebanese displaced by war turn to satellites to check their homes",
+      "date": "2026-07-26T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5987178-midterm-forecast-house-senate/",
+      "title": "Democrats favored to win House, underdogs in Senate 100 days out",
+      "date": "2026-07-26T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5990757-maine-democrats-troy-jackson-susan-collins-senate-race/",
+      "title": "Jackson enters 100-day sprint with Collins as Maine Democrats hit reset",
+      "date": "2026-07-26T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/healthcare/5989534-trump-administration-cyclosporiasis-outbreak-messaging/",
+      "title": "Lettuce explain: Cyclospora outbreaks test Trump administration messaging",
+      "date": "2026-07-26T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
+      "title": "Andy Burnham says he will disagree with Trump in public if necessary",
+      "date": "2026-07-26T09:13:35.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+      "title": "Climate change is now threatening a pillar of childhood: summer break",
+      "date": "2026-07-26T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5821101/adhd-women-health-diagnosis-missed-treatment",
+      "title": "ADHD looks different in women and poses unique health risks",
+      "date": "2026-07-26T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages",
+      "title": "Meet the robots programmed by kids to speak their Indigenous languages",
+      "date": "2026-07-26T09:00:00.000Z"
+    },
     {
       "outlet": "Fox News",
       "lean": "lean-right",
@@ -12,7 +250,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
-      "title": "Venezuela men sue aviation firms who flew them to notorious Salvadorian jail",
+      "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
       "date": "2026-07-26T05:00:03.000Z"
     },
     {
@@ -54,7 +292,7 @@
       "outlet": "NPR",
       "lean": "lean-left",
       "url": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
-      "title": "France and Spain fires force more than 200,000 to flee homes",
+      "title": "France and Spain fires force more than 300,000 to flee homes",
       "date": "2026-07-26T01:05:45.000Z"
     },
     {
@@ -469,307 +707,6 @@
       "url": "https://www.theguardian.com/us-news/2026/jul/25/lou-keller-sick-of-it-all-dies-aged-59",
       "title": "Lou Koller, frontman of New York hardcore band Sick of It All, dies aged 59",
       "date": "2026-07-25T13:22:13.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4663399/trump-smithsonian-extreme-political-activism/",
-      "title": "Trump orders temporary warnings signs be put in front of Smithsonian after report finds ‘extreme political activism’",
-      "date": "2026-07-25T13:07:48.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta",
-      "title": "How the kidnapping of two forest service workers unfolded in California",
-      "date": "2026-07-25T13:00:42.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/gop-freshman-firebrand-goes-viral-targeting-utterly-intellectually-indefensible-dei-policies",
-      "title": "GOP's freshman firebrand goes viral targeting 'utterly intellectually indefensible' DEI policies",
-      "date": "2026-07-25T13:00:41.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/4649471/august-social-security-direct-payment-worth-994-goes-out-in-6-days/",
-      "title": "August Social Security direct payment worth $994 goes out in 6 days",
-      "date": "2026-07-25T13:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4663322/trump-first-whca-dinner-speech-serious-tone-security/",
-      "title": "Trump revels in his first WHCA dinner speech despite serious tone and tight security",
-      "date": "2026-07-25T12:42:17.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/gop-lawmaker-demands-answers-smithsonian-chief-urged-moving-beyond-america-first-mentality",
-      "title": "GOP lawmaker demands answers after Smithsonian chief urged moving beyond 'America First mentality'",
-      "date": "2026-07-25T12:30:17.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5989977-live-updates-trump-iran-warm-maine-democrats-senate-race-whcd/",
-      "title": "Live updates: Troy Jackson takes Platner's place in Maine Senate race; Middle East conflict persists",
-      "date": "2026-07-25T12:30:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/5989969-ro-khanna-zohran-mamdani-benjamin-netanyahu-arrest-calls/",
-      "title": "Khanna echoes Mamdani's calls for Netanyahu arrest",
-      "date": "2026-07-25T12:13:22.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning",
-      "title": "COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?",
-      "date": "2026-07-25T12:05:34.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/democrats-troy-jackson-susan-collins-maine",
-      "title": "Troy Jackson: the Maine lumberjack Democrats believe can beat Susan Collins",
-      "date": "2026-07-25T12:00:43.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school",
-      "title": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
-      "date": "2026-07-25T12:00:42.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/far-left-victories-rip-mask-off-democrats-top-conservative-sounds-alarm-party-way-beyond-socialism",
-      "title": "Far-left victories rip mask off Democrats as top conservative sounds alarm party is ‘way beyond socialism’",
-      "date": "2026-07-25T12:00:36.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/defeated-progressive-squad-lawmaker-hot-seat-non-profit-missing-paper-trail",
-      "title": "Defeated progressive ‘Squad’ lawmaker in hot seat for non-profit’s missing paper trail",
-      "date": "2026-07-25T12:00:28.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/fact-checking-mullins-claim-that-foreign-adversaries-can-access-voting-machines-in-u-s-elections",
-      "title": "Fact-checking Mullin's claim that foreign adversaries can access voting machines in U.S. elections",
-      "date": "2026-07-25T12:00:26.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions",
-      "title": "Opinion: New Jersey pizza, the fuel of world champions",
-      "date": "2026-07-25T12:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/technology/5988461-ai-humanoid-robotics-policy/",
-      "title": "With Washington's help, humanoid robots can transform US manufacturing",
-      "date": "2026-07-25T12:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4659054/democrats-want-to-filter-your-reality/",
-      "title": "Democrats don’t want to debate you. They want to filter your reality",
-      "date": "2026-07-25T12:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/25/g-s1-133450/sexual-violence-women-clean-water-nairobi-kenya",
-      "title": "Some women who can't afford water are often pressured to provide sex for it",
-      "date": "2026-07-25T11:59:19.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria",
-      "title": "Cancer rates are rising faster here than anywhere else. Are healthcare systems ready?",
-      "date": "2026-07-25T11:51:44.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/zohran-mamdani-small-business-policies",
-      "title": "‘I’m over the moon’: New York’s small business owners rejoice as Mamdani cuts red tape",
-      "date": "2026-07-25T11:00:41.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/25/i-tried-so-hard-salad-eater-cyclospora",
-      "title": "I tried so hard to become a salad eater. Now cyclospora is sending me back to burgers | Dave Schilling",
-      "date": "2026-07-25T11:00:41.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4659234/washington-alzheimers-diagnosis-wait/",
-      "title": "Washington is making you wait 3 1/2 years for an Alzheimer’s diagnosis",
-      "date": "2026-07-25T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/restoring-america/patriotism-unity/4659903/dsas-plan-to-punish-productive-and-reward-lazy/",
-      "title": "Economic democracy: The DSA’s plan to punish the productive and reward the lazy",
-      "date": "2026-07-25T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/premium/4660090/california-chooses-failure/",
-      "title": "California votes to double down on bad, left-wing policy outcomes",
-      "date": "2026-07-25T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/senate/4662755/john-cornyn-liberating-leverage-role-way-to-retirement/",
-      "title": "John Cornyn settles into ‘liberating’ leverage role on his way to retirement",
-      "date": "2026-07-25T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4663234/democratic-establishment-fights-back-against-socialists/",
-      "title": "The Democratic establishment fights back against the socialists",
-      "date": "2026-07-25T11:00:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/obama-presidential-center-subcontractors-file-fresh-payment-claims-totaling-nearly-900k",
-      "title": "Obama Presidential Center subcontractors file fresh payment claims totaling nearly $900K",
-      "date": "2026-07-25T10:58:11.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/premium/4658646/mamdani-arrest-netanyahu-icc-exposed-virtue-signaling/",
-      "title": "Mamdani’s tough talk exposed as deceptive virtue signaling",
-      "date": "2026-07-25T10:45:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/from-locker-rooms-congress-jay-feely-latest-athlete-seeking-take-lessons-leadership-capitol-hill",
-      "title": "From locker rooms to Congress: Jay Feely latest athlete seeking to take lessons in leadership to Capitol Hill",
-      "date": "2026-07-25T10:00:59.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up",
-      "title": "‘Shameful’: Pentagon accused of cover-up over US military casualties in Iran war",
-      "date": "2026-07-25T10:00:41.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/laura-loomers-ukraine-visit",
-      "title": "What’s behind Maga influencer Laura Loomer’s about-face on Ukraine?",
-      "date": "2026-07-25T10:00:40.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/mother-urges-andy-burnham-reopen-case-daughter-lucy-harrison-killed-texas",
-      "title": "‘Nobody was there for us’: mother urges Andy Burnham to reopen case of daughter killed in Texas",
-      "date": "2026-07-25T10:00:40.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
-      "title": "Inside the growing vigilante movement to knock out Flock surveillance cameras",
-      "date": "2026-07-25T10:00:39.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/heres-what-you-missed-from-trumps-first-whca-dinner-president-5-takeaways-from-his-night-press",
-      "title": "Here's what you missed from Trump's first WHCA Dinner as president: 5 takeaways from his night with the press",
-      "date": "2026-07-25T10:00:38.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/mace-breaks-trump-questions-whether-lindsey-grahams-sister-qualified-ballot",
-      "title": "Mace breaks with Trump, questions whether Lindsey Graham's sister is 'qualified' for ballot",
-      "date": "2026-07-25T10:00:16.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/5989841-experts-skeptical-intensified-air-strikes-iran/",
-      "title": "As signals of a 'massive' US attack mount, experts skeptical it will break Iran",
-      "date": "2026-07-25T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/5988391-samuel-alito-supreme-court-recusals/",
-      "title": "Why Alito is the most frequent Supreme Court justice to recuse",
-      "date": "2026-07-25T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/video/2026/jul/25/donald-trump-dons-trump-2028-hat-and-jokes-about-fourth-term-video",
-      "title": "Donald Trump dons 'Trump 2028' hat and jokes about 'fourth term' – video",
-      "date": "2026-07-25T09:54:31.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/platner-implosion-maine-democrats-rally-troy-jackson-high-stakes-senate-fight",
-      "title": "After Platner implosion, Maine Democrats rush toward new Senate nominee despite fresh warning signs",
-      "date": "2026-07-25T09:00:51.000Z"
-    },
-    {
-      "outlet": "The Christian Science Monitor",
-      "lean": "center",
-      "url": "https://www.csmonitor.com/USA/Politics/2026/0725/independent-agencies-trump-slaughter?icid=rss",
-      "title": "Supreme Court gave presidents more power over agencies. Are any still independent?",
-      "date": "2026-07-25T09:00:09.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation",
-      "title": "Trump is hellbent on tariffs. Here are 5 implications",
-      "date": "2026-07-25T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race",
-      "title": "Democrats in Maine formally nominate Troy Jackson as their new candidate for U.S. Senate",
-      "date": "2026-07-25T09:00:00.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/25/trump-forced-to-play-good-sport-at-correspondents-dinner-but-it-couldnt-last",
-      "title": "Trump forced to play good sport at correspondents’ dinner – but it couldn’t last",
-      "date": "2026-07-25T08:58:57.000Z"
     }
   ]
 }
