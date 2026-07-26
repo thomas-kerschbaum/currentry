@@ -1,6 +1,34 @@
 {
-  "lastRefreshed": "2026-07-26T02:22:06.758Z",
+  "lastRefreshed": "2026-07-26T08:19:29.298Z",
   "articles": [
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/democrats-blast-trump-saudi-nuclear-deal-gop-touts-regional-alliance",
+      "title": "WATCH: Democrats blast Trump Saudi nuclear deal as GOP touts regional alliance",
+      "date": "2026-07-26T08:00:39.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
+      "title": "Venezuela men sue aviation firms who flew them to notorious Salvadorian jail",
+      "date": "2026-07-26T05:00:03.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4663647/judge-blocks-illinois-laws-illegal-immigrants-in-state-tuition/",
+      "title": "Federal judge blocks Illinois laws giving illegal immigrants in-state tuition",
+      "date": "2026-07-26T03:14:55.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/international/5990740-israeli-forces-arrest-west-bank/",
+      "title": "Israel detains more than 70 in West Bank after deadly clashes",
+      "date": "2026-07-26T02:45:23.000Z"
+    },
     {
       "outlet": "The Hill",
       "lean": "center",
@@ -18,6 +46,13 @@
     {
       "outlet": "NPR",
       "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
+      "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
+      "date": "2026-07-26T01:10:56.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
       "url": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
       "title": "France and Spain fires force more than 200,000 to flee homes",
       "date": "2026-07-26T01:05:45.000Z"
@@ -26,7 +61,7 @@
       "outlet": "Washington Examiner",
       "lean": "lean-right",
       "url": "https://www.washingtonexaminer.com/news/world/4663641/van-drives-into-crowd-berlin-lgbt-event/",
-      "title": "At least one dead after van drives into crowd at Berlin LGBT event",
+      "title": "At least one dead and 16 injured after van drives into crowd at Berlin LGBT event",
       "date": "2026-07-26T01:04:11.000Z"
     },
     {
@@ -68,7 +103,7 @@
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/homenews/administration/5990184-donald-trump-white-house-correspondents-dinner-speech-fiery-moments/",
-      "title": "5 standout moments from Trump's fiery WHCA dinner speech",
+      "title": "5 standout moments from Trump's appearance at makeup WHCA dinner",
       "date": "2026-07-25T21:42:14.000Z"
     },
     {
@@ -735,55 +770,6 @@
       "url": "https://www.theguardian.com/us-news/2026/jul/25/trump-forced-to-play-good-sport-at-correspondents-dinner-but-it-couldnt-last",
       "title": "Trump forced to play good sport at correspondents’ dinner – but it couldn’t last",
       "date": "2026-07-25T08:58:57.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/democrats-concede-nj-voter-roll-failure-horrible-reject-broader-fraud-fears",
-      "title": "Democrats concede NJ voter-roll failure was ‘horrible’ — but reject broader fraud fears",
-      "date": "2026-07-25T08:00:36.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/cm2gjrn0rvqo?at_medium=RSS&at_campaign=rss",
-      "title": "'Security was tighter this time': Inside the room at Trump press dinner",
-      "date": "2026-07-25T06:33:22.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
-      "title": "'The show must go on.' Trump makes jabs at rescheduled White House Correspondents' dinner",
-      "date": "2026-07-25T05:04:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4663301/everything-trump-covered-marathon-speech-whca-dinner/",
-      "title": "2028, term limits, media tension: Everything Trump covered in wild marathon speech at the White House Press Correspondents’ Association dinner",
-      "date": "2026-07-25T04:25:26.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/media/5989858-trump-whca-speech-biden-kennedy-collins/",
-      "title": "Trump takes shots at RFK Jr, Biden, CNN's Collins in WHCA dinner speech",
-      "date": "2026-07-25T03:34:49.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-spares-no-one-whca-dinner-taking-aim-dems-press-own-cabinet",
-      "title": "Trump spares no one at WHCA dinner, taking aim at Dems, press and his own Cabinet",
-      "date": "2026-07-25T03:33:17.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "date": "2026-07-25T02:23:09.000Z"
     }
   ]
 }
