@@ -1,6 +1,125 @@
 {
-  "lastRefreshed": "2026-07-27T02:29:23.983Z",
+  "lastRefreshed": "2026-07-27T09:41:14.941Z",
   "articles": [
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/business/live/2026/jul/27/oil-falls-us-iran-pause-fire-astrazeneca-profit-latest-economy-news",
+      "title": "Oil price slides as US and Iran pause fire; cancer treatments help AstraZeneca beat profit forecasts – business live",
+      "date": "2026-07-27T09:37:03.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/27/trump-immigration-cases",
+      "title": "Trump’s deportation crackdown accelerated by potent court tool",
+      "date": "2026-07-27T09:00:37.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/jul/27/us-track-and-field-nationals-nikki-hiltz-shacarri-richardson-cooper-lutkenhaus-noah-lyles",
+      "title": "US track and field nationals: Olympic stars and hopefuls deliver at LA 2028 ‘dress rehearsal’",
+      "date": "2026-07-27T09:00:37.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/27/hakeem-jeffries-trump-republicans-midterms",
+      "title": "Republicans have ‘nothing to run on’ in midterms after Trump failures, Jeffries says",
+      "date": "2026-07-27T09:00:36.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force",
+      "title": "In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown",
+      "date": "2026-07-27T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
+      "title": "Baltimore will turn 911 into more than just an emergency number",
+      "date": "2026-07-27T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
+      "title": "Kalshi attacks Wisconsin law banning election bets as 'voter suppression'",
+      "date": "2026-07-27T09:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4662848/nathan-willet-missouri-accused-funneling-money-terminated-state-campaign/",
+      "title": "Missouri congressional candidate accused of funneling $165,000 from terminated state campaign",
+      "date": "2026-07-27T09:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/supreme-court/4662271/supreme-court-urged-to-take-up-discrimination-case-where-muslim-bus-driver-was-pressured-to-remove-hijab/",
+      "title": "Supreme Court urged to take up discrimination case where Muslim bus driver was pressured to remove hijab",
+      "date": "2026-07-27T09:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/opinion/4662442/saudi-nuclear-deal-worth-making/",
+      "title": "A Saudi nuclear deal worth making",
+      "date": "2026-07-27T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5901889/morning-news-brief",
+      "title": "Morning news brief",
+      "date": "2026-07-27T08:43:38.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+      "date": "2026-07-27T06:11:20.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
+      "title": "Can the U.S. and Iran take the off-ramp?",
+      "date": "2026-07-27T05:57:59.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5907379/2026-midterm-election-senate-races",
+      "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
+      "date": "2026-07-27T05:13:24.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/27/commander-in-chief-of-chaos-victims-trump-wars",
+      "title": "He’s commander-in-chief of chaos. Now we’re all victims of Trump’s wars | Nesrine Malik",
+      "date": "2026-07-27T04:00:31.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/crime/4663871/shooting-space-needle-seattle/",
+      "title": "At least two dead and several injured in shooting at Seattle food festival: Police",
+      "date": "2026-07-27T02:55:46.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5991559-odni-releases-election-threat-docs/",
+      "title": "Pulte says he completed fourth round of layoffs as acting DNI",
+      "date": "2026-07-27T02:51:37.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
@@ -9,11 +128,32 @@
       "date": "2026-07-27T02:20:30.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+      "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+      "date": "2026-07-27T02:08:36.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/5991541-lindsey-graham-trump-netanyahu/",
+      "title": "Graham compared Trump and Netanyahu to FDR and Churchill, new footage shows",
+      "date": "2026-07-27T02:07:08.000Z"
+    },
+    {
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/homenews/campaign/5991507-jeffries-target-gop-control/",
       "title": "Hakeem Jeffries doubles down on Dems' and affordability ahead of midterms",
       "date": "2026-07-27T01:30:04.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "date": "2026-07-27T00:27:58.000Z"
     },
     {
       "outlet": "The Guardian (US)",
@@ -658,62 +798,6 @@
       "url": "https://thehill.com/policy/healthcare/5989534-trump-administration-cyclosporiasis-outbreak-messaging/",
       "title": "Lettuce explain: Cyclospora outbreaks test Trump administration messaging",
       "date": "2026-07-26T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
-      "title": "Andy Burnham says he will disagree with Trump in public if necessary",
-      "date": "2026-07-26T09:13:35.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-      "title": "Climate change is now threatening a pillar of childhood: summer break",
-      "date": "2026-07-26T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/26/nx-s1-5821101/adhd-women-health-diagnosis-missed-treatment",
-      "title": "ADHD looks different in women and poses unique health risks",
-      "date": "2026-07-26T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages",
-      "title": "Meet the robots programmed by kids to speak their Indigenous languages",
-      "date": "2026-07-26T09:00:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/democrats-blast-trump-saudi-nuclear-deal-gop-touts-regional-alliance",
-      "title": "WATCH: Democrats blast Trump Saudi nuclear deal as GOP touts regional alliance",
-      "date": "2026-07-26T08:00:39.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
-      "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
-      "date": "2026-07-26T05:00:03.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4663647/judge-blocks-illinois-laws-illegal-immigrants-in-state-tuition/",
-      "title": "Federal judge blocks Illinois laws giving illegal immigrants in-state tuition",
-      "date": "2026-07-26T03:14:55.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/international/5990740-israeli-forces-arrest-west-bank/",
-      "title": "Israel detains more than 70 in West Bank after deadly clashes",
-      "date": "2026-07-26T02:45:23.000Z"
     }
   ]
 }
