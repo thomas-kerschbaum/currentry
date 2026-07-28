@@ -1,6 +1,62 @@
 {
-  "lastRefreshed": "2026-07-28T02:04:36.430Z",
+  "lastRefreshed": "2026-07-28T08:25:43.267Z",
   "articles": [
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/dems-clash-aipac-money-ogre-attack-electability-crucial-senate-debate",
+      "title": "Dems clash over AIPAC money, ‘ogre’ attack and electability during crucial Senate debate",
+      "date": "2026-07-28T08:00:57.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
+      "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
+      "date": "2026-07-28T07:42:11.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "date": "2026-07-28T07:33:12.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cr49znlz5ggo?at_medium=RSS&at_campaign=rss",
+      "title": "'I just found all the classified stuff downstairs,' Biden tells ghostwriter in recording",
+      "date": "2026-07-28T07:14:51.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
+      "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
+      "date": "2026-07-28T06:25:18.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/business/2026/jul/28/johnson-johnson-5bn-settlement-talc-cancer-lawsuit",
+      "title": "Johnson & Johnson to pay $5.5bn settlement in talc cancer lawsuit",
+      "date": "2026-07-28T05:03:39.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/5993220-trump-new-air-force-one-scheme/",
+      "title": "Air Force One features new color scheme",
+      "date": "2026-07-28T02:29:10.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/5993136-el-sayed-stevens-michigan-democratic-senate-primary-debate/",
+      "title": "Fiery Michigan Senate primary reaches final stretch: Takeaways from El-Sayed, Stevens debate",
+      "date": "2026-07-28T02:28:56.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
@@ -11,9 +67,23 @@
     {
       "outlet": "BBC News",
       "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+      "date": "2026-07-28T01:53:58.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
       "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
       "date": "2026-07-28T01:39:50.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&at_campaign=rss",
+      "title": "BBC outside court as judge rules singer D4vd will face murder trial",
+      "date": "2026-07-28T01:29:25.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -35,6 +105,13 @@
       "url": "https://thehill.com/policy/technology/5993164-federal-judge-halts-minnesota-prediction-market-ban/",
       "title": "Minnesota prediction market ban paused by federal judge days before rollout",
       "date": "2026-07-28T00:39:18.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
+      "title": "What to expect from Zelensky and Netanyahu's visit to Washington",
+      "date": "2026-07-28T00:30:11.000Z"
     },
     {
       "outlet": "NPR",
@@ -273,6 +350,13 @@
       "url": "https://thehill.com/policy/international/5992914-saudi-us-nuclear-deal-stalls/",
       "title": "Saudi Arabia stares down Trump whiplash on nuclear deal",
       "date": "2026-07-27T21:16:20.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "date": "2026-07-27T21:10:56.000Z"
     },
     {
       "outlet": "BBC News",
@@ -957,7 +1041,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/27/us-senate-spy-jay-clayton-donald-trump-iran-war-saudi-oman-hormuz-pentagon-seattle-latest-news-updates",
-      "title": "Trump backs Pete Hegseth amid renewed tensions with Iran – live",
+      "title": "Trump backs Pete Hegseth amid renewed tensions with Iran – as it happened",
       "date": "2026-07-27T13:44:04.000Z"
     },
     {
@@ -1302,69 +1386,6 @@
       "url": "https://www.npr.org/2026/07/27/nx-s1-5901889/morning-news-brief",
       "title": "Morning news brief",
       "date": "2026-07-27T08:43:38.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-      "title": "Number of suspects in fatal Seattle food festival shooting rises to three",
-      "date": "2026-07-27T06:11:20.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
-      "title": "Can the U.S. and Iran take the off-ramp?",
-      "date": "2026-07-27T05:57:59.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5907379/2026-midterm-election-senate-races",
-      "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-      "date": "2026-07-27T05:13:24.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/jul/27/commander-in-chief-of-chaos-victims-trump-wars",
-      "title": "He’s commander-in-chief of chaos. Now we’re all victims of Trump’s wars | Nesrine Malik",
-      "date": "2026-07-27T04:00:31.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/crime/4663871/shooting-space-needle-seattle/",
-      "title": "At least two dead and several injured in shooting at Seattle food festival: Police",
-      "date": "2026-07-27T02:55:46.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5991559-odni-releases-election-threat-docs/",
-      "title": "Pulte says he completed fourth round of layoffs as acting DNI",
-      "date": "2026-07-27T02:51:37.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/world/4663868/john-kennedy-trump-not-cut-and-run-iran/",
-      "title": "John Kennedy says Trump should not ‘cut and run’ in Iran",
-      "date": "2026-07-27T02:20:30.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
-      "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-      "date": "2026-07-27T02:08:36.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/5991541-lindsey-graham-trump-netanyahu/",
-      "title": "Graham compared Trump and Netanyahu to FDR and Churchill, new footage shows",
-      "date": "2026-07-27T02:07:08.000Z"
     }
   ]
 }
