@@ -1,6 +1,97 @@
 {
-  "lastRefreshed": "2026-07-29T02:07:37.418Z",
+  "lastRefreshed": "2026-07-29T08:31:36.758Z",
   "articles": [
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "date": "2026-07-29T08:20:41.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/battle-replace-late-house-dem-overtime-after-daughter-failed-clinch-seat",
+      "title": "Battle to replace late House Dem goes to overtime after daughter failed to clinch seat",
+      "date": "2026-07-29T08:00:58.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/2026/jul/29/concacaf-joins-criticism-of-fifa-infantino-plan-to-sell-off-world-cup-stakes-to-private-investors",
+      "title": "Concacaf joins criticism of Fifa plan to sell off World Cup stakes to private investors",
+      "date": "2026-07-29T08:00:27.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136057/france-wildfires",
+      "title": "France evacuates thousands as fires displace a third of a million in southwest Europe",
+      "date": "2026-07-29T07:22:44.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5910837/haiti-tps-florida-trump-immigration",
+      "title": "Haitian TPS holders in South Florida brace for end of their legal status",
+      "date": "2026-07-29T06:56:37.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5911616/police-interview-tupac-trial",
+      "title": "Judge allows use of police interview in Tupac Shakur murder trial",
+      "date": "2026-07-29T06:04:35.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/kentucky-governor-calls-mcconnell-prove-he-fit-serve-resign-address-people",
+      "title": "Kentucky governor calls on McConnell to prove he is fit to serve or resign: 'Address the people'",
+      "date": "2026-07-29T05:54:56.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates",
+      "title": "Rescuers search for the missing after Japan earthquake as death toll rises to 13",
+      "date": "2026-07-29T05:34:42.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+      "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+      "date": "2026-07-29T05:00:07.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/state/4666965/larry-rhoden-south-dakota-governor-primary-runoff/",
+      "title": "Gov. Larry Rhoden wins South Dakota gubernatorial GOP primary runoff",
+      "date": "2026-07-29T03:11:12.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/healthcare/5995754-collins-says-gavi-funding-reinstated/",
+      "title": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance",
+      "date": "2026-07-29T02:43:09.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump administration bans new Chinese humanoid robots",
+      "date": "2026-07-29T02:30:50.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4666951/georgia-special-election-runoff-13th-district/",
+      "title": "Two Democrats head to runoff in special election for Georgia’s 13th District",
+      "date": "2026-07-29T02:29:55.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
@@ -198,6 +289,13 @@
       "date": "2026-07-28T23:00:41.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
+      "title": "'Don't wait until you want revenge' - why prenups are on the rise",
+      "date": "2026-07-28T23:00:07.000Z"
+    },
+    {
       "outlet": "PBS NewsHour",
       "lean": "center",
       "url": "https://www.pbs.org/newshour/show/what-netanyahu-and-zelenskyy-are-hoping-to-accomplish-after-meetings-with-trump",
@@ -301,6 +399,13 @@
       "url": "https://thehill.com/policy/healthcare/5995350-cyclosporiasis-cyclospora-fda-food-safety/",
       "title": "FDA official insists 'U.S. food supply is safe' as cyclosporiasis cases hit 11,000",
       "date": "2026-07-28T22:10:29.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/cy45kev0709o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Trump delivers eulogy honouring Lindsey Graham",
+      "date": "2026-07-28T22:05:57.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -793,6 +898,13 @@
       "date": "2026-07-28T15:00:08.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/cj039njqdmno?at_medium=RSS&at_campaign=rss",
+      "title": "US accuses France of 'disingenuous grandstanding' at UN",
+      "date": "2026-07-28T14:57:09.000Z"
+    },
+    {
       "outlet": "PBS NewsHour",
       "lean": "center",
       "url": "https://www.pbs.org/newshour/politics/south-carolina-republicans-line-up-to-run-in-special-primary-to-replace-late-sen-lindsey-graham",
@@ -849,6 +961,13 @@
       "date": "2026-07-28T14:09:16.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/cgr751pvnd2o?at_medium=RSS&at_campaign=rss",
+      "title": "Drone footage shows Wisconsin tornado damage",
+      "date": "2026-07-28T14:03:30.000Z"
+    },
+    {
       "outlet": "PBS NewsHour",
       "lean": "center",
       "url": "https://www.pbs.org/newshour/world/zelenskyy-will-visit-trump-at-the-white-house-before-sen-grahams-funeral",
@@ -894,7 +1013,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
-      "title": "US Senate votes to advance Russia sanctions bill that would give Trump new tariff powers – live",
+      "title": "US Senate votes to advance Russia sanctions bill that would give Trump new tariff powers – as it happened",
       "date": "2026-07-28T13:38:06.000Z"
     },
     {
@@ -938,6 +1057,13 @@
       "url": "https://www.theguardian.com/us-news/2026/jul/28/michigan-man-killed-family",
       "title": "Michigan authorities identify man they say killed wife and six children before home fire",
       "date": "2026-07-28T13:17:24.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/cn8n41ywwj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Why is Ukraine rolling out the red carpet for a US far-right influencer?",
+      "date": "2026-07-28T13:13:26.000Z"
     },
     {
       "outlet": "The Hill",
@@ -1323,62 +1449,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
       "title": "Ariana Grande sues hackers who leaked music and videos",
       "date": "2026-07-28T08:37:12.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/dems-clash-aipac-money-ogre-attack-electability-crucial-senate-debate",
-      "title": "Dems clash over AIPAC money, ‘ogre’ attack and electability during crucial Senate debate",
-      "date": "2026-07-28T08:00:57.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
-      "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
-      "date": "2026-07-28T07:42:11.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
-      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "date": "2026-07-28T07:33:12.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cr49znlz5ggo?at_medium=RSS&at_campaign=rss",
-      "title": "'I just found all the classified stuff downstairs,' Biden tells ghostwriter in recording",
-      "date": "2026-07-28T07:14:51.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
-      "title": "With wildfires raging in France and Spain, fire crews race against next heat wave",
-      "date": "2026-07-28T06:25:18.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/business/2026/jul/28/johnson-johnson-5bn-settlement-talc-cancer-lawsuit",
-      "title": "Johnson & Johnson to pay $5.5bn settlement in talc cancer lawsuit",
-      "date": "2026-07-28T05:03:39.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/5993220-trump-new-air-force-one-scheme/",
-      "title": "Air Force One features new color scheme",
-      "date": "2026-07-28T02:29:10.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5993136-el-sayed-stevens-michigan-democratic-senate-primary-debate/",
-      "title": "Fiery Michigan Senate primary reaches final stretch: Takeaways from El-Sayed, Stevens debate",
-      "date": "2026-07-28T02:28:56.000Z"
     }
   ]
 }
