@@ -1,6 +1,55 @@
 {
-  "lastRefreshed": "2026-07-31T02:22:29.718Z",
+  "lastRefreshed": "2026-07-31T08:42:12.505Z",
   "articles": [
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
+      "title": "At least 18 die after breach of border between Morocco and Spanish exclave of Ceuta",
+      "date": "2026-07-31T06:02:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll",
+      "title": "Death toll from southwestern Japan quake climbs to 34",
+      "date": "2026-07-31T05:40:16.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza",
+      "title": "Trump announces a deal for Hamas to disarm, but many hurdles and uncertainty remain",
+      "date": "2026-07-31T05:20:19.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/technology/4670406/anthropic-claude-ai-test-escape-breach/",
+      "title": "Anthropic’s Claude AI escapes isolated test environment, infiltrates three companies",
+      "date": "2026-07-31T03:32:21.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/daily-memo/4670438/95-days-and-counting/",
+      "title": "95 days and counting",
+      "date": "2026-07-31T03:17:53.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/technology/6001284-minnesota-water-facilities-cyberattack-investigation-us-iran/",
+      "title": "US investigating if Iran launched cyberattack on Minnesota water facilities",
+      "date": "2026-07-31T03:08:08.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwe2qpgq1o?at_medium=RSS&at_campaign=rss",
+      "title": "US cyber defence agency warns of water attacks after Minnesota targeted",
+      "date": "2026-07-31T01:46:58.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
@@ -1337,76 +1386,6 @@
       "url": "https://www.theguardian.com/business/2026/jul/30/us-borrowing-costs-19-year-high-fed-holds-interest-rates",
       "title": "US borrowing costs hit 19-year high as Fed holds interest rates",
       "date": "2026-07-30T08:54:59.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates",
-      "title": "Bank of England holds interest rates despite Iran war inflation threat - as it happened",
-      "date": "2026-07-30T08:04:59.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "date": "2026-07-30T07:23:11.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/30/g-s1-136265/senate-blanche-nomination",
-      "title": "Senate panel delays vote on Blanche's nomination as key Republicans withhold support",
-      "date": "2026-07-30T05:56:51.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/30/g-s1-136257/stabbing-conviction-salman-rushdie",
-      "title": "Man convicted in terrorism trial over the 2022 stabbing of author Salman Rushdie",
-      "date": "2026-07-30T05:33:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913050/japan-earthquake-updates",
-      "title": "Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 23",
-      "date": "2026-07-30T05:18:58.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
-      "title": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
-      "date": "2026-07-30T05:00:53.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-admin-invokes-30-year-dormant-terror-court-seeks-deport-afghan-woman-tied-election-day-plot",
-      "title": "Trump admin invokes 30-year dormant terror court as it seeks to deport Afghan woman tied to Election Day plot",
-      "date": "2026-07-30T04:29:16.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/anthony-faucis-diaries-take-aim-at-news-corp-journalist-sharri-marksons-nonsense-covid-19-investigation",
-      "title": "Anthony Fauci’s diaries take aim at News Corp journalist Sharri Markson’s ‘nonsense’ Covid-19 investigation",
-      "date": "2026-07-30T04:10:53.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/5998455-banks-kim-introduce-kidds-stuttering-act/",
-      "title": "Banks, Kim introduce stuttering legislation with backing of former NBA player",
-      "date": "2026-07-30T03:36:21.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/healthcare/5998569-usda-invests-new-world-screwworm-facility/",
-      "title": "USDA to fund Arizona facility to fight New World screwworm",
-      "date": "2026-07-30T03:05:20.000Z"
     }
   ]
 }
