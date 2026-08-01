@@ -1,6 +1,41 @@
 {
-  "lastRefreshed": "2026-08-01T02:23:20.740Z",
+  "lastRefreshed": "2026-08-01T08:12:33.899Z",
   "articles": [
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/watch-booker-continues-reject-save-act-despite-bombshell-nj-voter-roll-scandal",
+      "title": "WATCH: Booker continues to reject SAVE Act despite bombshell NJ voter roll scandal",
+      "date": "2026-08-01T08:00:12.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/mamdani-not-called-speak-nyc-funeral-army-sergeant-killed-iranian-attack-report",
+      "title": "Mamdani not called to speak at NYC funeral of Army sergeant killed in Iranian attack: report",
+      "date": "2026-08-01T03:53:03.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/senate/4671751/boozman-farm-bill-draft-snap-cuts/",
+      "title": "Senate Ag Chairman Boozman unveils updated farm bill draft that addresses SNAP cuts",
+      "date": "2026-08-01T03:13:40.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/6003372-senators-request-ebola-family-planning-funds-drc/",
+      "title": "Bipartisan senators press Rubio to unlock family planning funding for women in Ebola outbreak",
+      "date": "2026-08-01T02:56:05.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4671719/kamala-haris-abolish-electoral-college-expand-supreme-court/",
+      "title": "Kamala Harris signals support for abolishing Electoral College and expanding Supreme Court",
+      "date": "2026-08-01T02:34:36.000Z"
+    },
     {
       "outlet": "NPR",
       "lean": "lean-left",
@@ -313,7 +348,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "title": "Body of US climber the latest recovered after Pakistan avalanche",
+      "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
       "date": "2026-07-31T20:22:46.000Z"
     },
     {
@@ -387,11 +422,25 @@
       "date": "2026-07-31T19:37:07.000Z"
     },
     {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/trump-administration-children-immigration",
+      "title": "Trump administration to let contract aiding unaccompanied minors expire",
+      "date": "2026-07-31T19:27:33.000Z"
+    },
+    {
       "outlet": "PBS NewsHour",
       "lean": "center",
       "url": "https://www.pbs.org/newshour/politics/who-is-kathryn-ruemmler-former-obama-white-house-attorney-interviewed-about-epstein-emails",
       "title": "Who is Kathryn Ruemmler? Former Obama White House attorney interviewed about Epstein emails",
       "date": "2026-07-31T19:07:23.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwe2qpgq1o?at_medium=RSS&at_campaign=rss",
+      "title": "Minnesota not Iran to blame for state's water issues, says Trump",
+      "date": "2026-07-31T19:03:28.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -1197,55 +1246,6 @@
       "url": "https://www.npr.org/2026/07/31/nx-s1-5910511/i-can-do-this-woman-with-cancer-reflects-on-her-life-and-facing-death",
       "title": "'I can do this': Woman with cancer reflects on her life and facing death",
       "date": "2026-07-31T08:44:53.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/czdmv0vyv4zo?at_medium=RSS&at_campaign=rss",
-      "title": "Fauci on 'solid legal ground' in face of prosecution threat, lawyer says",
-      "date": "2026-07-31T08:06:57.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
-      "title": "At least 18 die after breach of border between Morocco and Spanish exclave of Ceuta",
-      "date": "2026-07-31T06:02:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll",
-      "title": "Death toll from southwestern Japan quake climbs to 34",
-      "date": "2026-07-31T05:40:16.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza",
-      "title": "Trump announces a deal for Hamas to disarm, but many hurdles and uncertainty remain",
-      "date": "2026-07-31T05:20:19.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/technology/4670406/anthropic-claude-ai-test-escape-breach/",
-      "title": "Anthropic’s Claude AI escapes isolated test environment, infiltrates three companies",
-      "date": "2026-07-31T03:32:21.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/daily-memo/4670438/95-days-and-counting/",
-      "title": "95 days and counting",
-      "date": "2026-07-31T03:17:53.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/technology/6001284-minnesota-water-facilities-cyberattack-investigation-us-iran/",
-      "title": "US investigating if Iran launched cyberattack on Minnesota water facilities",
-      "date": "2026-07-31T03:08:08.000Z"
     }
   ]
 }
