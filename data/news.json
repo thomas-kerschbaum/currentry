@@ -1,18 +1,60 @@
 {
-  "lastRefreshed": "2026-08-02T02:19:52.615Z",
+  "lastRefreshed": "2026-08-02T08:14:03.226Z",
   "articles": [
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
+      "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
+      "date": "2026-08-02T08:01:27.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "date": "2026-08-02T07:34:27.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/louisiana-latest-state-launch-fauci-investigation-following-explosive-senate-hearing",
+      "title": "Louisiana becomes latest state to launch Fauci investigation following explosive Senate hearing",
+      "date": "2026-08-02T06:58:29.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4672064/max-miller-special-announcement/",
+      "title": "Rep. Max Miller to make ‘special announcement’ as scrutiny of candidacy grows",
+      "date": "2026-08-02T03:46:48.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/international/6004086-houthi-denies-bab-el-mandeb-tolls/",
+      "title": "Houthis push back on report of planned Red Sea shipping fees",
+      "date": "2026-08-02T02:44:24.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6004062-democrats-slam-trump-reflecting-pool/",
+      "title": "Democrats slam Trump admin after DOJ drops Reflecting Pool vandalism case",
+      "date": "2026-08-02T02:04:01.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
       "url": "https://www.washingtonexaminer.com/news/crime/4672056/people-killed-shooting-in-n-out-twin-falls-idaho/",
-      "title": "Several people killed in shooting at In-N-Out in Twin Falls, Idaho: Officials",
+      "title": "Three people killed and several injured in shooting at In-N-Out in Twin Falls, Idaho: Officials",
       "date": "2026-08-02T01:16:43.000Z"
     },
     {
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/aug/02/shooting-at-in-n-out-burger-restaurant-in-idaho-leaves-multiple-people-dead-police-say",
-      "title": "Shooting at In-N-Out Burger restaurant in Idaho leaves multiple people dead, police say",
+      "title": "Shooting at In-N-Out Burger restaurant in Idaho leaves three people dead",
       "date": "2026-08-02T01:03:46.000Z"
     },
     {
@@ -208,7 +250,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/cq568j06zgxo?at_medium=RSS&at_campaign=rss",
-      "title": "Will Canada's WestJet airline strike go ahead - and can I get a refund?",
+      "title": "Canada's WestJet airline flight attendants go on strike - can I get a refund?",
       "date": "2026-08-01T18:55:52.000Z"
     },
     {
@@ -287,6 +329,13 @@
       "url": "https://www.washingtonexaminer.com/news/white-house/4671982/trump-blast-pirro-reflecting-pool-vandalism/",
       "title": "Trump blasts Pirro over Reflecting Pool reversal: ‘Pure case of VANDALISM’",
       "date": "2026-08-01T17:25:25.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "date": "2026-08-01T17:16:51.000Z"
     },
     {
       "outlet": "The Hill",
@@ -371,6 +420,13 @@
       "url": "https://www.foxnews.com/politics/hunter-biden-claims-under-oath-family-broke-amid-fight-17m-legal-bill",
       "title": "Hunter Biden claims under oath that his family is broke amid fight over $17M legal bill",
       "date": "2026-08-01T15:38:54.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
+      "title": "'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released",
+      "date": "2026-08-01T15:38:38.000Z"
     },
     {
       "outlet": "The Hill",
@@ -833,48 +889,6 @@
       "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
       "title": "Why did OpenAI's and Anthropic's AI models hack other companies?",
       "date": "2026-08-01T09:00:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/watch-booker-continues-reject-save-act-despite-bombshell-nj-voter-roll-scandal",
-      "title": "WATCH: Booker continues to reject SAVE Act despite bombshell NJ voter roll scandal",
-      "date": "2026-08-01T08:00:12.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/democrats-admit-when-theyd-eliminate-filibuster-save-act-fight-heats",
-      "title": "WATCH: Democrats admit when they'd eliminate the filibuster as SAVE Act fight heats up",
-      "date": "2026-08-01T08:00:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/mamdani-not-called-speak-nyc-funeral-army-sergeant-killed-iranian-attack-report",
-      "title": "Mamdani not called to speak at NYC funeral of Army sergeant killed in Iranian attack: report",
-      "date": "2026-08-01T03:53:03.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/senate/4671751/boozman-farm-bill-draft-snap-cuts/",
-      "title": "Senate Ag Chairman Boozman unveils updated farm bill draft that addresses SNAP cuts",
-      "date": "2026-08-01T03:13:40.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/6003372-senators-request-ebola-family-planning-funds-drc/",
-      "title": "Bipartisan senators press Rubio to unlock family planning funding for women in Ebola outbreak",
-      "date": "2026-08-01T02:56:05.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4671719/kamala-haris-abolish-electoral-college-expand-supreme-court/",
-      "title": "Kamala Harris signals support for abolishing Electoral College and expanding Supreme Court",
-      "date": "2026-08-01T02:34:36.000Z"
     }
   ]
 }
