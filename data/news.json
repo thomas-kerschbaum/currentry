@@ -1,6 +1,55 @@
 {
-  "lastRefreshed": "2026-08-04T02:03:01.354Z",
+  "lastRefreshed": "2026-08-04T08:29:06.957Z",
   "articles": [
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "date": "2026-08-04T07:11:35.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
+      "title": "Nauru, the world's 3rd-smallest country, changes its name to Naoero",
+      "date": "2026-08-04T06:59:01.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c6295z6jkw6o?at_medium=RSS&at_campaign=rss",
+      "title": "Ariana Grande says decision to step back 'was not reactive or impulsive'",
+      "date": "2026-08-04T06:36:18.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/regulation/court-battles/6007017-jack-smith-senate-judiciary-testimony/",
+      "title": "Jack Smith invited to testify before Senate Judiciary Committee next month",
+      "date": "2026-08-04T02:51:57.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4673635/states-lawsuit-trump-new-global-tariffs/",
+      "title": "Twenty-five states sue Trump administration over latest round of global tariffs",
+      "date": "2026-08-04T02:45:38.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/03/ice-delaney-hall-custody-death",
+      "title": "Immigrant being held at Delaney Hall dies, marking 22nd death in ICE custody",
+      "date": "2026-08-04T02:08:47.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/4673625/border-wall-crews-drilling-wells-drought-new-mexico/",
+      "title": "Border wall crews ordered to stop drilling wells in drought-stricken New Mexico",
+      "date": "2026-08-04T02:07:28.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
@@ -44,11 +93,25 @@
       "date": "2026-08-04T00:54:26.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+      "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+      "date": "2026-08-04T00:17:48.000Z"
+    },
+    {
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/aug/03/republican-james-fishback-sued-student-debate-money",
       "title": "Far-right Republican accused of stiffing student debate champion of $8,000",
       "date": "2026-08-04T00:05:43.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "title": "Analysis: Trump challenged by cold reality from top allies",
+      "date": "2026-08-04T00:02:40.000Z"
     },
     {
       "outlet": "Fox News",
@@ -70,6 +133,13 @@
       "url": "https://www.washingtonexaminer.com/news/senate/4673584/chuck-grassley-jack-smith-testify-senate-judiciary/",
       "title": "Sen. Chuck Grassley invites Jack Smith to testify before Senate Judiciary Committee",
       "date": "2026-08-03T23:35:37.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "date": "2026-08-03T23:25:14.000Z"
     },
     {
       "outlet": "The Hill",
@@ -268,6 +338,13 @@
       "date": "2026-08-03T21:28:51.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/c70gjkxel0zo?at_medium=RSS&at_campaign=rss",
+      "title": "Charred homes, burned out cars - before and after images show Spokane wildfire destruction",
+      "date": "2026-08-03T21:23:42.000Z"
+    },
+    {
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/newsletters/technology/6006706-openai-republican-attorneys-general/",
@@ -408,11 +485,25 @@
       "date": "2026-08-03T20:09:33.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+      "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+      "date": "2026-08-03T20:05:46.000Z"
+    },
+    {
       "outlet": "PBS NewsHour",
       "lean": "center",
       "url": "https://www.pbs.org/newshour/world/board-of-peace-envoy-meets-with-netanyahu-on-gaza-disarmament-deal-urges-halt-to-strikes",
       "title": "Board of Peace envoy meets with Netanyahu on Gaza disarmament deal, urges halt to strikes",
       "date": "2026-08-03T20:03:23.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/ce34xngy03ro?at_medium=RSS&at_campaign=rss",
+      "title": "'She folded like an umbrella' - Trump slams Jeanine Pirro over Reflecting Pool case",
+      "date": "2026-08-03T19:56:58.000Z"
     },
     {
       "outlet": "PBS NewsHour",
@@ -429,6 +520,13 @@
       "date": "2026-08-03T19:49:52.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "date": "2026-08-03T19:42:55.000Z"
+    },
+    {
       "outlet": "PBS NewsHour",
       "lean": "center",
       "url": "https://www.pbs.org/newshour/politics/trump-bank-accounts-were-closed-due-to-concerns-over-possible-money-laundering-capital-one-says",
@@ -439,7 +537,7 @@
       "outlet": "NPR",
       "lean": "lean-left",
       "url": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
-      "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
+      "title": "Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request",
       "date": "2026-08-03T19:33:05.000Z"
     },
     {
@@ -814,6 +912,13 @@
       "date": "2026-08-03T14:54:33.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/c62e9r0mndpo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Texas sinkhole swallows pickup truck",
+      "date": "2026-08-03T14:48:14.000Z"
+    },
+    {
       "outlet": "PBS NewsHour",
       "lean": "center",
       "url": "https://www.pbs.org/newshour/politics/trump-administration-weighs-proposal-to-gut-head-start-preschool-standards-leaving-states-to-set-the-rules",
@@ -922,7 +1027,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
-      "title": "Trump declines to call for Max Miller’s resignation amid abuse allegations – live",
+      "title": "Trump declines to call for Max Miller’s resignation amid abuse allegations – as it happened",
       "date": "2026-08-03T13:51:35.000Z"
     },
     {
@@ -1274,111 +1379,6 @@
       "url": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
       "title": "Yen hits three-month high after Trump helps prop up currency",
       "date": "2026-08-03T08:34:06.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals",
-      "title": "AstraZeneca shares fall 8.9% over merger talks with US cancer drug firm",
-      "date": "2026-08-03T07:58:52.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/california-missing-persons-dna-law",
-      "title": "New California law expands DNA tools for missing persons investigations",
-      "date": "2026-08-03T07:48:10.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-      "title": "US and Japan take action to prop up yen in rare joint move",
-      "date": "2026-08-03T07:30:52.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump",
-      "title": "Israel says it has serious concerns with Hamas disarmament deal",
-      "date": "2026-08-03T07:03:52.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5917877/south-korea-north-korea-nuclear-peace-analysis",
-      "title": "South Korea ditches 'denuclearization-first' strategy. What will Pyongyang do next?",
-      "date": "2026-08-03T06:49:13.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour",
-      "title": "Trump’s hypocritical new tariffs are a chance for the world to fight back | Joseph Stiglitz",
-      "date": "2026-08-03T06:00:42.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions",
-      "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
-      "date": "2026-08-03T05:41:31.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136864/todd-blanche-rescinds-trump-anti-weaponization-fund",
-      "title": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
-      "date": "2026-08-03T05:04:19.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/03/blanche-formally-rescinds-trumps-18bn-anti-weaponization-fund-ahead-of-nomination-hearing",
-      "title": "Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ ahead of nomination hearing",
-      "date": "2026-08-03T04:46:50.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/4672344/wisconsin-candidate-francesca-hong-hasan-piker-milwaukee-rally/",
-      "title": "Wisconsin gubernatorial candidate Francesca Hong hosts Hasan Piker at Milwaukee rally",
-      "date": "2026-08-03T04:40:27.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/senate/4670112/cornyn-reaches-deal-doj-todd-blanche-nomination-vote/",
-      "title": "Cornyn reaches deal with DOJ ahead of Todd Blanche nomination vote",
-      "date": "2026-08-03T04:18:41.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/todd-blanche-anti-weaponization-fund",
-      "title": "Todd Blanche moves closer to confirmation after rescinding $1.8B fund",
-      "date": "2026-08-03T04:06:53.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136858/blaze-indonesian-passenger-ferry",
-      "title": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
-      "date": "2026-08-03T04:06:11.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6004926-california-democrats-prop-40-endorse/",
-      "title": "California Democratic Party backs billionaire tax despite internal opposition",
-      "date": "2026-08-03T03:21:53.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/6004900-senate-agrees-funding-bill/",
-      "title": "Senate appropriators reach funding deal to avoid shutdown",
-      "date": "2026-08-03T02:28:02.000Z"
     }
   ]
 }
