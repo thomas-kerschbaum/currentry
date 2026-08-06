@@ -1,6 +1,69 @@
 {
-  "lastRefreshed": "2026-08-06T02:06:16.384Z",
+  "lastRefreshed": "2026-08-06T08:26:37.255Z",
   "articles": [
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
+      "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
+      "date": "2026-08-06T07:16:22.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/new-york-gubernatorial-candidate-urges-9-11-attendees-turn-away-from-mamdani-during-ceremony",
+      "title": "New York gubernatorial candidate urges 9/11 attendees to turn away from Mamdani during ceremony",
+      "date": "2026-08-06T07:06:36.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
+      "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
+      "date": "2026-08-06T05:23:08.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+      "date": "2026-08-06T05:00:54.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/healthcare/6012755-cdc-traces-mexican-jalapeno-salmonella/",
+      "title": "CDC warns of Salmonella outbreak linked to jalapeños",
+      "date": "2026-08-06T02:47:06.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/healthcare/6012753-fda-cyclospora-lettuce-outbreak/",
+      "title": "Multistate cyclospora outbreak expands to 15 states",
+      "date": "2026-08-06T02:43:40.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4677169/el-sayed-hasan-piker-michigan-senate-campaign/",
+      "title": "El Sayed minimizes Hasan Piker’s role in Michigan Senate race: ‘He’s a streamer’",
+      "date": "2026-08-06T02:42:31.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/justice/4677148/judge-texas-law-silencers-short-barreled-guns/",
+      "title": "Federal judge muzzles mafia-era law restricting suppressors and some firearms",
+      "date": "2026-08-06T02:17:32.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-blasts-democratic-socialist-candidate-full-dems-skipping-socialism-communism",
+      "title": "Trump blasts Democratic socialist candidate as 'full of s---' and Dems are skipping socialism 'for communism'",
+      "date": "2026-08-06T02:05:19.000Z"
+    },
     {
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
@@ -301,6 +364,13 @@
       "url": "https://www.theguardian.com/us-news/2026/aug/05/white-house-helipad-marine-one-chopper",
       "title": "White House confirms new helipad for supersized Marine One helicopter",
       "date": "2026-08-05T21:25:05.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/ce3qznlqkp7o?at_medium=RSS&at_campaign=rss",
+      "title": "Why haven't we seen images of SpaceX Moon crash yet?",
+      "date": "2026-08-05T21:13:02.000Z"
     },
     {
       "outlet": "The Guardian (US)",
@@ -912,6 +982,13 @@
       "date": "2026-08-05T14:07:38.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+      "date": "2026-08-05T14:04:43.000Z"
+    },
+    {
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/aug/05/michigan-senate-primary-results-abdul-el-sayed",
@@ -945,6 +1022,13 @@
       "url": "https://www.foxnews.com/politics/republicans-get-democrat-wanted-socialist-abdul-el-sayed-wins-michigan-senate-primary",
       "title": "Republicans get the Democrat they wanted as socialist Abdul El-Sayed wins Michigan Senate primary",
       "date": "2026-08-05T13:58:17.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "date": "2026-08-05T13:58:01.000Z"
     },
     {
       "outlet": "NPR",
@@ -1316,202 +1400,6 @@
       "url": "https://www.npr.org/2026/08/05/nx-s1-5918342/house-ethics-committee-opens-investigation-into-ohio-republican-max-miller",
       "title": "House Ethics Committee opens investigation into Ohio Republican Max Miller",
       "date": "2026-08-05T08:45:42.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
-      "title": "Appalachia's black lung rates highest in nearly 50 years as miners' protections stall",
-      "date": "2026-08-05T08:01:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/michigan-democratic-senate-primary-el-sayed-stevens",
-      "title": "Democrats' bitter civil war hits Michigan, but biggest prize still up for grabs",
-      "date": "2026-08-05T07:28:00.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/05/ai-regulation-donald-trump-artificial-intelligence",
-      "title": "Democracy is at stake when foolish humans bet on machines being intelligent | Rafael Behr",
-      "date": "2026-08-05T07:00:13.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-iran-nuclear-talks-strike-warning",
-      "title": "Trump warns Iran will be hit 'really hard' if nuclear negotiations collapse again",
-      "date": "2026-08-05T06:28:09.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6009490-michigan-senate-race-too-close-to-call-5-takeaways/",
-      "title": "El-Sayed clinches narrow win over Stevens in Michigan for progressives: 5 takeaways",
-      "date": "2026-08-05T06:19:09.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/abdul-el-sayed-haley-stevens-michigan-primary-election",
-      "title": "El-Sayed holds narrow lead in Michigan Senate primary but race too close to call",
-      "date": "2026-08-05T05:06:45.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/education/6009007-homeschooling-enrollment-trends-research/",
-      "title": "America is arguing about homeschooling. The data tells a different story.",
-      "date": "2026-08-05T05:00:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/socialist-tenant-organizer-blasted-sell-out-democrats-loses-midwest-primary",
-      "title": "Socialist tenant organizer who blasted 'sell-out Democrats' loses Midwest primary",
-      "date": "2026-08-05T04:52:59.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/dems-rally-behind-michigan-prosecutor-champion-party-crucial-house-race",
-      "title": "Dems rally behind Michigan prosecutor to champion party in crucial House race",
-      "date": "2026-08-05T04:20:15.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6000027-bouchard-hines-michigan-house/",
-      "title": "Bouchard, Hines to clash for open James seat in competitive Michigan House race",
-      "date": "2026-08-05T04:02:22.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/2026-midterms-state-of-play-key-races-unfold-stevens-el-sayed-battle-michigan",
-      "title": "2026 Midterms State of Play: Key races unfold as Stevens, El-Sayed battle in Michigan",
-      "date": "2026-08-05T04:00:13.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
-      "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
-      "date": "2026-08-05T04:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5986241-mcdonald-rivet-hassan-michigan-house/",
-      "title": "Trump-backed Hassan falls short in Michigan House primary to take on McDonald Rivet",
-      "date": "2026-08-05T03:56:34.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/marie-gluesenkamp-perez-washington-primary-election",
-      "title": "Democrat Marie Gluesenkamp Perez survives Washington’s crowded primary",
-      "date": "2026-08-05T03:32:07.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/sunrise-movement-co-founder-defeats-establishment-backed-dems-pivotal-michigan-race",
-      "title": "Sunrise Movement co-founder defeats establishment-backed Dems in pivotal Michigan race",
-      "date": "2026-08-05T03:31:08.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5994858-mckinney-duresky-washington-house-newhouse-primary/",
-      "title": "McKinney, Duresky to battle for Newhouse's House seat in Washington",
-      "date": "2026-08-05T03:27:25.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4672791/william-lawrence-wins-crowded-primary-to-take-on-tom-barrett-threatening-democrats-chances-in-swing-seat/",
-      "title": "William Lawrence wins crowded primary to take on Tom Barrett, threatening Democrats’ chances in swing seat",
-      "date": "2026-08-05T03:26:38.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5994598-huizenga-mccann-michigan-house-primary/",
-      "title": "Huizenga to face McCann in tight Michigan House contest",
-      "date": "2026-08-05T03:24:38.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-backed-republican-advances-face-vulnerable-democrat-key-house-battleground",
-      "title": "Trump-backed Republican advances to face vulnerable Democrat in key House battleground",
-      "date": "2026-08-05T03:23:26.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4672912/marie-gluesenkamp-perez-face-john-braun-washington-3rd/",
-      "title": "Marie Gluesenkamp Perez to face Trump-backed John Braun in November",
-      "date": "2026-08-05T03:22:48.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/5999908-braun-glusenkamp-perez-washington-house/",
-      "title": "Trump-endorsed Braun to face off against Perez in toss-up Washington House election",
-      "date": "2026-08-05T03:19:42.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/6009695-lee-bucks-trump-hatcher-endorsement/",
-      "title": "Tennessee governor bucks Trump, endorses against Ogles in primary",
-      "date": "2026-08-05T03:10:23.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/el-sayed-socialist-allies-dismiss-gop-claims-democrats-embracing-far-left",
-      "title": "El-Sayed's socialist allies reject GOP claims about Dems embracing the far left",
-      "date": "2026-08-05T03:01:36.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/dems-hope-defend-governors-mansion-gop-takeover-red-state",
-      "title": "Dems rally around best hope to defend governor's mansion from GOP takeover",
-      "date": "2026-08-05T02:47:07.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6006681-lawrence-wins-michigan-house-primary/",
-      "title": "Progressives clinch win with Lawrence's victory in House primary to face Barrett in Michigan",
-      "date": "2026-08-05T02:42:43.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6009651-trump-backs-house-passed-bill-to-make-daylight-savings-time-permanent/",
-      "title": "Trump backs House-passed bill to make daylight savings time permanent",
-      "date": "2026-08-05T02:32:15.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-backed-candidate-lands-gop-nod-setting-up-high-stakes-governor-showdown",
-      "title": "Trump-backed candidate lands GOP nod, setting up high-stakes governor showdown",
-      "date": "2026-08-05T02:27:18.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/big-money-propels-dem-megachurch-pastor-victory-longshot-kansas-senate-bid",
-      "title": "Big money propels Dem megachurch pastor to victory in longshot Kansas Senate bid",
-      "date": "2026-08-05T02:08:34.000Z"
     }
   ]
 }
