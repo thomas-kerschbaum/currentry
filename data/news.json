@@ -1,6 +1,62 @@
 {
-  "lastRefreshed": "2026-08-07T02:25:33.593Z",
+  "lastRefreshed": "2026-08-07T07:07:05.353Z",
   "articles": [
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
+      "title": "Student shoots multiple people at a high school in Thailand, authorities say",
+      "date": "2026-08-07T05:34:15.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online",
+      "title": "Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online",
+      "date": "2026-08-07T05:26:31.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6015760-iran-moves-block-us-israel-ships/",
+      "title": "Iran moves to block US, Israeli shipments from Strait of Hormuz",
+      "date": "2026-08-07T03:25:40.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/06/tennessee-house-primary-elections",
+      "title": "Justin Pearson and Brent Taylor win primaries for key Tennessee House seat",
+      "date": "2026-08-07T02:44:29.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6015688-trump-ogles-tennessee-primary-takeaways/",
+      "title": "Trump comes up short with Ogles in Tennessee: 3 takeaways from Thursday's primaries",
+      "date": "2026-08-07T02:43:58.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/entertainment/4678782/indycar-vibrations-art-national-gallery-freedom-250/",
+      "title": "IndyCar vibrations prompt art safety study at National Gallery before Freedom 250 race",
+      "date": "2026-08-07T02:39:43.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6015652-us-crude-supplies-45-year-low-iran-war/",
+      "title": "Crude oil supplies at 45-year low",
+      "date": "2026-08-07T02:39:40.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-backed-incumbent-loses-primary-super-pac-bankrolled-dems-meddled-race",
+      "title": "Trump-backed incumbent loses primary after super PAC bankrolled by Dems meddled in race",
+      "date": "2026-08-07T02:17:10.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
@@ -114,6 +170,27 @@
       "date": "2026-08-07T01:06:31.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j5nyxk68o?at_medium=RSS&at_campaign=rss",
+      "title": "Spokane wildfire arson suspect waited for dry, windy day to start blaze, police say",
+      "date": "2026-08-07T00:54:58.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "date": "2026-08-07T00:54:03.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "date": "2026-08-07T00:34:14.000Z"
+    },
+    {
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/policy/international/6015604-carney-canada-trump-trade-negotiations/",
@@ -126,6 +203,13 @@
       "url": "https://www.foxnews.com/politics/primary-showdown-polls-close-tennessee-conservative-firebrand-eyes-governors-office",
       "title": "Primary showdown: Polls close in Tennessee as conservative firebrand eyes governor's office",
       "date": "2026-08-07T00:00:58.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+      "date": "2026-08-06T23:55:35.000Z"
     },
     {
       "outlet": "Fox News",
@@ -145,7 +229,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/aug/06/trump-administration-head-start-changes",
-      "title": "Trump administration announces changes to Head Start in overhaul",
+      "title": "Trump administration plans overhaul of antipoverty program for children",
       "date": "2026-08-06T23:27:43.000Z"
     },
     {
@@ -224,6 +308,13 @@
       "url": "https://thehill.com/newsletters/energy-environment/6015472-democrat-says-political-appointee-placed-at-interior-inspector-general/",
       "title": "Democrat says political appointee placed at Interior Inspector General",
       "date": "2026-08-06T22:35:25.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
+      "title": "Where is Jackie? Beloved live cam eagle in critical condition",
+      "date": "2026-08-06T22:31:18.000Z"
     },
     {
       "outlet": "PBS NewsHour",
@@ -434,6 +525,13 @@
       "url": "https://www.foxnews.com/politics/foreign-drunk-drivers-face-swift-boot-out-country-trump-america-first-crackdown",
       "title": "Foreign drunk drivers could face swift boot out of country under Trump's 'America first' crackdown",
       "date": "2026-08-06T20:41:12.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
+      "title": "A look at 'Operation Country Roads,' West Virginia's ICE operation",
+      "date": "2026-08-06T20:40:52.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -1190,55 +1288,6 @@
       "url": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
       "title": "Senate Homeland Security committee votes to hold Fauci in contempt of Congress",
       "date": "2026-08-06T07:16:22.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/new-york-gubernatorial-candidate-urges-9-11-attendees-turn-away-from-mamdani-during-ceremony",
-      "title": "New York gubernatorial candidate urges 9/11 attendees to turn away from Mamdani during ceremony",
-      "date": "2026-08-06T07:06:36.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-      "title": "Meta becomes latest firm to say its AI hacked another company",
-      "date": "2026-08-06T05:53:58.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
-      "title": "Drone with explosives found at German airport, official sees 'new quality' of threat",
-      "date": "2026-08-06T05:23:08.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
-      "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
-      "date": "2026-08-06T05:00:54.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/healthcare/6012755-cdc-traces-mexican-jalapeno-salmonella/",
-      "title": "CDC warns of Salmonella outbreak linked to jalapeños",
-      "date": "2026-08-06T02:47:06.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/healthcare/6012753-fda-cyclospora-lettuce-outbreak/",
-      "title": "Multistate cyclospora outbreak expands to 15 states",
-      "date": "2026-08-06T02:43:40.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4677169/el-sayed-hasan-piker-michigan-senate-campaign/",
-      "title": "El Sayed minimizes Hasan Piker’s role in Michigan Senate race: ‘He’s a streamer’",
-      "date": "2026-08-06T02:42:31.000Z"
     }
   ]
 }
