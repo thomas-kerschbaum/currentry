@@ -1,12 +1,103 @@
 {
-  "lastRefreshed": "2026-08-11T01:17:41.890Z",
+  "lastRefreshed": "2026-08-11T06:58:03.324Z",
   "articles": [
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/trump-secret-flight-nato-return",
+      "title": "Trump hid in catering container to board secret flight in Turkey amid Iran threat – reports",
+      "date": "2026-08-11T06:46:56.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
+      "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
+      "date": "2026-08-11T06:03:49.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
+      "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
+      "date": "2026-08-11T05:48:27.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
+      "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
+      "date": "2026-08-11T03:39:40.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/healthcare/6021625-ama-warns-childhood-immunization-risks/",
+      "title": "American Medical Association criticizes Trump executive order on childhood vaccine schedule",
+      "date": "2026-08-11T02:54:02.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/regulation/court-battles/6021611-judge-blocks-nyc-pied-a-terre-tax/",
+      "title": "Judge deals blow to Mamdani plan to tax second homes",
+      "date": "2026-08-11T02:33:58.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4682264/jennifer-balkcom-chuck-edwards-north-carolina/",
+      "title": "Jennifer Balkcom to replace Chuck Edwards on North Carolina House ballot",
+      "date": "2026-08-11T02:24:45.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-used-catering-truck-air-force-one-decoy-evade-iran-threat-report",
+      "title": "Trump used catering truck, Air Force One decoy to evade Iran threat: report",
+      "date": "2026-08-11T02:17:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/jennifer-balkcom-chuck-edwards-north-carolina-midterms",
+      "title": "Republicans name candidate to replace Chuck Edwards after sexual harassment investigation",
+      "date": "2026-08-11T02:12:18.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6021588-balkcom-chosen-nc-11-gop/",
+      "title": "North Carolina Republicans pick ballot replacement for Rep. Chuck Edwards",
+      "date": "2026-08-11T01:58:55.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4682205/trump-turkey-iran-assassination-plot-air-force-one/",
+      "title": "Trump snuck aboard plane in catering truck to elude Iranian assassination plot: Report",
+      "date": "2026-08-11T01:53:44.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/dem-gov-maura-healey-signs-sweeping-massachusetts-bill-allowing-abortions-up-birth",
+      "title": "Dem Gov Maura Healey signs sweeping Massachusetts bill allowing abortions up to birth",
+      "date": "2026-08-11T01:16:40.000Z"
+    },
     {
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
       "title": "Trump Media reports $238m loss as crypto falls",
       "date": "2026-08-11T01:12:11.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/judge-pauses-zohran-mamdani-pied-a-terre-tax-second-homes",
+      "title": "Judge temporarily blocks Mamdani’s pied-à-terre tax on second homes",
+      "date": "2026-08-11T01:06:35.000Z"
     },
     {
       "outlet": "The Guardian (US)",
@@ -105,6 +196,13 @@
       "url": "https://thehill.com/homenews/6021367-social-media-safety-lawsuits-proceed/",
       "title": "Tech companies must face thousands of lawsuits over social media addiction, appeals court rules",
       "date": "2026-08-10T22:44:35.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
+      "title": "Alabama heads into a second primary election after redistricting",
+      "date": "2026-08-10T22:43:05.000Z"
     },
     {
       "outlet": "PBS NewsHour",
@@ -859,7 +957,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
-      "title": "Doctors and lawmakers condemn Trump order calling for sweeping changes to childhood vaccines – live",
+      "title": "Doctors and lawmakers condemn Trump order calling for sweeping changes to childhood vaccines – as it happened",
       "date": "2026-08-10T12:31:09.000Z"
     },
     {
@@ -1197,55 +1295,6 @@
       "url": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
       "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
       "date": "2026-08-10T08:58:22.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/world/video/2026/aug/10/malcolm-turnbull-says-faith-in-aukus-nuclear-submarines-deal-is-stark-staring-bonkers-video",
-      "title": "Malcolm Turnbull says faith in Aukus nuclear submarines deal is 'stark staring bonkers' – video",
-      "date": "2026-08-10T05:04:24.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/10/centrist-democrats-abdul-el-sayed-michigan-2028-zohran-mamdani",
-      "title": "Centrist Democrats dismiss Abdul El-Sayed as a freak radical. Do they want to win in 2028 or not? | Nesrine Malik",
-      "date": "2026-08-10T05:00:35.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/politics/4680628/what-does-woke-1-mean-what-to-know/",
-      "title": "What does ‘Woke 1’ mean, and where does the phrase come from? What to know",
-      "date": "2026-08-10T04:54:02.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
-      "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
-      "date": "2026-08-10T04:01:00.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "date": "2026-08-10T03:33:51.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/6019633-congresswoman-kaptur-rehab-updates/",
-      "title": "Kaptur moving to physical rehab after what police say was a hit-and-run crash",
-      "date": "2026-08-10T03:05:35.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cewrzrekwv5o?at_medium=RSS&at_campaign=rss",
-      "title": "Alexandria Ocasio-Cortez says she's freezing her eggs",
-      "date": "2026-08-10T01:59:23.000Z"
     }
   ]
 }
