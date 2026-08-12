@@ -1,6 +1,391 @@
 {
-  "lastRefreshed": "2026-08-12T07:17:08.893Z",
+  "lastRefreshed": "2026-08-12T12:57:21.752Z",
   "articles": [
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates",
+      "title": "David Crowley wins messy Democratic primary for Wisconsin governor, defeating progressive Francesca Hong – live",
+      "date": "2026-08-12T12:49:23.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-backed-michael-alfonso-wins-crowded-gop-primary-father-in-laws-former-wisconsin-seat",
+      "title": "Trump-backed Michael Alfonso wins crowded GOP primary for his father-in-law's former Wisconsin seat",
+      "date": "2026-08-12T12:49:17.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/business/2026/aug/12/inflation-data-july",
+      "title": "US inflation cooled slightly to 3.4% in July, according to latest data",
+      "date": "2026-08-12T12:39:46.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/primary-election-takeaways-republicans-democrats",
+      "title": "Six key takeaways from this week’s primaries in Minnesota, Wisconsin and beyond as midterms approach",
+      "date": "2026-08-12T12:37:48.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead",
+      "title": "Zhu Rongji, who drove China's 1990s economic reforms, has died at 97",
+      "date": "2026-08-12T12:36:30.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4683435/inflation-july-consumer-prices-energy/",
+      "title": "Inflation fell to 3.4% in July, easing a bit of pressure on Fed",
+      "date": "2026-08-12T12:35:20.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6024357-live-updates-trump-iran-primary-elections/",
+      "title": "Live updates: Progressives notch loss in Wisconsin but big wins in Minnesota, Connecticut",
+      "date": "2026-08-12T12:30:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/international/6022742-brazil-election-lula-bolsonaro/",
+      "title": "Brazil's elections are the acid test for Trump's Latin America policy",
+      "date": "2026-08-12T12:30:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4684089/mike-lindell-darline-graham-nordone-show-limits-trump-endorsement-power/",
+      "title": "Mike Lindell and Darline Graham Nordone show limits to Trump’s endorsement power",
+      "date": "2026-08-12T12:26:18.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-brushes-off-reporter-question-running-third-term-2028-law-very-strong",
+      "title": "Trump brushes off reporter question about running for third term in 2028: 'The law is very strong'",
+      "date": "2026-08-12T12:20:05.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4683175/taiwan-throttles-internet-test-communications-anti-china-military-drills/",
+      "title": "Taiwan throttles internet to test ‘communications resilience’ during annual anti-China military drills",
+      "date": "2026-08-12T12:11:36.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/ohio-haitian-immigrants-ice",
+      "title": "In Ohio, Haitians’ American dream shatters as Ice prepares to deport them",
+      "date": "2026-08-12T12:00:28.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/newsletters/the-gavel/6023611-trump-supreme-court-rulings-birthright-tariffs-fed/",
+      "title": "Trump pushes boundaries of Supreme Court losses",
+      "date": "2026-08-12T12:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/healthcare/6023693-funding-nursing-pipeline-future/",
+      "title": "The nursing shortage won't fix itself. Congress must step in.",
+      "date": "2026-08-12T12:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4683101/avenue-foundation-portland-irs-race-based-grants/",
+      "title": "Taxpayers are funding ‘whites need not apply’ charity grants. The IRS must stop it",
+      "date": "2026-08-12T12:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4683644/rand-paul-fort-knox-gold-audit-conflicting-gold-reserve-numbers-transparency/",
+      "title": "From ‘audit the fed’ to ‘trust me, it’s there’: Rand Paul’s Fort Knox fumble",
+      "date": "2026-08-12T12:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4682141/trump-syria-tripoli-deal-levant/",
+      "title": "France broke the Levant. Trump can fix it by giving Syria Tripoli",
+      "date": "2026-08-12T12:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4683252/dutch-court-greenpeace-us-energy-security/",
+      "title": "Europe wants American gas, so why is it letting its courts sabotage our pipelines?",
+      "date": "2026-08-12T12:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6024359-mike-lindell-minnesota-gop-governor-primary-loss-refusal-to-concede/",
+      "title": "Lindell alleges voting irregularities, refuses to concede",
+      "date": "2026-08-12T11:50:50.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/first-thing-anger-after-trumps-secret-flight-swap-appears-to-offer-up-staff-and-media-as-decoys",
+      "title": "Anger after Trump’s secret flight swap appears to offer up staff and media as decoys | First Thing",
+      "date": "2026-08-12T11:46:52.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+      "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
+      "date": "2026-08-12T11:32:17.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/datacenter-everglades-risk",
+      "title": "Heat, algae and AI: proposed datacenter could damage Everglades, experts warn",
+      "date": "2026-08-12T11:30:27.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/immigration/6022551-congress-must-fix-our-temporary-protected-status-problem/",
+      "title": "Congress must fix our temporary protected status problem",
+      "date": "2026-08-12T11:30:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/aug/12/fevers-white-says-critics-can-go-to-hell-over-handling-of-sophie-cunningham-controversy",
+      "title": "Fever’s White says critics can ‘go to hell’ over handling of Sophie Cunningham controversy",
+      "date": "2026-08-12T11:29:03.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
+      "date": "2026-08-12T11:25:11.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/newsletters/morning-report/6024334-democratic-establishment-strikes-back-david-crowley-francesca-hong-wisconsin-primary/",
+      "title": "The Democratic establishment strikes back",
+      "date": "2026-08-12T11:15:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/marni-von-wilpert-california-house-race",
+      "title": "‘Unrig the economy for working people’: the California candidate who wrote updated labor laws",
+      "date": "2026-08-12T11:00:28.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/technology/6022906-ai-infrastructure-jobs-growth/",
+      "title": "America can't afford to stop building our AI future",
+      "date": "2026-08-12T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4683299/fda-capricor-deramiocel-muscular-dystrophy/",
+      "title": "The FDA changes the rules — rare disease patients pay with their lives",
+      "date": "2026-08-12T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4683633/trump-winning-issue-republicans-midterm-boost/",
+      "title": "Trump’s winning issue that could give Republicans a midterm boost",
+      "date": "2026-08-12T11:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4682159/trump-big-stick-us-military-strategy-iran-endgame/",
+      "title": "Trump has a ‘big stick’ in Iran. He forgot to bring a brain",
+      "date": "2026-08-12T11:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
+      "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
+      "date": "2026-08-12T10:47:30.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/cgljpy5k3p8o?at_medium=RSS&at_campaign=rss",
+      "title": "What it's like flying with Trump on Air Force One",
+      "date": "2026-08-12T10:43:23.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/veteran-says-special-ops-should-get-same-concealed-carry-permit-retired-cops",
+      "title": "'No better group': Veteran says special ops should get same concealed carry permit as retired cops",
+      "date": "2026-08-12T10:24:04.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/new-york-stingrays-drone-footage",
+      "title": "Drone footage shows rare bird’s-eye view of stingrays off New York coast",
+      "date": "2026-08-12T10:00:27.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/trump-catering-cart-iran-threat",
+      "title": "Trump’s secret flight switch indicates severity of assassination threat by Iran",
+      "date": "2026-08-12T10:00:27.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/12/aoc-egg-freezing-maga-responses",
+      "title": "‘Bold and ethical’: doctors on AOC’s egg-freezing journey - and Maga’s criticisms of it",
+      "date": "2026-08-12T10:00:26.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models",
+      "title": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders",
+      "date": "2026-08-12T10:00:26.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/house/6023633-democrats-progressives-moderates-jeffries/",
+      "title": "Democrats’ progressive surge could complicate Jeffries’s path to unity",
+      "date": "2026-08-12T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/6023566-senate-august-recess-trump-agenda/",
+      "title": "GOP worries time running out on Trump’s agenda with Congress",
+      "date": "2026-08-12T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/international/6023590-hamas-weapons-handover-stalled/",
+      "title": "Trump’s Gaza plan and Board of Peace face ticking clock",
+      "date": "2026-08-12T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/",
+      "title": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
+      "date": "2026-08-12T10:00:00.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/gina-laplaca-primary-petition-signatures",
+      "title": "Ex-New Jersey mayor, her husband charged for using fake ballot signatures after she pleaded guilty to DUI",
+      "date": "2026-08-12T09:11:28.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
+      "title": "Feel so busy you don't even realize you're busy? Try doing a time audit",
+      "date": "2026-08-12T09:02:00.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/russia-helping-china-close-gap-us-forces-amid-taiwan-tensions-warns-longtime-military-leader",
+      "title": "Russia is helping China close gap with US forces amid Taiwan tensions, warns longtime military leader",
+      "date": "2026-08-12T09:00:28.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
+      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "date": "2026-08-12T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+      "date": "2026-08-12T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
+      "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
+      "date": "2026-08-12T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
+      "title": "How a road could change West Africa's urban future",
+      "date": "2026-08-12T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
+      "title": "AI chatbots are offering financial advice. Should you trust them?",
+      "date": "2026-08-12T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief",
+      "title": "Morning news brief",
+      "date": "2026-08-12T08:47:50.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homicide-drop-one-year-trumps-dc-crime-crackdown",
+      "title": "FBI touts 6,000 arrests, 44% homicide drop one year into Trump's DC crime crackdown",
+      "date": "2026-08-12T08:30:14.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/us-tax-dollars-rightwing-europe-thinktanks-donald-trump-maga",
+      "title": "Millions of US tax dollars sent to rightwing European thinktanks. Did any Trump supporters vote for that? | Arwa Mahdawi",
+      "date": "2026-08-12T08:00:23.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/primary-takeaways-dems-left-center-battle-intensifies-schumer-takes-another-hit-split-decision-trump",
+      "title": "Primary takeaways: Dems’ left-center battle intensifies as Schumer takes another hit; split decision for Trump",
+      "date": "2026-08-12T08:00:20.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/wisconsin-governor-primary-crowley-hong",
+      "title": "Democrat establishment strikes back as socialist candidate downed in battleground primary",
+      "date": "2026-08-12T07:42:30.000Z"
+    },
     {
       "outlet": "The Hill",
       "lean": "center",
@@ -61,7 +446,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/sport/2026/aug/12/arkansas-football-player-cottonmouth-snake-helmet",
-      "title": "High school football player in Arkansas practices with viper in helmet",
+      "title": "High school football player in Arkansas practices with 2ft viper in helmet",
       "date": "2026-08-12T04:01:30.000Z"
     },
     {
@@ -97,6 +482,13 @@
       "lean": "lean-right",
       "url": "https://www.foxnews.com/politics/schumer-dealt-another-blow-progressive-insurgency-scores-win-key-senate-battle",
       "title": "Schumer dealt another blow as progressive insurgency scores win in key Senate battle",
+      "date": "2026-08-12T03:41:37.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/peggy-flanagan-vows-rip-ice-apart-toppling-moderate-dem-key-senate-battle",
+      "title": "Peggy Flanagan vows to 'rip ICE apart' after toppling moderate Dem in key Senate battle",
       "date": "2026-08-12T03:41:37.000Z"
     },
     {
@@ -1162,433 +1554,6 @@
       "url": "https://www.pbs.org/newshour/politics/live-results-wisconsin-midterm-primaries",
       "title": "Live Results: Wisconsin midterm primaries",
       "date": "2026-08-11T14:00:12.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/education/6021301-doj-lawsuit-new-york-state-tuition-assistance-undocumented-students/",
-      "title": "DOJ sues NY to block in-state tuition for undocumented students",
-      "date": "2026-08-11T12:31:57.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/white-house/6020950-blanche-attorney-general-confirmed/",
-      "title": "The Blanche appointment is another Trump win that's America's loss",
-      "date": "2026-08-11T12:30:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/energy-environment/5975103-india-indonesia-energy-trade/",
-      "title": "Indonesia and India are jointly planning a hydrocarbon-powered future",
-      "date": "2026-08-11T12:30:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4682392/judge-pauses-mamdani-new-york-pied-a-terre-tax/",
-      "title": "Judge pauses New York pied-a-terre tax in blow to Mamdani",
-      "date": "2026-08-11T12:27:27.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/crime/4681451/lauren-boebert-son-arrested-child-sexual-exploitation-charges-video-17-year-old/",
-      "title": "Lauren Boebert’s son arrested on child sexual exploitation charges related to video of a 17-year-old",
-      "date": "2026-08-11T12:19:25.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/driver-sound-barrier-land-speed-record",
-      "title": "Driver who broke sound barrier sets new speed record in hydrogen-powered car",
-      "date": "2026-08-11T12:17:38.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
-      "title": "Minnesota progressive wins Senate primary over anti-ICE sentiments, as Wisconsin governor’s race remains close – as it happened",
-      "date": "2026-08-11T12:17:19.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/space/6019888-perseid-meteor-shower-2026-light-show-what-to-know/",
-      "title": "Perseid meteor shower: When is the best time to watch the summer light show?",
-      "date": "2026-08-11T12:15:39.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/first-thing-colombia-earthquake",
-      "title": "Colombia reels after major earthquake kills at least 130 | First Thing",
-      "date": "2026-08-11T12:11:58.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/11/tuskegee-university-bans-bonnets-durags",
-      "title": "An HBCU has banned durags and bonnets. That reinforces anti-Blackness | AD Carson",
-      "date": "2026-08-11T12:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/the-movement/6021209-gop-burrito-affordability/",
-      "title": "The Movement: A $20 burrito and a fight over affordability",
-      "date": "2026-08-11T12:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4681607/north-korea-military-strategy-russia-missiles-national-defense/",
-      "title": "Russia is giving North Korea the most dangerous gift — and it’s not missiles",
-      "date": "2026-08-11T12:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4681465/republicans-iranian-american-voters-coalition-engagement-is-representative/",
-      "title": "America’s next political powerhouse is here — and Republicans are sleeping on it",
-      "date": "2026-08-11T12:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4682111/is-serbia-aligned-with-russia-vucic-eu/",
-      "title": "The ‘Russian puppet’ arming Ukraine: Why Europe keeps getting Serbia wrong",
-      "date": "2026-08-11T12:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6021771-donald-trump-security-concerns-air-force-one-plane-switch-nato-summit-third-air-force-one/",
-      "title": "Trump secretly departed Turkey on third plane: Report",
-      "date": "2026-08-11T11:54:41.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/morning-report/6021777-donald-trump-iran-threat-nato-summit-air-force-one-ruse/",
-      "title": "Trump, threatened by Iran, used ruse to fly home from Turkey on jet",
-      "date": "2026-08-11T11:40:24.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-      "title": "Luigi Mangione murder trial to have anonymous jury",
-      "date": "2026-08-11T11:35:20.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/technology/6020988-ai-models-hack-hugging-face/",
-      "title": "Hacks by runaway AI are foreseeable. We’re letting them happen.",
-      "date": "2026-08-11T11:30:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
-      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
-      "date": "2026-08-11T11:11:14.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c89n5p4g38eo?at_medium=RSS&at_campaign=rss",
-      "title": "What to know about Trump's Patriot Games for high school athletes",
-      "date": "2026-08-11T11:10:17.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/daily-on-defense/4682370/trumps-iran-strategy-mirrors-tehrans-just-wait-it-out/",
-      "title": "Trump’s Iran strategy mirrors Tehran’s: Just wait it out",
-      "date": "2026-08-11T11:03:39.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest",
-      "title": "HCA workers push for higher pay and more staffing amid billions in profits: ‘I’m struggling’",
-      "date": "2026-08-11T11:00:02.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/11/drought-water-climate-crisis",
-      "title": "Drought, water rationing and dry rivers: our water crisis is here | Peter Gleick",
-      "date": "2026-08-11T11:00:01.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/pete-hegseth-pentagon-picks-trump-family-business",
-      "title": "Pete Hegseth’s Pentagon picks raise questions over Trump family business ties",
-      "date": "2026-08-11T11:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/energy-environment/5979384-high-ethanol-marine-engine-risks/",
-      "title": "Before more E15 reaches the pump, boaters deserve a real warning",
-      "date": "2026-08-11T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/state/4681456/wisconsin-gubernatorial-primary-dsa-socialism-francesca-hong/",
-      "title": "Francesca Hong wants to be the DSA’s first governor. Tuesday may bring her closer to the goal",
-      "date": "2026-08-11T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4681641/trump-endorsed-darline-nordone-graham-unpredictable-south-carolina-primary/",
-      "title": "Trump-backed Darline Graham Nordone faces test in unpredictable South Carolina primary",
-      "date": "2026-08-11T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4681195/trump-iran-strategy-weaponized-unpredictability/",
-      "title": "Trump’s Iran ‘chaos’ isn’t a glitch. It’s weaponized theater designed to make Tehran blink",
-      "date": "2026-08-11T11:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4682228/aoc-2028-woke-1-socialist-democrats/",
-      "title": "AOC, 2028, and the coming of woke 2",
-      "date": "2026-08-11T11:00:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/inside-senates-chaotic-all-nighter-left-trumps-save-america-act-shelf",
-      "title": "Inside the Senate's chaotic all-nighter that left Trump's SAVE America Act on the shelf",
-      "date": "2026-08-11T10:30:28.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
-      "title": "The secret economics inside the new Planet Money board game",
-      "date": "2026-08-11T10:30:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
-      "title": "Former Syrian President Assad sentenced to death in absentia",
-      "date": "2026-08-11T10:07:14.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/minnesota-primaries-democrats-republicans",
-      "title": "Minnesota primaries could mark change of path for Democrats and Republicans",
-      "date": "2026-08-11T10:00:58.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/south-carolina-special-primary-election-lindsey-graham-senate-seat",
-      "title": "‘Fiercely independent’ South Carolina votes on Lindsey Graham’s Senate successor",
-      "date": "2026-08-11T10:00:58.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/wisconsin-primary-election-governor-race",
-      "title": "Francesca Hong aims to ride progressive wave in Wisconsin primary for governor",
-      "date": "2026-08-11T10:00:57.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts",
-      "title": "Trump’s vaccine order is about feelings, not facts | Robert B Shpiner",
-      "date": "2026-08-11T10:00:57.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter",
-      "title": "Experts are warning: our AI arms race is putting humanity at risk | Stuart Russell",
-      "date": "2026-08-11T10:00:57.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/luigi-mangione-court-appearance-new-york",
-      "title": "Luigi Mangione appears in court over healthcare CEO’s killing with trial a month away",
-      "date": "2026-08-11T10:00:56.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/pentagon-races-buy-10x-missiles-iran-war-dwindles-arsenal-threatens-readiness-china-aggression",
-      "title": "Pentagon races to buy 10X more missiles as Iran war dwindles arsenal, threatens readiness for China aggression",
-      "date": "2026-08-11T10:00:48.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/gop-senators-slam-mamdani-disgrace-back-911-families-push-bar-anniversary-ceremony",
-      "title": "GOP senators rally behind 9/11 families in push to ban Mamdani from anniversary ceremony: 'He's a disgrace'",
-      "date": "2026-08-11T10:00:43.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/medicare-all-trade-offs-socialists-arent-talking-about-according-experts",
-      "title": "The Medicare-for-all trade-offs socialists aren't talking about, according to experts",
-      "date": "2026-08-11T10:00:20.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "date": "2026-08-11T10:00:04.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
-      "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
-      "date": "2026-08-11T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6021344-progressives-face-midterm-test-wisconsin-minnesota/",
-      "title": "Progressives face latest test in Midwest with Hong, Flanagan",
-      "date": "2026-08-11T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/6021361-gop-senators-thune-trump/",
-      "title": "GOP senators rally behind Thune in response to Trump jabs at leader",
-      "date": "2026-08-11T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6021352-trump-middle-east-troubles/",
-      "title": "The Memo: Mideast troubles press in on Trump",
-      "date": "2026-08-11T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6021294-trump-pirro-reflecting-pool-pressure/",
-      "title": "Trump keeps pressure on Pirro as Reflecting Pool cases collapse",
-      "date": "2026-08-11T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6021364-ocasio-cortez-career-crossroads/",
-      "title": "Ocasio-Cortez faces a crossroads in politics — and life",
-      "date": "2026-08-11T10:00:00.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "date": "2026-08-11T09:58:45.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/top-obama-ally-reveals-which-far-left-candidate-needs-lose-help-progressives-win",
-      "title": "Top Obama ally reveals which far-left candidate needs to lose to help progressives win",
-      "date": "2026-08-11T09:30:32.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/socialist-winning-streak-puts-prized-democratic-battleground-risk-radical-leftists-advance",
-      "title": "Socialist winning streak puts prized Democratic battleground at risk as radical leftists advance",
-      "date": "2026-08-11T09:00:26.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/wisconsin-socialist-winning-streak-faces-major-swing-state-test-polls-close",
-      "title": "Socialist winning streak faces major swing-state test as polls close in Wisconsin",
-      "date": "2026-08-11T09:00:26.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/aug/11/portland-lloyd-center-ice-rink-closure-tonya-harding",
-      "title": "The last lap at Lloyd Center: how America is losing its mall ice rinks",
-      "date": "2026-08-11T09:00:08.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
-      "title": "Armed troops have patrolled D.C. for 1 year now. It's challenging democratic norms",
-      "date": "2026-08-11T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
-      "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
-      "date": "2026-08-11T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
-      "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
-      "date": "2026-08-11T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
-      "title": "The school year begins in LA with one big change: limited screen time",
-      "date": "2026-08-11T09:00:00.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-      "date": "2026-08-11T08:44:52.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief",
-      "title": "Morning news brief",
-      "date": "2026-08-11T08:32:41.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/aug/11/does-sophie-cunningham-benefit-from-white-privilege-of-course-she-does",
-      "title": "Does Sophie Cunningham benefit from white privilege? Of course she does | Etan Thomas",
-      "date": "2026-08-11T08:30:08.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-      "title": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts",
-      "date": "2026-08-11T08:08:30.000Z"
     }
   ]
 }
