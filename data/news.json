@@ -1,6 +1,111 @@
 {
-  "lastRefreshed": "2026-08-14T01:27:06.438Z",
+  "lastRefreshed": "2026-08-14T07:16:48.205Z",
   "articles": [
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+      "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+      "date": "2026-08-14T06:31:29.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
+      "title": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
+      "date": "2026-08-14T06:15:54.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/aug/14/summer-mcintosh-400m-medley-pan-pacific-championships-swimming",
+      "title": "Superb Summer McIntosh bounces back with 400m medley gold at Pan Pacs",
+      "date": "2026-08-14T05:48:32.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
+      "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
+      "date": "2026-08-14T05:42:35.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/gallery/2026/aug/14/mlb-field-of-dreams-iowa-baseball-game-pictures",
+      "title": "Major League Baseball comes to rural Iowa for Field of Dreams game – in pictures",
+      "date": "2026-08-14T04:52:37.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/detransitioners-reveal-how-doctors-pushed-them-toward-life-altering-treatment-teens",
+      "title": "Detransitioners reveal how doctors pushed them toward life-altering treatment as teens",
+      "date": "2026-08-14T04:50:54.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/aug/13/fernando-mendoza-raiders-cardinals-nfl-preseason-debut",
+      "title": "No 1 pick Fernando Mendoza throws for touchdown in Las Vegas Raiders preseason debut",
+      "date": "2026-08-14T03:44:39.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/regulation/court-battles/6029184-nevada-judge-dismisses-fake-elector-charges/",
+      "title": "Judge drops Nevada ‘fake electors’ case from 2020 presidential election",
+      "date": "2026-08-14T03:12:47.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/aug/13/ben-shelton-brandon-nakashima-canadian-open-final-tennis",
+      "title": "Ben Shelton prevails in all-American final to retain Canadian Open title",
+      "date": "2026-08-14T03:08:51.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6029165-interior-investigating-vandalism-at-wwii-memorial/",
+      "title": "Interior investigating vandalism at WWII Memorial",
+      "date": "2026-08-14T02:30:32.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4687219/poland-russia-assassination-plot-us-citizen/",
+      "title": "Poland says it foiled Russian assassination plot against US citizen in Warsaw",
+      "date": "2026-08-14T02:19:39.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
+      "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
+      "date": "2026-08-14T02:06:10.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults",
+      "title": "Trump orders Pentagon to redesign US aircraft carrier to use steam catapults to launch jets",
+      "date": "2026-08-14T02:03:43.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/white-house-exposes-transshipment-scam-costing-us-26b-points-finger-china",
+      "title": "White House exposes ‘Transshipment Scam’ costing US up to $26B, points finger at China",
+      "date": "2026-08-14T01:51:16.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6029126-china-tariff-evasion-white-house-report/",
+      "title": "White House accuses over 40 countries of helping China avoid US tariffs",
+      "date": "2026-08-14T01:30:21.000Z"
+    },
     {
       "outlet": "The Hill",
       "lean": "center",
@@ -224,6 +329,13 @@
       "url": "https://thehill.com/policy/energy-environment/6028881-energy-dept-scraps-transmission-corridors/",
       "title": "Trump cancels Biden-era bid to speed power line construction",
       "date": "2026-08-13T21:41:09.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
+      "title": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
+      "date": "2026-08-13T21:39:19.000Z"
     },
     {
       "outlet": "The Guardian (US)",
@@ -901,7 +1013,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/13/karoline-leavitt-white-house-primaries-trump-politics-latest-updates",
-      "title": "Trump orders Pentagon to scrap modern jet launching tech on new US aircraft carrier and revert to steam catapults – live",
+      "title": "Trump orders Pentagon to scrap modern jet launching tech on new US aircraft carrier and revert to steam catapults – as it happened",
       "date": "2026-08-13T12:15:43.000Z"
     },
     {
@@ -1309,83 +1421,6 @@
       "url": "https://www.foxnews.com/politics/mississippi-death-penalty-child-sexual-battery",
       "title": "New Mississippi law expands death penalty to include inmates on child sexual battery convictions",
       "date": "2026-08-13T08:43:21.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates",
-      "title": "Andy Burnham ‘angry’ over water company bill increases; Sports Direct owner buys Harvey Nichols – as it happened",
-      "date": "2026-08-13T07:07:59.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
-      "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
-      "date": "2026-08-13T06:21:25.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
-      "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
-      "date": "2026-08-13T06:04:38.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
-      "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
-      "date": "2026-08-13T05:43:43.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/aug/13/katie-ledecky-1500m-pan-pacific-championships-swimming-gold",
-      "title": "Swim hero Katie Ledecky extends 16-year winning streak in 1500m with Pan Pacs gold",
-      "date": "2026-08-13T05:39:03.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/daily-memo/4685796/bad-polls-dsa-more-appealing-than-it-was/",
-      "title": "Did bad polls make DSA more appealing than it was?",
-      "date": "2026-08-13T03:40:49.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6026607-nick-daniels-air-traffic-control-gamers/",
-      "title": "Air traffic controllers head says hiring gamers will help",
-      "date": "2026-08-13T03:22:05.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/crime/4685782/officer-new-orleans-mass-shooting-plot-released/",
-      "title": "Ex-officer accused in New Orleans mass shooting plot released without charges",
-      "date": "2026-08-13T03:17:44.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/12/surrogate-mother-texas-gives-birth",
-      "title": "Surrogate mother who fled to Texas gives birth to baby with severe heart defect",
-      "date": "2026-08-13T02:12:10.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/crime/4685724/doj-dc-council-national-guard-withdrawal/",
-      "title": "DOJ tells DC Council it has ‘no power’ to demand National Guard withdrawal",
-      "date": "2026-08-13T01:41:50.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
-      "title": "Photos: See the best photos from the solar eclipse",
-      "date": "2026-08-13T01:38:01.000Z"
     }
   ]
 }
