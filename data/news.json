@@ -1,6 +1,55 @@
 {
-  "lastRefreshed": "2026-08-15T00:56:51.432Z",
+  "lastRefreshed": "2026-08-15T06:29:07.974Z",
   "articles": [
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/cybersecurity/6028070-china-cyber-attack-scenario/",
+      "title": "Is the US already in World War IV — and losing?",
+      "date": "2026-08-15T04:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/media/6031128-bbc-lawsuit-trump-family-subpoena/",
+      "title": "BBC lawsuit: Channel plans to subpoena Trump family members",
+      "date": "2026-08-15T03:06:54.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/crime/4688520/homicide-rate-2025-lowest-70-years-fbi/",
+      "title": "Homicide rate in 2025 plunged to lowest in 70 years, FBI says",
+      "date": "2026-08-15T02:39:32.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/justice/4688491/abbott-illegal-islamic-washing-stations-texas-airports/",
+      "title": "Abbott appeals to Duffy to probe ‘illegal’ Islamic washing stations at Texas airports",
+      "date": "2026-08-15T01:53:36.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/14/picasso-print-stolen-milwaukee",
+      "title": "Picasso print stolen from Milwaukee art gallery in 2018 found by landlord while cleaning apartment",
+      "date": "2026-08-15T01:27:23.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4688462/tony-sabio-republican-veteran-virginia-8th-district/",
+      "title": "Who is Tony Sabio? Meet the Republican veteran trying to flip Virginia’s 8th District",
+      "date": "2026-08-15T01:03:42.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim",
+      "title": "DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim",
+      "date": "2026-08-15T00:54:03.000Z"
+    },
     {
       "outlet": "The Hill",
       "lean": "center",
@@ -44,10 +93,17 @@
       "date": "2026-08-14T23:18:20.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+      "date": "2026-08-14T23:16:43.000Z"
+    },
+    {
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/newsletters/technology/6030992-senate-launches-investigation-into-roblox-due-to-safety-concerns/",
-      "title": "Senate launches investigation into Roblox due to safety concerns",
+      "title": "Senate panel launches investigation into Roblox due to safety concerns",
       "date": "2026-08-14T23:06:47.000Z"
     },
     {
@@ -82,7 +138,7 @@
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/policy/technology/6030840-senate-roblox-child-safety-investigation/",
-      "title": "Senate investigates kids safety issues in online game Roblox",
+      "title": "Senate panel investigates kids safety issues in online game Roblox",
       "date": "2026-08-14T22:40:21.000Z"
     },
     {
@@ -303,6 +359,13 @@
       "date": "2026-08-14T19:27:08.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "date": "2026-08-14T19:20:43.000Z"
+    },
+    {
       "outlet": "PBS NewsHour",
       "lean": "center",
       "url": "https://www.pbs.org/newshour/politics/watch-trump-says-uss-lincolns-deployment-was-not-nearly-long-enough",
@@ -446,7 +509,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
       "date": "2026-08-14T17:36:27.000Z"
     },
     {
@@ -796,7 +859,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/14/donald-trump-speech-crime-safety-new-york-republicans-midterms-us-politics-latest-news-updates",
-      "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – live",
+      "title": "Trump dismisses concerns about USS Abraham Lincoln, saying its record-breaking 250 days at sea ‘not nearly enough’ – as it happened",
       "date": "2026-08-14T12:27:34.000Z"
     },
     {
@@ -1099,111 +1162,6 @@
       "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
       "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
       "date": "2026-08-14T06:31:29.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
-      "title": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
-      "date": "2026-08-14T06:15:54.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/aug/14/summer-mcintosh-400m-medley-pan-pacific-championships-swimming",
-      "title": "Superb Summer McIntosh bounces back with 400m medley gold at Pan Pacs",
-      "date": "2026-08-14T05:48:32.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
-      "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
-      "date": "2026-08-14T05:42:35.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/gallery/2026/aug/14/mlb-field-of-dreams-iowa-baseball-game-pictures",
-      "title": "Major League Baseball comes to rural Iowa for Field of Dreams game – in pictures",
-      "date": "2026-08-14T04:52:37.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/detransitioners-reveal-how-doctors-pushed-them-toward-life-altering-treatment-teens",
-      "title": "Detransitioners reveal how doctors pushed them toward life-altering treatment as teens",
-      "date": "2026-08-14T04:50:54.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/aug/13/fernando-mendoza-raiders-cardinals-nfl-preseason-debut",
-      "title": "No 1 pick Fernando Mendoza throws for touchdown in Las Vegas Raiders preseason debut",
-      "date": "2026-08-14T03:44:39.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/6029184-nevada-judge-dismisses-fake-elector-charges/",
-      "title": "Judge drops Nevada ‘fake electors’ case from 2020 presidential election",
-      "date": "2026-08-14T03:12:47.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/aug/13/ben-shelton-brandon-nakashima-canadian-open-final-tennis",
-      "title": "Ben Shelton prevails in all-American final to retain Canadian Open title",
-      "date": "2026-08-14T03:08:51.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6029165-interior-investigating-vandalism-at-wwii-memorial/",
-      "title": "Interior investigating vandalism at WWII Memorial",
-      "date": "2026-08-14T02:30:32.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/world/4687219/poland-russia-assassination-plot-us-citizen/",
-      "title": "Poland says it foiled Russian assassination plot against US citizen in Warsaw",
-      "date": "2026-08-14T02:19:39.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
-      "title": "Feds probe 'mention markets' amid White House Kalshi controversy",
-      "date": "2026-08-14T02:06:10.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-aircraft-carriers-steam-catapults",
-      "title": "Trump orders Pentagon to redesign US aircraft carrier to use steam catapults to launch jets",
-      "date": "2026-08-14T02:03:43.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/white-house-exposes-transshipment-scam-costing-us-26b-points-finger-china",
-      "title": "White House exposes ‘Transshipment Scam’ costing US up to $26B, points finger at China",
-      "date": "2026-08-14T01:51:16.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6029126-china-tariff-evasion-white-house-report/",
-      "title": "White House accuses over 40 countries of helping China avoid US tariffs",
-      "date": "2026-08-14T01:30:21.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/6029103-trump-orders-navy-catapult-reversal/",
-      "title": "Trump directs Navy to return to steam catapults on aircraft carriers",
-      "date": "2026-08-14T01:00:06.000Z"
     }
   ]
 }
