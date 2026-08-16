@@ -1,6 +1,251 @@
 {
-  "lastRefreshed": "2026-08-15T18:20:38.669Z",
+  "lastRefreshed": "2026-08-16T00:59:57.884Z",
   "articles": [
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/6031688-navy-carrier-design-trump/",
+      "title": "Navy looking into warship redesigns as part of Trump requests",
+      "date": "2026-08-15T23:57:38.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/indiana-flooding-deaths",
+      "title": "At least five people dead in Indiana amid worst flooding in over 30 years, officials say",
+      "date": "2026-08-15T23:56:33.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4688854/uae-iran-attacked-vessel-strait-of-hormuz/",
+      "title": "UAE says Iran attacked vessel in Strait of Hormuz for third time this week",
+      "date": "2026-08-15T23:54:42.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "date": "2026-08-15T23:34:24.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6031667-trump-endorsement-tiffany-campaign/",
+      "title": "Tiffany avoids answering question if Trump will campaign with him",
+      "date": "2026-08-15T23:00:52.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/4688803/democrats-fight-whether-abolish-reform-ice-dnc-meeting/",
+      "title": "Democrats’ intraparty fight over whether to ‘abolish’ or ‘reform’ ICE at DNC meeting",
+      "date": "2026-08-15T22:21:55.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/house/6031642-house-democrats-probe-uss-lincoln/",
+      "title": "House Democrats question acting Navy Secretary on conditions aboard USS Abraham Lincoln",
+      "date": "2026-08-15T22:16:12.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/aug/15/kate-douglass-50m-freestyle-world-record-gretchen-walsh-pan-pacs",
+      "title": "American Kate Douglass reclaims 50m freestyle world record at Pan Pacs",
+      "date": "2026-08-15T22:14:14.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/trump-washington-post-drug-prices",
+      "title": "Trump shows off article on lower drug prices that says Biden deserves credit, not him",
+      "date": "2026-08-15T22:02:49.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/sunday-talk-shows/6031629-sunday-shows-preview-key-primary-races-set-stage-for-tight-november-battles-democrats-raise-concerns-over-uss-lincoln-conditions/",
+      "title": "Sunday shows preview: Key primary races set stage for tight November battles, Democrats raise concerns over USS Lincoln conditions",
+      "date": "2026-08-15T21:39:06.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
+      "title": "Are robotaxis finally here?",
+      "date": "2026-08-15T21:30:21.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record",
+      "title": "Cardinals rookie Joshua Báez makes MLB history with three homers in first three at-bats",
+      "date": "2026-08-15T21:24:52.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
+      "title": "State Department spokesperson on Iran war and U.S. visa revocations",
+      "date": "2026-08-15T21:20:51.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/fauci-refuses-senate-appearance-invoking-fifth-amendment-100-times-covid-probe",
+      "title": "Fauci refuses Senate appearance after invoking Fifth Amendment more than 100 times in COVID probe",
+      "date": "2026-08-15T21:15:59.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/6031617-tuberville-use-chatgpt/",
+      "title": "Tuberville says he likes to talk to ChatGPT on long drives",
+      "date": "2026-08-15T21:14:18.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/6030558-alaska-senate-seat-tightening/",
+      "title": "Republicans face unexpected challenge in Alaska Senate race",
+      "date": "2026-08-15T21:00:00.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-backs-republican-challenger-oust-letitia-james-amid-ongoing-mortgage-fraud-feud",
+      "title": "Trump backs Republican challenger to oust Letitia James amid ongoing mortgage fraud feud",
+      "date": "2026-08-15T20:49:40.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4688800/ro-khanna-vows-investigations-democrats-win/",
+      "title": "Ro Khanna vows to bring investigations if Democrats win 2026 elections amid 2028 rumors",
+      "date": "2026-08-15T20:43:12.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/crime/4688709/tiana-lowe-doescher-progressive-democrats-out-of-touch-with-everyday-americans/",
+      "title": "Tiana Lowe Doescher says progressive Democrats are out of touch with everyday Americans: ‘So divorced’",
+      "date": "2026-08-15T20:29:20.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6031596-brown-acton-lead-ohio-polls/",
+      "title": "Brown, Acton hold slim leads over Husted, Ramaswamy in key Ohio races: Poll",
+      "date": "2026-08-15T20:20:52.000Z"
+    },
+    {
+      "outlet": "The Christian Science Monitor",
+      "lean": "center",
+      "url": "https://www.csmonitor.com/USA/2026/0815/Democrats-2028-presidential-calendar?icid=rss",
+      "title": "Democrats put South Carolina first in 2028 primary calendar",
+      "date": "2026-08-15T20:18:13.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/4688764/judge-refuses-to-halt-trump-border-wall-along-tribal-lands/",
+      "title": "Judge refuses to halt Trump plan to build border wall along tribal lands",
+      "date": "2026-08-15T20:13:33.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
+      "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
+      "date": "2026-08-15T20:04:13.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/15/hate-crime-charges-new-york-synagogue-assault",
+      "title": "New York City man charged with hate crimes after alleged synagogue assault",
+      "date": "2026-08-15T20:02:27.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4688793/at-least-47-dead-earthquake-strikes-indonesia/",
+      "title": "At least 47 dead as a 7.7-magnitude earthquake strikes Indonesia",
+      "date": "2026-08-15T19:59:53.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/bernie-backed-california-house-candidate-called-dei-social-justice-driven-duty-embraced-activist-role",
+      "title": "Bernie-backed California House candidate called DEI a ‘social justice-driven duty,’ embraced activist role",
+      "date": "2026-08-15T19:27:33.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/6031563-maher-condemns-uss-abraham-lincoln-conditions/",
+      "title": "Maher on USS Abraham Lincoln conditions: 'It just makes my blood boil'",
+      "date": "2026-08-15T19:25:33.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/6031541-wnba-players-discuss-scruitny/",
+      "title": "Past and present WNBA players defend league amid intense scrutiny during its Hall of Fame weekend",
+      "date": "2026-08-15T19:11:35.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/advocate-tells-freed-marine-vet-physical-psychological-torment-russian-prison-5-americans-remain-held",
+      "title": "Advocate reveals freed Marine vet's physical, mental torment in Russian prison as 5 Americans remain held",
+      "date": "2026-08-15T19:10:10.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/senate/4688729/fauci-declines-appear-second-senate-panel/",
+      "title": "Fauci declines to appear before a second Senate panel after contempt vote",
+      "date": "2026-08-15T19:06:20.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/democrats-2028-presidential-calendar-gives-black-and-latino-voters-and-union-members-an-early-say",
+      "title": "Democrats' 2028 presidential calendar gives Black and Latino voters and union members an early say",
+      "date": "2026-08-15T19:00:56.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4685985/democratic-national-committee-first-2028-presidential-primary-south-carolina/",
+      "title": "DNC approves 2028 primary schedule, gives South Carolina the first spot",
+      "date": "2026-08-15T18:36:23.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6028298-dnc-approves-2028-primary-calendar/",
+      "title": "DNC gives final approval of 2028 primary calendar starting in South Carolina",
+      "date": "2026-08-15T18:35:45.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/international/6031505-uae-accuses-iran-strait-hormuz/",
+      "title": "Iran attacks third UAE tanker within a week",
+      "date": "2026-08-15T18:28:40.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+      "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+      "date": "2026-08-15T18:21:32.000Z"
+    },
     {
       "outlet": "The Hill",
       "lean": "center",
@@ -145,7 +390,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support",
-      "title": "Alaska candidate for US Senate seat rejects Kamala Harris’s unsolicited support",
+      "title": "Alaska candidate for US Senate rejects Kamala Harris’s unsolicited support",
       "date": "2026-08-15T15:07:54.000Z"
     },
     {
@@ -488,7 +733,7 @@
       "outlet": "NPR",
       "lean": "lean-left",
       "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
       "date": "2026-08-15T08:29:20.000Z"
     },
     {
@@ -539,370 +784,6 @@
       "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4688462/tony-sabio-republican-veteran-virginia-8th-district/",
       "title": "Who is Tony Sabio? Meet the Republican veteran trying to flip Virginia’s 8th District",
       "date": "2026-08-15T01:03:42.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim",
-      "title": "DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim",
-      "date": "2026-08-15T00:54:03.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6031052-doj-refers-to-air-force-one-threat-as-assassination-attempt-in-ballroom-appeal/",
-      "title": "DOJ refers to Air Force One threat as 'assassination attempt' in ballroom appeal",
-      "date": "2026-08-15T00:21:02.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4688435/peltola-rejects-kamala-harris-endorsement-alaska-senate-race/",
-      "title": "Mary Peltola rejects Kamala Harris endorsement ahead of crucial Alaska Senate race",
-      "date": "2026-08-14T23:43:28.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/michigan-mass-shooting-missaukee-county",
-      "title": "At least six people dead and one wounded in mass shooting in rural Michigan",
-      "date": "2026-08-14T23:32:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/immigration/4688411/trump-legal-win-end-tps-somalia/",
-      "title": "Trump administration granted legal win in bid to end TPS for Somalia",
-      "date": "2026-08-14T23:24:20.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/reagan-national-airport-makes-drastic-change-following-deadly-2025-midair-collision",
-      "title": "Reagan National Airport makes drastic change following deadly 2025 midair collision",
-      "date": "2026-08-14T23:19:59.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6030997-rove-criticizes-trump-economy/",
-      "title": "Rove: Trump must stop 'gaslighting' Americans over economy",
-      "date": "2026-08-14T23:18:20.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-      "date": "2026-08-14T23:16:43.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/technology/6030992-senate-launches-investigation-into-roblox-due-to-safety-concerns/",
-      "title": "Senate panel launches investigation into Roblox due to safety concerns",
-      "date": "2026-08-14T23:06:47.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/show/luigi-mangione-reveals-motive-for-ceos-killing-after-pleading-guilty-in-federal-case",
-      "title": "Luigi Mangione reveals motive for CEO's killing after pleading guilty in federal case",
-      "date": "2026-08-14T22:57:22.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/el-sayeds-half-sister-offered-oct-7-blessing-one-year-after-hamas-attack-allahu-akbar",
-      "title": "El-Sayed’s half sister offered Oct 7 ‘blessing,’ one year after Hamas attack: ‘Allahu Akbar’",
-      "date": "2026-08-14T22:51:24.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-record-breaking-heat-wave-grips-europe",
-      "title": "News Wrap: Record-breaking heat wave grips Europe",
-      "date": "2026-08-14T22:50:43.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4688351/bbc-subpoenas-trump-family-jan-6-speech-case-personal-delivery-secret-service/",
-      "title": "BBC pursuing subpoenas of Trump family in Jan. 6 speech case",
-      "date": "2026-08-14T22:48:14.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/technology/6030840-senate-roblox-child-safety-investigation/",
-      "title": "Senate panel investigates kids safety issues in online game Roblox",
-      "date": "2026-08-14T22:40:21.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6030926-desantis-mills-denouncement-republican-primary-florida/",
-      "title": "Gov. DeSantis latest to not support Rep. Mills ahead of Florida primary",
-      "date": "2026-08-14T22:35:26.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/show/brooks-and-atkins-stohr-on-woke-politics-in-america",
-      "title": "Brooks and Atkins Stohr on 'woke' politics in America",
-      "date": "2026-08-14T22:30:52.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-leaves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx",
-      "title": "Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx",
-      "date": "2026-08-14T22:19:30.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-uss-abraham-lincoln-deployment",
-      "title": "Trump downplays concerns about sailors onboard USS Abraham Lincoln amid record deployment",
-      "date": "2026-08-14T22:12:55.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/healthcare/6030921-trump-hhs-transgender-care/",
-      "title": "Trump admin escalates fight against transgender care",
-      "date": "2026-08-14T22:00:04.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/justice/4688249/court-revives-doj-subpoena-child-transgender-drug-provider/",
-      "title": "Appeals court revives DOJ subpoena for child transgender drug provider",
-      "date": "2026-08-14T21:59:49.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4688313/bank-charter-trump-linked-crypto-firm-world-liberty-financial-preliminary-approval/",
-      "title": "US grants preliminary approval of bank charter for Trump-linked crypto firm",
-      "date": "2026-08-14T21:58:42.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/world/4688290/uae-oil-tankers-attacked-blames-iran-drones-strait-of-hormuz-piracy-economic/",
-      "title": "Two UAE oil tankers struck by Iranian drones in Strait of Hormuz",
-      "date": "2026-08-14T21:52:58.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4687692/democratic-national-committee-summer-meeting-ken-martin-financial-help/",
-      "title": "Chairman Ken Martin pleads for more financial help at DNC summer gathering",
-      "date": "2026-08-14T21:50:48.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/defense-national-security/6030870-uss-abraham-lincoln-returning-home/",
-      "title": "USS Abraham Lincoln returning home",
-      "date": "2026-08-14T21:39:25.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-      "title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
-      "date": "2026-08-14T21:38:17.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4688277/house-democrats-pac-6-million-ohio-max-miller/",
-      "title": "House Democrats’ PAC dumps $6 million into Ohio to target Max Miller",
-      "date": "2026-08-14T21:32:33.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/6030865-congress-scrutinizes-navy-deployment/",
-      "title": "USS Abraham Lincoln controversy likely to loom over Pentagon",
-      "date": "2026-08-14T21:29:39.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trumps-fight-rarely-used-18th-century-deportation-law-lives-latest-court-clash",
-      "title": "Trump’s fight over rarely used 18th-century deportation law lives on in latest court clash",
-      "date": "2026-08-14T21:21:46.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6030770-judge-lifts-somali-tps-stay-dhs/",
-      "title": "Judge lifts order on Somalia TPS, clearing way for deportations",
-      "date": "2026-08-14T21:10:15.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/healthcare/6030762-military-eggs-sperm-freezing-reimbursement-program/",
-      "title": "Military to reimburse service members freezing eggs, sperm",
-      "date": "2026-08-14T21:06:18.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/president-trump-claims-aoc-far-left-democrats-backing-away-controversial-positions",
-      "title": "Trump claims AOC may run for president as far-left Dems back away from extreme policy",
-      "date": "2026-08-14T21:01:38.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/education/4688191/former-cambridge-professor-jason-arday-dead-41/",
-      "title": "Former Cambridge professor Jason Arday found dead at 41",
-      "date": "2026-08-14T20:54:32.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/opinion/4688165/landlocked-appalachians-coming-to-erie/",
-      "title": "The endless horizon: Why generations of landlocked Appalachians keep coming back to Erie",
-      "date": "2026-08-14T20:40:37.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/6030609-accused-olympian-seeks-protection-from-future-reflecting-pool-charges/",
-      "title": "Accused Olympian seeks protection from future Reflecting Pool charges",
-      "date": "2026-08-14T20:34:16.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/aug/14/venus-williams-emilia-arango-cincinnati-masters-tennis",
-      "title": "Struggling Venus Williams suffers 14th straight defeat in Cincinnati rout",
-      "date": "2026-08-14T20:27:08.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6030671-trump-says-strait-of-hormuz-us-territory/",
-      "title": "Trump says he will declare Strait of Hormuz a US territory",
-      "date": "2026-08-14T20:24:22.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/exclusive-kennedy-center-board-moves-name-grounds-president-donald-j-trump-plaza",
-      "title": "EXCLUSIVE: Kennedy Center board moves to name grounds ‘President Donald J Trump Plaza'",
-      "date": "2026-08-14T20:20:52.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/health/trumps-vaccine-order-would-require-millions-of-individual-shots-last-used-decades-ago",
-      "title": "Trump's vaccine order would require millions of individual shots last used decades ago",
-      "date": "2026-08-14T20:16:56.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/6030654-uss-abraham-lincoln-returns-home/",
-      "title": "USS Abraham Lincoln is returning home, acting Navy secretary says",
-      "date": "2026-08-14T20:06:07.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/judge-harvard-antisemitism-ruling-sends-trump-justice-department-back-drawing-board",
-      "title": "Judge’s Harvard antisemitism ruling sends Trump Justice Department back to drawing board",
-      "date": "2026-08-14T20:03:05.000Z"
-    },
-    {
-      "outlet": "The Christian Science Monitor",
-      "lean": "center",
-      "url": "https://www.csmonitor.com/USA/Education/2026/0814/Mr.-Know-It-All-A-comic-about-AI-in-schools?icid=rss",
-      "title": "Mr. Know-It-All: A comic about AI in schools",
-      "date": "2026-08-14T20:00:09.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/paul-pelosi-absent-first-court-appearance-hit-and-run-charge-napa-county-crash-case",
-      "title": "Paul Pelosi absent from first court appearance on hit-and-run charge in Napa County crash case",
-      "date": "2026-08-14T19:49:12.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6030573-trump-celebrates-missionary-pilots-release/",
-      "title": "Trump celebrates return of US missionary kidnapped in West Africa",
-      "date": "2026-08-14T19:43:25.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6029139-live-updates-trump-long-island-white-house/",
-      "title": "Live updates: Trump addresses Long Island crowd, with focus on decline in crime",
-      "date": "2026-08-14T19:27:25.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/bulldozers-big-bend-national-park-trump",
-      "title": "‘Devastating’: bulldozers plough through Big Bend national park as Trump’s border work pushes ahead",
-      "date": "2026-08-14T19:27:08.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "date": "2026-08-14T19:20:43.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/watch-trump-says-uss-lincolns-deployment-was-not-nearly-long-enough",
-      "title": "WATCH: Trump says USS Lincoln's deployment was 'not nearly long enough'",
-      "date": "2026-08-14T19:17:17.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/michael-boren-idaho-wildfire-ranch",
-      "title": "US Forest Service chief reportedly pressed staff for more support for wildfire near his ranch",
-      "date": "2026-08-14T19:01:58.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
-      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-      "date": "2026-08-14T18:54:58.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/defense/4687855/army-identity-two-apache-pilots-texas-crash/",
-      "title": "Army identifies two Apache helicopter pilots killed in Texas crash",
-      "date": "2026-08-14T18:43:21.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/state/4687696/ramaswamy-acton-ohio-governor-race-baggage/",
-      "title": "Ramaswamy and Acton turn past baggage into ammunition in Ohio governor’s race",
-      "date": "2026-08-14T18:39:25.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/who-controls-strait-hormuz-right-now-heres-what-ship-traffic-actually-shows",
-      "title": "Who controls the Strait of Hormuz right now? Here's what the ship traffic actually shows",
-      "date": "2026-08-14T18:34:00.000Z"
     }
   ]
 }
