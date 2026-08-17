@@ -1,12 +1,89 @@
 {
-  "lastRefreshed": "2026-08-17T00:57:58.045Z",
+  "lastRefreshed": "2026-08-17T06:42:36.973Z",
   "articles": [
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4689253/ice-investigation-colombian-national-fraudulently-voted-in-u-s-elections/",
+      "title": "ICE investigation aids in jailing of Colombian national who fraudulently voted in U.S. elections",
+      "date": "2026-08-17T05:45:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/tv-and-radio/gallery/2026/aug/17/hayden-panettiere-death-star-tv-movies-nashville-heroes-scream",
+      "title": "Hayden Panettiere – a life in pictures",
+      "date": "2026-08-17T05:43:34.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-blames-vandals-dead-grass-national-mall-4th-july-celebration",
+      "title": "Trump blames vandals for dead grass on National Mall where he hosted 4th of July celebration",
+      "date": "2026-08-17T05:33:04.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
+      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+      "date": "2026-08-17T05:21:39.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/healthcare/4688859/republicans-attack-terry-moran-fauci-covid-19-coverage/",
+      "title": "Paul calls out Fauci after former news anchor says he influenced COVID-19 coverage",
+      "date": "2026-08-17T04:58:41.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/economy/4689225/half-democratic-voters-negative-view-capitalism-poll/",
+      "title": "Half of Democratic voters hold negative view of capitalism: Poll",
+      "date": "2026-08-17T04:14:52.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/6032559-navy-reviews-carrier-island-design/",
+      "title": "Navy considers major aircraft carrier revamp to better suit Trump’s aesthetic",
+      "date": "2026-08-17T02:58:32.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6032550-ossoff-attacks-trump-iran-war/",
+      "title": "Ossoff: 'Something uniquely despicable about lying a nation into war'",
+      "date": "2026-08-17T02:58:23.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/daily-memo/4689229/when-democrats-hate-trump-but-dont-like-their-own-candidate/",
+      "title": "When Democrats hate Trump but don’t like their own candidate",
+      "date": "2026-08-17T02:17:56.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/regulation/court-battles/6032521-blanche-supports-us-attorney-pirro/",
+      "title": "Blanche says he supports Pirro, despite Trump's frustration over Reflecting Pool",
+      "date": "2026-08-17T01:14:27.000Z"
+    },
     {
       "outlet": "Fox News",
       "lean": "lean-right",
       "url": "https://www.foxnews.com/politics/todd-blanche-backs-jeanine-pirro-after-lincoln-memorial-pool-vandalism-case-dismissal",
       "title": "Todd Blanche backs Jeanine Pirro after Lincoln Memorial pool vandalism case dismissal",
       "date": "2026-08-17T00:54:16.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+      "date": "2026-08-17T00:20:51.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -19,7 +96,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "date": "2026-08-17T00:06:05.000Z"
     },
     {
@@ -166,7 +243,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
       "date": "2026-08-16T19:58:14.000Z"
     },
     {
@@ -770,34 +847,6 @@
       "url": "https://www.theguardian.com/sport/2026/aug/16/fair-hill-five-horse-racing-betting-coup-explained",
       "title": "The Fair Hill Five: horse racing’s bizarre transatlantic betting coup – explained",
       "date": "2026-08-16T07:00:18.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/aug/16/claressa-shields-kaye-scott-middleweight-titles-boxing-atlanta",
-      "title": "Claressa Shields eyes Britain’s Price after stopping Kaye Scott to reclaim titles",
-      "date": "2026-08-16T05:49:11.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/16/marco-rubio-power-peace-world-us-diplomat",
-      "title": "Marco Rubio has unique power to promote peace, but he hasn’t. He is almost as bad for the world as Trump | Simon Tisdall",
-      "date": "2026-08-16T05:00:16.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4688861/mike-johnson-contrast-for-america-tour-midterm-elections/",
-      "title": "Johnson launches website to teach young voters about socialism and communism ahead of midterm elections",
-      "date": "2026-08-16T03:06:57.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/6031712-adm-cooper-visits-uss-abraham-lincoln/",
-      "title": "Centcom commander visits USS Abraham Lincoln amid questions about conditions on ship",
-      "date": "2026-08-16T01:50:02.000Z"
     }
   ]
 }
