@@ -1,6 +1,111 @@
 {
-  "lastRefreshed": "2026-08-18T00:56:05.682Z",
+  "lastRefreshed": "2026-08-18T06:34:11.349Z",
   "articles": [
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4690764/doj-investigating-college-of-william-and-mary-violations-civil-rights-act/",
+      "title": "DOJ investigating College of William and Mary for possible violations of Civil Rights Act",
+      "date": "2026-08-18T06:11:58.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
+      "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
+      "date": "2026-08-18T05:56:44.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+      "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+      "date": "2026-08-18T05:51:50.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/aug/18/tennis-venus-serena-williams-sisters-cincinnati-doubles",
+      "title": "Williams sisters come unstuck in Cincinnati in first doubles outing together since 2022",
+      "date": "2026-08-18T04:24:25.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/cevmw1pl9kvo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: What we learned from opening statements in Tupac murder trial",
+      "date": "2026-08-18T04:05:05.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/aug/17/jeanie-buss-reportedly-attempting-to-halt-her-siblings-attempt-to-sell-remaining-stake-in-lakers",
+      "title": "Jeanie Buss reportedly attempting to halt her siblings’ attempt to sell remaining stake in Lakers",
+      "date": "2026-08-18T03:19:57.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4690713/jon-ossoff-zero-interest-2028-president/",
+      "title": "Jon Ossoff says he has ‘zero interest’ in 2028 presidential bid",
+      "date": "2026-08-18T03:00:34.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6034431-bass-raman-fake-poll/",
+      "title": "Poll showing LA Mayor Karen Bass leading Nithya Raman by a wide margin was fake: company",
+      "date": "2026-08-18T02:56:02.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6034413-greene-i-cant-remember-the-last-time-i-saw-someone-wear-maga-hat/",
+      "title": "Greene: ‘I can’t remember the last time’ I saw someone wear MAGA hat",
+      "date": "2026-08-18T02:20:15.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/justice/4690689/trump-doj-obama-judge-abrego-garcia-case/",
+      "title": "Trump DOJ accuses Obama judge of ‘Monday-morning quarterbacking’ in bid to revive Abrego Garcia case",
+      "date": "2026-08-18T02:17:11.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4690692/trump-votes-by-mail-florida-primary/",
+      "title": "Trump votes by mail in Florida election for second time this year: Report",
+      "date": "2026-08-18T02:05:18.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/white-house-personal-attack-cnn-reporter-trump",
+      "title": "White House launches personal attack on CNN reporter over question to Trump",
+      "date": "2026-08-18T02:04:28.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/international/6034398-jeffries-urges-trump-protect-palestinians/",
+      "title": "Jeffries: Trump administration must protect Palestinians from ‘lawbreaking settlers’",
+      "date": "2026-08-18T02:00:01.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4690676/fewer-us-adults-gambling-decade-poll/",
+      "title": "Fewer US adults gambling than a decade ago, poll shows",
+      "date": "2026-08-18T01:13:59.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-florida-republican-primary",
+      "title": "Trump reportedly casts mail-in ballot in Florida Republican primary",
+      "date": "2026-08-18T01:10:05.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
@@ -56,6 +161,13 @@
       "url": "https://www.foxnews.com/politics/illegal-immigrant-learns-fate-after-using-stolen-identity-vote-us-elections-decades",
       "title": "Illegal immigrant learns fate after using stolen identity to vote in US elections for decades",
       "date": "2026-08-17T23:45:49.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Why has Trump shifted on North Korea?",
+      "date": "2026-08-17T23:42:38.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -238,6 +350,13 @@
       "url": "https://www.pbs.org/newshour/nation/supreme-court-asked-to-review-texas-law-requiring-the-ten-commandments-in-public-schools",
       "title": "Supreme Court asked to review Texas law requiring the Ten Commandments in public schools",
       "date": "2026-08-17T21:33:05.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
+      "title": "Palestinian family in West Bank fear settler violence will rob them of home",
+      "date": "2026-08-17T21:27:58.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -434,6 +553,13 @@
       "url": "https://www.foxnews.com/politics/mike-johnson-taunts-hakeem-jeffries-losing-dems-civil-war-in-his-own-backyard",
       "title": "Mike Johnson taunts Hakeem Jeffries for losing Dems' civil war 'in his own backyard'",
       "date": "2026-08-17T18:41:48.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "date": "2026-08-17T18:39:39.000Z"
     },
     {
       "outlet": "Fox News",
@@ -681,6 +807,13 @@
       "date": "2026-08-17T16:11:08.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
+      "date": "2026-08-17T16:02:58.000Z"
+    },
+    {
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/opinion/education/6032624-accounting-stem-pursuit-act/",
@@ -901,7 +1034,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/17/politics-trump-south-korea-military-pentagon-republicans-democrats",
-      "title": "Trump says Kim Jong-un has responded to his overtures when asked about scaling back US drills with South Korea – live",
+      "title": "Trump says Kim Jong-un has responded to his overtures when asked about scaling back US drills with South Korea – as it happened",
       "date": "2026-08-17T11:40:26.000Z"
     },
     {
@@ -1090,7 +1223,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-      "title": "What to know as a gang leader goes on trial in Tupac's murder",
+      "title": "What to know about Tupac's murder trial and the gang leader accused of orchestrating his death",
       "date": "2026-08-17T09:57:31.000Z"
     },
     {
@@ -1169,83 +1302,6 @@
       "url": "https://www.npr.org/2026/08/17/nx-s1-5930235/morning-news-brief",
       "title": "Morning news brief",
       "date": "2026-08-17T08:49:18.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/4689253/ice-investigation-colombian-national-fraudulently-voted-in-u-s-elections/",
-      "title": "ICE investigation aids in jailing of Colombian national who fraudulently voted in U.S. elections",
-      "date": "2026-08-17T05:45:00.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/tv-and-radio/gallery/2026/aug/17/hayden-panettiere-death-star-tv-movies-nashville-heroes-scream",
-      "title": "Hayden Panettiere – a life in pictures",
-      "date": "2026-08-17T05:43:34.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-blames-vandals-dead-grass-national-mall-4th-july-celebration",
-      "title": "Trump blames vandals for dead grass on National Mall where he hosted 4th of July celebration",
-      "date": "2026-08-17T05:33:04.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
-      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
-      "date": "2026-08-17T05:21:39.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-      "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
-      "date": "2026-08-17T05:00:25.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/healthcare/4688859/republicans-attack-terry-moran-fauci-covid-19-coverage/",
-      "title": "Paul calls out Fauci after former news anchor says he influenced COVID-19 coverage",
-      "date": "2026-08-17T04:58:41.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/economy/4689225/half-democratic-voters-negative-view-capitalism-poll/",
-      "title": "Half of Democratic voters hold negative view of capitalism: Poll",
-      "date": "2026-08-17T04:14:52.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/6032559-navy-reviews-carrier-island-design/",
-      "title": "Navy considers major aircraft carrier revamp to better suit Trump’s aesthetic",
-      "date": "2026-08-17T02:58:32.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6032550-ossoff-attacks-trump-iran-war/",
-      "title": "Ossoff: 'Something uniquely despicable about lying a nation into war'",
-      "date": "2026-08-17T02:58:23.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/daily-memo/4689229/when-democrats-hate-trump-but-dont-like-their-own-candidate/",
-      "title": "When Democrats hate Trump but don’t like their own candidate",
-      "date": "2026-08-17T02:17:56.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/6032521-blanche-supports-us-attorney-pirro/",
-      "title": "Blanche says he supports Pirro, despite Trump's frustration over Reflecting Pool",
-      "date": "2026-08-17T01:14:27.000Z"
     }
   ]
 }
