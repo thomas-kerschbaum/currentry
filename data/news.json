@@ -1,6 +1,111 @@
 {
-  "lastRefreshed": "2026-08-20T00:56:51.154Z",
+  "lastRefreshed": "2026-08-20T06:36:37.653Z",
   "articles": [
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
+      "title": "Prince Harry and Meghan are returning to the U.K. with their children",
+      "date": "2026-08-20T06:17:42.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/alina-habba-shuts-down-speculation-replace-karoline-leavitt-white-house-press-secretary",
+      "title": "Alina Habba shuts down speculation she could replace Karoline Leavitt as White House press secretary",
+      "date": "2026-08-20T06:00:48.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4694107/kennedy-center-informs-federal-court-it-will-not-restore-trumps-name-to-building/",
+      "title": "Kennedy Center informs federal court it will not restore Trump’s name to building",
+      "date": "2026-08-20T05:56:22.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
+      "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
+      "date": "2026-08-20T05:50:53.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/aug/20/larry-david-alan-dershowitz-friendship-trump-epstein",
+      "title": "Larry David says former friend Alan Dershowitz ‘made a deal with the devil’ as Trump’s lawyer",
+      "date": "2026-08-20T04:06:54.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/missouri-judge-hands-trump-gop-major-redistricting-win-ahead-midterm-elections",
+      "title": "Missouri judge hands Trump, GOP major redistricting win ahead of midterm elections",
+      "date": "2026-08-20T03:52:49.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/6040353-airman-detained-again-capitol-trump-protest/",
+      "title": "Air Force major detained again for Capitol protest after Trump criticism",
+      "date": "2026-08-20T03:18:54.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/national-security/4694081/space-force-security-reporters-gunpoint-california/",
+      "title": "Space Force security officers hold reporters at gunpoint at California base",
+      "date": "2026-08-20T03:07:32.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4694048/prince-harry-meghan-move-uk-leave-us/",
+      "title": "Prince Harry and Meghan leaving US for Britain after six-year royal feud",
+      "date": "2026-08-20T02:41:42.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/6040180-dc-monument-usaa-41-million-veterans/",
+      "title": "New DC monument displays the names of 41 million veterans",
+      "date": "2026-08-20T02:39:01.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6040328-sean-duffy-harvard-university-corrupts-girls-minds/",
+      "title": "Harvard figured out how to 'corrupt' young girls' minds, Sean Duffy tells daughter",
+      "date": "2026-08-20T02:29:44.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/video/2026/aug/19/trump-talks-grass-white-house",
+      "title": "Trump talks about grass as he shows off White House renovations – video",
+      "date": "2026-08-20T02:00:20.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-renovations",
+      "title": "Trump shows off White House renovations and ornate new helipad",
+      "date": "2026-08-20T01:51:37.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/regulation/court-battles/6040291-mamdani-nyc-council-challenge-teachers-aide-bonuses/",
+      "title": "Mamdani challenges City Council over $10,000 teachers' aide bonuses",
+      "date": "2026-08-20T01:42:46.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/chinese-national-blue-state-charged-illegally-voting-federal-election-another-mans-name-doj",
+      "title": "Chinese national in blue state charged with illegally voting in federal election under another man's name: DOJ",
+      "date": "2026-08-20T01:39:20.000Z"
+    },
     {
       "outlet": "BBC News",
       "lean": "center",
@@ -11,8 +116,15 @@
     {
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/reporters-held-gunpoint-california-space-force-base",
+      "title": "Reporters and military duo held at gunpoint by security at US space force base",
+      "date": "2026-08-20T00:41:12.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
-      "title": "UC Berkeley professor admits to using AI to edit op-ed about students’ math skills",
+      "title": "UC Berkeley professor admits to using AI to edit op-ed on students’ math skills",
       "date": "2026-08-20T00:35:11.000Z"
     },
     {
@@ -488,7 +600,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "title": "Canada and US say they are finalising a trade deal",
       "date": "2026-08-19T17:47:52.000Z"
     },
     {
@@ -971,7 +1083,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/19/mary-peltola-dan-sullivan-alaska-primary-election-us-senate-florida-california-wyoming--donald-trump-us-politics-latest",
-      "title": "Republicans reportedly fear datacenter backlash could cost them Ohio Senate seat – US politics live",
+      "title": "Republicans reportedly fear datacenter backlash could cost them Ohio Senate seat – as it happened",
       "date": "2026-08-19T11:57:57.000Z"
     },
     {
@@ -1267,258 +1379,6 @@
       "url": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
       "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
       "date": "2026-08-19T06:57:51.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/state-play-california-showdown-replace-swalwell-after-massive-scandal",
-      "title": "State of play: What to know about California showdown to replace Swalwell after massive scandal",
-      "date": "2026-08-19T06:18:56.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4691650/dan-sullivan-mary-peltola-advance-alaska-senate-primary/",
-      "title": "Sullivan and Peltola advance in Alaska Senate primary, setting up November showdown",
-      "date": "2026-08-19T05:53:38.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6036787-nixon-vindman-peltola-primaries/",
-      "title": "Democratic socialist notches surprise win in Florida Senate primary: 5 takeaways",
-      "date": "2026-08-19T05:43:30.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/former-state-rep-tops-ranked-choice-slugfest-alaska-advances-nominees-governor",
-      "title": "Former state rep tops ranked-choice slugfest as Alaska advances nominees for governor",
-      "date": "2026-08-19T05:38:51.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/alaskan-political-scion-hopes-hold-onto-states-single-house-seat",
-      "title": "Alaskan political scion hopes to hold onto state's single House seat",
-      "date": "2026-08-19T05:34:55.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/4692371/carney-vows-stronger-more-competitive-economy-in-statement/",
-      "title": "Carney vows to build ‘stronger, more competitive economy’ in statement about Trump pausing tariffs",
-      "date": "2026-08-19T05:10:43.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6028789-bill-hill-alaska-house/",
-      "title": "Independent Bill Hill advances in race for Alaska’s GOP-held House seat",
-      "date": "2026-08-19T05:09:22.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6028751-peltola-sullivan-alaska-senate/",
-      "title": "Peltola, Sullivan matchup set in key Alaska Senate race",
-      "date": "2026-08-19T05:07:17.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/gop-senator-ex-house-dem-emerge-alaskas-jungle-primary-despite-far-left-meddling",
-      "title": "GOP senator, ex-House Dem emerge from Alaska’s ‘jungle primary’ despite far-left meddling",
-      "date": "2026-08-19T05:05:41.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-aligned-conservative-emerges-from-crowded-primary-decide-wyoming-house-seat",
-      "title": "Trump-aligned conservative emerges from crowded primary to decide who fills Wyoming’s lone House seat",
-      "date": "2026-08-19T05:04:35.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-      "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-      "date": "2026-08-19T04:55:08.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-admin-sued-visa-time-restrictions-foreign-students-journalists",
-      "title": "Trump admin sued over visa time restrictions for foreign students, journalists",
-      "date": "2026-08-19T04:47:49.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-      "date": "2026-08-19T03:56:35.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-      "title": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
-      "date": "2026-08-19T03:47:12.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6032267-gray-projected-win-house-seat/",
-      "title": "Wyoming secretary of state wins GOP primary for open House seat",
-      "date": "2026-08-19T03:35:01.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/aug/18/brewers-mariners-22-0-modern-era-shutout-record",
-      "title": "Brewers shell Mariners 22-0, tied for largest shutout win in 139 years",
-      "date": "2026-08-19T03:33:14.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6037215-trump-pauses-canada-tariffs/",
-      "title": "Trump pauses 50% tariffs on Canada for 3 days",
-      "date": "2026-08-19T03:24:15.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/americas-reddest-state-crowns-gop-governor-nominee",
-      "title": "America’s reddest state crowns GOP governor nominee",
-      "date": "2026-08-19T03:17:30.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6035903-trump-pick-loses-wyoming-race/",
-      "title": "Trump's choice for Wyoming governor loses GOP primary",
-      "date": "2026-08-19T03:16:06.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
-      "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
-      "date": "2026-08-19T03:12:06.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/technology/6037158-shapiro-signs-ai-data-center-order/",
-      "title": "Shapiro signs order restricting data centers in Pennsylvania",
-      "date": "2026-08-19T03:09:55.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/democrats-pick-fighter-uphill-bid-flip-deep-red-senate-seat",
-      "title": "Democrats pick their fighter for uphill bid to flip deep-red Senate seat",
-      "date": "2026-08-19T03:07:50.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/aug/18/ronnie-bell-overheating-saints-cowboys-joint-practice-fights",
-      "title": "Multiple brawls overshadow Saints-Cowboys joint practice session",
-      "date": "2026-08-19T03:06:32.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6035295-hageman-byrd-wyoming-senate-race/",
-      "title": "Hageman-Byrd matchup set to replace Lummis in Wyoming",
-      "date": "2026-08-19T03:05:29.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-      "date": "2026-08-19T03:00:35.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4692341/trump-pauses-tariffs-canada-deadline/",
-      "title": "Trump pauses 50% tariffs on Canada hours before deadline",
-      "date": "2026-08-19T02:58:33.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/republican-kicked-liz-cheney-congress-seeks-higher-office-reddest-state",
-      "title": "Republican who kicked Liz Cheney out of Congress seeks higher office in reddest state",
-      "date": "2026-08-19T02:55:16.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/defense/4692293/us-navy-destroyer-loses-power-south-china-sea/",
-      "title": "US Navy destroyer drifted four days without power in South China Sea",
-      "date": "2026-08-19T02:50:43.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6021256-strada-wins-florida-house-primary/",
-      "title": "Webster's pick loses GOP primary for open Florida House seat",
-      "date": "2026-08-19T02:05:47.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/your-favorite-cocktail-could-unexpected-casualty-trumps-looming-trade-fight",
-      "title": "Your favorite cocktail could be an unexpected casualty of Trump's looming trade fight",
-      "date": "2026-08-19T01:59:50.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/potential-successor-cowboy-hat-wearing-dem-tops-crowded-florida-primary",
-      "title": "Potential successor to cowboy hat-wearing Dem tops crowded Florida primary",
-      "date": "2026-08-19T01:31:25.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/6036966-ice-house-democrats-disrupted-operations-stewart-detention/",
-      "title": "ICE alleges House Democrats 'disrupted operations' at Georgia detention center",
-      "date": "2026-08-19T01:29:20.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4692180/darline-graham-national-security-south-carolina-senate/",
-      "title": "Graham says national security ‘not my thing’ but vows to back Trump’s defense agenda",
-      "date": "2026-08-19T01:17:54.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6037051-sc-gop-senate-debate/",
-      "title": "Graham, Norman tangle in South Carolina GOP Senate debate: Three takeaways",
-      "date": "2026-08-19T01:10:01.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/federal-judge-blocks-trump-administration-plan-move-fbi-headquarters-reagan-building",
-      "title": "Federal judge blocks Trump admin plan to move FBI headquarters to Reagan Building",
-      "date": "2026-08-19T00:59:21.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/democrats-get-man-scandals-put-once-safe-gop-house-seat-play",
-      "title": "Democrats get their man as scandals put once-safe GOP House seat in play",
-      "date": "2026-08-19T00:58:17.000Z"
     }
   ]
 }
