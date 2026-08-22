@@ -1,6 +1,111 @@
 {
-  "lastRefreshed": "2026-08-22T00:57:08.345Z",
+  "lastRefreshed": "2026-08-22T06:31:12.836Z",
   "articles": [
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "date": "2026-08-22T04:46:33.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+      "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+      "date": "2026-08-22T04:36:27.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+      "title": "Mother suffering 'command hallucination' when she killed children, court hears",
+      "date": "2026-08-22T03:43:26.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/education/6044824-trump-admin-bar-association-accreditation-challenge/",
+      "title": "Trump administration wants to deny ABA ability to oversee law schools: Report",
+      "date": "2026-08-22T03:29:50.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/6044808-karoline-leavitt-trump-super-pac-departure/",
+      "title": "Leavitt to work at Trump-affiliated super PAC following White House departure",
+      "date": "2026-08-22T03:24:46.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4697159/trump-pleads-gop-voters-show-up-midterms/",
+      "title": "Trump pleads with GOP voters to show up for midterm elections: ‘Pretend I’m on the ballot’",
+      "date": "2026-08-22T03:14:16.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+      "date": "2026-08-22T02:39:10.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/6044812-army-secretary-driscoll-exit-end-2026/",
+      "title": "Army Secretary eyes exit around end of year amid Hegseth tensions",
+      "date": "2026-08-22T02:26:13.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4697084/darline-graham-trump-strategy-save-act-transgender-athletes/",
+      "title": "Darline Graham Nordone follows Trump strategy with ads on SAVE America Act and transgender athletes",
+      "date": "2026-08-22T02:20:29.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/us-postal-service-mail-in-voter-rule",
+      "title": "US Postal Service rule tightens mail-in voting despite court orders blocking changes",
+      "date": "2026-08-22T02:06:14.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-honor-artemis-ii-astronauts-traveled-farther-earth-humans-history",
+      "title": "Trump to honor Artemis II astronauts who traveled farther from Earth than any humans in history",
+      "date": "2026-08-22T02:04:31.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-fires-back-protester-interrupts-myrtle-beach-rally-graham-mom-voting-us",
+      "title": "Trump fires back after protester interrupts Myrtle Beach rally for Graham: 'Mom is voting for us'",
+      "date": "2026-08-22T01:31:05.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
+      "title": "Trump says he views strait of Hormuz as ‘American territory’",
+      "date": "2026-08-22T01:24:27.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6044782-trump-rallies-graham-south-carolina-runoff/",
+      "title": "President makes final push for Darline Graham in trip to 'Trump country'",
+      "date": "2026-08-22T01:02:43.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/technology/6044744-teen-drops-social-media-addiction-lawsuit/",
+      "title": "Teen drops high-profile social media addiction lawsuit",
+      "date": "2026-08-22T00:51:40.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
@@ -56,6 +161,13 @@
       "url": "https://www.pbs.org/newshour/politics/stars-and-stripes-editor-reporter-fired-for-insubordination-after-doing-cbs-interview",
       "title": "Stars and Stripes editor, reporter fired for insubordination after doing CBS interview",
       "date": "2026-08-21T23:42:26.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
+      "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+      "date": "2026-08-21T23:41:33.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -345,6 +457,13 @@
       "date": "2026-08-21T19:41:48.000Z"
     },
     {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-administration-public-comment-vaccines",
+      "title": "Experts raise alarm over Trump’s public consultation on vaccines policy",
+      "date": "2026-08-21T19:34:27.000Z"
+    },
+    {
       "outlet": "The Christian Science Monitor",
       "lean": "center",
       "url": "https://www.csmonitor.com/USA/Society/2026/0821/indycar-race-trump-freedom-250?icid=rss",
@@ -420,6 +539,13 @@
       "url": "https://www.washingtonexaminer.com/policy/economy/4696341/sheehy-dowing-trump-lower-beef-price/",
       "title": "Sheehy and Dowing speak out against Trump’s plan to lower beef prices: ‘Harm our ranching families’",
       "date": "2026-08-21T18:19:29.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+      "date": "2026-08-21T18:09:38.000Z"
     },
     {
       "outlet": "Washington Examiner",
@@ -817,7 +943,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/21/democrats-progressive-election-politics-live",
-      "title": "Trump talks up White House ballroom and says he views strait of Hormuz as ‘American territory’ – live",
+      "title": "Trump talks up White House ballroom and says he views strait of Hormuz as ‘American territory’ – as it happened",
       "date": "2026-08-21T12:00:53.000Z"
     },
     {
@@ -1150,6 +1276,13 @@
       "date": "2026-08-21T08:44:49.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "title": "Warning signs flash on US economy as debt spirals",
+      "date": "2026-08-21T08:38:18.000Z"
+    },
+    {
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/aug/21/california-montecito-prince-harry-meghan",
@@ -1162,104 +1295,6 @@
       "url": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
       "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
       "date": "2026-08-21T06:41:33.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/4695727/mikie-sherrill-easier-to-get-ar-15-than-abortion/",
-      "title": "Mikie Sherrill claims it’s ‘easier to get an AR-15’ than an abortion at bill signing ceremony in New Jersey",
-      "date": "2026-08-21T06:22:19.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
-      "title": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
-      "date": "2026-08-21T05:49:48.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940538/jurors-hear-keffe-d-say-his-nephew-fired-fatal-shots-at-tupac-shakur-in-1996-drive-by-shooting",
-      "title": "Jurors hear 'Keffe D' say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
-      "date": "2026-08-21T05:41:15.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c75gp1ppk6no?at_medium=RSS&at_campaign=rss",
-      "title": "Sparks fly over Mamdani's 'hit list' against New York's rich home owners",
-      "date": "2026-08-21T05:02:39.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4695608/bernie-sanders-endorses-angie-nixon-florida-senate/",
-      "title": "Bernie Sanders wades into Florida Senate race with endorsement for Angie Nixon",
-      "date": "2026-08-21T03:17:02.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6042908-vance-bessent-national-debt-plan/",
-      "title": "Vance: Bessent has 'very discreet plan' to shrink $40 trillion national debt",
-      "date": "2026-08-21T03:10:44.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
-      "title": "What happened to Harry and Meghan's American dream?",
-      "date": "2026-08-21T02:57:34.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6042780-moulton-markey-massachusetts-debate-summary/",
-      "title": "Markey, Moulton lock horns ahead of Massachusetts Senate primary: 3 takeaways from last debate",
-      "date": "2026-08-21T02:45:57.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/6042857-subramanyam-pushes-data-center-limits-ai/",
-      "title": "House Democrat: Rein in data centers without losing tech race to China",
-      "date": "2026-08-21T02:08:08.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4695546/trump-michael-cohen-hush-money-trial/",
-      "title": "Trump tells Michael Cohen he was ‘weaponized’ in hush money trial",
-      "date": "2026-08-21T01:24:54.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/state-lawmaker-aisha-wahab-wins-california-special-election-to-replace-former-rep-swalwell",
-      "title": "State lawmaker Aisha Wahab wins California special election to replace former Rep. Swalwell",
-      "date": "2026-08-21T01:12:20.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/20/michael-cohen-trump-radio-interview",
-      "title": "Sycophancy in stereo as former Trump hater Michael Cohen loses his nerve",
-      "date": "2026-08-21T01:11:39.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/daily-memo/4695532/democratic-voters-reject-resistance-stars/",
-      "title": "Democratic voters reject Resistance stars",
-      "date": "2026-08-21T01:02:26.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/blogs/in-the-know/6042806-melania-trump-jokes-about-her-low-profile-in-rose-garden-remarks/",
-      "title": "Melania Trump jokes about her low profile in Rose Garden remarks",
-      "date": "2026-08-21T01:02:00.000Z"
     }
   ]
 }
