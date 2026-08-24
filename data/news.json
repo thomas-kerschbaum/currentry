@@ -1,6 +1,62 @@
 {
-  "lastRefreshed": "2026-08-24T00:58:58.682Z",
+  "lastRefreshed": "2026-08-24T06:46:02.615Z",
   "articles": [
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/uss-lincoln-sailor-deployed-iran-war-father-arrested-by-ice",
+      "title": "Father of USS Lincoln sailor taken into ICE detention while son deployed in Middle East",
+      "date": "2026-08-24T05:42:44.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4697835/enes-kanter-freedom-ejected-wnba-game/",
+      "title": "Enes Kanter Freedom ejected from WNBA game after courtside confrontation with WNBA player",
+      "date": "2026-08-24T05:38:18.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
+      "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
+      "date": "2026-08-24T05:00:52.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/aug/24/coco-gauff-beats-pegula-wins-cincinnati-open-title",
+      "title": "Big decisions pay off as Coco Gauff gears up for US Open with Cincinnati title",
+      "date": "2026-08-24T04:33:03.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
+      "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
+      "date": "2026-08-24T03:47:04.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/technology/4697828/trump-us-leads-ai-race-china-by-a-lot/",
+      "title": "Trump says the US leads the AI race with China ‘by a lot’",
+      "date": "2026-08-24T03:14:12.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6046254-uss-sailor-father-ice-detained/",
+      "title": "Servicemember aboard USS Lincoln decries father’s ICE detention",
+      "date": "2026-08-24T02:10:17.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4697822/bessent-says-us-entering-endgame-iran-economic-d-day/",
+      "title": "Bessent says US is ‘entering the endgame’ in Iran ahead of ‘economic D-Day’",
+      "date": "2026-08-24T01:54:18.000Z"
+    },
     {
       "outlet": "The Hill",
       "lean": "center",
@@ -70,6 +126,13 @@
       "url": "https://thehill.com/policy/energy-environment/6045971-zeldin-warns-against-data-center-bans/",
       "title": "Zeldin warns against banning data centers in US, citing China",
       "date": "2026-08-23T21:26:14.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
+      "title": "Learning to live in a post-American world",
+      "date": "2026-08-23T21:21:23.000Z"
     },
     {
       "outlet": "The Hill",
@@ -721,34 +784,6 @@
       "url": "https://www.foxnews.com/politics/fetterman-aligns-trump-ai-push-warns-china-benefits-us-overreaction",
       "title": "Fetterman aligns with Trump on AI push, warns China benefits from US 'overreaction'",
       "date": "2026-08-23T06:52:01.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/infrastructure/4697477/fetterman-data-center-ai-doomsdaying-shapiro-order/",
-      "title": "Fetterman rejects data center and AI ‘doomsdaying’ after Shapiro executive order",
-      "date": "2026-08-23T03:59:58.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/6045429-naacp-navy-war-hero-trump-swap/",
-      "title": "NAACP slams Navy's reported talks to swap war hero's name on carrier with Trump's",
-      "date": "2026-08-23T03:09:34.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/immigration/4697433/federal-judge-strikes-down-trump-visa-ban/",
-      "title": "Federal judge strikes down State Department visa ban on 75 countries",
-      "date": "2026-08-23T02:20:29.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/6045413-susan-collins-canada-trade-war-negative-impact/",
-      "title": "Collins asks White House to consider 'negative impact' of Canada trade war",
-      "date": "2026-08-23T02:07:04.000Z"
     }
   ]
 }
