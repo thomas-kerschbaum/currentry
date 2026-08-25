@@ -1,11 +1,536 @@
 {
-  "lastRefreshed": "2026-08-25T12:37:28.579Z",
+  "lastRefreshed": "2026-08-25T18:32:39.229Z",
   "articles": [
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/senate/4699750/fetterman-popularity-among-gop-democrats-plummets-pennsylvania-poll/",
+      "title": "Fetterman more popular than McCormick among Pennsylvania Republicans: Poll",
+      "date": "2026-08-25T18:32:32.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/nation/watchdog-files-bar-complaint-against-pirro-over-efforts-to-indict-democrats-for-video-urging-troops-to-resist-illegal-orders",
+      "title": "Watchdog files bar complaint against Pirro over efforts to indict Democrats for video urging troops to resist illegal orders",
+      "date": "2026-08-25T18:27:24.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/technology/6049563-prosecutor-declines-to-charge-musk-voter-giveaway/",
+      "title": "Wisconsin district attorney declines to charge Musk over $1M voter giveaway",
+      "date": "2026-08-25T18:24:46.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/opinion/4699782/is-us-right-remove-syria-designation-state-sponsor-terrorism/",
+      "title": "Is the US right to remove Syria’s designation as a state sponsor of terrorism?",
+      "date": "2026-08-25T18:23:51.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/sports/4699637/heated-exchange-wnba-court-sparks-further-debate-trans-athletes-joe-concha/",
+      "title": "Heated exchange on WNBA court sparks further debate on trans athletes: Joe Concha",
+      "date": "2026-08-25T18:23:07.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/former-fema-chief-on-preparing-for-disaster-with-a-changing-climate",
+      "title": "Former FEMA chief on preparing for disaster with a changing climate",
+      "date": "2026-08-25T18:22:42.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/crime/4699674/ohio-man-arrest-threat-randy-fine-death-threat/",
+      "title": "Ohio man arrested after threatening to behead Randy Fine",
+      "date": "2026-08-25T18:19:11.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/international/6049608-pakistan-iran-peace-progress/",
+      "title": "Pakistan, Iran made 'significant progress' to end US-Iran war, minister says",
+      "date": "2026-08-25T18:18:28.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+      "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+      "date": "2026-08-25T18:17:32.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4699554/scott-bessent-economic-pressure-iran-war-tiana-lowe-doescher/",
+      "title": "Scott Bessent is ‘best-equipped person’ to handle economic pressure of Iran war: Tiana Lowe Doescher",
+      "date": "2026-08-25T18:15:59.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
+      "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
+      "date": "2026-08-25T18:15:23.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/trump-republican-backlash-beef-tariff-import",
+      "title": "Trump faces backlash from Republicans over plan to lift tariffs on beef imports",
+      "date": "2026-08-25T18:15:17.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
+      "title": "Country music legend Dolly Parton dies aged 80 – latest updates",
+      "date": "2026-08-25T18:14:26.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4699793/nvidia-engine-artificial-revolution/",
+      "title": "Nvidia is the engine of the AI revolution",
+      "date": "2026-08-25T18:14:03.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/blogs/in-the-know/6049769-dolly-parton-dies/",
+      "title": "Dolly Parton dies at 80",
+      "date": "2026-08-25T18:12:01.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4699862/dolly-parton-dies-at-age-80/",
+      "title": "Dolly Parton dies at age 80",
+      "date": "2026-08-25T18:10:49.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
+      "title": "Dolly Parton – a life in pictures",
+      "date": "2026-08-25T18:10:12.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/healthcare/6049653-florida-religious-vaccination-exemptions/",
+      "title": "Florida moves to end certain school vaccination requirements",
+      "date": "2026-08-25T18:05:37.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/in_focus/4699629/washington-post-reinstates-karen-attiah-kirk-assassination-comments-ethics/",
+      "title": "Washington Post columnist who cheered Kirk assassination gets her job back",
+      "date": "2026-08-25T18:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/robbys-radar/6049731-el-sayed-hasan-piker-distancing/",
+      "title": "Abdul El-Sayed distances from Hasan Piker — kind of",
+      "date": "2026-08-25T17:59:36.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6049687-hochul-mamdani-endorsement-boost/",
+      "title": "Hochul predicts Mamdani will 'be helpful' in her reelection bid",
+      "date": "2026-08-25T17:59:26.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/gop-singer-very-prepared-oust-dem-moskowitz-toss-up-florida-race-determine-house-majority",
+      "title": "GOP's Singer 'very prepared' to oust Dem Moskowitz in toss-up Florida race that could determine House majority",
+      "date": "2026-08-25T17:56:40.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/ken-paxton-datacenters-plan-texas",
+      "title": "Trump-backed Ken Paxton unveils ‘Texas first’ datacenter plan aimed at ‘negative impact’",
+      "date": "2026-08-25T17:54:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/6049418-places-that-have-been-renamed-during-trumps-second-term/",
+      "title": "Places that have been renamed during Trump's second term",
+      "date": "2026-08-25T17:51:43.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/defense/4699583/cia-director-john-ratcliffe-moscow-aboard-c17-high-level-discussions/",
+      "title": "CIA Director John Ratcliffe took trip to Moscow aboard C-17 for high-level discussions",
+      "date": "2026-08-25T17:48:25.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/entertainment/4699580/former-miss-north-carolina-usa-sues-miss-usa-alleges-social-media-weaponized-against-her/",
+      "title": "Former Miss North Carolina USA sues Miss USA, alleges social media ‘weaponized’ against her",
+      "date": "2026-08-25T17:47:48.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/pro-life-ceo-predicts-trump-fda-nominee-could-bring-renewed-scrutiny-abortion-drug-risks",
+      "title": "Pro-life CEO predicts Trump FDA nominee could bring renewed scrutiny to abortion drug risks",
+      "date": "2026-08-25T17:38:55.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says all mines cleared from Strait of Hormuz",
+      "date": "2026-08-25T17:32:50.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/25/the-guardian-view-on-trumps-economic-threats-bullies-can-overplay-their-hand",
+      "title": "The Guardian view on Trump’s economic threats: bullies can overplay their hand | Editorial",
+      "date": "2026-08-25T17:27:24.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/doj-sues-stop-ohio-court-blocking-courthouse-arrests",
+      "title": "DOJ sues to stop Ohio court blocking courthouse arrests",
+      "date": "2026-08-25T17:25:40.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6049508-mike-lindell-minnesota-election-recount-deadline/",
+      "title": "Mike Lindell misses deadline for recount payment, seeks restraining order",
+      "date": "2026-08-25T17:21:44.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/not-1984-flock-cameras-watching-millions-americans-spark-bipartisan-revolt",
+      "title": "'Not 1984': Flock cameras watching millions of Americans spark bipartisan revolt",
+      "date": "2026-08-25T17:16:22.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/house/6049438-dingell-lake-ontario-natalie-harp/",
+      "title": "Democrat jabs Trump over Lake Ontario threat: 'Let’s just call it Lake Natalie'",
+      "date": "2026-08-25T17:13:41.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/technology/6049559-ken-paxton-texas-senate-ai-data-center-plan/",
+      "title": "Paxton unveils data center plan, joining other GOP candidates in calling for restrictions",
+      "date": "2026-08-25T17:13:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/billings-montana-shooting-home-fire",
+      "title": "Multiple people killed in shooting at Montana home also set on fire, officials say",
+      "date": "2026-08-25T17:09:19.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/newsletters/1230-report/6049572-supreme-court-throws-election-curveball/",
+      "title": "Supreme Court throws election curveball",
+      "date": "2026-08-25T17:02:47.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6049542-carville-criticizes-jeffries-kushner-meeting/",
+      "title": "Carville rips Jeffries for meeting with Kushner: 'We don't want to f‑‑‑ with them'",
+      "date": "2026-08-25T17:00:02.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/education/6048340-dept-education-enforces-parental-rights/",
+      "title": "Parents are winning — and the Department of Education is leading the charge",
+      "date": "2026-08-25T17:00:00.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/ice-signal-chat-minnesota",
+      "title": "Revealed: How undercover agents spied on anti-ICE protesters in Minnesota",
+      "date": "2026-08-25T16:56:15.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "date": "2026-08-25T16:43:08.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney",
+      "title": "Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates – video",
+      "date": "2026-08-25T16:39:26.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/healthcare/6048906-what-is-cte-and-how-many-former-nfl-players-have-been-diagnosed-with-it/",
+      "title": "What is CTE, and how many former NFL players have been diagnosed with it?",
+      "date": "2026-08-25T16:36:32.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/videos/c783l8lrvdzo?at_medium=RSS&at_campaign=rss",
+      "title": "Relief may be near for Indiana city after days without power",
+      "date": "2026-08-25T16:33:34.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6049344-donalds-announces-avila-running-mate/",
+      "title": "Donalds picks state senator as running mate for Florida governor",
+      "date": "2026-08-25T16:32:38.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/dem-house-hopeful-defended-music-video-showing-woman-restrained-groped-killed",
+      "title": "Dem House hopeful defended music video showing woman restrained, groped and killed",
+      "date": "2026-08-25T16:00:36.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
+      "title": "CIA director John Ratcliffe reportedly on Moscow visit",
+      "date": "2026-08-25T16:00:09.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/how-trumps-trade-war-with-canada-could-rattle-states-with-key-senate-races",
+      "title": "How Trump's trade war with Canada could rattle states with key Senate races",
+      "date": "2026-08-25T15:57:45.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls",
+      "title": "US consumer confidence falls in August as gas prices remain above $4 per gallon",
+      "date": "2026-08-25T15:56:15.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/jeffries-brags-dem-obstruction-against-trump-defends-kushner-meeting",
+      "title": "Jeffries brags about Dem obstruction against Trump as he defends Kushner meeting",
+      "date": "2026-08-25T15:53:52.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/ghislaine-maxwell-sex-trafficking-appeal",
+      "title": "Judge rejects Ghislaine Maxwell’s sex-trafficking appeal, calling claims ‘demonstrably meritless’",
+      "date": "2026-08-25T15:46:22.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/muslim-brotherhood-linked-networks-embedded-across-canadian-institutions-new-report-alleges",
+      "title": "Muslim Brotherhood-linked networks embedded across Canadian institutions, new report alleges",
+      "date": "2026-08-25T15:44:24.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/aug/25/lsu-kate-koval-kim-mulkey-ukraine-russia",
+      "title": "Ukrainian star leaves LSU women’s basketball team after signing of Russian recruit",
+      "date": "2026-08-25T15:39:45.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cp3k5gvzplwo?at_medium=RSS&at_campaign=rss",
+      "title": "Target apologises for 'offensive' children Halloween costume after backlash",
+      "date": "2026-08-25T15:24:06.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/clintons-eyebrow-raising-socialism-take-sparks-brutal-mockery-definition-insanity",
+      "title": "Clinton’s eyebrow-raising socialism take sparks brutal mockery: ‘Definition of insanity’",
+      "date": "2026-08-25T15:20:43.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+      "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
+      "date": "2026-08-25T15:20:18.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/world/watch-live-canada-announces-retaliatory-tariffs-against-the-u-s",
+      "title": "WATCH: Canada announces retaliatory tariffs against the U.S.",
+      "date": "2026-08-25T15:12:34.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/nation/federal-judge-rejects-ghislaine-maxwells-miscarriage-of-justice-claim-and-bid-for-prison-release",
+      "title": "Federal judge rejects Ghislaine Maxwell's 'miscarriage of justice' claim and bid for prison release",
+      "date": "2026-08-25T15:00:31.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase",
+      "title": "'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase",
+      "date": "2026-08-25T14:59:12.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/dem-who-urged-scandal-plagued-candidate-quit-now-mourns-his-downfall-pivotal-maine-race",
+      "title": "Dem who urged scandal-plagued candidate to quit now mourns his downfall in pivotal Maine race",
+      "date": "2026-08-25T14:53:48.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/zohran-mamdani-lawsuit-city-owned-grocery-stores",
+      "title": "New York business group sues Mamdani over city-owned grocery stores plan",
+      "date": "2026-08-25T14:48:54.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/nothing-changes-yet-with-the-supreme-courts-order-on-mail-voting-but-it-could-open-door-to-chaos",
+      "title": "Nothing changes yet with the Supreme Court's order on mail voting. But it could open door to 'chaos'",
+      "date": "2026-08-25T14:45:12.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/el-sayeds-ding-a-ling-defense-child-sex-changes-becomes-instant-attack-magnet-not-same-abdul",
+      "title": "El-Sayed’s ‘ding-a-ling’ defense of child sex changes becomes instant attack magnet: ‘Not the same, Abdul!’",
+      "date": "2026-08-25T14:43:37.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/jackson-rips-supreme-court-colleagues-serious-legal-error-trump-mail-in-voting-order",
+      "title": "Jackson rips into Supreme Court colleagues' 'serious legal error' on Trump mail-in voting order",
+      "date": "2026-08-25T14:42:16.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
+      "title": "Several states will decide voter ID ballot measures this year",
+      "date": "2026-08-25T14:40:36.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c4grxr0e5gdo?at_medium=RSS&at_campaign=rss",
+      "title": "Andrew Tate exaggerates and did not own supercars in photos, his lawyers say",
+      "date": "2026-08-25T14:38:57.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/measles-deaths-pennsylvania",
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "date": "2026-08-25T14:34:54.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/25/sex-sells-and-wins-votes-the-democrats-know-it",
+      "title": "Sex sells and wins votes – and the Democrats know it | Arwa Mahdawi",
+      "date": "2026-08-25T14:30:25.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/darline-graham-ralph-norman-go-head-to-head-in-south-carolinas-gop-senate-runoff",
+      "title": "Darline Graham, Ralph Norman go head-to-head in South Carolina's GOP Senate runoff",
+      "date": "2026-08-25T14:28:44.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/world/secret-service-confirms-awareness-of-iranian-state-media-video-threatening-barron-trumps-life",
+      "title": "Secret Service confirms awareness of Iranian state media video threatening Barron Trump's life",
+      "date": "2026-08-25T14:11:02.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/ohio-man-charged-over-graphic-threats-kill-trump-behead-gop-lawmaker",
+      "title": "Ohio man charged over graphic threats to kill Trump, behead GOP lawmaker",
+      "date": "2026-08-25T14:02:14.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/send-help-la-gop-leader-issues-desperate-appeal-dem-mayor-campaign-vid-shocks-viewers",
+      "title": "‘Send help’: LA GOP leader issues desperate appeal after Dem mayor’s campaign vid shocks viewers",
+      "date": "2026-08-25T13:39:20.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/outgoing-house-democrat-al-green-files-impeachment-resolution-targeting-president-donald-trump",
+      "title": "Outgoing House Democrat Al Green files another impeachment resolution targeting President Donald Trump",
+      "date": "2026-08-25T13:15:36.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/california-sheriff-doubles-down-seizing-ballots-state-supreme-court-hears-whether-he-must-return-them",
+      "title": "California sheriff doubles down on seizing ballots as state Supreme Court hears whether he must return them",
+      "date": "2026-08-25T12:53:31.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-taunts-canada-renaming-lake-ontario-lake-america-amid-rising-border-trade-rift",
+      "title": "Trump taunts Canada on renaming Lake Ontario the 'Lake America' amid rising border trade rift",
+      "date": "2026-08-25T12:50:13.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
+      "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
+      "date": "2026-08-25T12:31:53.000Z"
+    },
     {
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
-      "title": "Trump claims US could rename Lake Ontario as Lake America amid Canada trade war – live",
+      "title": "Canada announces 50% retaliatory tariffs on hundreds of US goods as trade war escalates – live",
       "date": "2026-08-25T12:29:09.000Z"
     },
     {
@@ -95,6 +620,13 @@
     {
       "outlet": "BBC News",
       "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "date": "2026-08-25T11:53:36.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/cpq0j81pv08o?at_medium=RSS&at_campaign=rss",
       "title": "Kate Hudson to make How to Lose a Guy in 10 Days sequel, 23 years on",
       "date": "2026-08-25T11:46:12.000Z"
@@ -103,7 +635,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/sport/2026/aug/25/study-reports-that-one-in-four-former-nfl-players-suffer-from-degenerative-brain-disease-cte",
-      "title": "Study finds that one in four former NFL players suffers from degenerative brain disease CTE",
+      "title": "At least one in four former NFL players in study suffered from degenerative brain disease CTE",
       "date": "2026-08-25T11:36:45.000Z"
     },
     {
@@ -294,6 +826,13 @@
       "url": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
       "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
       "date": "2026-08-25T09:59:16.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "title": "US firefighters say major blaze near Reno about a quarter contained",
+      "date": "2026-08-25T09:49:02.000Z"
     },
     {
       "outlet": "NPR",
@@ -553,6 +1092,13 @@
       "url": "https://thehill.com/regulation/court-battles/6048109-justice-jackson-election-chaos-dissent/",
       "title": "Jackson calls Supreme Court’s mail-in voting ruling a ‘Kafkaesque nightmare’",
       "date": "2026-08-24T23:10:40.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+      "date": "2026-08-24T23:04:17.000Z"
     },
     {
       "outlet": "The Guardian (US)",
@@ -966,377 +1512,6 @@
       "url": "https://www.foxnews.com/politics/el-sayed-distances-himself-from-hasan-piker-after-controversial-remarks-about-jewish-americans",
       "title": "El-Sayed distances himself from Hasan Piker after disturbing remarks about Jewish Americans",
       "date": "2026-08-24T18:45:38.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/state/4698304/oklahoma-primary-sets-maga-candidate-against-anti-tariff-conservative/",
-      "title": "Oklahoma primary sets MAGA candidate against anti-tariff conservative",
-      "date": "2026-08-24T18:31:42.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/ice-quietly-arrests-jaw-dropping-number-illegal-immigrants-massive-dc-area-operation",
-      "title": "FIRST ON FOX: ICE quietly arrests jaw dropping number of illegal immigrants in massive DC area operation",
-      "date": "2026-08-24T18:26:58.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
-      "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
-      "date": "2026-08-24T18:22:14.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/6047313-us-marines-south-korea-ssangyong-exercises-canceled-resource-constraints-iran-war/",
-      "title": "Marines cancel joint drill with South Korea",
-      "date": "2026-08-24T18:21:07.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/6047202-auchincloss-condemns-hasan-piker/",
-      "title": "House Democrat: Party 'does not stand for what Hasan Piker stands for’",
-      "date": "2026-08-24T18:17:30.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned",
-      "title": "US immigration officers reassigned to screen South African refugees and find ‘unlawful’ voters",
-      "date": "2026-08-24T18:16:42.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4698305/vance-says-maine-became-fraud-capital-under-state-auditor-matt-dunlap-who-failed-audit-exam/",
-      "title": "Vance says Maine became ‘fraud capital’ under state auditor Matt Dunlap who failed audit exam",
-      "date": "2026-08-24T18:10:55.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/keeping-score/6046806-san-francisco-49ers-owner-arrested-in-ohio/",
-      "title": "San Francisco 49ers owner arrested in Ohio",
-      "date": "2026-08-24T18:08:27.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/robbys-radar/6047297-data-centers-public-opposition/",
-      "title": "President Trump is right about data centers",
-      "date": "2026-08-24T18:07:34.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/state-watch/6046337-fast-moving-wildfire-threatens-reno-nevada-forcing-thousands-to-evacuate/",
-      "title": "Fast-moving wildfire threatens Reno, Nevada, forcing thousands to evacuate",
-      "date": "2026-08-24T18:06:32.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/video-clips/6047241-watch-live-trump-mcmahon-school-choice-rose-garden-white-house/",
-      "title": "Watch live: Trump, McMahon spotlight school choice at Rose Garden event",
-      "date": "2026-08-24T18:05:17.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/in_focus/4698204/mecca-defense-pact-anti-abraham-accords/",
-      "title": "The Mecca defense pact is the anti-Abraham Accords",
-      "date": "2026-08-24T18:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/6047210-collins-trump-canada-tariffs/",
-      "title": "Collins blasts Trump’s Canada tariffs as a ‘mistake’",
-      "date": "2026-08-24T17:55:29.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/vance-says-canada-friendlier-china-trade-us-insanity",
-      "title": "Vance says Canada friendlier to China on trade than to US: 'Insanity'",
-      "date": "2026-08-24T17:54:07.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/world/4698280/ontario-premier-doug-ford-slams-trump-canada-tariffs/",
-      "title": "Ontario premier says Trump can ‘kiss my a**’ over tariff threat",
-      "date": "2026-08-24T17:52:31.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/healthcare/4698335/rfk-jr-schools-funds-maha-cafeteria-upgrades/",
-      "title": "RFK Jr. to give schools funds for MAHA cafeteria upgrades",
-      "date": "2026-08-24T17:47:59.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/house/4698250/al-green-introduces-more-articles-of-impeachment-against-trump-impunity-coverups/",
-      "title": "Al Green introduces more articles of impeachment against Trump",
-      "date": "2026-08-24T17:45:23.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/exclusive-la-ice-director-reveals-officers-followed-home-harassed-police-fail-help-sanctuary-city",
-      "title": "EXCLUSIVE: LA ICE director reveals officers followed home, harassed as police fail to help in sanctuary city",
-      "date": "2026-08-24T17:36:19.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/international/6047179-poilievre-urges-carney-reconvene-parliament/",
-      "title": "Canada's opposition leader demands Carney reconvene Parliament after US trade talks collapse",
-      "date": "2026-08-24T17:34:24.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4698033/watch-live-trump-mcmahon-back-to-school-event-rose-garden/",
-      "title": "WATCH LIVE: Trump and McMahon hold back-to-school event in Rose Garden",
-      "date": "2026-08-24T17:30:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/6047127-clarence-thomas-ted-cruz-praise/",
-      "title": "Clarence Thomas thanks Cruz for defending him against ethics complaints",
-      "date": "2026-08-24T17:28:08.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6047160-vance-defends-canada-tariffs-maine-collins-skips/",
-      "title": "Vance defends Canada trade war in visit to Maine; Collins skips rally",
-      "date": "2026-08-24T17:27:40.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
-      "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
-      "date": "2026-08-24T17:26:42.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6047107-drummond-critiques-trump-beef-tariffs/",
-      "title": "Oklahoma GOP gubernatorial candidate: Trump's 'wrong' on tariffs, beef imports",
-      "date": "2026-08-24T17:21:32.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6046040-live-updates-donald-trump-scott-bessent-iran-war-sanctions-tariffs/",
-      "title": "Live updates: Bessent teases new Iran sanctions, saying appeasement no longer works",
-      "date": "2026-08-24T17:20:38.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/defense/4698318/watch-live-bessent-announces-new-iran-sanctions/",
-      "title": "WATCH LIVE: Bessent announces new Iran sanctions",
-      "date": "2026-08-24T17:17:31.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/iran-linked-hackers-suspected-uk-power-plant-shutdown-alleged-minnesota-water-attack",
-      "title": "Iran-linked hackers suspected in UK power-plant shutdown after alleged Minnesota water attack",
-      "date": "2026-08-24T17:15:51.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4698118/florida-democrats-call-for-unity-dsa-backed-nixon-party-infighting-phone-call/",
-      "title": "Florida Democrats call for unity after DSA-backed Nixon sets off party infighting",
-      "date": "2026-08-24T17:14:41.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-wants-cheaper-beef-republicans-key-races-warn-his-plan-goes-too-far",
-      "title": "Trump wants cheaper beef. Republicans in key races warn his plan goes too far",
-      "date": "2026-08-24T17:08:14.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/6047077-bulgaria-iran-air-force/",
-      "title": "2 US military refueling aircraft depart Bulgaria amid anger from Iran over deployment",
-      "date": "2026-08-24T17:00:48.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4694272/vance-praises-susan-collins-maine-visit/",
-      "title": "‘She fights for the great people of Maine’: Vance praises Susan Collins as she skips his Maine visit",
-      "date": "2026-08-24T16:55:13.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/video-clips/6046874-watch-live-scott-bessent-sanctions-iran-war/",
-      "title": "Watch live: Bessent unveils 'economic D-day' sanctions on Iran",
-      "date": "2026-08-24T16:52:10.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/socialists-ripped-over-kids-focused-push-deep-red-state-next-generation-comrades",
-      "title": "Socialists ripped over kids-focused push in deep-red state: ‘Next generation of comrades’",
-      "date": "2026-08-24T16:47:30.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/newsletters/1230-report/6047079-donald-trump-economic-squeeze-iran-sanctions-canada-tariffs/",
-      "title": "Trump’s economic squeeze targets Iran, Canada",
-      "date": "2026-08-24T16:40:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/jeffries-reported-meeting-kushner-possible-trump-cooperation-draws-left-wing-backlash",
-      "title": "Jeffries' reported meeting with Kushner about possible Trump cooperation draws left-wing backlash",
-      "date": "2026-08-24T16:37:47.000Z"
-    },
-    {
-      "outlet": "The Christian Science Monitor",
-      "lean": "center",
-      "url": "https://www.csmonitor.com/USA/Society/2026/0824/route-66-native-american-oklahoma?icid=rss",
-      "title": "Native Americans, once caricatured, now ponder: Reject Route 66, or use it to connect?",
-      "date": "2026-08-24T16:33:53.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/world/watch-bessent-announces-new-round-of-iran-sanctions",
-      "title": "WATCH: Bessent announces new sanctions to block Iran's revenue streams",
-      "date": "2026-08-24T16:30:21.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/aug/24/san-francisco-49ers-owner-jed-york-pleads-no-contest-after-arrest-at-ohio-trailer-park",
-      "title": "San Francisco 49ers owner Jed York pleads no contest after arrest at Ohio trailer park",
-      "date": "2026-08-24T16:21:22.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/mamdani-jumps-democratic-party-feud-alleging-boss-seeking-subvert-will-voters",
-      "title": "Mamdani jumps into Democratic Party feud, alleging boss seeking to subvert 'will of voters'",
-      "date": "2026-08-24T16:03:52.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/reporters-notebook-college-sports-bill-legislative-red-zone-season-kicks-off",
-      "title": "Reporter's Notebook: College sports bill enters legislative 'red zone' as season kicks off",
-      "date": "2026-08-24T16:01:47.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/business/2026/aug/24/washington-post-reinstate-karen-attiah",
-      "title": "Washington Post ordered to reinstate opinion writer fired over Charlie Kirk posts",
-      "date": "2026-08-24T15:42:21.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/vulnerable-gop-senator-breaks-trump-2-key-issues-vance-makes-stop-without-her",
-      "title": "Vulnerable GOP senator breaks with Trump on 2 key issues as Vance makes stop without her",
-      "date": "2026-08-24T15:31:56.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/football/2026/aug/24/toddler-pitch-invader-mls-minnesota-united-san-jose-earthquakes",
-      "title": "‘There’s a baby on the field’: Toddler invades pitch during Minnesota’s MLS win over San Jose",
-      "date": "2026-08-24T15:29:55.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/canada-should-be-ready-to-cut-electricity-critical-minerals-ontarios-premier-says",
-      "title": "Canada should be ready to cut electricity, critical minerals, Ontario's premier says",
-      "date": "2026-08-24T15:15:57.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/world/ontarios-premier-says-reagan-would-be-throwing-up-over-trumps-tariffs",
-      "title": "Ontario's premier says Reagan would be 'throwing up' over Trump's tariffs",
-      "date": "2026-08-24T14:57:37.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/alaska-senate-race-absurd-name-problem-gets-harder-untangle",
-      "title": "Alaska Senate race’s absurd name problem gets even harder to untangle",
-      "date": "2026-08-24T14:51:50.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/murder-suspect-found-dead-oregon",
-      "title": "Man suspected of killing five people in Oregon found dead, officials say",
-      "date": "2026-08-24T14:27:28.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/24/new-york-times-divisive-progressives",
-      "title": "Why does the New York Times keep calling the left ‘divisive’?",
-      "date": "2026-08-24T14:00:36.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/fla-dem-sen-nominee-angie-nixon-backed-abolishing-electoral-college-ranked-choice-voting-resurfaced-clips",
-      "title": "Fla Dem Sen-nominee Angie Nixon backed abolishing Electoral College, ranked-choice voting in resurfaced clips",
-      "date": "2026-08-24T13:59:57.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/gary-indiana-mayor-power-outages-storm",
-      "title": "Indiana mayor calls it ‘unacceptable’ for thousands to have no power two weeks after storm",
-      "date": "2026-08-24T13:39:18.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/birth-tourism-scams-draw-sweeping-crackdown-visa-revocations-climb",
-      "title": "Birth tourism scams draw sweeping crackdown as visa revocations climb",
-      "date": "2026-08-24T13:30:27.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
-      "date": "2026-08-24T13:14:10.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/sonya-massey-illinois-sean-grayson-dies",
-      "title": "Former Illinois sheriff’s deputy who killed Sonya Massey in her home dies aged 32",
-      "date": "2026-08-24T12:44:24.000Z"
     }
   ]
 }
