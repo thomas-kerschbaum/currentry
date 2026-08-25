@@ -1,6 +1,104 @@
 {
-  "lastRefreshed": "2026-08-25T00:58:42.787Z",
+  "lastRefreshed": "2026-08-25T06:37:38.561Z",
   "articles": [
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
+      "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
+      "date": "2026-08-25T05:24:16.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+      "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+      "date": "2026-08-25T05:14:03.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/25/canadians-trade-war-bullied-donald-trump-alliance-rupture",
+      "title": "Canadians do not seek a trade war – but neither will we be bullied by Donald Trump | Jen Gerson",
+      "date": "2026-08-25T05:00:48.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
+      "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+      "date": "2026-08-25T04:56:29.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4698980/el-sayed-trump-tariff-vanity-war-canada/",
+      "title": "El Sayed rips Trump’s tariff ‘vanity war’ against Canada’s Carney",
+      "date": "2026-08-25T03:30:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/6048280-uss-abraham-lincoln-thailand-port-call/",
+      "title": "USS Abraham Lincoln headed for port in Thailand after 250 days at sea",
+      "date": "2026-08-25T03:16:14.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4698959/el-sayed-sharia-law-mike-rogers-beta/",
+      "title": "El Sayed says ‘preemptively’ banning sharia is discriminatory, calls rival Rogers ‘beta’",
+      "date": "2026-08-25T02:45:23.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6048253-el-sayed-watters-immigration-iran/",
+      "title": "El-Sayed spars with Jesse Watters on Fox News on immigration, Iran war: 'Let me just answer the question'",
+      "date": "2026-08-25T02:37:20.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/house/6048235-jeffries-kushner-meeting-backlash/",
+      "title": "Jeffries responds to Kushner meeting backlash: 'No one from the Trump Cartel is getting a pass'",
+      "date": "2026-08-25T01:48:38.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/trump-administration-revoke-asylum-visas",
+      "title": "Trump administration plans to revoke 200,000 visas of asylum seekers",
+      "date": "2026-08-25T01:45:35.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6048221-el-sayed-watters-fox-news-clash/",
+      "title": "El-Sayed and Watters clash in Fox News interview over culture war, gas prices",
+      "date": "2026-08-25T01:42:39.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/house/4698946/jeffries-kushner-meeting-trump-cartel-affordability/",
+      "title": "Jeffries confirms Kushner meeting, vows ‘Trump cartel’ won’t get a pass",
+      "date": "2026-08-25T01:36:10.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-administration-proposes-six-figure-price-tag-new-h-1b-visas",
+      "title": "Trump administration proposes six-figure price tag for new H-1B visas",
+      "date": "2026-08-25T01:30:02.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/defense/4698920/stratcom-ukraine-operation-spiderweb-drones-nuclear-triad/",
+      "title": "STRATCOM official calls Ukraine’s Operation Spiderweb ‘utterly eye-opening’ as US looks to defend nuclear triad from drones",
+      "date": "2026-08-25T01:09:01.000Z"
+    },
     {
       "outlet": "BBC News",
       "lean": "center",
@@ -12,7 +110,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
       "date": "2026-08-25T00:25:52.000Z"
     },
     {
@@ -147,6 +245,13 @@
       "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-strategy",
       "title": "Tamara Keith and Amy Walter on Trump's midterm strategy",
       "date": "2026-08-24T22:20:02.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+      "title": "Lockerbie bombing trial postponed days before it was due to start",
+      "date": "2026-08-24T22:13:36.000Z"
     },
     {
       "outlet": "The Hill",
@@ -362,7 +467,7 @@
       "outlet": "NPR",
       "lean": "lean-left",
       "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-      "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+      "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
       "date": "2026-08-24T20:53:45.000Z"
     },
     {
@@ -492,6 +597,13 @@
       "date": "2026-08-24T18:17:30.000Z"
     },
     {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned",
+      "title": "US immigration officers reassigned to screen South African refugees and find ‘unlawful’ voters",
+      "date": "2026-08-24T18:16:42.000Z"
+    },
+    {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
       "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4698305/vance-says-maine-became-fraud-capital-under-state-auditor-matt-dunlap-who-failed-audit-exam/",
@@ -607,7 +719,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
-      "title": "About 90,000 urged to evacuate as fast-moving wildfire threatens Reno, Nevada",
+      "title": "Fast-moving Hawk wildfire is about 27% contained in Reno, Nevada, officials say",
       "date": "2026-08-24T17:26:42.000Z"
     },
     {
@@ -845,7 +957,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
-      "title": "Gavin Newsom says California will sue Trump administration again to block ‘Orwellian rules’ meant to curb mail-in voting – live",
+      "title": "Gavin Newsom says California will sue Trump administration again to block ‘Orwellian rules’ meant to curb mail-in voting – as it happened",
       "date": "2026-08-24T12:13:36.000Z"
     },
     {
@@ -943,7 +1055,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "title": "Fast-moving wildfire forces thousands to evacuate near Reno, Nevada",
       "date": "2026-08-24T11:25:21.000Z"
     },
     {
@@ -1027,7 +1139,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
       "date": "2026-08-24T10:39:23.000Z"
     },
     {
@@ -1211,69 +1323,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
       "title": "Maradona's 'Hand of God' ball sells for $3.3m in US auction",
       "date": "2026-08-24T06:55:06.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/uss-lincoln-sailor-deployed-iran-war-father-arrested-by-ice",
-      "title": "Father of USS Lincoln sailor taken into ICE detention while son deployed in Middle East",
-      "date": "2026-08-24T05:42:44.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/4697835/enes-kanter-freedom-ejected-wnba-game/",
-      "title": "Enes Kanter Freedom ejected from WNBA game after courtside confrontation with WNBA player",
-      "date": "2026-08-24T05:38:18.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
-      "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
-      "date": "2026-08-24T05:00:52.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
-      "title": "What do locals think of IndyCar in Washington DC?",
-      "date": "2026-08-24T04:51:49.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/aug/24/coco-gauff-beats-pegula-wins-cincinnati-open-title",
-      "title": "Big decisions pay off as Coco Gauff gears up for US Open with Cincinnati title",
-      "date": "2026-08-24T04:33:03.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
-      "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
-      "date": "2026-08-24T03:47:04.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/technology/4697828/trump-us-leads-ai-race-china-by-a-lot/",
-      "title": "Trump says the US leads the AI race with China ‘by a lot’",
-      "date": "2026-08-24T03:14:12.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6046254-uss-sailor-father-ice-detained/",
-      "title": "Sailor aboard USS Abraham Lincoln decries father’s ICE detention",
-      "date": "2026-08-24T02:10:17.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4697822/bessent-says-us-entering-endgame-iran-economic-d-day/",
-      "title": "Bessent says US is ‘entering the endgame’ in Iran ahead of ‘economic D-Day’",
-      "date": "2026-08-24T01:54:18.000Z"
     }
   ]
 }
