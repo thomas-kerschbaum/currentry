@@ -1,12 +1,187 @@
 {
-  "lastRefreshed": "2026-08-26T01:00:20.467Z",
+  "lastRefreshed": "2026-08-26T06:39:21.945Z",
   "articles": [
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4700535/philadelphia-da-says-were-gonna-blow-it-up-when-discussing-trumps-white-house-ballroom/",
+      "title": "Philadelphia DA says ‘we’re gonna blow it up’ when discussing Trump’s White House ballroom",
+      "date": "2026-08-26T06:21:59.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
+      "title": "Target faces renewed backlash for Halloween costume with 'minstrel show features'",
+      "date": "2026-08-26T05:45:58.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
+      "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+      "date": "2026-08-26T05:45:34.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/business/2026/aug/26/is-the-trump-treasury-panicking-over-the-level-of-us-debt",
+      "title": "Is the Trump Treasury panicking over the level of US debt?",
+      "date": "2026-08-26T05:00:34.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/alaska-dan-sullivan-senate",
+      "title": "Two Dan Sullivans to appear on Alaska’s US Senate ballot in November’s midterm elections",
+      "date": "2026-08-26T04:48:55.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/state/4700252/mazzei-drummond-republican-runoff-oklahoma-governor/",
+      "title": "Trump-backed Mazzei wins GOP primary runoff in Oklahoma governor race",
+      "date": "2026-08-26T03:10:16.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-endorsed-candidate-clears-key-hurdle-red-state-gubernatorial-race",
+      "title": "Trump-endorsed candidate clears key hurdle in red state gubernatorial race",
+      "date": "2026-08-26T03:05:27.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/6050947-us-military-drug-boat-strike/",
+      "title": "US launches new drug boat strike in the Caribbean, citing narcoterrorism",
+      "date": "2026-08-26T03:01:03.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6049726-trump-south-carolina-oklahoma-georgia-election-takeaways/",
+      "title": "Trump nabs crucial primary wins in South Carolina, Oklahoma: 4 takeaways",
+      "date": "2026-08-26T02:58:47.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/crime/4700505/eight-dead-montana-family-dinner-shooting/",
+      "title": "Eight dead, including four children, after Montana man opens fire at family dinner",
+      "date": "2026-08-26T02:55:03.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6042137-mazzei-wins-oklahoma-gop-runoff/",
+      "title": "Trump-backed Mazzei defeats Drummond in Oklahoma governor GOP runoff",
+      "date": "2026-08-26T02:53:03.000Z"
+    },
+    {
+      "outlet": "The Christian Science Monitor",
+      "lean": "center",
+      "url": "https://www.csmonitor.com/USA/Politics/2026/0825/darline-graham-south-carolina-trump-endorsement?icid=rss",
+      "title": "Graham’s win in South Carolina shows Trump’s still got sway",
+      "date": "2026-08-26T02:06:43.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/dolly-parton-refused-pick-political-sides-decades-im-not-politics-im-entertainer",
+      "title": "Dolly Parton refused to pick political sides for decades: ‘I’m not in politics, I’m an entertainer’",
+      "date": "2026-08-26T02:03:18.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/hochul-remains-defiant-sheriffs-sue-law-banning-cooperation-ice-bring-it-on",
+      "title": "Hochul remains defiant after sheriffs sue over law banning cooperation with ICE: 'Bring it on'",
+      "date": "2026-08-26T01:36:05.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/house/4700469/progressives-rage-pro-israel-moskowitz-key-middle-east-post/",
+      "title": "Progressives rage after Democrats tap pro-Israel Moskowitz for key Middle East post",
+      "date": "2026-08-26T01:25:42.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/6050846-capitol-police-guillotine-pickup-truck/",
+      "title": "Capitol Police seize guillotine from pickup truck",
+      "date": "2026-08-26T01:17:12.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/us-immigrant-visa-application-trump-crackdwon",
+      "title": "US halts all immigrant visa applications amid tightening restrictions",
+      "date": "2026-08-26T01:16:18.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-endorsement-boosts-sister-late-lindsey-graham-historic-runoff-win",
+      "title": "Trump endorsement boosts sister of late Lindsey Graham to historic runoff victory",
+      "date": "2026-08-26T01:08:17.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/south-carolina-senate-republican-primary-runoff",
+      "title": "South Carolina chooses Darline Graham as Republican nominee for US Senate",
+      "date": "2026-08-26T01:06:13.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4698197/graham-nordone-norman-south-carolina-runoff/",
+      "title": "Darline Graham Nordone defeats Ralph Norman in South Carolina Senate GOP runoff",
+      "date": "2026-08-26T01:02:05.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/democratic-newcomer-scores-runoff-upset-oklahoma-vows-impeach-trump-elected",
+      "title": "Democratic newcomer scores runoff upset in Oklahoma, vows to impeach Trump if elected",
+      "date": "2026-08-26T01:01:03.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/state-watch/6050778-alex-pretti-family-immigration-shooting-accountability/",
+      "title": "Alex Pretti's family calls for accountability 7 months after fatal CBP shooting",
+      "date": "2026-08-26T01:00:23.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/seattle-man-allegedly-targeted-governor-telling-hospital-murderous-plan-docs",
+      "title": "Seattle man allegedly targeted governor after telling hospital of murderous plan: docs",
+      "date": "2026-08-26T00:59:24.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6049624-democratic-socialist-wins-oklahoma-senate-primary/",
+      "title": "Democratic socialist wins primary runoff for Oklahoma Senate",
+      "date": "2026-08-26T00:58:44.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
       "url": "https://www.washingtonexaminer.com/news/crime/4700449/guillotine-truck-arrest-dc-capitol-police/",
       "title": "Man with guillotine in bed of truck arrested by Capitol Police",
       "date": "2026-08-26T00:51:44.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/daughter-late-house-dem-goes-down-swinging-bid-serve-remainder-fathers-term",
+      "title": "Daughter of late House Dem loses runoff bid to finish father's term",
+      "date": "2026-08-26T00:51:08.000Z"
     },
     {
       "outlet": "The Hill",
@@ -285,7 +460,7 @@
       "outlet": "NPR",
       "lean": "lean-left",
       "url": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
-      "title": "South Carolina U.S. Senate runoff election will test Trump's endorsement",
+      "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
       "date": "2026-08-25T20:47:54.000Z"
     },
     {
@@ -915,7 +1090,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
-      "title": "Canada announces up to 50% retaliatory tariffs on hundreds of US goods including steel, fish, cheese and paper – live",
+      "title": "Trump endorsement helps boost Darline Graham in South Carolina primary to replace her late brother in US Senate – as it happened",
       "date": "2026-08-25T12:29:09.000Z"
     },
     {
@@ -1330,104 +1505,6 @@
       "url": "https://www.theguardian.com/business/2026/aug/25/gold-price-high-iran-war-donald-trump-economy-us",
       "title": "Gold price hits three-month high amid fears over Iran war and Trump economy",
       "date": "2026-08-25T08:18:52.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
-      "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
-      "date": "2026-08-25T05:24:16.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
-      "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
-      "date": "2026-08-25T05:14:03.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/25/canadians-trade-war-bullied-donald-trump-alliance-rupture",
-      "title": "Canadians do not seek a trade war – but nor will we be bullied by Donald Trump | Jen Gerson",
-      "date": "2026-08-25T05:00:48.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
-      "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
-      "date": "2026-08-25T04:56:29.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4698980/el-sayed-trump-tariff-vanity-war-canada/",
-      "title": "El Sayed rips Trump’s tariff ‘vanity war’ against Canada’s Carney",
-      "date": "2026-08-25T03:30:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/6048280-uss-abraham-lincoln-thailand-port-call/",
-      "title": "USS Abraham Lincoln headed for port in Thailand after 250 days at sea",
-      "date": "2026-08-25T03:16:14.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4698959/el-sayed-sharia-law-mike-rogers-beta/",
-      "title": "El Sayed says ‘preemptively’ banning sharia is discriminatory, calls rival Rogers ‘beta’",
-      "date": "2026-08-25T02:45:23.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6048253-el-sayed-watters-immigration-iran/",
-      "title": "El-Sayed spars with Jesse Watters on Fox News on immigration, Iran war: 'Let me just answer the question'",
-      "date": "2026-08-25T02:37:20.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/6048235-jeffries-kushner-meeting-backlash/",
-      "title": "Jeffries responds to Kushner meeting backlash: 'No one from the Trump Cartel is getting a pass'",
-      "date": "2026-08-25T01:48:38.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/trump-administration-revoke-asylum-visas",
-      "title": "Trump administration plans to revoke 200,000 visas of asylum seekers",
-      "date": "2026-08-25T01:45:35.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6048221-el-sayed-watters-fox-news-clash/",
-      "title": "El-Sayed and Watters clash in Fox News interview over culture war, gas prices",
-      "date": "2026-08-25T01:42:39.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/house/4698946/jeffries-kushner-meeting-trump-cartel-affordability/",
-      "title": "Jeffries confirms Kushner meeting, vows ‘Trump cartel’ won’t get a pass",
-      "date": "2026-08-25T01:36:10.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-administration-proposes-six-figure-price-tag-new-h-1b-visas",
-      "title": "Trump administration proposes six-figure price tag for new H-1B visas",
-      "date": "2026-08-25T01:30:02.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/defense/4698920/stratcom-ukraine-operation-spiderweb-drones-nuclear-triad/",
-      "title": "STRATCOM official calls Ukraine’s Operation Spiderweb ‘utterly eye-opening’ as US looks to defend nuclear triad from drones",
-      "date": "2026-08-25T01:09:01.000Z"
     }
   ]
 }
