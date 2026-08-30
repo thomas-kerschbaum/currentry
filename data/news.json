@@ -1,6 +1,223 @@
 {
-  "lastRefreshed": "2026-08-30T15:55:16.460Z",
+  "lastRefreshed": "2026-08-30T20:26:06.888Z",
   "articles": [
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4705633/google-maps-lake-america-trump-executive-order/",
+      "title": "Google Maps adopts ‘Lake America’ after Trump executive order",
+      "date": "2026-08-30T20:01:35.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/transportation/6059843-airfare-to-stabilize-high-fuel/",
+      "title": "Airlines for America CEO says plane ticket prices will stabilize",
+      "date": "2026-08-30T19:49:21.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4705606/trump-canada-leaders-worst-tariff-war/",
+      "title": "Trump says Canada’s leaders ‘worst’ of any country as trade war escalates",
+      "date": "2026-08-30T19:41:46.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
+      "title": "Trump ‘border czar’ denies Milo Yiannopoulos was deported quickly to spare him from ICE detention",
+      "date": "2026-08-30T19:36:57.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6059821-john-james-michigan-election/",
+      "title": "Michigan GOP gubernatorial candidate says state's elections are 'ground zero for this republic'",
+      "date": "2026-08-30T19:13:40.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/dc-public-schools-face-special-grand-jury-probe-attendance-truancy-graduation-records",
+      "title": "DC public schools face special grand jury probe into attendance, truancy and graduation records",
+      "date": "2026-08-30T19:11:49.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6059809-trump-venezuela-spr-deal/",
+      "title": "Trump promises to 'fill up' SPR after US-Venezuela oil deal",
+      "date": "2026-08-30T19:11:22.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/california-bill-recognizing-2-islamic-holidays-nears-newsoms-desk",
+      "title": "California bill recognizing 2 Islamic holidays nears Newsom’s desk",
+      "date": "2026-08-30T18:21:50.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/business/6055981-this-dime-could-sell-for-more-than-1-million-how-to-tell-if-yours-is-worth-the-same/",
+      "title": "This dime could sell for more than $1 million: How to tell if yours is worth the same",
+      "date": "2026-08-30T18:19:59.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/blogs/in-the-know/6059615-these-are-the-most-searched-slang-words-of-2026-how-many-do-you-know/",
+      "title": "These are the most-searched slang words of 2026. How many do you know?",
+      "date": "2026-08-30T18:18:58.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/nation/lake-ontario-to-lake-america-who-gets-to-decide-what-goes-on-maps",
+      "title": "Lake Ontario to 'Lake America': Who gets to decide what goes on maps?",
+      "date": "2026-08-30T18:16:37.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/2026/aug/30/lionel-messi-inter-miami-mls-nashville-sc-dejan-joveljic-seattle-sounders",
+      "title": "Lionel Messi’s ‘footballing beauty’ hailed as Miami crush Montreal; MLS roundup",
+      "date": "2026-08-30T18:09:56.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4705571/talaricos-past-comments-texas-joe-concha/",
+      "title": "Talarico’s past comments agreeing Christians are villains won’t win Texas: Joe Concha",
+      "date": "2026-08-30T18:03:24.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/6059759-blumenthal-urges-ukraine-air-defense/",
+      "title": "Senate Democrat says Ukraine needs ‘more air defense'",
+      "date": "2026-08-30T18:01:49.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/premium/4701880/chuck-schumers-many-compromises-to-maintain-political-power/",
+      "title": "Chuck Schumer’s many compromises to maintain political power",
+      "date": "2026-08-30T18:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6059702-homan-milo-yiannopoulos-deported/",
+      "title": "Homan after Milo Yiannopoulos deportation: 'Get them out quick'",
+      "date": "2026-08-30T17:52:48.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/house/4705558/jim-clyburn-13-justices-expand-supreme-court/",
+      "title": "Jim Clyburn backs 13-justice Supreme Court, rues defending Clarence Thomas",
+      "date": "2026-08-30T17:50:16.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/milo-yiannopoulos-struggle-fit-uk-right-wing",
+      "title": "‘GB News wouldn’t touch him’: Milo Yiannopoulos will struggle to fit in with UK right wing",
+      "date": "2026-08-30T17:50:02.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4705567/rahm-emanuel-socialists-democratic-party-tent/",
+      "title": "Rahm Emanuel shuts socialists out of Democratic tent: ‘Run as a separate party’",
+      "date": "2026-08-30T17:20:57.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/trump-nbc-kristen-welker-fcc",
+      "title": "Trump says NBC’s Kristen ‌Welker should face ‘punishment’ from FCC",
+      "date": "2026-08-30T17:16:52.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/finance/6058602-benefits-affordable-housing-communities/",
+      "title": "4 big wins that come with housing affordability",
+      "date": "2026-08-30T17:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6059613-clyburn-supports-el-sayed-michigan/",
+      "title": "Clyburn says he backs El-Sayed: 'All of us deserve second chances'",
+      "date": "2026-08-30T16:59:33.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-indicates-support-christian-backed-plan-help-canadian-jews-escape-antisemitism",
+      "title": "Trump indicates support for Christian-backed plan to help Canadian Jews escape antisemitism",
+      "date": "2026-08-30T16:45:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/6059611-clyburn-proposes-scotus-expansion/",
+      "title": "Clyburn calls for expanding Supreme Court, says '13 is a pretty good number'",
+      "date": "2026-08-30T16:40:21.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/massive-ai-boom-puts-one-americas-oldest-manufacturers-path-double-size-ceo-says",
+      "title": "Massive AI boom puts one of America’s oldest manufacturers on path to double in size, CEO says",
+      "date": "2026-08-30T16:33:52.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-rare-earths-its-common-sense-to-secure-essential-supply-chains",
+      "title": "The Guardian view on rare earths: it’s common sense to secure essential supply chains | Editorial",
+      "date": "2026-08-30T16:30:01.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6059638-khanna-ocasio-cortez-presidential-run/",
+      "title": "Khanna: Ocasio-Cortez running for president in 2028 'would have no bearing' on own decision to enter race",
+      "date": "2026-08-30T16:23:56.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/presidential/4705550/ro-khanna-aoc-2028-president-white-house-bid/",
+      "title": "Ro Khanna says AOC running in 2028 would have ‘no bearing’ on his decision",
+      "date": "2026-08-30T16:14:07.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/senate/6059593-cruz-defends-iran-mission/",
+      "title": "Ted Cruz defends Trump's 'accomplished' Iran messaging, citing 'multiple missions'",
+      "date": "2026-08-30T16:13:54.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trump-just-brokered-deal-country-sitting-atop-worlds-largest-oil-reserves",
+      "title": "Trump just brokered a deal with the country sitting atop the world’s largest oil reserves",
+      "date": "2026-08-30T16:09:12.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/international/6058295-afghan-withdrawal-anniversary-deportations-tps-sivs/",
+      "title": "5 years after withdrawal, a grave picture for Afghans inside and outside the US",
+      "date": "2026-08-30T16:00:00.000Z"
+    },
     {
       "outlet": "Washington Examiner",
       "lean": "lean-right",
@@ -19,14 +236,14 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/sport/live/2026/aug/30/us-open-tennis-2026-pegula-norrie-and-medvedev-in-action-on-day-one-live",
-      "title": "US Open tennis 2026: Pegula, Norrie and Medvedev in action on day one – live",
+      "title": "US Open tennis 2026: Norrie and Medvedev in action, Pegula advances on day one – live",
       "date": "2026-08-30T15:32:13.000Z"
     },
     {
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-      "title": "Nasa launches powerful new space telescope to explore mysteries of the Universe",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
       "date": "2026-08-30T15:28:08.000Z"
     },
     {
@@ -145,7 +362,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans",
-      "title": "The datacenter fight could permanently transform US politics. Which party will seize advantage?",
+      "title": "The datacenter backlash is bringing the entire political spectrum together – against Big Tech billionaires",
       "date": "2026-08-30T13:00:57.000Z"
     },
     {
@@ -637,195 +854,6 @@
       "url": "https://www.foxnews.com/politics/seneca-nation-leader-calls-trumps-lake-america-renaming-unpresidential-demands-reversal",
       "title": "Seneca Nation leader calls Trump's Lake America renaming 'unpresidential,' demands reversal",
       "date": "2026-08-29T20:44:37.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/jose-carlos-hoyoz-munoz-los-angeles-police-death",
-      "title": "LAPD releases footage of death of man whom police handcuffed and beat",
-      "date": "2026-08-29T19:52:38.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/immigration/4705377/ice-deports-yiannopoulos-united-kingdom/",
-      "title": "ICE deports far-right political commentator Milo Yiannopoulos to United Kingdom",
-      "date": "2026-08-29T19:46:23.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/what-we-know-about-trumps-deal-giving-u-s-access-to-vast-oil-reserves-in-venezuela",
-      "title": "What we know about Trump's deal giving U.S. access to vast oil reserves in Venezuela",
-      "date": "2026-08-29T19:44:42.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/6059138-walmart-opioid-lawsuit-settlement/",
-      "title": "Walmart settles DOJ opioid crisis lawsuit for $50 million",
-      "date": "2026-08-29T19:34:50.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/world/4705316/ukraine-reveals-intelligence-russia-planning-new-ground-offensive/",
-      "title": "Ukraine reveals intelligence that Russia is planning new ground offensive on capital",
-      "date": "2026-08-29T18:49:18.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/dem-house-hopefuls-delayed-disclosure-reveals-mystery-payments-from-soros-linked-groups",
-      "title": "Dem House hopeful’s delayed disclosure reveals mystery payments from Soros-linked groups",
-      "date": "2026-08-29T18:42:28.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/the-earth-is-sizzling-but-climate-isnt-a-hot-topic-for-democrats-in-this-years-campaigns",
-      "title": "The Earth is sizzling, but climate isn't a hot topic for Democrats in this year's campaigns",
-      "date": "2026-08-29T18:40:12.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6059100-milo-yiannopoulos-deported-uk/",
-      "title": "DHS confirms Milo Yiannopoulos was deported to UK",
-      "date": "2026-08-29T18:38:23.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/nation/trump-cannot-deport-students-for-criticizing-israel-judge-rules",
-      "title": "Trump cannot deport students for criticizing Israel, judge rules",
-      "date": "2026-08-29T18:14:48.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-touts-access-65-billion-barrels-venezuelan-oil-deal-he-says-slash-gas-prices",
-      "title": "Trump touts access to 65 billion barrels of Venezuelan oil in deal he says will slash gas prices",
-      "date": "2026-08-29T18:01:33.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/technology/6056562-ai-consciousness-societal-impact/",
-      "title": "AI could become conscious. What if it wants us dead?",
-      "date": "2026-08-29T18:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/in_focus/4689927/iran-war-pressure-pentagon-procurement-transformation/",
-      "title": "Six-month Iran war puts pressure on the Pentagon’s procurement transformation to meet the ‘1939 moment’",
-      "date": "2026-08-29T18:00:00.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-      "date": "2026-08-29T17:52:42.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/house-republican-aims-put-democrats-record-over-dsa-resolution-condemning-socialism",
-      "title": "House Republican aims to put Democrats on the record over DSA with resolution condemning socialism",
-      "date": "2026-08-29T17:46:02.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/6059052-democrats-slam-trump-venezuela-oil-deal/",
-      "title": "Democrats sound alarm on US-Venezuela oil deal: 'This isn't a win'",
-      "date": "2026-08-29T17:39:45.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/gallery/2026/aug/29/unc-tcu-dublin-game-college-football-photos",
-      "title": "North Carolina upset Texas Christian as college football kicks off season in Dublin – in pictures",
-      "date": "2026-08-29T17:34:34.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/6059009-federal-judge-trump-visa-activist-ruling/",
-      "title": "Trump admin unjustly revoked pro-Palestinian foreign students' visas, judge finds",
-      "date": "2026-08-29T17:15:25.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk",
-      "title": "Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK",
-      "date": "2026-08-29T17:08:43.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/pennsylvania-commissioner-accuses-shapiro-deceptive-measles-death-framing-rfk-jr-blasts-dem-governor",
-      "title": "Pennsylvania commissioner accuses Shapiro of 'deceptive' measles death framing as RFK Jr blasts Dem governor",
-      "date": "2026-08-29T17:07:53.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4705294/golden-age-or-dark-age-trump-and-vance-are-selling-both/",
-      "title": "Golden age or dark age? Trump and Vance are selling both",
-      "date": "2026-08-29T17:03:51.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/national-security/6057538-dod-shifts-focus-tactical-nukes/",
-      "title": "The Pentagon's new nuclear doctrine needs congressional guardrails",
-      "date": "2026-08-29T17:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4705260/former-white-house-teleprompter-insider-trading-probe/",
-      "title": "Former Trump White House teleprompter operator to pay over $172,000 after insider-trading probe",
-      "date": "2026-08-29T16:50:14.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/sports/4705228/queen-has-arrived-royce-white-full-wig-wnba/",
-      "title": "‘The queen has arrived’: Royce White’s WNBA draft bid goes full wig at Fever game",
-      "date": "2026-08-29T16:25:31.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/4705200/alaska-democrat-drops-out-governor-race-citing-funding-concerns/",
-      "title": "Alaska Democrat drops out of governor race, citing funding concerns",
-      "date": "2026-08-29T16:09:36.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/energy-environment/6058256-ev-safety-battery-risks/",
-      "title": "Electric vehicles are flaming out —let's ‘Make Internal Combustion Engines Great Again’",
-      "date": "2026-08-29T16:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/analysis/6057609-gop-campaign-centered-trump/",
-      "title": "The Memo: GOP sees risks in Trump’s midterm strategy of focusing on himself",
-      "date": "2026-08-29T16:00:00.000Z"
-    },
-    {
-      "outlet": "PBS NewsHour",
-      "lean": "center",
-      "url": "https://www.pbs.org/newshour/politics/untested-in-court-trumps-new-tariffs-on-canada-raise-legal-questions",
-      "title": "Untested in court, Trump's new tariffs on Canada raise legal questions",
-      "date": "2026-08-29T15:58:58.000Z"
     }
   ]
 }
