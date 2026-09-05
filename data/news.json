@@ -1,6 +1,279 @@
 {
-  "lastRefreshed": "2026-09-05T09:52:05.234Z",
+  "lastRefreshed": "2026-09-05T14:26:32.274Z",
   "articles": [
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
+      "title": "Steve Witkoff and Jared Kushner land in Moscow aiming to revive Ukraine talks",
+      "date": "2026-09-05T14:04:29.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4715018/putin-pause-ukraine-strike-witkoff-kushner-moscow/",
+      "title": "Putin orders pause in Ukraine strikes as Witkoff and Kushner arrive in Moscow",
+      "date": "2026-09-05T14:03:03.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/well-connected-dem-operative-learns-fate-after-fbi-child-sex-abuse-sting",
+      "title": "Well-connected Dem operative learns fate after FBI busts him in child sex abuse sting",
+      "date": "2026-09-05T14:00:45.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4710685/coda-removes-dei-dental-education/",
+      "title": "Your toothache doesn’t care about DEI. Dental education just proved it",
+      "date": "2026-09-05T14:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4710786/conservatives-gen-z-socialism-economic-anxiety/",
+      "title": "Denouncing socialism won’t pay Gen Z’s grocery bills",
+      "date": "2026-09-05T14:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/4710935/national-guard-reserve-service-gen-z/",
+      "title": "Why Gen Z should join the reserves",
+      "date": "2026-09-05T14:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/supreme-court/4715007/missouri-supreme-court-overturn-block-congress-map/",
+      "title": "Missouri asks Supreme Court to overturn block of new congressional map before election",
+      "date": "2026-09-05T13:54:32.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/6061657-see-the-best-public-universities-for-2027-according-to-niche/",
+      "title": "See the best public universities for 2027, according to Niche",
+      "date": "2026-09-05T13:30:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4715001/first-gop-midterm-convention-dallas/",
+      "title": "What to watch at the first-ever GOP midterm convention in Dallas",
+      "date": "2026-09-05T13:17:57.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/california-big-sur-overtourism",
+      "title": "After overtourism besieged Big Sur, the worst finally happened: ‘People kept saying someone is going to die’",
+      "date": "2026-09-05T13:00:36.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/ex-fetterman-staffers-promise-more-damaging-details-after-brutal-report-tip-of-the-iceberg",
+      "title": "Ex-Fetterman staffers promise more damaging details after blistering report: ‘Tip of the iceberg’",
+      "date": "2026-09-05T13:00:07.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6072768-live-updates-hegseth-eyes-driscoll-replacement-missouri-asks-to-restore-gop-friendly-congressional-map/",
+      "title": "Live updates: Hegseth eyes Driscoll replacement, Missouri asks to restore GOP-friendly congressional map",
+      "date": "2026-09-05T13:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/white-house/6070129-trump-olc-executive-privilege/",
+      "title": "The Trump administration is taking executive privilege too far",
+      "date": "2026-09-05T13:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4693230/october-social-security-direct-payment-worth-994-goes-out-26-days/",
+      "title": "October Social Security direct payment worth $994 goes out in 26 days",
+      "date": "2026-09-05T13:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4710733/college-transparency-act-student-privacy-risks/",
+      "title": "Big Brother is going to college: The federal plan to track students for life",
+      "date": "2026-09-05T13:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4710825/ideological-diversity-law-schools-adversarial-debate/",
+      "title": "Law schools are training lawyers who can’t take a punch",
+      "date": "2026-09-05T13:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/international/6072979-us-opposes-un-map-resolution-africa/",
+      "title": "US only country to oppose UN resolution correcting Africa's size on world maps",
+      "date": "2026-09-05T12:57:31.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/nj-mayor-demands-sanctuary-policy-rollback-baby-killed-crash-illegal-immigrant",
+      "title": "NJ mayor demands sanctuary policy rollback after baby killed in crash allegedly involving illegal immigrant",
+      "date": "2026-09-05T12:48:28.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6072956-gray-wolf-endangered-protections-beef-prices/",
+      "title": "Trump's signs order allowing ranchers to kill wolves to protect herds",
+      "date": "2026-09-05T12:14:01.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/05/todd-blanche-gender-transitions-schools",
+      "title": "The US attorney general is fretting about a ‘pandemic’ of gender transitions in schools | Arwa Mahdawi",
+      "date": "2026-09-05T12:00:37.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/lindsay-clancy-murder-trial-retrial",
+      "title": "Lindsay Clancy murder trial ends in dramatic deadlock – what comes next?",
+      "date": "2026-09-05T12:00:36.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
+      "title": "Opinion: A sculpture in perpetual motion, removed",
+      "date": "2026-09-05T12:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/technology/6071564-data-center-moratorium-costs/",
+      "title": "Data center moratoria will make life less affordable for Americans",
+      "date": "2026-09-05T12:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/op-eds/4710841/ken-martin-dnc-establishment-gravy-train/",
+      "title": "The Democratic Party is broke, bleeding, and at war with itself. Don’t blame Ken Martin",
+      "date": "2026-09-05T12:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/regulation/court-battles/6072940-missouri-redistricting-gop-map-supreme-court/",
+      "title": "Missouri asks Supreme Court to restore GOP-friendly congressional map",
+      "date": "2026-09-05T11:45:47.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-no-final-federal-approvals",
+      "title": "Trump administration to dig at triumphal arch site despite no final federal approvals",
+      "date": "2026-09-05T11:43:24.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/massachusetts-trans-care-protections",
+      "title": "Even in safe-haven Massachusetts, trans care is at risk. Young people are fighting to protect it",
+      "date": "2026-09-05T11:30:34.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
+      "title": "Whatever happened to the floating schools of Bangladesh?",
+      "date": "2026-09-05T11:26:09.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
+      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
+      "date": "2026-09-05T11:08:57.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/trumps-pentagon-shake-up-revives-presidential-power-play-long-history",
+      "title": "Trump’s Pentagon shake-up revives a presidential power play with a long history",
+      "date": "2026-09-05T11:00:48.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/first-professional-santa-claus-downs-syndrome-hall-of-fame",
+      "title": "First professional St Nick with Down’s syndrome inducted into International Santa Claus Hall of Fame",
+      "date": "2026-09-05T11:00:36.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/memphis-storm-community",
+      "title": "When Memphis went dark, community members brought the light: ‘We keep ourselves safe’",
+      "date": "2026-09-05T11:00:36.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/pete-hegseth-pentagon-military",
+      "title": "Captain calamity: Pete Hegseth under fire for ‘inept’ leadership of US military",
+      "date": "2026-09-05T10:00:35.000Z"
+    },
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/squatter-nightmare-turns-dc-apartment-building-drug-haven-legal-battle-drags-help",
+      "title": "Squatter nightmare turns DC apartment building into 'drug haven' as legal battle drags on: 'There's no help'",
+      "date": "2026-09-05T10:00:35.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/sep/05/cuban-hunger-striker-ice-force-feeding",
+      "title": "ICE given permission to force-feed Cuban hunger striker with gastric tube",
+      "date": "2026-09-05T10:00:34.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/sep/05/cte-football-players-nfl",
+      "title": "CTE in football players is a health crisis. It’s time for us to stop watching",
+      "date": "2026-09-05T10:00:34.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/house/6072613-trump-data-center-midterms-democrats/",
+      "title": "Democrats see midterm gift in Trump embrace of data centers",
+      "date": "2026-09-05T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/defense/6072769-candidates-compete-army-secretary-role/",
+      "title": "Hegseth’s pick faces competition in search for new Army secretary",
+      "date": "2026-09-05T10:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6072532-democrats-counterprogramming-rnc-dallas/",
+      "title": "Democrats seek to counter RNC's 'Trump-a-palooza' convention in Dallas",
+      "date": "2026-09-05T10:00:00.000Z"
+    },
     {
       "outlet": "Fox News",
       "lean": "lean-right",
@@ -1057,272 +1330,6 @@
       "url": "https://thehill.com/opinion/international/6068045-france-india-defense-partnership/",
       "title": "India-France ties should not replace relations with Washington",
       "date": "2026-09-04T14:30:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6071167-ty-cobb-trump-midterm-interference/",
-      "title": "Ty Cobb on midterms: Trump intends 'to steal these elections where possible'",
-      "date": "2026-09-04T14:21:39.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/business/6071247-diesel-prices-record-high-iran-war/",
-      "title": "Diesel prices hit record high",
-      "date": "2026-09-04T14:05:31.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/immigration/6066746-ice-shock-gloves-purchase/",
-      "title": "ICE’s new 'shock gloves' are dangerous, inhumane and totally unnecessary",
-      "date": "2026-09-04T14:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/energy-environment/6071197-epa-clean-water-act-western-water/",
-      "title": "EPA considers further narrowing Clean Water Act protections",
-      "date": "2026-09-04T14:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
-      "title": "Philippine vice president is ordered arrested for threats against the president",
-      "date": "2026-09-04T13:42:10.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/former-trump-cabinet-official-inappropriately-close-relationship-bodyguard-ig-finds",
-      "title": "Former Trump Cabinet official had 'inappropriately close' relationship with bodyguard, IG finds",
-      "date": "2026-09-04T13:38:52.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
-      "title": "Myanmar military head visits Vietnam to normalize relations",
-      "date": "2026-09-04T13:35:39.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/finance/6069395-civil-rights-economic-injustice/",
-      "title": "Half of Americans are economically insecure. What are we going to do about it?",
-      "date": "2026-09-04T13:30:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/regulation/court-battles/6071017-ice-agent-indicted-minnesota-shooting/",
-      "title": "ICE officer charged with lying about shooting turns himself in: Reports",
-      "date": "2026-09-04T13:25:12.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6071024-donald-trump-praises-maria-bartiromo-departure/",
-      "title": "Trump: Fans 'will not be happy' Bartiromo out at Fox News",
-      "date": "2026-09-04T13:13:47.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/media/6070993-fcc-disney-abc-lawsuit-first-amendment-dei/",
-      "title": "FCC asks court to reject Disney lawsuit over ABC stations' licenses",
-      "date": "2026-09-04T13:06:52.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/white-house/6070027-welker-fcc-complaint-consequences/",
-      "title": "Trump’s war on free speech doesn’t just affect Democrats",
-      "date": "2026-09-04T13:00:00.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report",
-      "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
-      "date": "2026-09-04T12:40:44.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
-      "title": "US military disables ad trackers on troops’ phones amid security fears",
-      "date": "2026-09-04T12:36:01.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-      "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
-      "date": "2026-09-04T12:19:23.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/top-dhs-lawyer-turns-tables-128-ex-judges-bar-declines-worst-worst-complaint",
-      "title": "Top DHS lawyer turns tables on 128 ex-judges after Bar declines ‘Worst of the Worst’ complaint",
-      "date": "2026-09-04T12:00:50.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/04/tennessee-executes-first-woman-since-1819",
-      "title": "Tennessee is about to execute its first woman since 1819. Her case raises troubling questions | Austin Sarat",
-      "date": "2026-09-04T12:00:07.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/04/digested-week-tom-tugendhat-tory-reshuffle",
-      "title": "Digested week: Tom Tugendhat is a serious politician. What’s he doing in a Reform-lite Tory frontbench? | John Crace",
-      "date": "2026-09-04T11:49:14.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
-      "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
-      "date": "2026-09-04T11:29:11.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/sep/04/us-open-disturb-the-game-betting-taking-over-tennis-courts-around-the-world",
-      "title": "‘They disturb the game’: how betting fans are taking over tennis courts",
-      "date": "2026-09-04T11:08:22.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/ice-california-detention-contact-visits",
-      "title": "ICE bans hugging inside California’s largest detention center. Families are fighting back",
-      "date": "2026-09-04T11:00:06.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/first-thing-jd-vance-gaslighting-skeptical-us-struck-iran-wedding",
-      "title": "JD Vance accused of ‘gaslighting’ after saying he is ‘skeptical’ US struck Iranian wedding | First Thing",
-      "date": "2026-09-04T10:59:55.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/ted-cruz-names-single-most-powerful-democrat-warns-progressive-revolution-has-party-terrified",
-      "title": "Ted Cruz names ‘most powerful Democrat’ as he warns socialist rise has paralyzed bipartisanship",
-      "date": "2026-09-04T10:58:25.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/4713553/gas-prices-on-pace-to-be-the-most-expensive-labor-day-in-us-history/",
-      "title": "Gas prices: On pace to be the most expensive Labor Day in US history",
-      "date": "2026-09-04T10:24:10.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/maryland-sheriff-torches-democrats-over-law-he-says-puts-illegal-immigrants-first",
-      "title": "Maryland sheriff torches Democrats over law he says puts illegal immigrants first",
-      "date": "2026-09-04T10:00:26.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta",
-      "title": "It’s time for Mark Zuckerberg to resign from Meta | Joan Donovan",
-      "date": "2026-09-04T10:00:05.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/sep/04/private-equity-boom-hospital-job-layoff",
-      "title": "Private equity faces existential crisis in US as unsold companies pile up",
-      "date": "2026-09-04T10:00:04.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
-      "title": "Scientists map key protein interactions linked with profound autism",
-      "date": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
-      "title": "Germany's far-right AfD party is poised for power in a state election",
-      "date": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6070463-democrats-hispanic-voter-socialism/",
-      "title": "Democrats worry rising socialism turning off Hispanic voters",
-      "date": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/6070342-generation-z-disaster-relief-maxwell-frost-abduel-el-sayed/",
-      "title": "Gen Z wants to do good — and thinks the government should too",
-      "date": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/healthcare/6070400-democratic-party-healthcare-vision/",
-      "title": "Democrats weigh how big to go on healthcare reform in midterm push",
-      "date": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/6070350-frost-gen-z-congress/",
-      "title": "Maxwell Frost sees greater Gen Z influence on Congress as an improvement",
-      "date": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/investigations/4709853/un-foreign-aid-programs-bad-actors-rubio-agreements/",
-      "title": "UN struggling to protect foreign aid programs from bad actors under Rubio agreements, documents show",
-      "date": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/4710470/us-water-systems-cybersecurity-public-private-solutions/",
-      "title": "A policy response to cyberattacks against key US infrastructure",
-      "date": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/op-eds/4711573/trump-venezuela-oil-deal-democracy/",
-      "title": "To take Venezuela’s oil, Trump actually needs its democracy",
-      "date": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4712733/chris-wright-venezuelan-crude-fill-strategic-petroleum-reserve/",
-      "title": "Chris Wright explains how Venezuelan crude will ‘fill’ the Strategic Petroleum Reserve",
-      "date": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-      "title": "US diesel prices hit an all-time-high",
-      "date": "2026-09-04T09:59:50.000Z"
     }
   ]
 }
