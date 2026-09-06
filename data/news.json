@@ -1,6 +1,104 @@
 {
-  "lastRefreshed": "2026-09-06T02:34:08.284Z",
+  "lastRefreshed": "2026-09-06T10:09:30.845Z",
   "articles": [
+    {
+      "outlet": "Fox News",
+      "lean": "lean-right",
+      "url": "https://www.foxnews.com/politics/house-dems-plot-trump-investigation-blitz-seize-majority",
+      "title": "House Dems plot Trump investigation blitz if they seize majority",
+      "date": "2026-09-06T10:00:43.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/sep/06/midterm-elections-control-of-congress",
+      "title": "Game on: November elections kick into high gear with control of Congress in the balance",
+      "date": "2026-09-06T10:00:02.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+      "title": "American Muslims are giving Texas barbecue a halal makeover",
+      "date": "2026-09-06T10:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/4693249/first-round-september-social-security-payments-goes-out-three-days/",
+      "title": "First round of September Social Security payments goes out in three days",
+      "date": "2026-09-06T10:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4713682/tea-party-patriots-action-founder-poll-watching-in-person-training-midterms/",
+      "title": "Activist group accelerates poll-watching training ahead of midterm elections",
+      "date": "2026-09-06T10:00:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/in_focus/4714807/colleges-caused-their-own-demographic-nightmare/",
+      "title": "Colleges caused their own demographic nightmare",
+      "date": "2026-09-06T10:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+      "title": "US envoys Witkoff and Kushner set for talks in Kyiv after meeting with Putin in Moscow",
+      "date": "2026-09-06T09:51:04.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
+      "title": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
+      "date": "2026-09-06T09:01:00.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/opinion/editorials/4714217/us-saudi-nuclear-deal-needs-transparency/",
+      "title": "The US-Saudi nuclear deal needs improvement",
+      "date": "2026-09-06T09:00:00.000Z"
+    },
+    {
+      "outlet": "NPR",
+      "lean": "lean-left",
+      "url": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
+      "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
+      "date": "2026-09-06T08:44:48.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/06/world-brink-thugs-dictators-brighter-future-ordinary-people",
+      "title": "The world is being driven to the brink by thugs and dictators, but there is a route to a brighter future | Simon Tisdall",
+      "date": "2026-09-06T05:00:57.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/sep/06/michigan-controversy-western-michigan-hail-mary",
+      "title": "Michigan deny minnows Western Michigan with controversial last-second Hail Mary",
+      "date": "2026-09-06T04:04:18.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/4715260/voters-increasingly-democrat-poll/",
+      "title": "Independent voters increasingly identify as Democrats: Poll",
+      "date": "2026-09-06T03:28:43.000Z"
+    },
+    {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "date": "2026-09-06T02:24:16.000Z"
+    },
     {
       "outlet": "Fox News",
       "lean": "lean-right",
@@ -44,6 +142,13 @@
       "date": "2026-09-06T00:59:13.000Z"
     },
     {
+      "outlet": "BBC News",
+      "lean": "center",
+      "url": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
+      "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
+      "date": "2026-09-06T00:17:05.000Z"
+    },
+    {
       "outlet": "The Hill",
       "lean": "center",
       "url": "https://thehill.com/policy/sports-gaming/6073497-angie-craig-wnba-commissioner/",
@@ -77,6 +182,13 @@
       "url": "https://thehill.com/policy/international/6073469-us-ends-namibia-hiv-funding/",
       "title": "Trump admin ends $45M support for Namibia HIV program",
       "date": "2026-09-05T22:24:04.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
+      "date": "2026-09-05T22:19:40.000Z"
     },
     {
       "outlet": "The Guardian (US)",
@@ -355,7 +467,7 @@
       "outlet": "NPR",
       "lean": "lean-left",
       "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
+      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
       "date": "2026-09-05T15:05:08.000Z"
     },
     {
@@ -418,7 +530,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-      "title": "Trump envoys and Putin discussed ‘next steps’ for ending Ukraine war, White House says",
+      "title": "Witkoff and Kushner discussed ‘next steps’ with Putin to end Ukraine war, says US",
       "date": "2026-09-05T14:04:29.000Z"
     },
     {
@@ -651,167 +763,6 @@
       "url": "https://www.theguardian.com/us-news/2026/sep/05/memphis-storm-community",
       "title": "When Memphis went dark, community members brought the light: ‘We keep ourselves safe’",
       "date": "2026-09-05T11:00:36.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/sep/05/pete-hegseth-pentagon-military",
-      "title": "Captain calamity: Pete Hegseth under fire for ‘inept’ leadership of US military",
-      "date": "2026-09-05T10:00:35.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/squatter-nightmare-turns-dc-apartment-building-drug-haven-legal-battle-drags-help",
-      "title": "Squatter nightmare turns DC apartment building into 'drug haven' as legal battle drags on: 'There's no help'",
-      "date": "2026-09-05T10:00:35.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/sep/05/cuban-hunger-striker-ice-force-feeding",
-      "title": "ICE given permission to force-feed Cuban hunger striker with gastric tube",
-      "date": "2026-09-05T10:00:34.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/sep/05/cte-football-players-nfl",
-      "title": "CTE in football players is a health crisis. It’s time for us to stop watching",
-      "date": "2026-09-05T10:00:34.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/6072613-trump-data-center-midterms-democrats/",
-      "title": "Democrats see midterm gift in Trump embrace of data centers",
-      "date": "2026-09-05T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/defense/6072769-candidates-compete-army-secretary-role/",
-      "title": "Hegseth’s pick faces competition in search for new Army secretary",
-      "date": "2026-09-05T10:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6072532-democrats-counterprogramming-rnc-dallas/",
-      "title": "Democrats seek to counter RNC's 'Trump-a-palooza' convention in Dallas",
-      "date": "2026-09-05T10:00:00.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/missouri-ag-files-petition-asking-supreme-court-revive-trump-backed-redistricting-map",
-      "title": "Missouri AG files petition asking Supreme Court to revive Trump-backed redistricting map",
-      "date": "2026-09-05T09:17:17.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "date": "2026-09-05T09:12:48.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/sep/05/midterms-democrats-socialists-leftist",
-      "title": "Leftist insurgents are storming the midterms – just don’t call them all democratic socialists",
-      "date": "2026-09-05T09:00:32.000Z"
-    },
-    {
-      "outlet": "The Christian Science Monitor",
-      "lean": "center",
-      "url": "https://www.csmonitor.com/USA/Society/2026/0905/gloria-steinem-feminist-women-s-rights?icid=rss",
-      "title": "‘She listened.’ Gloria Steinem raised women’s voices through writing and activism.",
-      "date": "2026-09-05T09:00:10.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
-      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-      "date": "2026-09-05T09:00:00.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
-      "title": "Flock cameras draw opposition from across the political spectrum",
-      "date": "2026-09-05T09:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/opinion/editorials/4712257/trump-doj-scores-win-for-energy-consumers-in-federal-court/",
-      "title": "Trump DOJ scores win for energy consumers in federal court",
-      "date": "2026-09-05T09:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/4714354/nationalization-politics-change-candidates-campaigning/",
-      "title": "How the nationalization of politics has changed the way candidates campaign",
-      "date": "2026-09-05T09:00:00.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/sep/05/andy-ruiz-jr-damian-knyba-boxing-heavyweight-result",
-      "title": "Andy Ruiz Jr’s comeback bid in tatters after sobering defeat to Damian Knyba",
-      "date": "2026-09-05T08:14:51.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
-      "title": "Philippines Vice President Sara Duterte posts bail after arrest",
-      "date": "2026-09-05T07:21:10.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
-      "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
-      "date": "2026-09-05T06:53:20.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-      "date": "2026-09-05T06:37:46.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/sep/05/serena-venus-williams-us-open-doubles-defeat",
-      "title": "Williams sisters’ US Open return ends in heartbreak with third-set tie-break defeat",
-      "date": "2026-09-05T04:26:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6072826-labor-secretary-chavez-deremer-workplace-misconduct-report/",
-      "title": "Watchdog issues scathing report on Trump's former labor secretary",
-      "date": "2026-09-05T03:26:39.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/cj9x248npw1o?at_medium=RSS&at_campaign=rss",
-      "title": "What happens next after Lindsay Clancy's murder case ends in a mistrial?",
-      "date": "2026-09-05T03:25:58.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4714924/portion-of-kennedy-center-ceiling-collapses-renewing-renovation-calls/",
-      "title": "Portion of the Kennedy Center ceiling collapses, renewing calls to close for renovations",
-      "date": "2026-09-05T02:40:24.000Z"
     }
   ]
 }
