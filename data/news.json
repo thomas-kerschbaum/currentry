@@ -1,18 +1,151 @@
 {
-  "lastRefreshed": "2026-09-07T17:06:19.627Z",
+  "lastRefreshed": "2026-09-07T21:02:09.217Z",
   "articles": [
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/sport/2026/sep/07/belichick-denies-he-has-lost-control-of-unc-football-program-amid-off-field-turmoil",
+      "title": "Belichick denies he has lost control of UNC football program amid off-field turmoil",
+      "date": "2026-09-07T20:41:47.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/911-ceremony-giuliani-mamdani",
+      "title": "Giuliani says Mamdani should skip 9/11 ceremony during rant against Islam",
+      "date": "2026-09-07T20:25:33.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6075255-trump-map-territorial-ambitions/",
+      "title": "Trump posts map with American flag emblazoned over Canada, Greenland, Mexico",
+      "date": "2026-09-07T20:00:47.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4715978/trump-canada-bombardier-us-sales-ban/",
+      "title": "Trump blasts Canadian aerospace manufacturer: ‘NO MORE SELLING BOMBARDIER’",
+      "date": "2026-09-07T19:56:44.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/travel/4715985/watch-live-ntsb-briefing-amazon-plane-crash-miami/",
+      "title": "WATCH LIVE: NTSB briefs press on Amazon Air cargo plane crash at Miami airport",
+      "date": "2026-09-07T19:42:29.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/technology/4715947/openai-hires-chuck-schumer-daughter-regulatory-talks/",
+      "title": "OpenAI hires Chuck Schumer’s daughter as lead government outreach during regulatory talks",
+      "date": "2026-09-07T19:39:21.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/a-whiplash-election-year-enters-its-final-stretch-as-trump-holds-wild-cards",
+      "title": "A whiplash election year enters its final stretch as Trump holds wild cards",
+      "date": "2026-09-07T19:30:39.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/campaign/6075245-fake-gop-convention-site-epstein-files/",
+      "title": "Fake Republican midterm convention site still redirects to Epstein files",
+      "date": "2026-09-07T19:25:28.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/world/4715963/king-charles-iii-status-prince-harry-meghan-markle-return/",
+      "title": "King Charles clarifies status of Prince Harry and his wife, Meghan, after their return to the UK",
+      "date": "2026-09-07T18:58:44.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/policy/international/6075212-witkoff-progress-russia-ukraine-talks/",
+      "title": "Witkoff touts 'substantive progress' after peace talks with Ukraine, Russia",
+      "date": "2026-09-07T18:46:56.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/trump-keeps-heralding-an-economic-boom-but-even-a-solid-jobs-report-is-causing-problems-for-him",
+      "title": "Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him",
+      "date": "2026-09-07T18:46:50.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/policy/infrastructure/4715817/trump-announces-renovation-meridian-hill-park/",
+      "title": "Trump announces renovation of Meridian Hill Park statues, pools, and fountains",
+      "date": "2026-09-07T18:24:51.000Z"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "lean": "center",
+      "url": "https://www.pbs.org/newshour/politics/armed-man-charged-toward-democratic-candidate-for-ohio-governor-at-fair-law-enforcement-says",
+      "title": "Armed man charged toward Democratic candidate for Ohio governor at fair, law enforcement says",
+      "date": "2026-09-07T18:03:32.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4715911/new-mexico-governor-trump-new-america/",
+      "title": "‘Isn’t up for debate’: New Mexico governor hits back at Trump over ‘New America’ posts",
+      "date": "2026-09-07T18:02:16.000Z"
+    },
+    {
+      "outlet": "Washington Examiner",
+      "lean": "lean-right",
+      "url": "https://www.washingtonexaminer.com/in_focus/4706354/october-7-not-over-yet-september-11-anniversary/",
+      "title": "‘Oct. 7 isn’t over yet’",
+      "date": "2026-09-07T18:00:00.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/blogs/in-the-know/6075116-podcast-host-clancy-betting-ad-backlash/",
+      "title": "Podcaster apologizes for Lindsay Clancy betting ad",
+      "date": "2026-09-07T17:45:52.000Z"
+    },
+    {
+      "outlet": "The Guardian (US)",
+      "lean": "lean-left",
+      "url": "https://www.theguardian.com/football/2026/sep/07/mauricio-pochettino-usmnt-soccer-head-coach",
+      "title": "Mauricio Pochettino wants the US to become ‘one of the most powerful countries in soccer’",
+      "date": "2026-09-07T17:44:09.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/homenews/administration/6075049-trump-attacks-democrats-labor-day/",
+      "title": "Trump promises midterm victory, slams Democrats in Labor Day message",
+      "date": "2026-09-07T17:15:50.000Z"
+    },
+    {
+      "outlet": "The Hill",
+      "lean": "center",
+      "url": "https://thehill.com/opinion/congress-blog/labor/6072884-osha-safety-standards-failure/",
+      "title": "We made workplace safety a priority once. We can again.",
+      "date": "2026-09-07T17:00:00.000Z"
+    },
     {
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/articles/c33k5m1zdemo?at_medium=RSS&at_campaign=rss",
-      "title": "Small plane crashes near regional airport in Florida",
+      "title": "Pilot killed in small plane crash near regional airport in Florida",
       "date": "2026-09-07T16:59:21.000Z"
     },
     {
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/sport/live/2026/sep/07/us-open-tennis-2026-swiatek-v-zheng-osaka-v-rybakina-and-more-on-day-nine-live",
-      "title": "US Open tennis 2026: Swiatek v Zheng, Osaka v Rybakina and more on day nine – live",
+      "title": "US Open tennis 2026: Osaka v Rybakina, Zheng stuns Swiatek, Andreeva wins and more on day nine – live",
       "date": "2026-09-07T16:44:58.000Z"
     },
     {
@@ -131,7 +264,7 @@
       "outlet": "BBC News",
       "lean": "center",
       "url": "https://www.bbc.co.uk/news/videos/c3d71nrpjxmo?at_medium=RSS&at_campaign=rss",
-      "title": "'It's not surprising': Americans react to record high Labor Day fuel prices",
+      "title": "'It's disappointing': Americans react to record high Labor Day fuel prices",
       "date": "2026-09-07T14:44:47.000Z"
     },
     {
@@ -579,7 +712,7 @@
       "outlet": "The Guardian (US)",
       "lean": "lean-left",
       "url": "https://www.theguardian.com/us-news/2026/sep/06/amy-acton-ohio-governor-candidate-attack",
-      "title": "Assailant lunged at Democratic candidate for Ohio governor, campaign says",
+      "title": "Assailant lunges at Ohio Democratic gubernatorial candidate, campaign says",
       "date": "2026-09-06T22:40:55.000Z"
     },
     {
@@ -630,216 +763,6 @@
       "url": "https://thehill.com/homenews/house/6074174-mcclain-backs-miller-abuse-allegations/",
       "title": "Top House Republican backs Max Miller: 'I support anybody with an R by their name'",
       "date": "2026-09-06T21:06:24.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6072318-ice-arrests-surge-non-criminals/",
-      "title": "Trump administration expands mass deportations with noncriminals",
-      "date": "2026-09-06T21:00:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4715613/trump-teases-idea-of-changing-new-mexico-to-new-america/",
-      "title": "Trump teases idea of changing New Mexico to ‘New America’",
-      "date": "2026-09-06T20:57:43.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "date": "2026-09-06T20:52:12.000Z"
-    },
-    {
-      "outlet": "BBC News",
-      "lean": "center",
-      "url": "https://www.bbc.co.uk/news/videos/c62k8dz8r4lo?at_medium=RSS&at_campaign=rss",
-      "title": "Video shows damaged Amazon cargo plane after crash",
-      "date": "2026-09-06T20:41:48.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/senate/6074062-john-kennedy-hegseth-pentagon-support-questions/",
-      "title": "GOP Sen. John Kennedy hedges on support for Hegseth",
-      "date": "2026-09-06T20:30:25.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6074097-trump-calls-canada-dollar-imbalance-unacceptable/",
-      "title": "Trump: Canada's currency imbalance with US will be 'no longer'",
-      "date": "2026-09-06T20:17:45.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis",
-      "title": "Carlos Alcaraz takes it up a level as he reaches US Open quarter-final",
-      "date": "2026-09-06T20:16:01.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4715580/witkoff-kushner-kyiv-peace-talks-russia-ukraine-war/",
-      "title": "Trump envoys hail ‘encouraging’ talks in Kyiv to end Russia-Ukraine war",
-      "date": "2026-09-06T20:14:35.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/energy-environment/6074075-us-leverage-venezuela-oil-deal/",
-      "title": "Wright: US has 'a lot of leverage' in Venezuela after oil deal reached",
-      "date": "2026-09-06T19:58:55.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/transportation/aviation/6074113-amazon-cargo-plane-sends-up-billowing-cloud-of-smoke-after-overrunning-runway-at-miami-airport/",
-      "title": "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport",
-      "date": "2026-09-06T19:56:17.000Z"
-    },
-    {
-      "outlet": "NPR",
-      "lean": "lean-left",
-      "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
-      "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
-      "date": "2026-09-06T19:54:28.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4715525/john-thune-republican-midterm-convention-speech/",
-      "title": "Thune skips midterm convention speech as GOP leaders gather for election push",
-      "date": "2026-09-06T19:46:52.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/lake-america-trump-suggests-new-name-state-new-mexico",
-      "title": "After 'Lake America,' Trump suggests a new name for the state of New Mexico",
-      "date": "2026-09-06T19:44:41.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/live/2026/sep/06/us-open-tennis-2026-aryna-sabalenka-and-marta-kostyuk-in-action-on-day-eight-live",
-      "title": "US Open tennis 2026: Tiafoe beats Medvedev, Alcaraz sees off Paul, Sabalenka and Noskova win on day eight – as it happened",
-      "date": "2026-09-06T19:43:09.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
-      "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
-      "date": "2026-09-06T19:41:46.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/breaking-news/4715572/plane-crashes-miami-international-airport-video-shows/",
-      "title": "Cargo plane crashes at Miami International Airport after overrunning runway: FAA",
-      "date": "2026-09-06T19:28:16.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6074013-hinojosa-texas-elections-democrats-tossup-attention/",
-      "title": "Hinojosa on Trump $10M Paxton race investment: 'I welcome the attention on Texas'",
-      "date": "2026-09-06T19:20:18.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/campaign/6074036-deluzio-challenges-fetterman-2028/",
-      "title": "Pennsylvania Democrat says he 'might' challenge Fetterman in 2028",
-      "date": "2026-09-06T19:16:20.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
-      "title": "Hawaii declares state of emergency as Hurricane Lowell approaches islands",
-      "date": "2026-09-06T19:12:36.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/white-house/4715498/trumps-approval-rating-hurt-party-byron-york/",
-      "title": "Trump’s ‘not good’ approval rating could hurt party in midterm elections: Byron York",
-      "date": "2026-09-06T19:05:02.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/administration/6073995-carr-fcc-trump-nbc-punishment/",
-      "title": "Carr: FCC ‘looking at a lot of actions’ to stop broadcasters' partisan coverage",
-      "date": "2026-09-06T19:04:29.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/world/4715528/german-afd-party-win-regional-election/",
-      "title": "German right-wing party set for strong win in regional election but uncertain of governing",
-      "date": "2026-09-06T18:33:41.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/sport/2026/sep/06/roger-goodells-nfl-reign-to-reach-24-years-after-new-contract-extension",
-      "title": "Roger Goodell’s NFL reign to reach 24 years after new contract extension",
-      "date": "2026-09-06T18:33:23.000Z"
-    },
-    {
-      "outlet": "Fox News",
-      "lean": "lean-right",
-      "url": "https://www.foxnews.com/politics/trump-admin-mail-ballot-fight-lands-back-supreme-court",
-      "title": "Trump admin’s mail-in ballot fight lands back at Supreme Court",
-      "date": "2026-09-06T18:19:58.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/supreme-court/4715478/trump-appeal-supreme-court-mail-in-ballot-restrictions/",
-      "title": "Trump appeals to Supreme Court for third time over mail-in ballot restrictions",
-      "date": "2026-09-06T18:01:10.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/opinion/congress-blog/labor/6072685-national-minimum-wage-future/",
-      "title": "Washington's affordability debate is missing wages",
-      "date": "2026-09-06T18:00:00.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/homenews/house/6073941-lawler-disagrees-trump-iran-war-small-potatoes/",
-      "title": "Lawler disagrees with Trump on Iran war: 'It is certainly not small potatoes'",
-      "date": "2026-09-06T17:39:53.000Z"
-    },
-    {
-      "outlet": "The Guardian (US)",
-      "lean": "lean-left",
-      "url": "https://www.theguardian.com/football/2026/sep/06/cavan-sullivan-lebron-james-celebration-mls",
-      "title": "16-year-old Cavan Sullivan welcomes LeBron James to Philly after scoring: MLS roundup",
-      "date": "2026-09-06T17:35:56.000Z"
-    },
-    {
-      "outlet": "The Hill",
-      "lean": "center",
-      "url": "https://thehill.com/policy/energy-environment/6069608-why-the-golf-industry-largely-supports-permanent-daylight-saving-time/",
-      "title": "Why the golf industry largely supports permanent daylight saving time",
-      "date": "2026-09-06T17:15:00.000Z"
-    },
-    {
-      "outlet": "Washington Examiner",
-      "lean": "lean-right",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4715441/raskin-hasan-piker-hamas-israel-midterm-elections/",
-      "title": "Raskin dismisses Hasan Piker’s pro-Hamas sentiment as ‘irrelevant distraction’",
-      "date": "2026-09-06T17:11:36.000Z"
     }
   ]
 }
